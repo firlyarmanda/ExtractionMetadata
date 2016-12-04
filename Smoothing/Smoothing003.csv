@@ -1,0 +1,887 @@
+,HTML,TAG,TC,LTC,TG,P,CTTD,CTTDs
+0,"<!DOCTYPE html>
+",[],0,0,0,0,0.0,0.0
+1,,[],0,0,0,0,0.0,0.0
+2,"<html itemscope=""itemscope"" itemtype=""http://schema.org/WebPage"" lang=""id"" prefix=""og: http://ogp.me/ns#""></html>",['html'],0,0,1,0,0.0,0.0
+3,<head></head>,['head'],0,0,1,0,0.0,0.0
+4,,[],0,0,0,0,0.0,0.0
+5,,[],0,0,0,0,0.0,0.0
+6,,[],0,0,0,0,0.0,0.0
+7,,[],0,0,1,0,0.0,0.0
+8,"<body class=""wp-new v3 news""></body>",['body'],0,0,1,0,0.0,0.0
+9,,[],0,0,0,0,0.0,0.0
+10,"<div style=""display:none;""></div>",['div'],0,0,1,0,0.0,0.0
+11,"<a href=""http://www.alexa.com/siteinfo/okezone.com""></a>",['a'],0,0,2,0,0.0,0.0
+12,,[],0,0,1,0,0.0,0.0
+13,,[],0,0,0,0,0.0,0.0
+14,,[],0,0,0,0,0.0,0.0
+15,,[],0,0,0,0,0.0,0.0
+16,,[],0,0,0,0,0.0,0.0
+17,,[],0,0,0,0,0.0,0.0
+18,"<div style=""margin-top:-20px;""></div>",['div'],0,0,1,0,0.0,0.0
+19,,[],0,0,0,0,0.0,0.0
+20,,[],0,0,0,0,0.0,0.0
+21,,[],0,0,1,0,0.0,0.0
+22,"<div class=""floating-popup1""></div>",['div'],0,0,1,0,0.0,0.0
+23,"<div class=""floating-popup"" id=""div-gpt-ad-1465801289714-0""></div>",['div'],0,0,1,0,0.0,0.0
+24,,[],0,0,0,0,0.0,0.0
+25,,[],0,0,1,0,0.0,0.0
+26,,[],0,0,1,0,0.0,0.0
+27,"<div class=""container ads-skin""></div>",['div'],0,0,1,0,0.0,0.0
+28,"<div id=""skinad""></div>",['div'],0,0,1,0,0.0,0.0
+29,"<div class=""bn_skin bn_skin1""></div>",['div'],0,0,1,0,0.0,0.0
+30,"<div class=""skin3 skinad_1""></div>",['div'],0,0,1,0,0.0,0.0
+31,"<div id=""div-gpt-ad-1464584733905-0""></div>",['div'],0,0,1,0,0.0,0.0
+32,,[],0,0,0,0,0.0,0.0
+33,,[],0,0,1,0,0.0,0.0
+34,,[],0,0,1,0,0.0,0.0
+35,,[],0,0,1,0,0.0,0.0
+36,"<div class=""bn_skin bn_skin2""></div>",['div'],0,0,1,0,0.0,0.0
+37,"<div class=""skin3 skinad_2""></div>",['div'],0,0,1,0,0.0,0.0
+38,"<div id=""div-gpt-ad-1464584879354-0""></div>",['div'],0,0,1,0,0.0,0.0
+39,,[],0,0,0,0,0.0,0.0
+40,,[],0,0,1,0,0.0,0.0
+41,,[],0,0,1,0,0.0,0.0
+42,,[],0,0,1,0,0.0,0.0
+43,,[],0,0,1,0,0.0,0.0
+44,,[],0,0,1,0,0.0,0.0
+45,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+46,"<div class=""container-navmobile""></div>",['div'],0,0,1,0,0.0,0.0
+47,"<nav class=""navbar navbar-fixed-top navbar-mobile-wp""></nav>",['nav'],0,0,1,0,0.0,0.0
+48,"<div class=""container""></div>",['div'],0,0,1,0,0.0,0.0
+49,"<div class=""navbar-header""></div>",['div'],0,0,1,0,0.0,0.4
+50,"<button aria-controls=""navbar"" aria-expanded=""false"" class=""navbar-toggle collapsed"" data-target=""#navbar"" data-toggle=""collapse"" type=""button""></button>",['button'],0,0,1,0,0.0,0.8
+51,"<span class=""sr-only"">Toggle navigation</span>",['span'],2,0,2,0,4.0,1.6
+52,"<span class=""icon-bar""></span>",['span'],0,0,2,0,0.0,0.8
+53,"<span class=""icon-bar""></span>",['span'],0,0,2,0,0.0,0.4
+54,"<span class=""icon-bar""></span>",['span'],0,0,2,0,0.0,0.0
+55,,[],0,0,1,0,0.0,0.0
+56,,[],0,0,1,0,0.0,0.0
+57,"<div class=""collapse navbar-collapse"" id=""navbar""></div>",['div'],0,0,1,0,0.0,0.45
+58,"<ul class=""nav navbar-nav""></ul>",['ul'],0,0,1,0,0.0,1.35
+59,"<li><a href=""http://news.okezone.com/"">Home</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+60,"<li><a href=""http://news.okezone.com/nasional/"">Nasional</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+61,"<li><a href=""http://news.okezone.com/megapolitan/"">Megapolitan</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+62,"<li><a href=""http://news.okezone.com/international/"">International</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+63,"<li><a href=""http://news.okezone.com/nusantara/"">Nusantara</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+64,"<li><a href=""http://news.okezone.com/kampus/"">Kampus</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+65,"<li><a href=""http://news.okezone.com/autos/"">Autos</a></li>","['li', 'a']",0,1,4,0,4.5,4.6
+66,"<li><a href=""http://news.okezone.com/tokoh/"">Tokoh</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+67,"<li><a href=""http://news.okezone.com/roadtoaussie"">Road To Aussie</a></li>","['li', 'a']",0,3,4,0,5.5,4.9
+68,"<li><a href=""http://rubik.okezone.com/hashtag/Opini"">Opini</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+69,"<li><a href=""http://news.okezone.com/foto/"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.6
+70,"<li><a href=""http://news.okezone.com/video/"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+71,"<li><a href=""http://news.okezone.com/index"">Indeks</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+72,,[],0,0,1,0,0.0,1.35
+73,,[],0,0,1,0,0.0,0.45
+74,,[],0,0,1,0,0.0,0.0
+75,,[],0,0,1,0,0.0,0.0
+76,,[],0,0,1,0,0.0,0.0
+77,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+78,"<div class=""container container-tothetop-nav""></div>",['div'],0,0,1,0,0.0,0.0
+79,"<div id=""div-gpt-ad-1470137613249-0""></div>",['div'],0,0,1,0,0.0,0.0
+80,,[],0,0,0,0,0.0,0.0
+81,,[],0,0,1,0,0.0,0.0
+82,,[],0,0,1,0,0.0,0.0
+83,"<div class=""container container-top-nav""></div>",['div'],0,0,1,0,0.0,0.0
+84,"<div class=""top-head-nav""></div>",['div'],0,0,1,0,0.0,0.0
+85,"<aside class=""swiper-section heads""></aside>",['aside'],0,0,1,0,0.0,0.0
+86,"<div class=""horizon-swiper basic""></div>",['div'],0,0,1,0,0.0,0.25
+87,"<div class=""horizon-item""></div>",['div'],0,0,1,0,0.0,0.75
+88,"<a href=""http://www.okezone.com/"">Okezone.com</a>",['a'],0,1,2,0,2.5,1.75
+89,"<a href=""http://news.okezone.com/"">News</a>",['a'],0,1,2,0,2.5,2.25
+90,"<a href=""http://economy.okezone.com/"">Finance</a>",['a'],0,1,2,0,2.5,2.5
+91,"<a href=""http://lifestyle.okezone.com/"">Lifestyle</a>",['a'],0,1,2,0,2.5,2.5
+92,"<a href=""http://celebrity.okezone.com/"">Celebrity</a>",['a'],0,1,2,0,2.5,2.5
+93,"<a href=""http://bola.okezone.com/"">Bola</a>",['a'],0,1,2,0,2.5,2.5
+94,"<a href=""http://haji.okezone.com/"">Haji</a>",['a'],0,1,2,0,2.5,2.5
+95,"<a href=""http://muslim.okezone.com/"">Muslim</a>",['a'],0,1,2,0,2.5,2.5
+96,"<a href=""http://sports.okezone.com/"">Sports</a>",['a'],0,1,2,0,2.5,2.5
+97,"<a href=""http://techno.okezone.com/"">Techno</a>",['a'],0,1,2,0,2.5,2.5
+98,"<a href=""http://lifestyle.okezone.com/travel/"">Travel</a>",['a'],0,1,2,0,2.5,2.5
+99,"<a href=""http://lifestyle.okezone.com/food/"">Food</a>",['a'],0,1,2,0,2.5,2.5
+100,"<a href=""http://lifestyle.okezone.com/health/"">Health</a>",['a'],0,1,2,0,2.5,2.5
+101,"<a href=""http://news.okezone.com/autos/"">Autos</a>",['a'],0,1,2,0,2.5,2.5
+102,"<a href=""http://foto.okezone.com/"">Foto</a>",['a'],0,1,2,0,2.5,2.5
+103,"<a href=""http://video.okezone.com/"">Video</a>",['a'],0,1,2,0,2.5,2.55
+104,"<a href=""http://rubik.okezone.com/"">Rubik</a>",['a'],0,1,2,0,2.5,2.6
+105,"<a href=""http://warungkopi.okezone.com/"">Warung Kopi</a>",['a'],0,2,2,0,3.0,2.7
+106,"<a href=""http://tv.okezone.com/"">TV</a>",['a'],0,1,2,0,2.5,2.6
+107,"<a href=""http://metube.okezone.com/"">MeTube</a>",['a'],0,1,2,0,2.5,2.3
+108,"<a href=""http://index.okezone.com/"">Indeks</a>",['a'],0,1,2,0,2.5,1.75
+109,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.75
+110,,[],0,0,1,0,0.0,0.25
+111,,[],0,0,1,0,0.0,0.0
+112,,[],0,0,1,0,0.0,0.0
+113,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+114,,[],0,0,1,0,0.0,0.0
+115,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+116,"<div class=""carousel slide media-carousel topheadnavipad"" id=""mediadesktop-tab""></div>",['div'],0,0,1,0,0.0,0.0
+117,"<div class=""carousel-inner carousel-inner-desk""></div>",['div'],0,0,1,0,0.0,0.0
+118,"<div class=""item xslidenw active"" id=""tab1""></div>",['div'],0,0,1,0,0.0,0.25
+119,"<div class=""row""></div>",['div'],0,0,1,0,0.0,0.75
+120,"<a href=""http://www.okezone.com/"">Okezone.com</a>",['a'],0,1,2,0,2.5,1.75
+121,"<a href=""http://news.okezone.com/""> News</a>",['a'],0,1,2,0,2.5,2.25
+122,"<a href=""http://economy.okezone.com/""> Finance</a>",['a'],0,1,2,0,2.5,2.5
+123,"<a href=""http://lifestyle.okezone.com/""> Lifestyle</a>",['a'],0,1,2,0,2.5,2.5
+124,"<a href=""http://celebrity.okezone.com/""> Celebrity</a>",['a'],0,1,2,0,2.5,2.5
+125,"<a href=""http://bola.okezone.com/""> Bola</a>",['a'],0,1,2,0,2.5,2.5
+126,"<a href=""http://haji.okezone.com/"">Haji</a>",['a'],0,1,2,0,2.5,2.5
+127,"<a href=""http://muslim.okezone.com/"">Muslim</a>",['a'],0,1,2,0,2.5,2.5
+128,"<a href=""http://sports.okezone.com/""> Sports</a>",['a'],0,1,2,0,2.5,2.5
+129,"<a href=""http://techno.okezone.com/"">Techno</a>",['a'],0,1,2,0,2.5,2.25
+130,"<a href=""http://lifestyle.okezone.com/travel/"">Travel</a>",['a'],0,1,2,0,2.5,1.75
+131,,[],0,0,1,0,0.0,0.75
+132,,[],0,0,1,0,0.0,0.25
+133,"<div class=""item xslidenw"" id=""tab2""></div>",['div'],0,0,1,0,0.0,0.25
+134,"<div class=""row""></div>",['div'],0,0,1,0,0.0,0.75
+135,"<a href=""http://lifestyle.okezone.com/food/"">Food</a>",['a'],0,1,2,0,2.5,1.75
+136,"<a href=""http://lifestyle.okezone.com/health/"">Health</a>",['a'],0,1,2,0,2.5,2.25
+137,"<a href=""http://news.okezone.com/autos/"">Autos</a>",['a'],0,1,2,0,2.5,2.5
+138,"<a href=""http://foto.okezone.com/"">Foto</a>",['a'],0,1,2,0,2.5,2.5
+139,"<a href=""http://video.okezone.com/"">Video</a>",['a'],0,1,2,0,2.5,2.55
+140,"<a href=""http://rubik.okezone.com/"">Rubik</a>",['a'],0,1,2,0,2.5,2.6
+141,"<a href=""http://warungkopi.okezone.com/"">Warung Kopi</a>",['a'],0,2,2,0,3.0,2.7
+142,"<a href=""http://tv.okezone.com/"">TV</a>",['a'],0,1,2,0,2.5,2.6
+143,"<a href=""http://metube.okezone.com/"">MeTube</a>",['a'],0,1,2,0,2.5,2.3
+144,"<a href=""http://index.okezone.com/"">Indeks</a>",['a'],0,1,2,0,2.5,1.75
+145,,[],0,0,1,0,0.0,0.75
+146,,[],0,0,1,0,0.0,0.25
+147,,[],0,0,1,0,0.0,0.0
+148,"<a class=""left toptv carousel-control"" data-slide=""next"" href=""#mediadesktop-tab""></a>",['a'],0,0,2,0,0.0,0.0
+149,"<a class=""right toptv carousel-control"" data-slide=""prev"" href=""#mediadesktop-tab""></a>",['a'],0,0,2,0,0.0,0.0
+150,,[],0,0,1,0,0.0,0.0
+151,,[],0,0,1,0,0.0,0.0
+152,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+153,"<div class=""container container-top-logo""></div>",['div'],0,0,1,0,0.0,0.0
+154,"<div class=""img-top-logo""></div>",['div'],0,0,1,0,0.0,0.0
+155,"<a alt=""News Okezone"" href=""http://news.okezone.com/"" title=""News Okezone""><img alt=""News Okezone"" data-pagespeed-url-hash=""694728089"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.okezone.com/news/news_2016/img/news_logo.png""/></a>","['a', 'img']",0,0,4,0,0.0,0.0
+156,,[],0,0,1,0,0.0,0.0
+157,"<div class=""ads-top-logo""></div>",['div'],0,0,1,0,0.0,0.0
+158,"<div id=""div-gpt-ad-1464083010412-0"" style=""height:90px; width:728px;""></div>",['div'],0,0,1,0,0.0,0.0
+159,,[],0,0,0,0,0.0,0.0
+160,,[],0,0,1,0,0.0,0.0
+161,,[],0,0,1,0,0.0,0.0
+162,,[],0,0,1,0,0.0,0.0
+163,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+164,"<div class=""container container-top2-nav""></div>",['div'],0,0,1,0,0.0,0.0
+165,"<div class=""container pad-0""></div>",['div'],0,0,1,0,0.0,0.0
+166,"<div class=""navbar-inner""></div>",['div'],0,0,1,0,0.0,0.0
+167,"<div class=""wrapper""></div>",['div'],0,0,1,0,0.0,0.45
+168,"<ul class=""nav wp-nav""></ul>",['ul'],0,0,1,0,0.0,1.35
+169,"<li><a href=""http://news.okezone.com/"">Home </a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+170,"<li><a href=""http://news.okezone.com/nasional/"">Nasional</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+171,"<li><a href=""http://news.okezone.com/megapolitan/"">Megapolitan</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+172,"<li><a href=""http://news.okezone.com/international/"">International</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+173,"<li><a href=""http://news.okezone.com/nusantara/"">Nusantara</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+174,"<li><a href=""http://news.okezone.com/kampus/"">Kampus</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+175,"<li><a href=""http://news.okezone.com/autos/"">Autos</a></li>","['li', 'a']",0,1,4,0,4.5,4.6
+176,"<li><a href=""http://news.okezone.com/tokoh/"">Tokoh</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+177,"<li><a href=""http://news.okezone.com/roadtoaussie"">Road To Aussie</a></li>","['li', 'a']",0,3,4,0,5.5,4.9
+178,"<li><a href=""http://rubik.okezone.com/hashtag/Opini"">Opini</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+179,"<li><a href=""http://news.okezone.com/foto/"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.6
+180,"<li><a href=""http://news.okezone.com/video/"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+181,"<li><a href=""http://news.okezone.com/index/"">Indeks</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+182,,[],0,0,1,0,0.0,1.35
+183,,[],0,0,1,0,0.0,0.45
+184,"<div class=""wrapper1""></div>",['div'],0,0,1,0,0.0,0.0
+185,"<div class=""carousel slide media-carousel media-carousel-break"" id=""medianavtop""></div>",['div'],0,0,1,0,0.0,0.0
+186,"<div class=""carousel-inner carousel-inner-break carousel-inner-navmenu""></div>",['div'],0,0,1,0,0.0,0.0
+187,"<div class=""item active"" id=""tab1""></div>",['div'],0,0,1,0,0.0,0.25
+188,"<div class=""row""></div>",['div'],0,0,1,0,0.0,0.75
+189,"<a href=""http://news.okezone.com/"">Home</a>",['a'],0,1,2,0,2.5,1.75
+190,"<a href=""http://news.okezone.com/nasional/"">Nasional</a>",['a'],0,1,2,0,2.5,2.25
+191,"<a href=""http://news.okezone.com/megapolitan/"">Megapolitan</a>",['a'],0,1,2,0,2.5,2.5
+192,"<a href=""http://news.okezone.com/international/"">International</a>",['a'],0,1,2,0,2.5,2.5
+193,"<a href=""http://news.okezone.com/nusantara/"">Nusantara</a>",['a'],0,1,2,0,2.5,2.25
+194,"<a href=""http://news.okezone.com/kampus/"">Kampus</a>",['a'],0,1,2,0,2.5,1.75
+195,,[],0,0,1,0,0.0,0.75
+196,,[],0,0,1,0,0.0,0.25
+197,"<div class=""item"" id=""tab2""></div>",['div'],0,0,1,0,0.0,0.25
+198,"<div class=""row""></div>",['div'],0,0,1,0,0.0,0.75
+199,"<a href=""http://news.okezone.com/autos/"">Autos</a>",['a'],0,1,2,0,2.5,1.85
+200,"<a href=""http://news.okezone.com/tokoh/"">Tokoh</a>",['a'],0,1,2,0,2.5,2.45
+201,"<a href=""http://news.okezone.com/roadtoaussie"">Road To Aussie</a>",['a'],0,3,2,0,3.5,2.9
+202,"<a href=""http://rubik.okezone.com/hashtag/Opini"">Opini</a>",['a'],0,1,2,0,2.5,2.7
+203,"<a href=""http://news.okezone.com/foto/"">Foto</a>",['a'],0,1,2,0,2.5,2.6
+204,"<a href=""http://news.okezone.com/video/"">Video</a>",['a'],0,1,2,0,2.5,2.25
+205,"<a href=""http://news.okezone.com/index/"">Indeks</a>",['a'],0,1,2,0,2.5,1.75
+206,,[],0,0,1,0,0.0,0.75
+207,,[],0,0,1,0,0.0,0.25
+208,,[],0,0,1,0,0.0,0.0
+209,"<a class=""left topnav carousel-control"" data-slide=""next"" href=""#medianavtop""></a>",['a'],0,0,2,0,0.0,0.0
+210,"<a class=""right topnav carousel-control"" data-slide=""prev"" href=""#medianavtop""></a>",['a'],0,0,2,0,0.0,0.0
+211,,[],0,0,1,0,0.0,0.0
+212,,[],0,0,1,0,0.0,0.0
+213,"<div class=""wrapper2""></div>",['div'],0,0,1,0,0.0,0.0
+214,"<ul class=""nav wp-nav""></ul>",['ul'],0,0,1,0,0.0,0.0
+215,"<li class=""sso""><a class=""sso"" href=""https://id.okezone.com/oauth/authorize?response_type=code&amp;client_id=17b4b3af63fbcddca1c998e134690de69a8d2721c23c046be9cbdb79eeb4778a&amp;redirect_uri=http%3A%2F%2Fnews.okezone.com&amp;back_to=http%3A%2F%2Fnews.okezone.com%2Fread%2F2016%2F10%2F09%2F338%2F1510083%2Flagi-cari-makan-pemuda-cipayung-tewas-ditembak-otk-di-bekasi""></a></li>","['li', 'a']",0,0,4,0,0.0,0.0
+216,"<li class=""search""><a class=""search"" id=""srcbtn""></a></li>","['li', 'a']",0,0,4,0,0.0,0.0
+217,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+218,,[],0,0,1,0,0.0,0.0
+219,,[],0,0,1,0,0.0,0.0
+220,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+221,"<div class=""col-md-12"" id=""srcform""></div>",['div'],0,0,1,0,0.0,0.0
+222,"<form action=""http://search.okezone.com/search/""></form>",['form'],0,0,1,0,0.0,0.0
+223,"<input class=""inp"" id=""textfield"" name=""q"" placeholder=""Search Okezone"" type=""text"" value=""""/>",['input'],0,0,1,0,0.0,0.0
+224,"<input name=""highlight"" type=""hidden"" value=""1""/>",['input'],0,0,1,0,0.0,0.0
+225,"<input name=""sort"" type=""hidden"" value=""desc""/>",['input'],0,0,1,0,0.0,0.0
+226,"<input name=""start"" type=""hidden"" value=""0""/>",['input'],0,0,1,0,0.0,0.0
+227,,[],0,0,5,0,0.0,0.0
+228,,[],0,0,1,0,0.0,0.0
+229,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+230,,[],0,0,1,0,0.0,0.0
+231,,[],0,0,1,0,0.0,0.0
+232,,[],0,0,1,0,0.0,0.0
+233,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+234,"<div class=""container container-ads-topmenu"" style=""position: relative;""></div>",['div'],0,0,1,0,0.0,0.0
+235,,[],0,0,0,0,0.0,0.0
+236,,[],0,0,0,0,0.0,0.0
+237,,[],0,0,0,0,0.0,0.0
+238,"<div id=""div-gpt-ad-1464082953829-0"" style=""height:auto; width:auto;""></div>",['div'],0,0,1,0,0.0,0.0
+239,,[],0,0,0,0,0.0,0.0
+240,,[],0,0,1,0,0.0,0.0
+241,,[],0,0,1,0,0.0,0.0
+242,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+243,"<div class=""container container-body-wp""></div>",['div'],0,0,1,0,0.0,0.0
+244,"<div class=""col-md-8 col-md-body-left no-padding""></div>",['div'],0,0,1,0,0.0,0.45
+245,"<ul class=""breadcrumb""></ul>",['ul'],0,0,1,0,0.0,1.35
+246,"<li><a href=""http://www.okezone.com"">Home</a></li>","['li', 'a']",0,1,4,0,4.5,3.5
+247,"<li><a href=""http://news.okezone.com/"">News</a></li>","['li', 'a']",0,1,4,0,4.5,4.3
+248,"<li class=""bractive"">Megapolitan</li>",['li'],1,0,7,0,8.0,4.55
+249,,[],0,0,0,0,0.0,3.25
+250,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,4.6
+251,"<div class=""meta-post""><p><time>Minggu, 9 Oktober 2016 - 14:33 wib</time></p></div>","['div', 'p', 'time']",7,0,6,1,12.0,7.6
+252,"<div class=""news-title""><h1>Lagi Cari Makan, Pemuda Cipayung Tewas Ditembak OTK di Bekasi</h1></div>","['div', 'h1']",10,0,4,0,14.0,8.0
+253,"<div class=""news-detail""></div>",['div'],0,0,1,0,0.0,4.0
+254,"<div class=""detail-img"" id=""imageCheckWidth""></div>",['div'],0,0,1,0,0.0,1.4
+255,"<div style=""position:relative;""></div>",['div'],0,0,1,0,0.0,0.0
+256,"<img alt=""Ilustrasi (Okezone)"" data-pagespeed-url-hash=""1847271818"" id=""imgCheck"" itemprop=""image"" onload=""getImgSize()"" src=""https://img.okezone.com/content/2016/10/09/338/1510083/lagi-cari-makan-pemuda-cipayung-tewas-ditembak-otk-di-bekasi-KdlkINHiQx.jpg""/>",['img'],0,0,1,0,0.0,0.3
+257,"<div class=""caption-img-ab""></div>",['div'],0,0,1,0,0.0,0.6
+258,<p>Ilustrasi (Okezone)</p>,['p'],2,0,2,1,3.0,1.2
+259,,[],0,0,1,0,0.0,0.6
+260,,[],0,0,2,0,0.0,0.3
+261,,[],0,0,1,0,0.0,0.0
+262,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+263,"<div class=""banner-belt300x250""></div>",['div'],0,0,1,0,0.0,0.0
+264,"<div id=""div-gpt-ad-1464083092952-0"" style=""height:90px; width:728px;""></div>",['div'],0,0,1,0,0.0,0.0
+265,,[],0,0,0,0,0.0,0.0
+266,,[],0,0,1,0,0.0,0.0
+267,,[],0,0,1,0,0.0,0.0
+268,"<div class=""author-and-share""></div>",['div'],0,0,1,0,0.0,0.0
+269,"<div class=""author ""></div>",['div'],0,0,1,0,0.0,0.0
+270,"<div class=""reporter""></div>",['div'],0,0,2,0,0.0,0.3
+271,"<div class=""nmreporter""></div>",['div'],0,0,1,0,0.0,0.9
+272,<div>Djamhari</div>,['div'],1,0,2,0,3.0,1.8
+273,<span>Jurnalis</span>,['span'],1,0,2,0,3.0,1.8
+274,,[],0,0,1,0,0.0,0.9
+275,,[],0,0,1,0,0.0,0.3
+276,"<div class=""r""></div>",['div'],0,0,1,0,0.0,0.0
+277,"<div class=""comcount""></div>",['div'],0,0,1,0,0.0,0.5
+278,"<a class=""linkname"" href=""#comment""></a>",['a'],0,0,1,0,0.0,1.0
+279,<b>4</b><span>Komentar</span>,"['b', 'span']",1,0,4,0,5.0,2.0
+280,,[],0,0,1,0,0.0,1.0
+281,,[],0,0,1,0,0.0,0.5
+282,"<div class=""sosmed""></div>",['div'],0,0,1,0,0.0,0.0
+283,"<input id=""sosmed_title"" type=""hidden"" value=""Lagi Cari Makan, Pemuda Cipayung Tewas Ditembak OTK di Bekasi""/>",['input'],0,0,1,0,0.0,0.0
+284,"<div id=""share-url"" style=""display:none;"" text=""Lagi Cari Makan, Pemuda Cipayung Tewas Ditembak OTK di Bekasi"" url=""http://news.okezone.com/read/2016/10/09/338/1510083/lagi-cari-makan-pemuda-cipayung-tewas-ditembak-otk-di-bekasi""></div>",['div'],0,0,2,0,0.0,0.55
+285,<ul></ul>,['ul'],0,0,1,0,0.0,1.65
+286,"<li><a class=""sh-fb-ab"" id=""facebook-share"" rel=""nofollow"" style=""cursor:pointer;"">Share on Facebook</a></li>","['li', 'a']",0,3,4,0,5.5,3.85
+287,"<li><a class=""sh-tw-ab"" id=""twitter-share"" rel=""nofollow"" style=""cursor:pointer;"">Share on Twitter</a></li>","['li', 'a']",0,3,4,0,5.5,4.95
+288,"<li><a class=""sh-gp-ab"" id=""google-share"" rel=""nofollow"" style=""cursor:pointer;"">Share on Google</a></li>","['li', 'a']",0,3,4,0,5.5,4.95
+289,"<li><a class=""sh-pt-ab"" id=""pinterest-share"" rel=""nofollow"" style=""cursor:pointer;"">Share on Pinterest</a></li>","['li', 'a']",0,3,4,0,5.5,3.85
+290,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,1.65
+291,,[],0,0,1,0,0.0,0.55
+292,,[],0,0,2,0,0.0,0.25
+293,"<div class=""settingfont""></div>",['div'],0,0,1,0,0.0,0.75
+294,"<a class=""font-button inactive minus"" href=""javascript:void(0)"" title=""Huruf kecil"">A</a>",['a'],0,1,2,0,2.5,1.75
+295,"<a class=""font-button active normal"" href=""javascript:void(0)"" title=""Huruf normal"">A</a>",['a'],0,1,2,0,2.5,2.0
+296,"<a class=""font-button inactive plus"" href=""javascript:void(0)"" title=""Huruf besar"">A</a>",['a'],0,1,2,0,2.5,1.75
+297,,[],0,0,1,0,0.0,0.75
+298,,[],0,0,1,0,0.0,0.25
+299,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+300,,[],0,0,1,0,0.0,0.0
+301,"<div class=""detail-content""></div>",['div'],0,0,1,0,0.0,0.0
+302,"<div class=""detads""></div>",['div'],0,0,1,0,0.0,0.0
+303,"<div id=""div-gpt-ad-1464083439748-0"" style=""height:600px; width:160px;""></div>",['div'],0,0,1,0,0.0,0.0
+304,,[],0,0,0,0,0.0,0.0
+305,,[],0,0,1,0,0.0,0.0
+306,,[],0,0,1,0,0.0,0.0
+307,"<div class=""detnews""></div>",['div'],0,0,1,0,0.0,4.7
+308,"<div class=""dtlnews"" id=""contentx""></div>",['div'],0,0,1,0,0.0,14.7
+309,"<p><strong>BEKASI - </strong>Dua pemuda asal Cipayung, Jakarta Timur, ditembak orang tak dikenal (OTK) saat melintas dengan berbonceng satu sepeda motor di depan Gang H Puro, RT 05 RW 03, Jatimekar, Jatiasih, Kota Bekasi, Jawa Barat. Seorang korban bernama Tribowo (20) tewas dengan dua luka tembak.</p>","['p', 'strong']",45,0,3,1,47.0,29.8
+310,"<p>Peristiwa itu terjadi, Minggu (9/10/2016) sekira pukul 04.00 WIB. Jenazah Tribowo warga Jalan Suralaya Dalam III, RT 03 RW 04, Cilangkap, Cipayung, dibawa ke Rumah Sakit Polri, Kramatjati, Jakarta Timur, untuk divisum. Sementara teman korban, Jatimiko (15) harus dirawat karena tubuhnya terseret ke badan jalan saat sepeda motornya jatuh usai ditembak pelaku.<div class=""wrap-rekomen""></div></p>","['p', 'div']",52,0,2,1,53.0,31.4
+311,"<div class=""title-rekomen"">BERITA REKOMENDASI</div>",['div'],2,0,2,0,4.0,19.55
+312,"<hr class=""rekomen-line""/>",['hr'],0,0,1,0,0.0,14.0
+313,"<ul><li><a href=""http://news.okezone.com/read/2016/10/10/338/1510576/sebelum-tewas-korban-penembakan-di-bekasi-ingin-cari-pekerjaan?utm_source=br&amp;utm_medium=referral&amp;utm_campaign=news"" title=""Sebelum Tewas, Korban Penembakan di Bekasi Ingin Cari Pekerjaan"">Sebelum Tewas, Korban Penembakan di Bekasi Ingin Cari Pekerjaan</a></li><li><a href=""http://news.okezone.com/read/2016/10/10/338/1510453/tetangga-yakin-tri-bukan-korban-begal?utm_source=br&amp;utm_medium=referral&amp;utm_campaign=news"" title=""Tetangga Yakin Tri Bukan Korban Begal"">Tetangga Yakin Tri Bukan Korban Begal</a></li><li><a href=""http://news.okezone.com/read/2016/10/09/338/1510227/tribuwono-yang-ditembak-otk-di-bekasi-diduga-korban-salah-sasaran?utm_source=br&amp;utm_medium=referral&amp;utm_campaign=news"" title=""Tribuwono yang Ditembak OTK di Bekasi Diduga Korban Salah Sasaran"">Tribuwono yang Ditembak OTK di Bekasi Diduga Korban Salah Sasaran</a></li></ul>","['ul', 'li', 'a', 'li', 'a', 'li', 'a']",-2,25,16,0,26.5,19.9
+314,"<p>Kapolres Metro Bekasi Kota, Komisaris Besar Umar Surya Fana mengatakan, kejadian Tribowo melaju dengan sepeda motor dengan temannya Jatimiko pada dini hari tadi, untuk mencari makanan.</p>",['p'],26,0,1,1,26.0,24.8
+315,"<p>Tiba-tiba, sepeda motor yang dibawa Tribowo dipepet pengendara lainnya lalu  pria tak dikenal tersebut melepas dua tembakan kea rah korban. Tembakan pertama mengenai kepalanya dan tembakan kedua mengenai badannya. Korban seketika tersungkur bersama sepeda motor dan rekannya.</p>",['p'],37,0,1,1,37.0,29.45
+316,"<p>""Oleh teman korban dan warga sekitar, korban dibawa ke rumah sakit terdekat untuk mendapat perawatan,"" ujar Umar.</p>",['p'],17,0,1,1,17.0,23.9
+317,"<p>Hingga kini, penyidik masih menggali keterangan Jatmiko dan warga setempat yang menyaksikan penembakan itu. ""Anggota di lapangan juga masih mengejar tersangka, doakan saja semoga lekas terungkap,"" pungkasnya.							</p>",['p'],27,0,8,1,34.0,21.3
+318,<strong>(sal)</strong>,['strong'],1,0,2,0,3.0,10.4
+319,"<div class=""tbkomentar""></div>",['div'],0,0,1,0,0.0,5.4
+320,"<div class=""btnk""><span></span> <a class=""linkname"" href=""#comment"">4 Komentar</a></div>","['div', 'span', 'a']",0,2,6,0,7.0,3.1
+321,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.4
+322,,[],0,0,1,0,0.0,0.7
+323,,[],0,0,1,0,0.0,0.0
+324,,[],0,0,1,0,0.0,0.0
+325,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+326,"<a id=""comment"" name=""comment""></a>",['a'],0,0,2,0,0.0,0.3
+327,"<div class=""detail-komentar""></div>",['div'],0,0,1,0,0.0,0.6
+328,"<div id=""rating-container""> ​</div>",['div'],1,0,2,0,3.0,1.2
+329,"<link href=""https://cdn.okezone.com/underwood/css/emoji/ratingWidget.min.css"" rel=""stylesheet""/>",['link'],0,0,2,0,0.0,0.6
+330,,[],0,0,0,0,0.0,0.3
+331,,[],0,0,0,0,0.0,0.0
+332,,[],0,0,0,0,0.0,0.55
+333,"<div class=""tulkom""></div>",['div'],0,0,1,0,0.0,1.9
+334,"<a class=""linkname comcom"" href=""#comment"">Tulis komentar</a> <a href=""https://id.okezone.com/privacy_policy"">disclaimer</a>","['a', 'a']",0,3,4,0,5.5,3.8
+335,"<div class=""sum-comment""><span id=""hits_comment""> <b></b> 4 komentar</span></div>","['div', 'span', 'b']",2,0,6,0,8.0,4.3
+336,,[],0,0,1,0,0.0,2.15
+337,"<div id=""msg_comment""></div>",['div'],0,0,2,0,0.0,0.8
+338,"<div class=""komentar-wrap"" style=""display:none;""></div>",['div'],0,0,1,0,0.0,0.0
+339,,[],0,0,0,0,0.0,0.0
+340,"<textarea id=""sso_comment"" maxlength=""250"" onkeydown=""textCounter();"" onkeyup=""textCounter();""></textarea>",['textarea'],0,0,2,0,0.0,0.0
+341,"<input id=""sso_content_id"" type=""hidden"" value=""1510083""/>",['input'],0,0,1,0,0.0,0.0
+342,"<input id=""sso_channel_id"" type=""hidden"" value=""338""/>",['input'],0,0,1,0,0.0,0.0
+343,"<input id=""sso_url"" type=""hidden"" value=""http://news.okezone.com/read/2016/10/09/338/1510083/lagi-cari-makan-pemuda-cipayung-tewas-ditembak-otk-di-bekasi""/>",['input'],0,0,1,0,0.0,0.0
+344,"<input id=""sso_title"" type=""hidden"" value=""Lagi Cari Makan, Pemuda Cipayung Tewas Ditembak OTK di Bekasi""/>",['input'],0,0,1,0,0.0,0.0
+345,"<input id=""sso_date_created"" type=""hidden"" value=""2016-10-09 14:33:17""/>",['input'],0,0,1,0,0.0,0.5
+346,"<div style=""float:right; width:100%""></div>",['div'],0,0,1,0,0.0,1.0
+347,"<label style=""margin-top:13px; float:left"">Sisa karakter :  </label>",['label'],3,0,2,0,5.0,2.3
+348,"<input id=""countDisplay"" maxlength=""3"" name=""countDisplay"" readonly="""" size=""3"" style=""color:#000; text-align:center; float:left; margin-right:20px; margin-top:11px;"" type=""text"" value=""250""/>",['input'],0,0,1,0,0.0,1.6
+349,"<button class=""sub-kom"" id=""sso_post_comment_new_t"" style="" margin-right:0px;"" type=""button"">Kirim</button>",['button'],1,0,2,0,3.0,1.7
+350,,[],0,0,2,0,0.0,0.6
+351,,[],0,0,6,0,0.0,0.3
+352,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+353,"<ul class=""user-comment list-unstyled"" id=""list_comment""><li style=""display:none""></li></ul>","['ul', 'li']",0,0,3,0,0.0,0.0
+354,<li></li>,['li'],0,0,1,0,0.0,0.0
+355,"<div class=""user-thumb""><img alt=""techno user Natalia"" data-pagespeed-url-hash=""2600342525"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""http://imgsso.okezone.com/image_profile/OKZ-404361/OKZ-404361.jpg?w=100"" width=""50""/></div>","['div', 'img']",0,0,4,0,0.0,0.85
+356,"<div class=""comment-content""></div>",['div'],0,0,1,0,0.0,2.6
+357,"<div class=""user-name""><a href=""http://id.okezone.com/OKZ-404361"" target=""_blank"">Natalia</a> • 17 jam lalu</div>","['div', 'a']",4,1,4,0,8.5,5.9
+358,"<div class=""user-komentar"">Pendaftaran Gratis, Minimal deposit dan withdraw hanya 50rb.</div>",['div'],8,0,1,0,9.0,7.1
+359,Jadi tunggu apalagi Para Pecinta Judi Online...,[],7,0,0,0,7.0,6.25
+360,Segera Daftarkan Diri anda...,[],4,0,0,0,4.0,4.4
+361,,[],0,0,0,0,0.0,2.9
+362,Info Lebih lanjut Hub :,[],5,0,0,0,5.0,3.5
+363,PIN BB :  2BE3215C,[],4,0,0,0,4.0,3.5
+364,SkYPE : cs_sarang188,[],3,0,0,0,3.0,3.5
+365,YM : cs_sarang188@yahoo.com,[],3,0,0,0,3.0,3.3
+366,SMS : +855,[],3,0,1,0,4.0,3.1
+367,"<a class=""reply"" href=""#"">Beri Tanggapan</a>",['a'],0,2,2,0,3.0,2.3
+368,,[],0,0,1,0,0.0,1.0
+369,,[],0,0,1,0,0.0,0.3
+370,<li></li>,['li'],0,0,1,0,0.0,0.0
+371,"<div class=""user-thumb""><img alt=""techno user Lili"" data-pagespeed-url-hash=""2285188553"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""http://imgsso.okezone.com/image_profile/OKZ-417427/OKZ-417427.jpg?w=100"" width=""50""/></div>","['div', 'img']",0,0,4,0,0.0,0.85
+372,"<div class=""comment-content""></div>",['div'],0,0,1,0,0.0,5.0
+373,"<div class=""user-name""><a href=""http://id.okezone.com/OKZ-417427"" target=""_blank"">Lili</a> • 17 jam lalu</div>","['div', 'a']",4,1,4,0,8.5,10.3
+374,"<div class=""user-komentar"">bisnishoki.com merupakan tempat dimana para penggila bola menyalurkan hasratnya untuk mendukung tim tim kesayangannya,,gabung dan daftarkan diri anda di bisnishoki.com..bisnishoki.com memberikan BONUS PROMO WD 100% ,,DEPO WD 50 RIBU..Yakin kan instin</div>",['div'],31,0,2,0,33.0,15.5
+375,"<a class=""reply"" href=""#"">Beri Tanggapan</a>",['a'],0,2,2,0,3.0,8.65
+376,,[],0,0,1,0,0.0,3.9
+377,,[],0,0,1,0,0.0,0.3
+378,<li></li>,['li'],0,0,1,0,0.0,0.0
+379,"<div class=""user-thumb""><img alt=""techno user Jesslyn"" data-pagespeed-url-hash=""2891938541"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""http://imgsso.okezone.com/image_profile/OKZ-411691/OKZ-411691.jpg?w=100"" width=""50""/></div>","['div', 'img']",0,0,4,0,0.0,0.85
+380,"<div class=""comment-content""></div>",['div'],0,0,1,0,0.0,5.4
+381,"<div class=""user-name""><a href=""http://id.okezone.com/OKZ-411691"" target=""_blank"">Jesslyn</a> • 19 jam lalu</div>","['div', 'a']",4,1,4,0,8.5,11.1
+382,"<div class=""user-komentar"">Hallo, Bergabung dengan kami di BWINCASH yang akan memberikan dari prediksi skor yang paling akurat dan akan membantu anda menang dalam taruhan anda. Maka dari itu bergabunglah sebelum anda menyesal nantinya. add pin 7B9305b3 (jesslyn)</div>",['div'],35,0,2,0,37.0,17.1
+383,"<a class=""reply"" href=""#"">Beri Tanggapan</a>",['a'],0,2,2,0,3.0,9.45
+384,,[],0,0,1,0,0.0,4.3
+385,,[],0,0,1,0,0.0,0.3
+386,<li></li>,['li'],0,0,1,0,0.0,0.0
+387,"<div class=""user-thumb""><img alt=""techno user Bintang"" data-pagespeed-url-hash=""2758778537"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""http://imgsso.okezone.com/image_profile/OKZ-417379/OKZ-417379.jpg?w=100"" width=""50""/></div>","['div', 'img']",0,0,4,0,0.0,0.85
+388,"<div class=""comment-content""></div>",['div'],0,0,1,0,0.0,2.0
+389,"<div class=""user-name""><a href=""http://id.okezone.com/OKZ-417379"" target=""_blank"">Bintang</a> • 19 jam lalu</div>","['div', 'a']",4,1,4,0,8.5,4.3
+390,"<div class=""user-komentar"">mesinbuatlilin.blogspot.com</div>",['div'],1,0,2,0,3.0,3.5
+391,"<a class=""reply"" href=""#"">Beri Tanggapan</a>",['a'],0,2,2,0,3.0,2.65
+392,,[],0,0,1,0,0.0,0.9
+393,,[],0,0,1,0,0.0,0.3
+394," <div class=""clear""></div>",['div'],0,0,3,0,0.0,0.0
+395,"<div class=""pagination-komentar""></div>",['div'],0,0,1,0,0.0,0.0
+396,,[],0,0,1,0,0.0,0.0
+397,,[],0,0,1,0,0.0,0.0
+398,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+399,,[],0,0,0,0,0.0,0.0
+400,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.4
+401,"<div class=""meta-bottom-content""></div>",['div'],0,0,1,0,0.0,0.8
+402,"<span class=""txtcseo-rekomendasi"">Berita Rekomendasi</span>",['span'],2,0,2,0,4.0,1.95
+403,<span></span>,['span'],0,0,1,0,0.0,1.5
+404,"<a href=""http://news.okezone.com/topic/30181/penembakan-di-bekasi""> Penembakan di Bekasi</a>",['a'],0,3,2,0,3.5,1.8
+405,,[],0,0,1,0,0.0,0.7
+406,<hr/>,['hr'],0,0,1,0,0.0,0.35
+407,"<div class=""col-md-6""></div>",['div'],0,0,1,0,0.0,0.0
+408,"<div class=""berita-terkait-wrap""></div>",['div'],0,0,1,0,0.0,1.05
+409,<ul></ul>,['ul'],0,0,1,0,0.0,3.0
+410,"<li><span><a href=""http://news.okezone.com/read/2016/05/18/338/1391961/perampok-yang-tembak-warga-di-bekasi-ditangkap-dua-tewas"" title=""Perampok yang Tembak Warga di Bekasi Ditangkap, Dua Tewas"">Perampok yang Tembak Warga di Bekasi Ditangkap, Dua Tewas</a></span></li>","['li', 'span', 'a']",0,9,6,0,10.5,6.0
+411,"<li><span><a href=""http://news.okezone.com/read/2016/05/13/338/1387476/pergoki-kawanan-perampok-warga-bekasi-ditembak"" title=""Pergoki Kawanan Perampok, Warga Bekasi Ditembak"">Pergoki Kawanan Perampok, Warga Bekasi Ditembak</a></span></li>","['li', 'span', 'a']",0,6,6,0,9.0,5.7
+412,,[],0,0,1,0,0.0,2.85
+413,,[],0,0,1,0,0.0,0.9
+414,,[],0,0,1,0,0.0,0.0
+415,"<div class=""col-md-6""></div>",['div'],0,0,1,0,0.0,0.0
+416,"<div class=""berita-terkait-wrap""></div>",['div'],0,0,1,0,0.0,0.0
+417,"<ul class=""load""></ul>",['ul'],0,0,1,0,0.0,0.0
+418,,[],0,0,1,0,0.0,0.0
+419,,[],0,0,1,0,0.0,0.0
+420,,[],0,0,1,0,0.0,0.0
+421,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+422,,[],0,0,2,0,0.0,0.0
+423,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+424,"<div class=""detail-bottomleaderboard-x""></div>",['div'],0,0,1,0,0.0,0.0
+425,"<div id=""div-gpt-ad-1463990729084-0"" style=""height:90px; width:728px;""></div>",['div'],0,0,1,0,0.0,0.0
+426,,[],0,0,0,0,0.0,0.0
+427,,[],0,0,1,0,0.0,0.0
+428,,[],0,0,1,0,0.0,0.0
+429,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+430,"<div id=""last""></div>",['div'],0,0,2,0,0.0,0.0
+431,"<div class=""news-hardnews1""></div>",['div'],0,0,1,0,0.0,0.5
+432,"<div class=""related-news""></div>",['div'],0,0,1,0,0.0,1.0
+433,"<span class=""related-news"">Berita lainnya</span>",['span'],2,0,3,0,5.0,2.0
+434,"<div class=""newsmore""></div>",['div'],0,0,1,0,0.0,1.0
+435,<ul></ul>,['ul'],0,0,1,0,0.0,1.65
+436,<li></li>,['li'],0,0,1,0,0.0,2.3
+437,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510608/mayat-bayi-ditemukan-di-dalam-toilet-pesawat-qatar-airways""><img alt=""Mayat Bayi Ditemukan di Dalam Toilet Pesawat Qatar Airways"" data-pagespeed-url-hash=""2275837031"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510608/mayat-bayi-ditemukan-di-dalam-toilet-pesawat-qatar-airways-NsQoiAXSpX.jpg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510608/mayat-bayi-ditemukan-di-dalam-toilet-pesawat-qatar-airways"">Mayat Bayi Ditemukan di Dalam Toilet Pesawat Qatar Airways</a></p>","['a', 'img', 'p', 'a']",0,9,8,1,11.5,4.6
+438,,[],0,0,1,0,0.0,3.35
+439,<li></li>,['li'],0,0,1,0,0.0,3.25
+440,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510604/mobil-terbalik-di-tol-bintaro-km-02""><img alt=""Mobil Terbalik di Tol Bintaro KM 02"" data-pagespeed-url-hash=""1920814293"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510604/mobil-terbalik-di-tol-bintaro-km-02-tQ2zmnbmJv.jpeg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510604/mobil-terbalik-di-tol-bintaro-km-02"">Mobil Terbalik di Tol Bintaro KM 02</a></p>","['a', 'img', 'p', 'a']",0,7,8,1,10.5,4.2
+441,,[],0,0,1,0,0.0,3.25
+442,<li></li>,['li'],0,0,1,0,0.0,3.35
+443,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510576/sebelum-tewas-korban-penembakan-di-bekasi-ingin-cari-pekerjaan""><img alt=""Sebelum Tewas, Korban Penembakan di Bekasi Ingin Cari Pekerjaan"" data-pagespeed-url-hash=""4198180145"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510576/sebelum-tewas-korban-penembakan-di-bekasi-ingin-cari-pekerjaan-g9zv8Vatau.jpg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510576/sebelum-tewas-korban-penembakan-di-bekasi-ingin-cari-pekerjaan"">Sebelum Tewas, Korban Penembakan di Bekasi Ingin Cari Pekerjaan</a></p>","['a', 'img', 'p', 'a']",0,9,8,1,11.5,4.6
+444,,[],0,0,1,0,0.0,3.45
+445,<li></li>,['li'],0,0,1,0,0.0,3.45
+446,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510549/dugaan-penistaan-agama-oleh-ahok-bareskrim-imbau-masyarakat-tenang""><img alt='Dugaan ""Penistaan Agama"" oleh Ahok, Bareskrim Imbau Masyarakat Tenang ' data-pagespeed-url-hash=""2367074263"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510549/dugaan-penistaan-agama-oleh-ahok-bareskrim-imbau-masyarakat-tenang-mXcFmY8wsD.jpg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510549/dugaan-penistaan-agama-oleh-ahok-bareskrim-imbau-masyarakat-tenang"">Dugaan ""Penistaan Agama"" oleh Ahok, Bareskrim Imbau Masyarakat Tenang </a></p>","['a', 'img', 'p', 'a']",0,9,8,1,11.5,4.6
+447,,[],0,0,1,0,0.0,3.5
+448,<li></li>,['li'],0,0,1,0,0.0,3.55
+449,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510535/polda-metro-limpahkan-laporan-penistaan-agama-oleh-ahok-ke-bareskrim""><img alt='Polda Metro Limpahkan Laporan ""Penistaan Agama"" oleh Ahok ke Bareskrim' data-pagespeed-url-hash=""789914372"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510535/polda-metro-limpahkan-laporan-penistaan-agama-oleh-ahok-ke-bareskrim-rZTZhlkAMF.jpg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510535/polda-metro-limpahkan-laporan-penistaan-agama-oleh-ahok-ke-bareskrim"">Polda Metro Limpahkan Laporan ""Penistaan Agama"" oleh Ahok ke Bareskrim</a></p>","['a', 'img', 'p', 'a']",0,10,8,1,12.0,4.8
+450,,[],0,0,1,0,0.0,3.5
+451,<li></li>,['li'],0,0,1,0,0.0,3.4
+452,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510517/mabuk-berat-dua-pria-tewas-tabrak-separator-busway""><img alt=""   Mabuk Berat, Dua Pria Tewas Tabrak Separator Busway"" data-pagespeed-url-hash=""3008604115"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510517/mabuk-berat-dua-pria-tewas-tabrak-separator-busway-5IyEiLfVsM.jpg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510517/mabuk-berat-dua-pria-tewas-tabrak-separator-busway"">   Mabuk Berat, Dua Pria Tewas Tabrak Separator Busway</a></p>","['a', 'img', 'p', 'a']",0,8,8,1,11.0,4.4
+453,,[],0,0,1,0,0.0,3.25
+454,<li></li>,['li'],0,0,1,0,0.0,3.2
+455,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510513/polisi-ringkus-pelaku-tabrak-lari-di-tangsel""><img alt=""Polisi Ringkus Pelaku Tabrak Lari di Tangsel"" data-pagespeed-url-hash=""4038255110"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510513/polisi-ringkus-pelaku-tabrak-lari-di-tangsel-b7k2kPZBz4.jpg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510513/polisi-ringkus-pelaku-tabrak-lari-di-tangsel"">Polisi Ringkus Pelaku Tabrak Lari di Tangsel</a></p>","['a', 'img', 'p', 'a']",0,7,8,1,10.5,4.2
+456,,[],0,0,1,0,0.0,3.2
+457,<li></li>,['li'],0,0,1,0,0.0,3.25
+458,"<a href=""http://news.okezone.com/read/2016/10/10/338/1510502/komwas-partai-demokrat-rekomendasikan-sanksi-untuk-ruhut-sitompul""><img alt=""Komwas Partai Demokrat Rekomendasikan Sanksi untuk Ruhut Sitompul "" data-pagespeed-url-hash=""2643543071"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com//dynamic/content/2016/10/10/338/1510502/komwas-partai-demokrat-rekomendasikan-sanksi-untuk-ruhut-sitompul-AniwhnSnvU.jpg?w=380""/></a><p><a href=""http://news.okezone.com/read/2016/10/10/338/1510502/komwas-partai-demokrat-rekomendasikan-sanksi-untuk-ruhut-sitompul"">Komwas Partai Demokrat Rekomendasikan Sanksi untuk Ruhut Sitompul </a></p>","['a', 'img', 'p', 'a']",0,8,8,1,11.0,4.4
+459,,[],0,0,1,0,0.0,2.2
+460,,[],0,0,1,0,0.0,1.1
+461,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+462,,[],0,0,1,0,0.0,0.4
+463,"<div class=""go-search-detail""></div>",['div'],0,0,1,0,0.0,0.8
+464,"<a href=""http://search.okezone.com"">Cari berita lain disini</a>",['a'],0,4,2,0,4.0,1.6
+465,,[],0,0,1,0,0.0,0.8
+466,,[],0,0,1,0,0.0,0.4
+467,,[],0,0,1,0,0.0,0.0
+468,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+469,"<div class=""wp-news-update col-md-12 no-padding""></div>",['div'],0,0,1,0,0.0,0.0
+470,,[],0,0,1,0,0.0,0.0
+471,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+472,"<div class=""footer""></div>",['div'],0,0,1,0,0.0,0.0
+473,"<footer class=""page-footer col-md-12 p-nol""></footer>",['footer'],0,0,1,0,0.0,0.0
+474,"<div class=""ibox""></div>",['div'],0,0,1,0,0.0,0.9
+475,"<div class=""footer-title""></div>",['div'],0,0,1,0,0.0,1.8
+476,"<a class=""collapse-link""><span>Baca <img alt=""okezone logo"" data-pagespeed-url-hash=""2167835706"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.okezone.com/www/2016/img/logo-topleft.png""> Selengkapnya <i class=""footer-arrow-up""></i></img></span></a>","['a', 'span', 'img', 'i']",0,2,8,0,9.0,3.6
+477,,[],0,0,1,0,0.0,1.8
+478,"<div class=""content-body content-body1 ibox-content""></div>",['div'],0,0,1,0,0.0,1.2
+479,"<div class=""content-isi-footer content1""></div>",['div'],0,0,1,0,0.0,0.6
+480,<span>News</span>,['span'],1,0,2,0,3.0,1.65
+481,<ul></ul>,['ul'],0,0,1,0,0.0,1.95
+482,"<li><a href=""http://news.okezone.com/nasional"">Nasional</a></li>","['li', 'a']",0,1,4,0,4.5,3.45
+483,"<li><a href=""http://news.okezone.com/megapolitan"">Megapolitan</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+484,"<li><a href=""http://news.okezone.com/internasional"">Internasional</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+485,"<li><a href=""http://news.okezone.com/nusantara"">Nusantara</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+486,"<li><a href=""http://news.okezone.com/kampus"">Kampus</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+487,"<li><a href=""http://news.okezone.com/autos"">Autos</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+488,"<li><a href=""http://news.okezone.com/tokoh"">Tokoh</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+489,"<li><a href=""http://news.okezone.com/foto"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+490,"<li><a href=""http://news.okezone.com/video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+491,,[],0,0,1,0,0.0,1.35
+492,,[],0,0,1,0,0.0,0.75
+493,"<div class=""content-isi-footer content2""></div>",['div'],0,0,1,0,0.0,0.6
+494,<span>Finance</span>,['span'],1,0,2,0,3.0,1.75
+495,<ul></ul>,['ul'],0,0,1,0,0.0,2.25
+496,"<li><a href=""http://economy.okezone.com/sahamdanvalas"">Saham Dan Valas</a></li>","['li', 'a']",0,3,4,0,5.5,4.1
+497,"<li><a href=""http://economy.okezone.com/fiskaldanmoneter"">Fiskal Dan Moneter</a></li>","['li', 'a']",0,3,4,0,5.5,4.75
+498,"<li><a href=""http://economy.okezone.com/sektorriil"">Sektor Rill</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+499,"<li><a href=""http://economy.okezone.com/property"">Property</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+500,"<li><a href=""http://economy.okezone.com/foto"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.1
+501,"<li><a href=""http://economy.okezone.com/video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+502,,[],0,0,1,0,0.0,1.35
+503,,[],0,0,1,0,0.0,0.75
+504,"<div class=""content-isi-footer content3""></div>",['div'],0,0,1,0,0.0,0.6
+505,<span>Lifestyle</span>,['span'],1,0,2,0,3.0,1.65
+506,<ul></ul>,['ul'],0,0,1,0,0.0,1.95
+507,"<li><a href=""http://lifestyle.okezone.com/fashion"">Fashion</a></li>","['li', 'a']",0,1,4,0,4.5,3.45
+508,"<li><a href=""http://lifestyle.okezone.com/food"">Food</a></li>","['li', 'a']",0,1,4,0,4.5,4.15
+509,"<li><a href=""http://lifestyle.okezone.com/health"">Health</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+510,"<li><a href=""http://lifestyle.okezone.com/familyandcareer"">Family &amp; Carrer</a></li>","['li', 'a']",0,3,4,0,5.5,5.0
+511,"<li><a href=""http://lifestyle.okezone.com/travel"">Travel</a></li>","['li', 'a']",0,1,4,0,4.5,4.9
+512,"<li><a href=""http://lifestyle.okezone.com/asktheexpert"">Ask The Expert</a></li>","['li', 'a']",0,3,4,0,5.5,5.0
+513,"<li><a href=""http://lifestyle.okezone.com/foto"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.25
+514,"<li><a href=""http://lifestyle.okezone.com/video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,3.25
+515,,[],0,0,1,0,0.0,1.35
+516,,[],0,0,1,0,0.0,0.75
+517,"<div class=""content-isi-footer content4""></div>",['div'],0,0,1,0,0.0,0.6
+518,<span>Celebrity</span>,['span'],1,0,2,0,3.0,1.7
+519,<ul></ul>,['ul'],0,0,1,0,0.0,2.05
+520,"<li><a href=""http://celebrity.okezone.com/hotgossip"">Hot Gossip</a></li>","['li', 'a']",0,2,4,0,5.0,3.65
+521,"<li><a href=""http://celebrity.okezone.com/movies"">Movies</a></li>","['li', 'a']",0,1,4,0,4.5,4.2
+522,"<li><a href=""http://celebrity.okezone.com/musik"">Music</a></li>","['li', 'a']",0,1,4,0,4.5,4.65
+523,"<li><a href=""http://celebrity.okezone.com/tvscoop"">TV Scoop</a></li>","['li', 'a']",0,2,4,0,5.0,4.7
+524,"<li><a href=""http://celebrity.okezone.com/foto"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.15
+525,"<li><a href=""http://celebrity.okezone.com/video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,3.2
+526,,[],0,0,1,0,0.0,1.35
+527,,[],0,0,1,0,0.0,0.75
+528,"<div class=""content-isi-footer content5""></div>",['div'],0,0,1,0,0.0,0.6
+529,<span>Bola</span>,['span'],1,0,2,0,3.0,1.65
+530,<ul></ul>,['ul'],0,0,1,0,0.0,1.95
+531,"<li><a href=""http://bola.okezone.com/euro"">Euro</a></li>","['li', 'a']",0,1,4,0,4.5,3.45
+532,"<li><a href=""http://bola.okezone.com/ligachampion"">Champion</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+533,"<li><a href=""http://bola.okezone.com/ligainggris"">Inggris</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+534,"<li><a href=""http://bola.okezone.com/ligaitalia"">Italia</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+535,"<li><a href=""http://bola.okezone.com/ligaspanyol"">Spanyol</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+536,"<li><a href=""http://bola.okezone.com/ligajerman"">Jerman</a></li>","['li', 'a']",0,1,4,0,4.5,4.55
+537,"<li><a href=""http://bola.okezone.com/ligaindonesia"">Indonesia</a></li>","['li', 'a']",0,1,4,0,4.5,4.6
+538,"<li><a href=""http://bola.okezone.com/boladunia"">Bola Dunia</a></li>","['li', 'a']",0,2,4,0,5.0,4.7
+539,"<li><a href=""http://bola.okezone.com/foto"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.15
+540,"<li><a href=""http://bola.okezone.com/video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,3.2
+541,,[],0,0,1,0,0.0,1.35
+542,,[],0,0,1,0,0.0,0.75
+543,"<div class=""content-isi-footer content6""></div>",['div'],0,0,1,0,0.0,0.6
+544,<span>Sports</span>,['span'],1,0,2,0,3.0,1.65
+545,<ul></ul>,['ul'],0,0,1,0,0.0,2.0
+546,"<li><a href=""http://sports.okezone.com/f1"">F1</a></li>","['li', 'a']",0,1,4,0,4.5,3.55
+547,"<li><a href=""http://sports.okezone.com/motogp"">Moto GP</a></li>","['li', 'a']",0,2,4,0,5.0,4.25
+548,"<li><a href=""http://sports.okezone.com/netting"">Netting</a></li>","['li', 'a']",0,1,4,0,4.5,4.65
+549,"<li><a href=""http://sports.okezone.com/basket"">Basket</a></li>","['li', 'a']",0,1,4,0,4.5,4.65
+550,"<li><a href=""http://sports.okezone.com/sportlain"">Sport Lain</a></li>","['li', 'a']",0,2,4,0,5.0,4.7
+551,"<li><a href=""http://sports.okezone.com/foto"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.15
+552,"<li><a href=""http://sports.okezone.com/video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,3.2
+553,,[],0,0,1,0,0.0,1.35
+554,,[],0,0,1,0,0.0,0.75
+555,"<div class=""content-isi-footer content7""></div>",['div'],0,0,1,0,0.0,0.6
+556,<span>Techno</span>,['span'],1,0,2,0,3.0,1.65
+557,<ul></ul>,['ul'],0,0,1,0,0.0,1.95
+558,"<li><a href=""http://techno.okezone.com/bisnis"">Finance</a></li>","['li', 'a']",0,1,4,0,4.5,3.45
+559,"<li><a href=""http://techno.okezone.com/telecommunication"">Telco</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+560,"<li><a href=""http://techno.okezone.com/gadget"">Gadget</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+561,"<li><a href=""http://techno.okezone.com/game"">Game</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+562,"<li><a href=""http://techno.okezone.com/science"">Science</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+563,"<li><a href=""http://techno.okezone.com/ulik"">Ulik</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+564,"<li><a href=""http://techno.okezone.com/foto"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+565,"<li><a href=""http://techno.okezone.com/video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+566,,[],0,0,1,0,0.0,1.35
+567,,[],0,0,1,0,0.0,0.45
+568,,[],0,0,1,0,0.0,0.0
+569,,[],0,0,1,0,0.0,0.0
+570,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+571,"<div class=""content-body content-body-footer2""></div>",['div'],0,0,1,0,0.0,0.5
+572,"<ul class=""content-body-footer2-1""></ul>",['ul'],0,0,1,0,0.0,1.45
+573,"<li><a href=""http://warungkopi.okezone.com"">Warung Kopi</a></li>","['li', 'a']",0,2,4,0,5.0,3.35
+574,"<li><a href=""http://rubik.okezone.com"">Rubik</a></li>","['li', 'a']",0,1,4,0,4.5,4.15
+575,"<li><a href=""http://tv.okezone.com"">TV</a></li>","['li', 'a']",0,1,4,0,4.5,4.6
+576,"<li><a href=""http://metube.okezone.com"">MeTube</a></li>","['li', 'a']",0,1,4,0,4.5,4.65
+577,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vaW5kZXgucGhwL1JlYWRTdG9yeS8yMDE2LzEwLzEwLzE3LzE1MTA1NjIvbWVnYXdhdGktc29la2Fybm9wdXRyaXx8aHR0cDovL3d3dy5qb2JzbW5jLmNvLmlkL3x8am9icyBtbmM="">Lowongan Kerja</a></li>","['li', 'a']",0,2,4,0,5.0,4.85
+578,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vaW5kZXgucGhwL1JlYWRTdG9yeS8yMDE2LzEwLzEwLzE3LzE1MTA1NjIvbWVnYXdhdGktc29la2Fybm9wdXRyaXx8aHR0cDovL3d3dy5taXN0ZXJhbGFkaW4uY29tL3x8bWlzdGVyIGFsYWRpbg=="">Booking Hotel</a></li>","['li', 'a']",0,2,4,0,5.0,4.95
+579,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vaW5kZXgucGhwL1JlYWRTdG9yeS8yMDE2LzEwLzEwLzE3LzE1MTA1NjIvbWVnYXdhdGktc29la2Fybm9wdXRyaXx8aHR0cDovL3d3dy5icmFuZG91dGxldC5jby5pZC98fGJyYW5kIG91dGxldA=="">Fashion Online</a></li>","['li', 'a']",0,2,4,0,5.0,4.5
+580,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vaW5kZXgucGhwL1JlYWRTdG9yeS8yMDE2LzEwLzEwLzE3LzE1MTA1NjIvbWVnYXdhdGktc29la2Fybm9wdXRyaXx8aHR0cDovL3d3dy5tbmMtaW5zdXJhbmNlLmNvbS98fG1uYyBpbnN1cmFuY2U="">Asuransi Kendaraan</a></li>","['li', 'a']",0,2,4,0,5.0,3.5
+581,,[],0,0,1,0,0.0,1.5
+582,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.0
+583,"<ul class=""content-body-footer2-2""></ul>",['ul'],0,0,1,0,0.0,1.45
+584,"<li><a href=""http://management.okezone.com/"">About Us</a></li>","['li', 'a']",0,2,4,0,5.0,3.4
+585,"<li><a href=""http://management.okezone.com/redaksi"">Redaksi</a></li>","['li', 'a']",0,1,4,0,4.5,4.25
+586,"<li><a href=""http://management.okezone.com/pos"">Kotak Pos</a></li>","['li', 'a']",0,2,4,0,5.0,4.8
+587,"<li><a href=""http://career.okezone.com/"">Karier</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+588,"<li><a href=""http://client.okezone.com/advertising/"">Info Iklan</a></li>","['li', 'a']",0,2,4,0,5.0,4.3
+589,"<li><a href=""http://management.okezone.com/disclaimer"">Disclaimer</a></li>","['li', 'a']",0,1,4,0,4.5,3.25
+590,,[],0,0,1,0,0.0,1.4
+591,,[],0,0,1,0,0.0,0.45
+592,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+593,"<div class=""content-body content-body-footer3""></div>",['div'],0,0,1,0,0.0,0.9
+594,"<div class=""footer-copyright""></div>",['div'],0,0,1,0,0.0,1.8
+595,"<p>© 2007 - 2016 okezone.com, All Rights Reserved</p>",['p'],8,0,2,1,9.0,3.6
+596,,[],0,0,1,0,0.0,1.8
+597,"<div class=""soc-apps foot-n fr""></div>",['div'],0,0,1,0,0.0,0.9
+598,"<div class=""social-media fl""></div>",['div'],0,0,1,0,0.0,0.0
+599,"<a class=""facebook"" href=""http://www.facebook.com/OkezoneCom"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+600,"<a class=""twitter"" href=""https://twitter.com/okezonenews"" rel=""nofollow"" target=""_blank""> </a>",['a'],0,0,2,0,0.0,0.0
+601,"<a class=""gplus"" href=""https://plus.google.com/+okezone"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+602,"<a class=""ig"" href=""https://instagram.com/okezonecom"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+603,"<a class=""ytube"" href=""https://www.youtube.com/user/okezoneindonesia"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+604,,[],0,0,1,0,0.0,0.0
+605,"<div class=""apps fl""></div>",['div'],0,0,1,0,0.0,0.0
+606,"<a class=""ipad"" href=""https://itunes.apple.com/app/id570615156"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+607,"<a class=""iphone"" href=""https://itunes.apple.com/app/id624468351"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+608,"<a class=""wp"" href=""#"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+609,"<a class=""android"" href=""https://play.google.com/store/apps/details?id=linktone.okezone.android"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+610,"<a class=""mobile"" href=""http://appworld.blackberry.com/webstore/content/28852888/"" rel=""nofollow"" target=""_blank""></a>",['a'],0,0,2,0,0.0,0.0
+611,,[],0,0,1,0,0.0,0.0
+612,,[],0,0,1,0,0.0,0.0
+613,,[],0,0,1,0,0.0,0.0
+614,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+615,"<div class=""content-body content-body-footer4""></div>",['div'],0,0,1,0,0.0,0.0
+616,"<div class=""logo-footer1-1""></div>",['div'],0,0,1,0,0.0,0.0
+617,"<div class=""mnc-logo""></div>",['div'],0,0,1,0,0.0,0.0
+618,"<span><a href=""http://mnc.co.id/"" target=""_blank""></a></span>","['span', 'a']",0,0,4,0,0.0,0.0
+619,,[],0,0,1,0,0.0,0.0
+620,,[],0,0,1,0,0.0,0.0
+621,"<div class=""logo-footer1-2""></div>",['div'],0,0,1,0,0.0,0.0
+622,"<div class=""biznet""></div>",['div'],0,0,1,0,0.0,0.7
+623,"<a href=""http://www.mncplaymedia.com"" title=""Connection by: MNC Play Media""><img alt=""MNC Play Media"" data-pagespeed-url-hash=""155860142"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.okezone.com/underwood/img/play-normal.png""/></a>","['a', 'img']",0,0,4,0,0.0,1.4
+624,<p> / rendering in 0.0699 seconds [104]</p>,['p'],6,0,2,1,7.0,2.8
+625,,[],0,0,1,0,0.0,1.4
+626,,[],0,0,1,0,0.0,0.7
+627,,[],0,0,1,0,0.0,0.0
+628,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+629,,[],0,0,1,0,0.0,0.0
+630,,[],0,0,1,0,0.0,0.0
+631,,[],0,0,0,0,0.0,0.0
+632,"<div class=""col-md-4 col-md-body-right no-padding""></div>",['div'],0,0,1,0,0.0,0.0
+633,"<div class=""ads-tr1 img-ads-tr""></div>",['div'],0,0,1,0,0.0,0.0
+634,"<div id=""div-gpt-ad-1464083147987-0"" style=""height:250px; width:300px;""></div>",['div'],0,0,1,0,0.0,0.0
+635,,[],0,0,0,0,0.0,0.0
+636,,[],0,0,1,0,0.0,0.0
+637,,[],0,0,1,0,0.0,0.0
+638,"<div class=""ads-tr1 img-ads-tr""></div>",['div'],0,0,1,0,0.0,0.0
+639,"<div id=""div-gpt-ad-1471001429609-0"" style=""height:500px; width:300px;""></div>",['div'],0,0,1,0,0.0,0.0
+640,,[],0,0,0,0,0.0,0.0
+641,,[],0,0,1,0,0.0,0.0
+642,,[],0,0,1,0,0.0,0.0
+643,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+644,"<div class=""tabs-bkomentar-bpilihan""></div>",['div'],0,0,1,0,0.0,0.0
+645,"<div class=""bkomentar-bpilihan""></div>",['div'],0,0,1,0,0.0,0.5
+646,"<ul class=""nav navbar-tab"" id=""myTab""></ul>",['ul'],0,0,1,0,0.0,1.5
+647,"<li class="" tab-bpilihan active w50 fl""><a data-toggle=""tab"" href=""#bpilihan"">Berita Pilihan</a></li>","['li', 'a']",0,2,4,0,5.0,3.0
+648,"<li class="" tab-bkomentar w50 fl""><a data-toggle=""tab"" href=""#bkomentar"">Komentar Terbanyak</a></li>","['li', 'a']",0,2,4,0,5.0,3.0
+649,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.5
+650,,[],0,0,1,0,0.0,0.5
+651,"<div class=""tab-content bkomentar-vid-wrap""></div>",['div'],0,0,1,0,0.0,0.0
+652,"<div class=""tab-pane active"" id=""bpilihan""></div>",['div'],0,0,1,0,0.0,0.0
+653,"<ul class=""list-bpilihan""></ul>",['ul'],0,0,1,0,0.0,0.0
+654,"<div class=""ads-bp""></div>",['div'],0,0,1,0,0.0,0.0
+655,"<div id=""div-gpt-ad-1463990569512-0"" style=""height:100px; width:300px;""></div>",['div'],0,0,1,0,0.0,0.0
+656,,[],0,0,0,0,0.0,0.0
+657,,[],0,0,1,0,0.0,0.0
+658,,[],0,0,1,0,0.0,0.0
+659,<li></li>,['li'],0,0,1,0,0.0,0.8
+660,"<div class=""col-md-12""></div>",['div'],0,0,1,0,0.0,1.6
+661,"<span class=""vid-title""><a aksi="""" berbau="""" href=""http://news.okezone.com/read/2016/10/10/337/1510340/pejabat-paling-riskan-tertipu-aksi-penipuan-berbau-mistik"" mistik""""="""" paling="""" pejabat="""" penipuan="""" riskan="""" tertipu="""" title="""">""Pejabat Paling Riskan Tertipu Aksi Penipuan Berbau Mistik""</a></span>","['span', 'a']",0,8,4,0,8.0,3.2
+662,,[],0,0,1,0,0.0,1.6
+663,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.8
+664,,[],0,0,1,0,0.0,0.0
+665,<li></li>,['li'],0,0,1,0,0.0,0.8
+666,"<div class=""col-md-12""></div>",['div'],0,0,1,0,0.0,1.6
+667,"<span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/09/337/1510197/predator-seksual-asal-amerika-serikat-dideportasi-dari-indonesia"" title=""'Predator' Seksual Asal Amerika Serikat Dideportasi dari Indonesia"">'Predator' Seksual Asal Amerika Serikat Dideportasi dari Indonesia</a></span>","['span', 'a']",0,8,4,0,8.0,3.2
+668,,[],0,0,1,0,0.0,1.6
+669,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.8
+670,,[],0,0,1,0,0.0,0.0
+671,<li></li>,['li'],0,0,1,0,0.0,0.95
+672,"<div class=""col-md-12""></div>",['div'],0,0,1,0,0.0,1.9
+673,"<span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/09/512/1510190/cuaca-buruk-menteri-susi-mendarat-darurat-lalu-santap-bakso-di-temanggung"" title=""Cuaca Buruk, Menteri Susi Mendarat Darurat lalu Santap Bakso di Temanggung"">Cuaca Buruk, Menteri Susi Mendarat Darurat lalu Santap Bakso di Temanggung</a></span>","['span', 'a']",0,11,4,0,9.5,3.8
+674,,[],0,0,1,0,0.0,1.9
+675,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.95
+676,,[],0,0,1,0,0.0,0.0
+677,<li></li>,['li'],0,0,1,0,0.0,0.75
+678,"<div class=""col-md-12""></div>",['div'],0,0,1,0,0.0,1.5
+679,"<span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/09/338/1510179/jessica-wongso-ultah-di-penjara-ibunya-menangis"" title=""Jessica Wongso Ultah di Penjara, Ibunya Menangis"">Jessica Wongso Ultah di Penjara, Ibunya Menangis</a></span>","['span', 'a']",0,7,4,0,7.5,3.0
+680,,[],0,0,1,0,0.0,1.5
+681,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.75
+682,,[],0,0,1,0,0.0,0.0
+683,<li></li>,['li'],0,0,1,0,0.0,0.9
+684,"<div class=""col-md-12""></div>",['div'],0,0,1,0,0.0,1.8
+685,"<span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/09/338/1510083/lagi-cari-makan-pemuda-cipayung-tewas-ditembak-otk-di-bekasi"" title=""Lagi Cari Makan, Pemuda Cipayung Tewas Ditembak OTK di Bekasi"">Lagi Cari Makan, Pemuda Cipayung Tewas Ditembak OTK di Bekasi</a></span>","['span', 'a']",0,10,4,0,9.0,3.6
+686,,[],0,0,1,0,0.0,1.8
+687,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.9
+688,,[],0,0,1,0,0.0,0.0
+689,<li></li>,['li'],0,0,1,0,0.0,0.7
+690,"<div class=""col-md-12""></div>",['div'],0,0,1,0,0.0,1.4
+691,"<span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/09/18/1509991/ratusan-imigran-diselamatkan-dari-pantai-yunani"" title=""Ratusan Imigran Diselamatkan dari Pantai Yunani"">Ratusan Imigran Diselamatkan dari Pantai Yunani</a></span>","['span', 'a']",0,6,4,0,7.0,2.8
+692,,[],0,0,1,0,0.0,1.4
+693,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.7
+694,,[],0,0,1,0,0.0,0.0
+695,<li></li>,['li'],0,0,1,0,0.0,0.65
+696,"<div class=""col-md-12""></div>",['div'],0,0,1,0,0.0,1.3
+697,"<span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/09/18/1509974/mengungkap-kehidupan-lgbt-di-afghanistan"" title=""Mengungkap Kehidupan LGBT di Afghanistan"">Mengungkap Kehidupan LGBT di Afghanistan</a></span>","['span', 'a']",0,5,4,0,6.5,2.6
+698,,[],0,0,1,0,0.0,1.3
+699,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.65
+700,,[],0,0,1,0,0.0,0.0
+701,,[],0,0,1,0,0.0,0.0
+702,,[],0,0,1,0,0.0,0.0
+703,"<div class=""tab-pane"" id=""bkomentar""></div>",['div'],0,0,1,0,0.0,0.0
+704,"<ul class=""list-bpilihan""></ul>",['ul'],0,0,1,0,0.0,1.1
+705,<li></li>,['li'],0,0,1,0,0.0,2.5
+706,"<div class="" komen""><span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/07/338/1508370/hari-ini-mui-laporkan-ahok-ke-bareskrim-terkait-penistaan-agama"">Hari Ini, MUI Laporkan Ahok ke Bareskrim Terkait Penistaan Agama</a></span></div>","['div', 'span', 'a']",0,10,6,0,11.0,5.0
+707,"<div class=""count"">30</div>",['div'],1,0,2,0,3.0,3.4
+708,,[],0,0,1,0,0.0,2.65
+709,<li></li>,['li'],0,0,1,0,0.0,2.5
+710,"<div class="" komen""><span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/07/338/1508672/ahok-dari-awal-tak-pantas-jadi-gubernur"">""Ahok dari Awal Tak Pantas Jadi Gubernur""</a></span></div>","['div', 'span', 'a']",0,7,6,0,9.5,4.4
+711,"<div class=""count"">25</div>",['div'],1,0,2,0,3.0,3.1
+712,,[],0,0,1,0,0.0,2.7
+713,<li></li>,['li'],0,0,1,0,0.0,2.9
+714,"<div class="" komen""><span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/07/338/1509264/ustadz-arifin-ilham-sikap-ahok-berbahaya-bagi-persatuan-dan-kedamaian-bangsa"">Ustadz Arifin Ilham: Sikap Ahok Berbahaya bagi Persatuan dan Kedamaian Bangsa</a></span></div>","['div', 'span', 'a']",0,11,6,0,11.5,5.2
+715,"<div class=""count"">21</div>",['div'],1,0,2,0,3.0,3.5
+716,,[],0,0,1,0,0.0,2.8
+717,<li></li>,['li'],0,0,1,0,0.0,2.7
+718,"<div class="" komen""><span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/07/338/1508642/ahok-resmi-dilaporkan-ke-bareskrim-atas-tuduhan-melecehkan-agama"">Ahok Resmi Dilaporkan ke Bareskrim Atas Tuduhan Melecehkan Agama</a></span></div>","['div', 'span', 'a']",0,9,6,0,10.5,4.8
+719,"<div class=""count"">14</div>",['div'],1,0,2,0,3.0,3.3
+720,,[],0,0,1,0,0.0,2.95
+721,<li></li>,['li'],0,0,1,0,0.0,3.2
+722,"<div class="" komen""><span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/07/338/1509097/fokus-lupakan-pernyataan-ahok-yuk-semarakkan-pilgub-tanpa-isu-sara"">FOKUS: Lupakan Pernyataan Ahok, <i>Yuk</i> Semarakkan Pilgub Tanpa Isu SARA!</a></span></div>","['div', 'span', 'a', 'i']",0,10,8,0,13.0,5.8
+723,"<div class=""count"">11</div>",['div'],1,0,2,0,3.0,3.8
+724,,[],0,0,1,0,0.0,2.9
+725,<li></li>,['li'],0,0,1,0,0.0,2.6
+726,"<div class="" komen""><span class=""vid-title""><a href=""http://news.okezone.com/read/2016/10/07/338/1508765/pernyataan-ahok-dinilai-bentuk-provokasi-terhadap-umat-islam"">Pernyataan Ahok Dinilai Bentuk Provokasi terhadap Umat Islam</a></span></div>","['div', 'span', 'a']",0,8,6,0,10.0,4.6
+727,"<div class=""count"">10</div>",['div'],1,0,2,0,3.0,3.2
+728,,[],0,0,1,0,0.0,1.6
+729,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.3
+730,,[],0,0,1,0,0.0,0.0
+731,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+732,,[],0,0,1,0,0.0,0.0
+733,,[],0,0,1,0,0.0,0.0
+734,,[],0,0,1,0,0.0,0.0
+735,,[],0,0,1,0,0.0,0.0
+736,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+737,"<div class=""rstreaming""></div>",['div'],0,0,1,0,0.0,0.0
+738,"<a onclick=""window.open('http://news.okezone.com/radio','mywindow','scrollbars=no, resizable=no,location=no,directories=no, top=100, left=500,width=320,height=260');""></a>",['a'],0,0,1,0,0.0,0.0
+739,"<img alt=""Share-image"" data-pagespeed-url-hash=""2024290179"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""http://cdn.okezone.com/underwood/img/sindo-radio.gif"" style=""cursor:pointer""/>",['img'],0,0,3,0,0.0,0.0
+740,,[],0,0,1,0,0.0,0.0
+741,"<div class=""ads-tr2 img-ads-tr""></div>",['div'],0,0,1,0,0.0,0.0
+742,"<div id=""div-gpt-ad-1464083213654-0"" style=""height:250px; width:300px;""></div>",['div'],0,0,1,0,0.0,0.0
+743,,[],0,0,0,0,0.0,0.0
+744,,[],0,0,1,0,0.0,0.0
+745,,[],0,0,1,0,0.0,0.0
+746,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+747,"<div class=""topik-populer""></div>",['div'],0,0,1,0,0.0,0.4
+748,"<div class=""hot-topics""></div>",['div'],0,0,1,0,0.0,0.8
+749,<span>Topik Populer</span>,['span'],2,0,2,0,4.0,2.25
+750,<ul></ul>,['ul'],0,0,1,0,0.0,2.7
+751,"<li><a href=""http://news.okezone.com/topic/25193/banjir-jawa-timur"" target=""_blank"">#Sampang Jatim Dilanda Banjir Besar</a></li>","['li', 'a']",0,5,4,0,6.5,4.75
+752,"<li><a href=""http://news.okezone.com/topic/31744/ahok-diduga-nistakan-agama"" target=""_blank"">#Ahok Dilaporkan ke Bareskrim</a></li>","['li', 'a']",0,4,4,0,6.0,5.4
+753,"<li><a href=""http://news.okezone.com/topic/31587/kanjeng-taat-pribadi"" target=""_blank"">#Padepokan Dimas Kanjeng</a></li>","['li', 'a']",0,3,4,0,5.5,5.75
+754,"<li><a href=""http://news.okezone.com/topic/25962/pilgub-dki-2017"" target=""_blank"">#Menuju Kursi DKI 1</a></li>","['li', 'a']",0,4,4,0,6.0,5.1
+755,"<li><a href=""http://techno.okezone.com/topic/31727/info-selfie"" target=""_blank"">#Teknologi Selfie</a></li>","['li', 'a']",0,2,4,0,5.0,3.75
+756,,[],0,0,1,0,0.0,1.6
+757,,[],0,0,1,0,0.0,0.5
+758,,[],0,0,1,0,0.0,0.0
+759,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+760,"<div class=""okezone-today""></div>",['div'],0,0,1,0,0.0,0.5
+761,"<div class=""okezone-today""></div>",['div'],0,0,1,0,0.0,1.0
+762,"<span class=""okezone-todayseo"">Okezone Hari Ini</span>",['span'],3,0,2,0,5.0,2.0
+763,"<ul class=""list-okz-today""></ul>",['ul'],0,0,1,0,0.0,1.0
+764,<li></li>,['li'],0,0,1,0,0.0,1.2
+765,"<a href=""http://economy.okezone.com/read/2016/10/10/320/1510648/investor-swasta-siap-kembangkan-dry-port"" title=""Investor Swasta Siap Kembangkan Dry Port""><img alt=""Investor Swasta Siap Kembangkan Dry Port"" data-pagespeed-url-hash=""2435701261"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com/dynamic/content/2016/10/10/320/1510648/investor-swasta-siap-kembangkan-dry-port-Ysq4k1QFFr.jpg?w=100""/></a>","['a', 'img']",0,0,4,0,0.0,1.4
+766,"<span><a href=""http://economy.okezone.com/read/2016/10/10/320/1510648/investor-swasta-siap-kembangkan-dry-port"" title=""Investor Swasta Siap Kembangkan Dry Port"">Investor Swasta Siap Kembangkan Dry Port</a></span>","['span', 'a']",0,6,4,0,7.0,2.8
+767,<li></li>,['li'],0,0,2,0,0.0,2.3
+768,"<a href=""http://news.okezone.com/read/2016/10/10/18/1510647/korban-tewas-akibat-badai-matthew-di-haiti-mencapai-1-000-jiwa"" title=""Korban Tewas Akibat Badai Matthew di Haiti Mencapai 1.000 Jiwa""><img alt=""Korban Tewas Akibat Badai Matthew di Haiti Mencapai 1.000 Jiwa"" data-pagespeed-url-hash=""572249725"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com/dynamic/content/2016/10/10/18/1510647/korban-tewas-akibat-badai-matthew-di-haiti-mencapai-1-000-jiwa-0XGGKGKIG6.jpg?w=100""/></a>","['a', 'img']",0,0,4,0,0.0,2.5
+769,"<span><a href=""http://news.okezone.com/read/2016/10/10/18/1510647/korban-tewas-akibat-badai-matthew-di-haiti-mencapai-1-000-jiwa"" title=""Korban Tewas Akibat Badai Matthew di Haiti Mencapai 1.000 Jiwa"">Korban Tewas Akibat Badai Matthew di Haiti Mencapai 1.000 Jiwa</a></span>","['span', 'a']",0,10,4,0,9.0,3.6
+770,<li></li>,['li'],0,0,2,0,0.0,2.45
+771,"<a href=""http://economy.okezone.com/read/2016/10/10/278/1510646/jababeka-patok-kupon-obligasi-6-5"" title=""Jababeka Patok Kupon Obligasi 6,5%""><img alt=""Jababeka Patok Kupon Obligasi 6,5%"" data-pagespeed-url-hash=""3586019087"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com/dynamic/content/2016/10/10/278/1510646/jababeka-patok-kupon-obligasi-6-5-OxUCWXWqyD.jpg?w=100""/></a>","['a', 'img']",0,0,4,0,0.0,2.2
+772,"<span><a href=""http://economy.okezone.com/read/2016/10/10/278/1510646/jababeka-patok-kupon-obligasi-6-5"" title=""Jababeka Patok Kupon Obligasi 6,5%"">Jababeka Patok Kupon Obligasi 6,5%</a></span>","['span', 'a']",0,5,4,0,6.5,2.6
+773,<li></li>,['li'],0,0,2,0,0.0,2.2
+774,"<a href=""http://news.okezone.com/read/2016/10/10/337/1510645/tak-setuju-tni-berpolitik-menhan-kondisi-politik-indonesia-belum-stabil"" title=""Tak Setuju TNI Berpolitik, Menhan: Kondisi Politik Indonesia Belum Stabil""><img alt=""Tak Setuju TNI Berpolitik, Menhan: Kondisi Politik Indonesia Belum Stabil"" data-pagespeed-url-hash=""1464778787"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com/dynamic/content/2016/10/10/337/1510645/tak-setuju-tni-berpolitik-menhan-kondisi-politik-indonesia-belum-stabil-a1gaesTmVS.jpg?w=100""/></a>","['a', 'img']",0,0,4,0,0.0,2.45
+775,"<span><a href=""http://news.okezone.com/read/2016/10/10/337/1510645/tak-setuju-tni-berpolitik-menhan-kondisi-politik-indonesia-belum-stabil"" title=""Tak Setuju TNI Berpolitik, Menhan: Kondisi Politik Indonesia Belum Stabil"">Tak Setuju TNI Berpolitik, Menhan: Kondisi Politik Indonesia Belum Stabil</a></span>","['span', 'a']",0,10,4,0,9.0,3.6
+776,<li></li>,['li'],0,0,2,0,0.0,2.65
+777,"<a href=""http://news.okezone.com/read/2016/10/10/15/1510644/pertama-kalinya-mercy-jual-200-ribu-mobil-dalam-sebulan"" title=""Pertama Kalinya Mercy Jual 200 Ribu Mobil dalam Sebulan""><img alt=""Pertama Kalinya Mercy Jual 200 Ribu Mobil dalam Sebulan"" data-pagespeed-url-hash=""1999492697"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com/dynamic/content/2016/10/10/15/1510644/pertama-kalinya-mercy-jual-200-ribu-mobil-dalam-sebulan-MnH2W9ClFL.jpg?w=100""/></a>","['a', 'img']",0,0,4,0,0.0,2.6
+778,"<span><a href=""http://news.okezone.com/read/2016/10/10/15/1510644/pertama-kalinya-mercy-jual-200-ribu-mobil-dalam-sebulan"" title=""Pertama Kalinya Mercy Jual 200 Ribu Mobil dalam Sebulan"">Pertama Kalinya Mercy Jual 200 Ribu Mobil dalam Sebulan</a></span>","['span', 'a']",0,9,4,0,8.5,3.4
+779,<li></li>,['li'],0,0,2,0,0.0,2.6
+780,"<a href=""http://economy.okezone.com/read/2016/10/10/470/1510612/pembeli-properti-asal-china-di-malaysia-melonjak-5-kali-lipat"" title=""Pembeli Properti Asal China di Malaysia Melonjak 5 Kali Lipat""><img alt=""Pembeli Properti Asal China di Malaysia Melonjak 5 Kali Lipat"" data-pagespeed-url-hash=""3852078730"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com/dynamic/content/2016/10/10/470/1510612/pembeli-properti-asal-china-di-malaysia-melonjak-5-kali-lipat-Xw6uuu2CF2.jpg?w=100""/></a>","['a', 'img']",0,0,4,0,0.0,2.65
+781,"<span><a href=""http://economy.okezone.com/read/2016/10/10/470/1510612/pembeli-properti-asal-china-di-malaysia-melonjak-5-kali-lipat"" title=""Pembeli Properti Asal China di Malaysia Melonjak 5 Kali Lipat"">Pembeli Properti Asal China di Malaysia Melonjak 5 Kali Lipat</a></span>","['span', 'a']",0,10,4,0,9.0,3.6
+782,<li></li>,['li'],0,0,2,0,0.0,2.55
+783,"<a href=""http://celebrity.okezone.com/read/2016/10/10/33/1510642/pengacara-mario-teguh-ajukan-permintaan-tes-dna"" title=""Pengacara Mario Teguh Ajukan Permintaan Tes DNA""><img alt=""Pengacara Mario Teguh Ajukan Permintaan Tes DNA"" data-pagespeed-url-hash=""2319039072"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://img.okezone.com/dynamic/content/2016/10/10/33/1510642/pengacara-mario-teguh-ajukan-permintaan-tes-dna-zheCyeaufG.jpg?w=100""/></a>","['a', 'img']",0,0,4,0,0.0,2.4
+784,"<span><a href=""http://celebrity.okezone.com/read/2016/10/10/33/1510642/pengacara-mario-teguh-ajukan-permintaan-tes-dna"" title=""Pengacara Mario Teguh Ajukan Permintaan Tes DNA"">Pengacara Mario Teguh Ajukan Permintaan Tes DNA</a></span>","['span', 'a']",0,7,4,0,7.5,3.0
+785, ,[],0,0,2,0,0.0,1.5
+786,,[],0,0,1,0,0.0,0.75
+787,,[],0,0,1,0,0.0,0.0
+788,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+789,"<div class=""sindo-update""></div>",['div'],0,0,1,0,0.0,0.4
+790,"<div class=""sindo-update""></div>",['div'],0,0,1,0,0.0,0.8
+791,"<span class=""sindo-updateseo"">SindoNews Update</span>",['span'],2,0,2,0,4.0,1.6
+792,"<ul class=""list-sindo-upd""></ul>",['ul'],0,0,1,0,0.0,0.8
+793,<li></li>,['li'],0,0,1,0,0.0,1.2
+794,"<a href=""http://daerah.sindonews.com/read/1145920/21/kementerian-pupr-pasang-jembatan-sementara-d-kotai-banjar-1476078069""><img alt=""Kementerian PUPR Pasang Jembatan Sementara d Kotai Banjar"" data-pagespeed-url-hash=""3688998807"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.sindonews.net/dyn/620/content/2016/10/10/21/1145920/kementerian-pupr-pasang-jembatan-sementara-d-kotai-banjar-gXn-thumb.jpg""/></a>","['a', 'img']",0,0,4,0,0.0,1.6
+795,"<span><a href=""http://daerah.sindonews.com/read/1145920/21/kementerian-pupr-pasang-jembatan-sementara-d-kotai-banjar-1476078069"" title=""Kementerian PUPR Pasang Jembatan Sementara d Kotai Banjar"">Kementerian PUPR Pasang Jembatan Sementara d Kotai Banjar</a></span>","['span', 'a']",0,8,4,0,8.0,3.2
+796,,[],0,0,1,0,0.0,1.6
+797,<li></li>,['li'],0,0,1,0,0.0,1.7
+798,"<a href=""http://ekbis.sindonews.com/read/1145919/32/jeda-siang-ihsg-melemah-4-46-poin-rupiah-berjaya-32-poin-1476077860""><img alt=""Jeda Siang: IHSG Melemah 4,46 Poin, Rupiah Berjaya 32 Poin"" data-pagespeed-url-hash=""2520729964"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.sindonews.net/dyn/620/content/2016/10/10/32/1145919/jeda-siang-ihsg-melemah-4-46-poin-rupiah-berjaya-32-poin-cf2-thumb.jpg""/></a>","['a', 'img']",0,0,4,0,0.0,1.8
+799,"<span><a href=""http://ekbis.sindonews.com/read/1145919/32/jeda-siang-ihsg-melemah-4-46-poin-rupiah-berjaya-32-poin-1476077860"" title=""Jeda Siang: IHSG Melemah 4,46 Poin, Rupiah Berjaya 32 Poin"">Jeda Siang: IHSG Melemah 4,46 Poin, Rupiah Berjaya 32 Poin</a></span>","['span', 'a']",0,10,4,0,9.0,3.6
+800,,[],0,0,1,0,0.0,1.8
+801,<li></li>,['li'],0,0,1,0,0.0,1.45
+802,"<a href=""http://sports.sindonews.com/read/1145916/49/dovizioso-takut-takuti-lorenzo-1476076493""><img alt=""Dovizioso Takut-takuti Lorenzo"" data-pagespeed-url-hash=""1510033950"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.sindonews.net/dyn/620/content/2016/10/10/49/1145916/dovizioso-takut-takuti-lorenzo-IXJ-thumb.jpg""/></a>","['a', 'img']",0,0,4,0,0.0,1.1
+803,"<span><a href=""http://sports.sindonews.com/read/1145916/49/dovizioso-takut-takuti-lorenzo-1476076493"" title=""Dovizioso Takut-takuti Lorenzo"">Dovizioso Takut-takuti Lorenzo</a></span>","['span', 'a']",0,3,4,0,5.5,2.2
+804,,[],0,0,1,0,0.0,1.1
+805,<li></li>,['li'],0,0,1,0,0.0,1.3
+806,"<a href=""http://ekbis.sindonews.com/read/1145918/33/kemenkeu-berupaya-tak-potong-anggaran-apbn-2017-1476077363""><img alt=""Kemenkeu Berupaya Tak Potong Anggaran APBN 2017"" data-pagespeed-url-hash=""4116407674"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.sindonews.net/dyn/620/content/2016/10/10/33/1145918/kemenkeu-berupaya-tak-potong-anggaran-apbn-2017-BIC-thumb.jpg""/></a>","['a', 'img']",0,0,4,0,0.0,1.5
+807,"<span><a href=""http://ekbis.sindonews.com/read/1145918/33/kemenkeu-berupaya-tak-potong-anggaran-apbn-2017-1476077363"" title=""Kemenkeu Berupaya Tak Potong Anggaran APBN 2017"">Kemenkeu Berupaya Tak Potong Anggaran APBN 2017</a></span>","['span', 'a']",0,7,4,0,7.5,3.0
+808,,[],0,0,1,0,0.0,1.5
+809,<li></li>,['li'],0,0,1,0,0.0,1.6
+810,"<a href=""http://lifestyle.sindonews.com/read/1145874/187/lee-seung-gi-gugup-bertemu-dengan-yura-girls-day-1476066443""><img alt=""Lee Seung Gi Gugup Bertemu dengan Yura Girls Day"" data-pagespeed-url-hash=""207781445"" onload=""pagespeed.CriticalImages.checkImageForCriticality(this);"" src=""https://cdn.sindonews.net/dyn/620/content/2016/10/10/187/1145874/lee-seung-gi-gugup-bertemu-dengan-yura-girls-day-Vii-thumb.jpg""/></a>","['a', 'img']",0,0,4,0,0.0,1.7
+811,"<span><a href=""http://lifestyle.sindonews.com/read/1145874/187/lee-seung-gi-gugup-bertemu-dengan-yura-girls-day-1476066443"" title=""Lee Seung Gi Gugup Bertemu dengan Yura Girls Day"">Lee Seung Gi Gugup Bertemu dengan Yura Girls Day</a></span>","['span', 'a']",0,9,4,0,8.5,3.75
+812,,[],0,0,1,0,0.0,2.4
+813,"<p class=""readmore""><a href=""http://www.sindonews.com/"">MORE</a></p>","['p', 'a']",0,1,4,1,3.5,2.25
+814,,[],0,0,1,0,0.0,0.7
+815,,[],0,0,1,0,0.0,0.35
+816,,[],0,0,1,0,0.0,0.0
+817,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+818,"<div class=""ads-tr3 img-ads-tr""></div>",['div'],0,0,1,0,0.0,0.0
+819,"<div id=""div-gpt-ad-1464083267153-0"" style=""height:250px; width:300px;""></div>",['div'],0,0,1,0,0.0,0.0
+820,,[],0,0,0,0,0.0,0.0
+821,,[],0,0,1,0,0.0,0.0
+822,,[],0,0,1,0,0.0,0.0
+823,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+824,"<div class=""sticky-sidebar""></div>",['div'],0,0,1,0,0.0,0.0
+825,"<div class=""ads-tr4 img-ads-tr""></div>",['div'],0,0,1,0,0.0,0.0
+826,"<div id=""div-gpt-ad-1464585245971-0"" style=""height:250px; width:300px;""></div>",['div'],0,0,1,0,0.0,0.0
+827,,[],0,0,0,0,0.0,0.0
+828,,[],0,0,1,0,0.0,0.0
+829,,[],0,0,1,0,0.0,0.0
+830,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+831,"<div class=""ads-tr5 img-ads-tr""></div>",['div'],0,0,1,0,0.0,0.0
+832,"<div id=""div-gpt-ad-1464585340061-0"" style=""height:250px; width:300px;""></div>",['div'],0,0,1,0,0.0,0.0
+833,,[],0,0,0,0,0.0,0.0
+834,,[],0,0,1,0,0.0,0.0
+835,,[],0,0,1,0,0.0,0.0
+836,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+837,,[],0,0,1,0,0.0,0.0
+838,,[],0,0,1,0,0.0,0.0
+839,,[],0,0,0,0,0.0,0.0
+840,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+841,"<div class=""ads-footer-bottom-sticky""></div>",['div'],0,0,1,0,0.0,0.0
+842,"<div class=""ads-footer-bottom-sticky2""></div>",['div'],0,0,1,0,0.0,0.0
+843,"<div id=""div-gpt-ad-1465964571881-0""></div>",['div'],0,0,1,0,0.0,0.0
+844,,[],0,0,0,0,0.0,0.0
+845,,[],0,0,1,0,0.0,0.0
+846,,[],0,0,1,0,0.0,0.0
+847,,[],0,0,1,0,0.0,0.0
+848,"<div class=""breaking-news-wpslide""></div>",['div'],0,0,1,0,0.0,0.4
+849,"<div class=""header-breaking-news-wpslide""></div>",['div'],0,0,1,0,0.0,1.1
+850,<span>breaking news</span>,['span'],2,0,2,0,4.0,2.2
+851,"<span class=""close-slide"">x</span>",['span'],1,0,2,0,3.0,2.0
+852,,[],0,0,1,0,0.0,1.0
+853,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.3
+854,"<div class=""body-breaking-news-wpslide""></div>",['div'],0,0,1,0,0.0,0.0
+855,"<div class=""carousel slide media-carousel media-carousel-break"" id=""mediabreak""></div>",['div'],0,0,1,0,0.0,0.0
+856,"<div class=""carousel-inner carousel-inner-break carousel-inner-breakslide""></div>",['div'],0,0,1,0,0.0,0.0
+857,"<div class=""item active"" id=""tab1""></div>",['div'],0,0,1,0,0.0,0.0
+858,"<div class=""row""></div>",['div'],0,0,1,0,0.0,0.0
+859,"<div class=""row-break""></div>",['div'],0,0,1,0,0.0,0.0
+860,"<div class=""row-break-text col-md-12""></div>",['div'],0,0,1,0,0.0,1.1
+861,"<a href=""http://news.okezone.com/read/2016/10/10/18/1510647/korban-tewas-akibat-badai-matthew-di-haiti-mencapai-1-000-jiwa""></a>",['a'],0,0,1,0,0.0,2.2
+862,<p>Korban Tewas Akibat Badai Matthew di Haiti Mencapai 1.000 Jiwa</p>,['p'],10,0,2,1,11.0,4.4
+863,,[],0,0,1,0,0.0,2.2
+864,,[],0,0,1,0,0.0,1.1
+865,,[],0,0,1,0,0.0,0.0
+866,,[],0,0,1,0,0.0,0.0
+867,,[],0,0,1,0,0.0,0.0
+868,"<div class=""item "" id=""tab2""></div>",['div'],0,0,1,0,0.0,0.0
+869,"<div class=""row""></div>",['div'],0,0,1,0,0.0,0.0
+870,"<div class=""row-break""></div>",['div'],0,0,1,0,0.0,0.0
+871,"<div class=""row-break-text col-md-12""></div>",['div'],0,0,1,0,0.0,1.1
+872,"<a href=""http://news.okezone.com/read/2016/10/10/337/1510645/tak-setuju-tni-berpolitik-menhan-kondisi-politik-indonesia-belum-stabil""></a>",['a'],0,0,1,0,0.0,2.2
+873,"<p>Tak Setuju TNI Berpolitik, Menhan: Kondisi Politik Indonesia Belum Stabil</p>",['p'],10,0,2,1,11.0,4.4
+874,,[],0,0,1,0,0.0,2.2
+875,,[],0,0,1,0,0.0,1.1
+876,,[],0,0,1,0,0.0,0.0
+877,,[],0,0,1,0,0.0,0.0
+878,,[],0,0,1,0,0.0,0.0
+879,,[],0,0,1,0,0.0,0.0
+880,"<a class=""left break carousel-control"" data-slide=""next"" href=""#mediabreak""></a>",['a'],0,0,2,0,0.0,0.0
+881,"<a class=""right break carousel-control"" data-slide=""prev"" href=""#mediabreak""></a>",['a'],0,0,2,0,0.0,0.0
+882,,[],0,0,1,0,0.0,0.0
+883,,[],0,0,1,0,0.0,0.0
+884,,[],0,0,1,0,0.0,0.0

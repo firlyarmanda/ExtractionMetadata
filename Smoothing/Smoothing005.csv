@@ -1,0 +1,1141 @@
+,HTML,TAG,TC,LTC,TG,P,CTTD,CTTDs
+0,"<!DOCTYPE html>
+",[],0,0,0,0,0.0,0.0
+1,,[],0,0,0,0,0.0,0.0
+2,<html></html>,['html'],0,0,1,0,0.0,0.0
+3,<head></head>,['head'],0,0,1,0,0.0,0.0
+4,,[],0,0,1,0,0.0,0.0
+5,<body></body>,['body'],0,0,1,0,0.0,0.0
+6,,[],0,0,0,0,0.0,0.0
+7,,[],0,0,0,0,0.0,0.0
+8,,[],0,0,0,0,0.0,0.0
+9,,[],0,0,0,0,0.0,0.0
+10,"<div class=""bn_skin bn_skin1""></div>",['div'],0,0,1,0,0.0,0.0
+11,"<div class=""skin3""></div>",['div'],0,0,1,0,0.0,0.0
+12,,[],0,0,0,0,0.0,0.0
+13,,[],0,0,1,0,0.0,0.0
+14,,[],0,0,1,0,0.0,0.0
+15,"<div class=""bn_skin bn_skin2""></div>",['div'],0,0,1,0,0.0,0.0
+16,"<div class=""skin3""></div>",['div'],0,0,1,0,0.0,0.0
+17,,[],0,0,0,0,0.0,0.0
+18,,[],0,0,1,0,0.0,0.0
+19,,[],0,0,1,0,0.0,0.0
+20,,[],0,0,0,0,0.0,0.0
+21,,[],0,0,0,0,0.0,0.0
+22,,[],0,0,0,0,0.0,0.0
+23,"<div class=""bottom_banner_bar"" style=""display:none;""></div>",['div'],0,0,1,0,0.0,0.0
+24,"<div align=""left"" id=""bottom_banner""></div>",['div'],0,0,1,0,0.0,0.0
+25,"<div class=""container_topbanner""></div>",['div'],0,0,1,0,0.0,0.0
+26,,[],0,0,0,0,0.0,0.0
+27,,[],0,0,1,0,0.0,0.0
+28,,[],0,0,1,0,0.0,0.0
+29,,[],0,0,1,0,0.0,0.0
+30,,[],0,0,0,0,0.0,0.0
+31,,[],0,0,0,0,0.0,0.0
+32,,[],0,0,0,0,0.0,0.0
+33,,[],0,0,0,0,0.0,0.0
+34,,[],0,0,0,0,0.0,0.0
+35,,[],0,0,0,0,0.0,0.0
+36,"<div class=""container""></div>",['div'],0,0,1,0,0.0,0.0
+37,"<div class=""header navbar_ga""></div>",['div'],0,0,1,0,0.0,0.0
+38,"<a href=""//finance.detik.com/""></a>",['a'],0,0,1,0,0.0,0.0
+39,"<img alt=""detikfinance"" class=""logodetik"" src=""https://cdn.detik.net.id/finance/images/logo-detikfinance.png""/>",['img'],0,0,2,0,0.0,0.0
+40,,[],0,0,1,0,0.0,0.0
+41,"<div class=""fr"" id=""leaderboard""></div>",['div'],0,0,1,0,0.0,0.0
+42,,[],0,0,1,0,0.0,0.0
+43,,[],0,0,1,0,0.0,0.0
+44,"<div class=""header_top navbar_ga""></div>",['div'],0,0,1,0,0.0,0.0
+45,"<div class=""menu""></div>",['div'],0,0,1,0,0.0,0.0
+46,<ul></ul>,['ul'],0,0,1,0,0.0,0.45
+47,"<li class=""menud""><a href=""//detik.com""><img alt="""" src=""https://cdn.detik.net.id/finance/images/favicon_detikcom.png""/></a><li></li></li>","['li', 'a', 'img', 'li']",0,0,6,0,0.0,1.4
+48,"<li><a href=""//finance.detik.com/"">Home</a><li></li></li>","['li', 'a', 'li']",0,1,4,0,4.5,3.25
+49,"<li><a href=""//finance.detik.com/ekonomi-bisnis"">Ekonomi Bisnis</a><li></li></li>","['li', 'a', 'li']",0,2,4,0,5.0,4.3
+50,"<li><a href=""//finance.detik.com/finansial"">Finansial</a><li></li></li>","['li', 'a', 'li']",0,1,4,0,4.5,4.75
+51,"<li><a href=""//finance.detik.com/peluang-usaha"">Peluang Usaha</a><li></li></li>","['li', 'a', 'li']",0,2,4,0,5.0,4.85
+52,"<li><a href=""//finance.detik.com/perencanaan-keuangan"">Perencanaan Keuangan</a><li></li></li>","['li', 'a', 'li']",0,2,4,0,5.0,4.8
+53,"<li><a href=""//finance.detik.com/properti"">Properti</a><li></li></li>","['li', 'a', 'li']",0,1,4,0,4.5,4.65
+54,"<li><a href=""//finance.detik.com/energi"">Energi</a><li></li></li>","['li', 'a', 'li']",0,1,4,0,4.5,4.55
+55,"<li><a href=""//finance.detik.com/industri"">Industri</a><li></li></li>","['li', 'a', 'li']",0,1,4,0,4.5,4.5
+56,"<li><a href=""//finance.detik.com/dpreneur"">d’Preneur</a><li></li></li>","['li', 'a', 'li']",0,1,4,0,4.5,4.05
+57,"<li><a href=""//finance.detik.com/indeks"">Indeks</a><li></li></li>","['li', 'a', 'li']",0,1,4,0,4.5,3.15
+58,,[],0,0,23,0,0.0,1.35
+59,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.45
+60,,[],0,0,1,0,0.0,0.35
+61,"<div class=""menu2""></div>",['div'],0,0,1,0,0.0,1.3
+62,"<a href=""//finance.detik.com/konsultasi"">Konsultasi</a> ·",['a'],1,1,2,0,3.5,2.95
+63,"<a class=""new"" href=""//solusiukm.detik.com/""> SolusiUKM <span>new</span></a> ·","['a', 'span']",1,2,4,0,6.0,4.2
+64,"<a href=""//finance.detik.com/infografis"">Infografis</a> ·",['a'],1,1,2,0,3.5,4.1
+65,"<a href=""//finance.detik.com/bursa-valas"">Bursa Valas</a> ·",['a'],1,2,2,0,4.0,4.0
+66,"<a href=""//finance.detik.com/moneter"">Moneter</a> ·",['a'],1,1,2,0,3.5,3.7
+67,"<a href=""//finance.detik.com/market-research"">Market Research</a> ·",['a'],1,2,2,0,4.0,3.75
+68,"<a href=""//finance.detik.com/foto"">Foto</a> ·",['a'],1,1,2,0,3.5,3.65
+69,"<a href=""//finance.detik.com/video"">BizVideo</a> ·",['a'],1,1,2,0,3.5,3.55
+70,"<a href=""//finance.detik.com/mostpopular"">Most Popular</a> ·",['a'],1,2,2,0,4.0,3.15
+71,"<a href=""//finance.detik.com/indeksfokus"">Fokus</a>",['a'],0,1,2,0,2.5,2.15
+72,,[],0,0,1,0,0.0,0.9
+73,,[],0,0,1,0,0.0,0.25
+74,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+75,"<div class=""content detail_s"" data-sticky_parent=""""></div>",['div'],0,0,1,0,0.0,0.0
+76,"<div class=""detail_content""></div>",['div'],0,0,1,0,0.0,0.35
+77,"<div class=""breadcrumb breadcrumb_ga""></div>",['div'],0,0,1,0,0.0,1.05
+78,"<a href=""//finance.detik.com/"">detikFinance</a> /",['a'],1,1,2,0,3.5,2.4
+79,"<a href=""//finance.detik.com/moneter"">Moneter</a> /",['a'],1,1,2,0,3.5,2.7
+80,"<a href=""#"">Detail Berita</a>",['a'],0,2,2,0,3.0,2.25
+81,,[],0,0,1,0,0.0,1.35
+82,"<div class=""btn_like""></div>",['div'],0,0,1,0,0.0,1.1
+83,"<span class=""fol fl"">Follow detikFinance</span>",['span'],2,0,2,0,4.0,1.6
+84,"<a class=""fb"" href=""https://facebook.com/detikfinance"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.8
+85,"<img alt="""" src=""https://cdn.detik.net.id/finance/images/icon_fb.png""/>",['img'],0,0,1,0,0.0,0.4
+86,,[],0,0,2,0,0.0,0.0
+87,"<a class=""tw"" href=""https://twitter.com/detikfinance"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.0
+88,"<img alt="""" src=""https://cdn.detik.net.id/finance/images/icon_tw.png""/>",['img'],0,0,1,0,0.0,0.0
+89,,[],0,0,2,0,0.0,0.0
+90,"<a class=""gplus"" href=""https://plus.google.com/u/0/+detikcom/posts"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.0
+91,"<img alt="""" src=""https://cdn.detik.net.id/finance/images/icon_gplus.png""/>",['img'],0,0,1,0,0.0,0.0
+92,,[],0,0,2,0,0.0,0.0
+93,"<a class=""insta"" href=""https://instagram.com/detikcom"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.0
+94,"<img alt="""" src=""https://cdn.detik.net.id/finance/images/icon_insta.png""/>",['img'],0,0,1,0,0.0,0.0
+95,,[],0,0,2,0,0.0,0.0
+96,,[],0,0,1,0,0.0,0.0
+97,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+98,"<div id=""banner_top_detail""></div>",['div'],0,0,1,0,0.0,0.0
+99,,[],0,0,1,0,0.0,0.0
+100,<article></article>,['article'],0,0,1,0,0.0,0.8
+101,"<div class=""jdl""></div>",['div'],0,0,1,0,0.0,1.6
+102,"<div class=""date"">Kamis 29 Sep 2016, 17:24 WIB</div>",['div'],6,0,2,0,8.0,4.5
+103,<h2></h2>,['h2'],0,0,2,0,0.0,4.9
+104,"<h1>Layani Peserta <i>Tax Amnesty</i>, BI Perpanjang Jam Operasional Kliring</h1>","['h1', 'i']",9,0,4,0,13.0,7.4
+105,"<div class=""author"">Dewi Rachmat Kusuma - detikFinance</div>",['div'],5,0,2,0,7.0,5.4
+106,,[],0,0,1,0,0.0,2.7
+107,,[],0,0,0,0,0.0,0.7
+108,"<div class=""share-top-new "" id=""share_top""></div>",['div'],0,0,1,0,0.0,0.4
+109,"<a class=""count"" href=""#""></a>",['a'],0,0,1,0,0.0,0.8
+110,<strong>0</strong> SHARED,['strong'],2,0,2,0,4.0,1.6
+111,,[],0,0,1,0,0.0,0.8
+112,"<a class=""fb"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Share Atas"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring?utm_source=News&amp;utm_medium=Desktop&amp;utm_campaign=ShareFacebook"" href=""#""></a>",['a'],0,0,1,0,0.0,1.0
+113,"<img alt="""" src=""https://cdn.detik.net.id/libs/sharebox/images/sh-fb.png""/>",['img'],0,0,1,0,0.0,1.2
+114,<span>Share <b>0</b></span>,"['span', 'b']",2,0,4,0,6.0,2.4
+115,,[],0,0,2,0,0.0,1.2
+116,"<a class=""tw"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Share Atas"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring?utm_source=News&amp;utm_medium=Website&amp;utm_campaign=ShareTwitter"" href=""#""></a>",['a'],0,0,1,0,0.0,1.1
+117,"<img alt="""" src=""https://cdn.detik.net.id/libs/sharebox/images/sh-tw.png""/>",['img'],0,0,1,0,0.0,1.0
+118,<span>Tweet <b></b></span>,"['span', 'b']",1,0,4,0,5.0,2.0
+119,,[],0,0,2,0,0.0,1.0
+120,"<a class=""gplus"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Share Atas"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring?utm_source=News&amp;utm_medium=Desktop&amp;utm_campaign=ShareGoogle"" href=""#""></a>",['a'],0,0,1,0,0.0,1.1
+121,"<img alt="""" src=""https://cdn.detik.net.id/libs/sharebox/images/sh-gplus.png""/>",['img'],0,0,1,0,0.0,1.2
+122,<span>Share <b>0</b></span>,"['span', 'b']",2,0,4,0,6.0,2.4
+123,,[],0,0,2,0,0.0,1.2
+124,"<a class=""komentar"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Button Komentar"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring"" href=""#""></a>",['a'],0,0,1,0,0.0,1.0
+125,"<img alt="""" src=""https://cdn.detik.net.id/libs/sharebox/images/sh-com.png""/>",['img'],0,0,1,0,0.0,0.8
+126,<span>0 Komentar</span>,['span'],2,0,2,0,4.0,1.6
+127,,[],0,0,2,0,0.0,0.8
+128,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.4
+129,,[],0,0,1,0,0.0,0.7
+130,"<div class=""pic_artikel""></div>",['div'],0,0,1,0,0.0,1.4
+131,"<img alt=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" class="""" src=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810_169.jpg?w=650&amp;q=90"" title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring""/> <span>Foto: Grandyos Zafna</span>","['img', 'span']",3,0,4,0,7.0,2.8
+132,,[],0,0,1,0,0.0,1.4
+133,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.1
+134,"<div class=""detail_fokus_l""></div>",['div'],0,0,1,0,0.0,0.8
+135,<strong>FOKUS BERITA</strong>,['strong'],2,0,2,0,4.0,2.1
+136,"<a href=""//finance.detik.com/indeksfokus/1837/ramai-ramai-ikut-pengampunan-pajak""></a>",['a'],0,0,1,0,0.0,1.8
+137,Ramai-ramai Ikut Pengampunan Pajak            ,[],4,0,1,0,5.0,2.4
+138,,[],0,0,1,0,0.0,1.0
+139,"<div data-sticky_parent=""""></div>",['div'],0,0,1,0,0.0,0.5
+140,"<div class=""share-top-new"" style=""margin: 0px;height:auto;""></div>",['div'],0,0,1,0,0.0,0.0
+141,"<div class=""share_float sticky"" data-sticky_column=""""></div>",['div'],0,0,1,0,0.0,0.3
+142,"<a class=""share_detail fb"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Share Floating"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring?utm_source=News&amp;utm_medium=Desktop&amp;utm_campaign=ShareFacebook"" href=""#"" style=""width:45px; height: 65px; border-radius: 0px;""> <img alt="""" src=""//finance.detik.com/images/icon_fb.png""/></a>","['a', 'img']",0,0,2,0,0.0,0.6
+143,"<span class=""nolabel"" style=""padding-left:18px;"">0</span>",['span'],1,0,2,0,3.0,1.2
+144,,[],0,0,2,0,0.0,0.6
+145,"<a class=""share_detail tw"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Share Floating"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring?utm_source=News&amp;utm_medium=Website&amp;utm_campaign=ShareTwitter"" href=""#"" style=""width:45px; border-radius: 0px;""> <img alt="""" src=""//finance.detik.com/images/icon_tw.png""/></a>","['a', 'img']",0,0,2,0,0.0,0.3
+146,,[],0,0,2,0,0.0,0.3
+147,"<a class=""share_detail gplus"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Share Floating"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring?utm_source=News&amp;utm_medium=Desktop&amp;utm_campaign=ShareGoogle"" href=""#"" style=""width:45px; height: 65px; border-radius: 0px;""> <img alt="""" src=""//finance.detik.com/images/icon_gplus.png""/></a>","['a', 'img']",0,0,2,0,0.0,0.6
+148,"<span class=""nolabel"" style=""padding-left:18px;"">0</span>",['span'],1,0,2,0,3.0,1.2
+149,,[],0,0,2,0,0.0,0.9
+150,"<a class=""share_detail comm komentar"" data-action=""Artikel "" data-category=""Detail Artikel"" data-desc=""Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran."" data-image=""http://images.detik.com/community/media/visual/2014/06/10/3035f588-f8e8-481f-bee0-d26ba2e43810.jpg?w=650"" data-label=""Button Komentar"" data-title=""Layani Peserta Tax Amnesty, BI Perpanjang Jam Operasional Kliring"" data-url=""http://finance.detik.com/moneter/d-3309932/layani-peserta-tax-amnesty-bi-perpanjang-jam-operasional-kliring"" href=""#"" style=""width:45px; height: 65px; border-radius: 0px;""> <img alt="""" src=""//finance.detik.com/images/icon_comment.png""/></a>","['a', 'img']",0,0,2,0,0.0,0.9
+151,"<span class=""nolabel"" style=""padding-left:18px;"">0</span>",['span'],1,0,2,0,3.0,1.2
+152,,[],0,0,2,0,0.0,0.6
+153,,[],0,0,1,0,0.0,0.3
+154,,[],0,0,1,0,0.0,33.7
+155,"<div class=""detail_text""></div>",['div'],0,0,1,0,0.0,67.4
+156,"<b>Jakarta</b> - Untuk mendukung implementasi UU Pengampunan Pajak (Tax Amnesty), Bank Indonesia (BI) memperpanjang waktu operasional penyelenggaraan sistem pembayaran.<br/><br/>Dikutip <strong>detikFinance</strong> dari keterangan resmi BI, Kamis (29/9/2016), berikut penjelasannya:<br/><br/>1. Perpanjangan <em>Window Time</em> (operasional) Penyelenggaraan Sistem Pembayaran pada tanggal 29 dan 30 September 2016<br/><br/>a. Perpanjangan <em>window time</em> BI-RTGS (Bank Indonesia-<em>Real Time Gross Settlement</em>) dan BI-SSSS (Bank Indonesia-<em>Scripless Securities Settlement System</em>) selama 60 (enam puluh) menit, sebagai berikut:<br/><br/>- Informasi menjelang tutup sistem atau <em>Cut off Warning </em>(COW) yang semula pukul 17.00 WIB menjadi 18.00 WIB<br/>- Persiapan tutup sistem atau <em>Pre Cut Off </em>(PCO) yang semula pukul 18.00 WIB menjadi 19.00 WIB<br/>- Tutup Sistem atau <em>Cut</em> off Time (COT) BI-SSSS yang semula pukul 18.30 WIB menjadi 19.00 WIB<br/>- Tutup Sistem atau <em>Cut off Time</em> (COT) BI-RTGS yang semula pukul 19.00 WIB menjadi 20.00 WIB<br/><br/>Seluruh transaksi yang berakhir sampai dengan pukul 14.30 WIB diperpanjang selama 60 (enam puluh) menit, termasuk setoran Penerimaan Negara, transaksi antar Peserta untuk nasabah dan <em>Top Up</em> Kliring.<br/><br/>b. Perpanjangan <em>window time</em> SKNBI (Sistem Kliring Nasional Bank Indonesia) - Kliring Kredit Individual selama 60 (enam puluh) menit yaitu pengiriman DKE (Data Keuangan Elektronik) yang semula hingga pukul 16.30 WIB diperpanjang menjadi pukul 17.30 WIB.<br/><br/>2. Bank Indonesia melakukan stabilisasi di Pasar Uang Antar Bank (PUAB) dengan menambah likuiditas melalui instrumen Term Repo Tenor 1 minggu pada Selasa, tanggal 27 September 2016 dan Kamis, tanggal 29 September 2016, serta tambahan likuiditas melalui instrumen operasi moneter lainnya seperti lelang FX <em>Swap</em> yang frekuensi lelangnya ditingkatkan. <br/><br/>Kebijakan ini bertujuan agar tersedia likuiditas yang cukup bagi para pelaku <em>tax amnesty</em> yang akan melakukan pembayaran tebusan pajak kepada Negara.<br/><br/>Dengan upaya tersebut di atas, Bank Indonesia mengharapkan agar program <em>tax amnesty</em> dapat berjalan dengan baik sehingga bermanfaat dengan optimal bagi perekonomian nasional.            <strong>(drk/drk) </strong>","['b', 'br', 'br', 'strong', 'br', 'br', 'em', 'br', 'br', 'em', 'em', 'em', 'br', 'br', 'em', 'br', 'em', 'br', 'em', 'br', 'em', 'br', 'br', 'em', 'br', 'br', 'em', 'br', 'br', 'em', 'br', 'br', 'em', 'br', 'br', 'em', 'strong']",284,0,74,21,337.0,134.8
+157,"<div class=""clearfix mb20""></div>",['div'],0,0,2,0,0.0,67.4
+158,,[],0,0,1,0,0.0,33.7
+159,"<div class=""skybanner""></div>",['div'],0,0,1,0,0.0,0.0
+160,"<div class=""skybanner_container sticky""></div>",['div'],0,0,1,0,0.0,0.0
+161,,[],0,0,0,0,0.0,0.0
+162,,[],0,0,1,0,0.0,0.0
+163,,[],0,0,1,0,0.0,0.0
+164,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+165,,[],0,0,1,0,0.0,0.4
+166,"<div class=""detail_fokus_l""></div>",['div'],0,0,1,0,0.0,0.8
+167,<strong>FOKUS BERITA</strong>,['strong'],2,0,2,0,4.0,2.1
+168,"<a href=""//finance.detik.com/indeksfokus/1837/ramai-ramai-ikut-pengampunan-pajak""></a>",['a'],0,0,1,0,0.0,1.8
+169,Ramai-ramai Ikut Pengampunan Pajak            ,[],4,0,1,0,5.0,2.4
+170,,[],0,0,1,0,0.0,1.0
+171,,[],0,0,1,0,0.0,0.5
+172,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+173,,[],0,0,0,0,0.0,0.0
+174,"<div id=""themood""></div>",['div'],0,0,2,0,0.0,0.0
+175,,[],0,0,0,0,0.0,0.0
+176,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.4
+177,"<div class=""bacajuga bacajuga_ga""></div>",['div'],0,0,1,0,0.0,0.8
+178,"<div class=""title"">Baca Juga</div>",['div'],2,0,2,0,4.0,1.6
+179,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.8
+180,"<div class=""list_berita""></div>",['div'],0,0,1,0,0.0,0.4
+181,<article></article>,['article'],0,0,1,0,0.0,0.0
+182,"<a href=""//finance.detik.com/moneter/d-3312561/tekan-inflasi-bi-bentuk-tpid-di-seluruh-kabupatenkota""></a>",['a'],0,0,1,0,0.0,0.0
+183,"<div class=""ratio16_9 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+184,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+185,"<img alt=""Tekan Inflasi, BI Bentuk TPID di Seluruh Kabupaten/Kota"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/20/8cb5752b-aaa2-4b0d-b004-1487cb500b44_169.jpg?w=210&amp;q=90"" title=""Tekan Inflasi, BI Bentuk TPID di Seluruh Kabupaten/Kota""/> ",['img'],0,0,3,0,0.0,1.0
+186,,[],0,0,1,0,0.0,2.0
+187,"<h3>Tekan Inflasi, BI Bentuk TPID di Seluruh Kabupaten/Kota</h3>",['h3'],8,0,2,0,10.0,4.0
+188,,[],0,0,1,0,0.0,2.0
+189,,[],0,0,1,0,0.0,1.0
+190,<article></article>,['article'],0,0,1,0,0.0,0.0
+191,"<a href=""//finance.detik.com/moneter/d-3312540/bi-segera-luncurkan-aplikasi-harga-pangan-akhir-tahun-ini""></a>",['a'],0,0,1,0,0.0,0.0
+192,"<div class=""ratio16_9 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+193,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+194,"<img alt=""BI Segera Luncurkan Aplikasi Harga Pangan Akhir Tahun Ini"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/20/fef7f5b6-ac10-462d-ad6b-ff24b0decb4f_169.jpg?w=210&amp;q=90"" title=""BI Segera Luncurkan Aplikasi Harga Pangan Akhir Tahun Ini""/> ",['img'],0,0,3,0,0.0,1.1
+195,,[],0,0,1,0,0.0,2.2
+196,<h3>BI Segera Luncurkan Aplikasi Harga Pangan Akhir Tahun Ini</h3>,['h3'],9,0,2,0,11.0,4.4
+197,,[],0,0,1,0,0.0,2.2
+198,,[],0,0,1,0,0.0,1.1
+199,<article></article>,['article'],0,0,1,0,0.0,0.0
+200,"<a href=""//finance.detik.com/moneter/d-3310741/khusus-layani-tax-amnesty-bank-mandiri-buka-sampai-jam-9-malam""></a>",['a'],0,0,1,0,0.0,0.0
+201,"<div class=""ratio16_9 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+202,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+203,"<img alt=""Khusus Layani Tax Amnesty, Bank Mandiri Buka Sampai Jam 9 Malam"" class="""" src=""http://images.detik.com/community/media/visual/2015/05/22/83b91987-7f60-48b0-8dbb-240c49c5e3b5_169.jpg?w=210&amp;q=90"" title=""Khusus Layani Tax Amnesty, Bank Mandiri Buka Sampai Jam 9 Malam""/> ",['img'],0,0,3,0,0.0,1.5
+204,,[],0,0,1,0,0.0,3.0
+205,"<h3>Khusus Layani <i>Tax Amnesty</i>, Bank Mandiri Buka Sampai Jam 9 Malam</h3>","['h3', 'i']",11,0,4,0,15.0,6.0
+206,,[],0,0,1,0,0.0,3.0
+207,,[],0,0,1,0,0.0,1.5
+208,<article></article>,['article'],0,0,1,0,0.0,0.0
+209,"<a href=""//finance.detik.com/moneter/d-3309602/bi-tax-amnesty-dan-debat-capres-as-bikin-rupiah-menguat""></a>",['a'],0,0,1,0,0.0,0.0
+210,"<div class=""ratio16_9 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+211,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+212,"<img alt=""BI: Tax Amnesty dan Debat Capres AS Bikin Rupiah Menguat"" class="""" src=""http://images.detik.com/community/media/visual/2016/05/06/f328ba43-ba56-4af6-9430-9c780e220626_169.jpg?w=210&amp;q=90"" title=""BI: Tax Amnesty dan Debat Capres AS Bikin Rupiah Menguat""/> ",['img'],0,0,3,0,0.0,1.4
+213,,[],0,0,1,0,0.0,2.8
+214,<h3>BI: <i>Tax Amnesty</i> dan Debat Capres AS Bikin Rupiah Menguat</h3>,"['h3', 'i']",10,0,4,0,14.0,5.6
+215,,[],0,0,1,0,0.0,2.8
+216,,[],0,0,1,0,0.0,1.4
+217,<article></article>,['article'],0,0,1,0,0.0,0.0
+218,"<a href=""//finance.detik.com/moneter/d-3309575/dolar-as-lengser-dari-rp-13000-gubernur-bi-penguatannya-sampai-6""></a>",['a'],0,0,1,0,0.0,0.0
+219,"<div class=""ratio16_9 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+220,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+221,"<img alt=""Dolar AS Lengser dari Rp 13.000, Gubernur BI: Penguatannya Sampai 6%"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/29/aaa3ff46-3b38-47b7-88e4-dd7ffe43239c_169.jpg?w=210&amp;q=90"" title=""Dolar AS Lengser dari Rp 13.000, Gubernur BI: Penguatannya Sampai 6%""/> ",['img'],0,0,3,0,0.0,1.3
+222,,[],0,0,1,0,0.0,2.6
+223,"<h3>Dolar AS Lengser dari Rp 13.000, Gubernur BI: Penguatannya Sampai 6%</h3>",['h3'],11,0,2,0,13.0,5.2
+224,,[],0,0,1,0,0.0,2.6
+225,,[],0,0,1,0,0.0,1.3
+226,<article></article>,['article'],0,0,1,0,0.0,0.0
+227,"<a href=""//finance.detik.com/moneter/d-3308714/ojk-usulan-tambahan-perusahaan-efek-dan-manajer-investasi-masih-dikaji""></a>",['a'],0,0,1,0,0.0,0.0
+228,"<div class=""ratio16_9 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+229,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+230,"<img alt=""OJK: Usulan Tambahan Perusahaan Efek dan Manajer Investasi Masih Dikaji"" class="""" src=""http://images.detik.com/community/media/visual/2016/06/14/3e093647-1415-45b7-8bbc-5d78d4a034d5_169.jpg?w=210&amp;q=90"" title=""OJK: Usulan Tambahan Perusahaan Efek dan Manajer Investasi Masih Dikaji""/> ",['img'],0,0,3,0,0.0,1.2
+231,,[],0,0,1,0,0.0,2.4
+232,<h3>OJK: Usulan Tambahan Perusahaan Efek dan Manajer Investasi Masih Dikaji</h3>,['h3'],10,0,2,0,12.0,4.8
+233,,[],0,0,1,0,0.0,2.4
+234,,[],0,0,1,0,0.0,1.2
+235,<article></article>,['article'],0,0,1,0,0.0,0.0
+236,"<a href=""//finance.detik.com/moneter/d-3307982/uang-wni-peserta-tax-amnesty-yang-pulang-kampung-lewat-bri-capai-rp-1-t""></a>",['a'],0,0,1,0,0.0,0.0
+237,"<div class=""ratio16_9 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+238,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+239,"<img alt=""Uang WNI Peserta Tax Amnesty yang Pulang Kampung Lewat BRI Capai Rp 1 T"" class="""" src=""http://images.detik.com/community/media/visual/2014/06/05/b2b35d11-618c-4600-b6ba-600b0374fa07_169.jpg?w=210&amp;q=90"" title=""Uang WNI Peserta Tax Amnesty yang Pulang Kampung Lewat BRI Capai Rp 1 T""/> ",['img'],0,0,3,0,0.0,1.8
+240,,[],0,0,1,0,0.0,3.6
+241,<h3>Uang WNI Peserta <i>Tax Amnesty</i> yang Pulang Kampung Lewat BRI Capai Rp 1 T</h3>,"['h3', 'i']",14,0,4,0,18.0,7.2
+242,,[],0,0,1,0,0.0,3.6
+243,,[],0,0,1,0,0.0,1.8
+244,,[],0,0,1,0,0.0,0.0
+245,,[],0,0,1,0,0.0,0.0
+246,"<div class=""clearfix pt20""></div>",['div'],0,0,2,0,0.0,0.4
+247,"<div class=""komentar_box""></div>",['div'],0,0,1,0,0.0,0.8
+248,"<div id=""thecomment"" style=""padding: 10px 15px; "">Komentar ...</div>",['div'],2,0,2,0,4.0,1.6
+249,,[],0,0,1,0,0.0,0.8
+250,,[],0,0,0,0,0.0,0.4
+251,,[],0,0,0,0,0.0,0.0
+252,,[],0,0,0,0,0.0,0.0
+253,,[],0,0,0,0,0.0,0.0
+254,,[],0,0,0,0,0.0,0.0
+255,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.5
+256,"<div class=""inforedaksi""></div>",['div'],0,0,1,0,0.0,1.55
+257,<b>Kontak Informasi Detikcom</b><br/>,"['b', 'br']",3,0,3,1,5.0,3.75
+258,"<b>Redaksi: </b> <a href=""mailto:redaksi@detikfinance.com"">redaksi[at]detikfinance.com</a><br/>","['b', 'a', 'br']",1,1,5,1,5.5,5.05
+259,"<b>Media Partner: </b> <a href=""mailto:promosi@detikfinance.com"">promosi[at]detikfinance.com</a><br/>","['b', 'a', 'br']",2,1,5,1,6.5,5.3
+260,"<b>Iklan:</b> <a href=""mailto:sales@detik.com"">sales[at]detik.com</a>","['b', 'a']",1,1,4,0,5.5,4.05
+261,,[],0,0,4,0,0.0,1.75
+262,"<div class=""newsfeed newsfeed_ga""></div>",['div'],0,0,1,0,0.0,0.95
+263,"<div class=""title_feed"" data-sticky_column=""""></div>",['div'],0,0,1,0,0.0,0.8
+264,"<div class=""t_lfl"">News Feed</div>",['div'],2,0,2,0,4.0,1.6
+265,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.8
+266,,[],0,0,1,0,0.0,0.4
+267,"<ul class=""list_feed list_feed_detail""></ul>",['ul'],0,0,1,0,0.0,0.0
+268,<li></li>,['li'],0,0,1,0,0.0,0.0
+269,<article></article>,['article'],0,0,1,0,0.0,0.0
+270,"<a href=""//finance.detik.com/advertorial-news-block/d-3310487/masa-depan-sektor-batubara-indonesia""></a>",['a'],0,0,1,0,0.0,0.0
+271,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+272,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+273,"<img alt=""Masa Depan Sektor Batubara Indonesia"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/30/837eff5c-6925-4619-81f9-8d7fb69aafc7_43.jpg?w=125&amp;q=90"" title=""Masa Depan Sektor Batubara Indonesia""/> ",['img'],0,0,3,0,0.0,0.0
+274,,[],0,0,1,0,0.0,0.0
+275,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,0.7
+276,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,2.2
+277,<h2>Masa Depan Sektor Batubara Indonesia</h2>,['h2'],5,0,2,0,7.0,5.9
+278,"<span class=""labdate f11"">Selasa, 04 Okt 2016 00:00 WIB</span>",['span'],6,0,2,0,8.0,7.6
+279,Sektor batubara Indonesia masih menghadapi tantangan di tengah rendahnya harga komoditas di pasar global.                        ,[],14,0,1,0,15.0,8.3
+280,,[],0,0,1,0,0.0,3.8
+281,,[],0,0,1,0,0.0,1.5
+282,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+283,,[],0,0,1,0,0.0,0.0
+284,<li></li>,['li'],0,0,1,0,0.0,0.0
+285,<article></article>,['article'],0,0,1,0,0.0,0.0
+286,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312619/datangi-kantor-pusat-pajak-hercules-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.0
+287,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+288,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+289,"<img alt=""Datangi Kantor Pusat Pajak, Hercules Ikut Tax Amnesty"" class="""" src=""http://images.detik.com/community/media/visual/2016/10/03/c70bbd16-80bf-4236-85c0-423b38fe66fb_43.jpg?w=125&amp;q=90"" title=""Datangi Kantor Pusat Pajak, Hercules Ikut Tax Amnesty""/> ",['img'],0,0,3,0,0.0,0.0
+290,,[],0,0,1,0,0.0,0.0
+291,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.2
+292,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.2
+293,"<h2>Datangi Kantor Pusat Pajak, Hercules Ikut <i>Tax Amnesty</i></h2>","['h2', 'i']",8,0,4,0,12.0,8.5
+294,"<span class=""labdate f11"">Senin, 03 Okt 2016 22:40 WIB</span>",['span'],6,0,2,0,8.0,9.8
+295,"Tokoh masyarakat, Hercules, datang ke Kantor Pusat Ditjen Pajak untuk mengikuti tax amnesty. Hercules disambut langsung Dirjen Pajak, Ken Dwijugiasteadi.                        ",[],20,0,1,0,21.0,11.2
+296,,[],0,0,1,0,0.0,5.0
+297,,[],0,0,1,0,0.0,2.1
+298,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+299,,[],0,0,1,0,0.0,0.0
+300,<li></li>,['li'],0,0,1,0,0.0,0.0
+301,<article></article>,['article'],0,0,1,0,0.0,0.0
+302,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312617/tak-hanya-umkm-pengusaha-besar-masih-ramaikan-periode-ii-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.0
+303,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+304,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+305,"<img alt=""Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II Tax Amnesty"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/30/854cd9c6-e965-4cce-95d9-f8a83f0e75b2_43.jpg?w=125&amp;q=90"" title=""Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II Tax Amnesty""/> ",['img'],0,0,3,0,0.0,0.0
+306,,[],0,0,1,0,0.0,0.0
+307,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.5
+308,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.8
+309,"<h2>Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II <i>Tax Amnesty</i></h2>","['h2', 'i']",11,0,4,0,15.0,9.6
+310,"<span class=""labdate f11"">Senin, 03 Okt 2016 22:30 WIB</span>",['span'],6,0,2,0,8.0,10.2
+311,"Di periode kedua tax amnesty ini tak hanya diikuti oleh UMKM saja, melainkan pengusaha-pengusaha besar juga akan ambil bagian.                        ",[],19,0,1,0,20.0,11.1
+312,,[],0,0,1,0,0.0,4.8
+313,,[],0,0,1,0,0.0,2.0
+314,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+315,,[],0,0,1,0,0.0,0.0
+316,<li></li>,['li'],0,0,1,0,0.0,0.0
+317,<article></article>,['article'],0,0,1,0,0.0,0.0
+318,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312609/ada-tax-amnesty-setoran-pajak-hingga-september-capai-rp-767-t""></a>",['a'],0,0,1,0,0.0,0.0
+319,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+320,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+321,"<img alt=""Ada Tax Amnesty, Setoran pajak Hingga September Capai Rp 767 T"" class="""" src=""http://images.detik.com/community/media/visual/2016/10/03/290bb6e3-7c8c-4039-98f0-7c3de7e301d5_43.jpg?w=125&amp;q=90"" title=""Ada Tax Amnesty, Setoran pajak Hingga September Capai Rp 767 T""/> ",['img'],0,0,3,0,0.0,0.0
+322,,[],0,0,1,0,0.0,0.0
+323,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.5
+324,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.8
+325,"<h2>Ada <i>Tax Amnesty</i>, Setoran pajak Hingga September Capai Rp 767 T</h2>","['h2', 'i']",11,0,4,0,15.0,9.8
+326,"<span class=""labdate f11"">Senin, 03 Okt 2016 22:15 WIB</span>",['span'],6,0,2,0,8.0,10.6
+327,Program tax amnesty mendorong semakin banyak setoran pajak non migas. Ditjen Pajak mencatat setoran pajak hingga September mencapai Rp 767 triliun.                        ,[],21,0,1,0,22.0,11.9
+328,,[],0,0,1,0,0.0,5.2
+329,,[],0,0,1,0,0.0,2.2
+330,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+331,,[],0,0,1,0,0.0,0.0
+332,<li></li>,['li'],0,0,1,0,0.0,0.0
+333,<article></article>,['article'],0,0,1,0,0.0,0.0
+334,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312605/ahok-sebut-sandiaga-uno-pengemplang-pajak-pengusaha-tidak-fair""></a>",['a'],0,0,1,0,0.0,0.0
+335,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+336,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+337,"<img alt=""Ahok Sebut Sandiaga Uno Pengemplang Pajak, Pengusaha: Tidak Fair"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/29/dc9ad084-08c4-43a9-a4ed-cd43be73b4ef_43.jpg?w=125&amp;q=90"" title=""Ahok Sebut Sandiaga Uno Pengemplang Pajak, Pengusaha: Tidak Fair""/> ",['img'],0,0,3,0,0.0,0.0
+338,,[],0,0,1,0,0.0,0.0
+339,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.3
+340,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.4
+341,"<h2>Ahok Sebut Sandiaga Uno Pengemplang Pajak, Pengusaha: Tidak <i>Fair</i></h2>","['h2', 'i']",9,0,4,0,13.0,8.8
+342,"<span class=""labdate f11"">Senin, 03 Okt 2016 22:00 WIB</span>",['span'],6,0,2,0,8.0,9.8
+343,Pengusaha menyoroti pernyataan Ahok soal Sandiaga Uno ikut tax amnesty karena mengemplang pajak. Menurut pengusaha pernyataan Ahok tidak fair.                        ,[],19,0,1,0,20.0,10.9
+344,,[],0,0,1,0,0.0,4.8
+345,,[],0,0,1,0,0.0,2.0
+346,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+347,,[],0,0,1,0,0.0,0.0
+348,<li></li>,['li'],0,0,1,0,0.0,0.0
+349,<article></article>,['article'],0,0,1,0,0.0,0.0
+350,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312600/sandiaga-uno-ikut-tax-amnesty-ditjen-pajak-tak-akan-diusut-asal-hartanya""></a>",['a'],0,0,1,0,0.0,0.0
+351,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+352,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+353,"<img alt=""Sandiaga Uno Ikut Tax Amnesty, Ditjen Pajak: Tak Akan Diusut Asal Hartanya"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/28/cf866c90-1c5f-45a2-8d4d-62e361c6ccb1_43.jpg?w=125&amp;q=90"" title=""Sandiaga Uno Ikut Tax Amnesty, Ditjen Pajak: Tak Akan Diusut Asal Hartanya""/> ",['img'],0,0,3,0,0.0,0.0
+354,,[],0,0,1,0,0.0,0.0
+355,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.6
+356,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,4.0
+357,"<h2>Sandiaga Uno Ikut <i>Tax Amnesty</i>, Ditjen Pajak: Tak Akan Diusut Asal Hartanya</h2>","['h2', 'i']",12,0,4,0,16.0,9.8
+358,"<span class=""labdate f11"">Senin, 03 Okt 2016 21:35 WIB</span>",['span'],6,0,2,0,8.0,10.0
+359,Ditjen menegaskan asal-usul harta wajib pajak yang dilaporkan dalam tax amnesty tak akan diusut dari mana asal-usulnya.                        ,[],17,0,1,0,18.0,10.4
+360,,[],0,0,1,0,0.0,4.4
+361,,[],0,0,1,0,0.0,1.8
+362,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+363,,[],0,0,1,0,0.0,0.0
+364,<li></li>,['li'],0,0,1,0,0.0,0.0
+365,<article></article>,['article'],0,0,1,0,0.0,0.0
+366,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312591/ada-tax-amnesty-pemerintah-dapat-26000-wajib-pajak-baru""></a>",['a'],0,0,1,0,0.0,0.0
+367,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+368,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+369,"<img alt=""Ada Tax Amnesty, Pemerintah Dapat 26.000 Wajib Pajak Baru"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/30/6157965f-44f0-42ee-aea9-f0e8b3953e47_43.jpg?w=125&amp;q=90"" title=""Ada Tax Amnesty, Pemerintah Dapat 26.000 Wajib Pajak Baru""/> ",['img'],0,0,3,0,0.0,0.0
+370,,[],0,0,1,0,0.0,0.0
+371,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.3
+372,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.4
+373,"<h2>Ada <i>Tax Amnesty</i>, Pemerintah Dapat 26.000 Wajib Pajak Baru</h2>","['h2', 'i']",9,0,4,0,13.0,8.3
+374,"<span class=""labdate f11"">Senin, 03 Okt 2016 20:55 WIB</span>",['span'],6,0,2,0,8.0,8.8
+375,"Selama periode I tax amnesty Juli-September 2016, Ditjen Pajak mencatat 26.000 wajib pajak baru.                        ",[],14,0,1,0,15.0,8.9
+376,,[],0,0,1,0,0.0,3.8
+377,,[],0,0,1,0,0.0,1.5
+378,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+379,,[],0,0,1,0,0.0,0.0
+380,<li></li>,['li'],0,0,1,0,0.0,0.0
+381,<article></article>,['article'],0,0,1,0,0.0,0.0
+382,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312577/32-peserta-tax-amnesty-bayar-tebusan-di-atas-rp-100-morang""></a>",['a'],0,0,1,0,0.0,0.0
+383,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+384,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+385,"<img alt=""32 Peserta Tax Amnesty Bayar Tebusan di Atas Rp 100 M/Orang"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/27/7626d890-0422-4552-b68a-24d7004f1e43_43.jpg?w=125&amp;q=90"" title=""32 Peserta Tax Amnesty Bayar Tebusan di Atas Rp 100 M/Orang""/> ",['img'],0,0,3,0,0.0,0.0
+386,,[],0,0,1,0,0.0,0.0
+387,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.5
+388,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.8
+389,<h2>32 Peserta <i>Tax Amnesty</i> Bayar Tebusan di Atas Rp 100 M/Orang</h2>,"['h2', 'i']",11,0,4,0,15.0,9.2
+390,"<span class=""labdate f11"">Senin, 03 Okt 2016 20:47 WIB</span>",['span'],6,0,2,0,8.0,9.4
+391,Secara segmentasi orang pribadi jumlah tebusan di atas Rp 100 miliar sebanyak 32 wajib pajak.                        ,[],15,0,1,0,16.0,9.5
+392,,[],0,0,1,0,0.0,4.0
+393,,[],0,0,1,0,0.0,1.6
+394,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+395,,[],0,0,1,0,0.0,0.0
+396,<li></li>,['li'],0,0,1,0,0.0,0.0
+397,<article></article>,['article'],0,0,1,0,0.0,0.0
+398,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312575/darmin-harap-usulan-suntikan-modal-rp-9-t-ke-4-bumn-disetujui-dpr""></a>",['a'],0,0,1,0,0.0,0.0
+399,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+400,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+401,"<img alt=""Darmin Harap Usulan Suntikan Modal Rp 9 T ke 4 BUMN Disetujui DPR"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/26/9e49e77f-9d99-4d99-aec9-4b4fca54e83c_43.jpg?w=125&amp;q=90"" title=""Darmin Harap Usulan Suntikan Modal Rp 9 T ke 4 BUMN Disetujui DPR""/> ",['img'],0,0,3,0,0.0,0.0
+402,,[],0,0,1,0,0.0,0.0
+403,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.5
+404,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.8
+405,<h2>Darmin Harap Usulan Suntikan Modal Rp 9 T ke 4 BUMN Disetujui DPR</h2>,['h2'],13,0,2,0,15.0,9.7
+406,"<span class=""labdate f11"">Senin, 03 Okt 2016 20:31 WIB</span>",['span'],6,0,2,0,8.0,10.4
+407,Menko Perekonomian Darmin Nasution berharap keputusan yang akan diberikan pada hari Rabu mendatang terkait pemberian PMN merupakan keputusan yang positif.                        ,[],20,0,1,0,21.0,11.5
+408,,[],0,0,1,0,0.0,5.0
+409,,[],0,0,1,0,0.0,2.1
+410,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+411,,[],0,0,1,0,0.0,0.0
+412,<li></li>,['li'],0,0,1,0,0.0,0.0
+413,<article></article>,['article'],0,0,1,0,0.0,0.0
+414,"<a href=""//finance.detik.com/properti/d-3312572/begini-strategi-pemerintah-agar-rumah-murah-lebih-banyak-dibangun""></a>",['a'],0,0,1,0,0.0,0.0
+415,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+416,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+417,"<img alt=""Begini Strategi Pemerintah Agar Rumah Murah Lebih Banyak Dibangun"" class="""" src=""http://images.detik.com/community/media/visual/2016/08/03/611076e0-c260-45b3-ad7d-c7eda9ce6edf_43.jpg?w=125&amp;q=90"" title=""Begini Strategi Pemerintah Agar Rumah Murah Lebih Banyak Dibangun""/> ",['img'],0,0,3,0,0.0,0.0
+418,,[],0,0,1,0,0.0,0.0
+419,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.1
+420,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.0
+421,<h2>Begini Strategi Pemerintah Agar Rumah Murah Lebih Banyak Dibangun</h2>,['h2'],9,0,2,0,11.0,7.6
+422,"<span class=""labdate f11"">Senin, 03 Okt 2016 20:21 WIB</span>",['span'],6,0,2,0,8.0,8.6
+423,Pemerintah berupaya agar rumah murah untuk masyarakat berpenghasilan rendah lebih banyak dibangun. Apa strategi pemerintah?                        ,[],15,0,1,0,16.0,9.1
+424,,[],0,0,1,0,0.0,4.0
+425,,[],0,0,1,0,0.0,1.6
+426,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+427,,[],0,0,1,0,0.0,0.0
+428,<li></li>,['li'],0,0,1,0,0.0,0.0
+429,<article></article>,['article'],0,0,1,0,0.0,0.0
+430,"<a href=""//finance.detik.com/industri/d-3312569/pemerintah-akan-beri-bantuan-industri-kecil-menperin-data-harus-akurat""></a>",['a'],0,0,1,0,0.0,0.0
+431,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+432,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+433,"<img alt=""Pemerintah Akan Beri Bantuan Industri Kecil, Menperin: Data Harus Akurat"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/19/0a70b155-b75d-4e53-9759-42f3aabc4da7_43.jpg?w=125&amp;q=90"" title=""Pemerintah Akan Beri Bantuan Industri Kecil, Menperin: Data Harus Akurat""/> ",['img'],0,0,3,0,0.0,0.0
+434,,[],0,0,1,0,0.0,0.0
+435,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.2
+436,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.2
+437,"<h2>Pemerintah Akan Beri Bantuan Industri Kecil, Menperin: Data Harus Akurat</h2>",['h2'],10,0,2,0,12.0,8.4
+438,"<span class=""labdate f11"">Senin, 03 Okt 2016 20:15 WIB</span>",['span'],6,0,2,0,8.0,9.6
+439,"Menperin Airlangga Hartarto meminta asosiasi industri untuk menyusun data keanggotaan dengan akurat, untuk memudahkan pemetaan program bantuan yang tepat.                        ",[],19,0,1,0,20.0,10.8
+440,,[],0,0,1,0,0.0,4.8
+441,,[],0,0,1,0,0.0,2.0
+442,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+443,,[],0,0,1,0,0.0,0.0
+444,<li></li>,['li'],0,0,1,0,0.0,0.0
+445,<article></article>,['article'],0,0,1,0,0.0,0.0
+446,"<a href=""//finance.detik.com/energi/d-3312566/pln-buka-lowongan-untuk-lulusan-d3-hingga-s1-di-7-kota""></a>",['a'],0,0,1,0,0.0,0.0
+447,"<div class=""ratio4_3 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+448,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+449,"<img alt=""PLN Buka Lowongan Untuk Lulusan D3 Hingga S1 di 7 Kota"" class="""" src=""http://images.detik.com/community/media/visual/2016/08/15/956f82d6-a7c8-4c00-84d5-5465019362a7_43.jpg?w=125&amp;q=90"" title=""PLN Buka Lowongan Untuk Lulusan D3 Hingga S1 di 7 Kota""/> ",['img'],0,0,3,0,0.0,0.0
+450,,[],0,0,1,0,0.0,0.0
+451,"<div class=""desc_nhl""></div>",['div'],0,0,1,0,0.0,1.3
+452,"<span class=""sub_judul""></span>",['span'],0,0,2,0,0.0,3.4
+453,<h2>PLN Buka Lowongan Untuk Lulusan D3 Hingga S1 di 7 Kota</h2>,['h2'],11,0,2,0,13.0,8.6
+454,"<span class=""labdate f11"">Senin, 03 Okt 2016 20:00 WIB</span>",['span'],6,0,2,0,8.0,9.4
+455,"PLN kembali menjaring lulusan S1, Diploma IV (D-IV), dan Diploma III (D-III) melalui Rekrutmen Umum tahun 2016.                        ",[],17,0,1,0,18.0,10.1
+456,,[],0,0,1,0,0.0,4.4
+457,,[],0,0,1,0,0.0,1.8
+458,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+459,,[],0,0,1,0,0.0,0.0
+460,,[],0,0,1,0,0.0,0.0
+461,,[],0,0,1,0,0.0,0.0
+462,,[],0,0,1,0,0.0,0.0
+463,"<div class=""r_content""></div>",['div'],0,0,1,0,0.0,0.0
+464,"<div class="""" id=""scr1""></div>",['div'],0,0,1,0,0.0,0.0
+465,,[],0,0,0,0,0.0,0.0
+466,,[],0,0,1,0,0.0,0.0
+467,"<div class="""" id=""scr2""></div>",['div'],0,0,1,0,0.0,0.0
+468,,[],0,0,0,0,0.0,0.0
+469,,[],0,0,1,0,0.0,0.0
+470,"<div class="""" id=""scr3""></div>",['div'],0,0,1,0,0.0,0.0
+471,,[],0,0,0,0,0.0,0.0
+472,,[],0,0,1,0,0.0,0.0
+473,"<div class=""boxlr mb15""></div>",['div'],0,0,1,0,0.0,0.4
+474,"<div class=""title_lr""></div>",['div'],0,0,1,0,0.0,1.05
+475,<span>BERITA TERBARU</span>,['span'],2,0,2,0,4.0,2.1
+476,"<a class=""more"" href=""//finance.detik.com/indeks"">+</a>",['a'],0,1,2,0,2.5,1.8
+477,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.9
+478,,[],0,0,1,0,0.0,0.25
+479,"<ul class=""list_news1""></ul>",['ul'],0,0,1,0,0.0,0.0
+480,<li></li>,['li'],0,0,1,0,0.0,0.0
+481,<article></article>,['article'],0,0,1,0,0.0,0.0
+482,"<a href=""//finance.detik.com/advertorial-news-block/d-3310487/masa-depan-sektor-batubara-indonesia""></a>",['a'],0,0,1,0,0.0,0.0
+483,"<div class=""ratio1_1 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+484,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+485,"<img alt=""Masa Depan Sektor Batubara Indonesia"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/30/837eff5c-6925-4619-81f9-8d7fb69aafc7_11.jpg?w=300&amp;q=90"" title=""Masa Depan Sektor Batubara Indonesia""/> ",['img'],0,0,3,0,0.0,0.0
+486,,[],0,0,1,0,0.0,0.0
+487,"<div class=""title_ln""></div>",['div'],0,0,1,0,0.0,0.0
+488,<h2></h2>,['h2'],0,0,1,0,0.0,1.3
+489,<span></span>,['span'],0,0,1,0,0.0,2.6
+490,"Masa Depan Sektor Batubara Indonesia <span class=""labdate f11 normal"">Selasa, 04 Okt 2016 00:00 WIB</span>",['span'],11,0,2,0,13.0,5.2
+491,,[],0,0,1,0,0.0,2.6
+492,,[],0,0,1,0,0.0,1.3
+493,,[],0,0,1,0,0.0,0.0
+494,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+495,,[],0,0,1,0,0.0,0.0
+496,,[],0,0,1,0,0.0,0.0
+497,,[],0,0,1,0,0.0,0.0
+498,<li></li>,['li'],0,0,1,0,0.0,0.0
+499,<article></article>,['article'],0,0,1,0,0.0,0.0
+500,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312619/datangi-kantor-pusat-pajak-hercules-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.0
+501,"<div class=""ratio1_1 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+502,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+503,"<img alt=""Datangi Kantor Pusat Pajak, Hercules Ikut Tax Amnesty"" class="""" src=""http://images.detik.com/community/media/visual/2016/10/03/c70bbd16-80bf-4236-85c0-423b38fe66fb_11.jpg?w=300&amp;q=90"" title=""Datangi Kantor Pusat Pajak, Hercules Ikut Tax Amnesty""/> ",['img'],0,0,3,0,0.0,0.0
+504,,[],0,0,1,0,0.0,0.0
+505,"<div class=""title_ln""></div>",['div'],0,0,1,0,0.0,0.0
+506,<h2></h2>,['h2'],0,0,1,0,0.0,1.8
+507,<span></span>,['span'],0,0,1,0,0.0,3.6
+508,"Datangi Kantor Pusat Pajak, Hercules Ikut <i>Tax Amnesty</i> <span class=""labdate f11 normal"">Senin, 03 Okt 2016 22:40 WIB</span>","['i', 'span']",14,0,4,0,18.0,7.2
+509,,[],0,0,1,0,0.0,3.6
+510,,[],0,0,1,0,0.0,1.8
+511,,[],0,0,1,0,0.0,0.0
+512,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+513,,[],0,0,1,0,0.0,0.0
+514,,[],0,0,1,0,0.0,0.0
+515,,[],0,0,1,0,0.0,0.0
+516,<li></li>,['li'],0,0,1,0,0.0,0.0
+517,<article></article>,['article'],0,0,1,0,0.0,0.0
+518,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312617/tak-hanya-umkm-pengusaha-besar-masih-ramaikan-periode-ii-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.0
+519,"<div class=""ratio1_1 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+520,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+521,"<img alt=""Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II Tax Amnesty"" class="""" src=""http://images.detik.com/community/media/visual/2016/09/30/854cd9c6-e965-4cce-95d9-f8a83f0e75b2_11.jpg?w=300&amp;q=90"" title=""Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II Tax Amnesty""/> ",['img'],0,0,3,0,0.0,0.0
+522,,[],0,0,1,0,0.0,0.0
+523,"<div class=""title_ln""></div>",['div'],0,0,1,0,0.0,0.0
+524,<h2></h2>,['h2'],0,0,1,0,0.0,2.1
+525,<span></span>,['span'],0,0,1,0,0.0,4.2
+526,"Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II <i>Tax Amnesty</i> <span class=""labdate f11 normal"">Senin, 03 Okt 2016 22:30 WIB</span>","['i', 'span']",17,0,4,0,21.0,8.4
+527,,[],0,0,1,0,0.0,4.2
+528,,[],0,0,1,0,0.0,2.1
+529,,[],0,0,1,0,0.0,0.0
+530,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+531,,[],0,0,1,0,0.0,0.0
+532,,[],0,0,1,0,0.0,0.0
+533,,[],0,0,1,0,0.0,0.0
+534,<li></li>,['li'],0,0,1,0,0.0,0.0
+535,<article></article>,['article'],0,0,1,0,0.0,0.0
+536,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/d-3312609/ada-tax-amnesty-setoran-pajak-hingga-september-capai-rp-767-t""></a>",['a'],0,0,1,0,0.0,0.0
+537,"<div class=""ratio1_1 box_img fl mr10""></div>",['div'],0,0,1,0,0.0,0.0
+538,"<div class=""img_con lqd""></div>",['div'],0,0,1,0,0.0,0.0
+539,"<img alt=""Ada Tax Amnesty, Setoran pajak Hingga September Capai Rp 767 T"" class="""" src=""http://images.detik.com/community/media/visual/2016/10/03/290bb6e3-7c8c-4039-98f0-7c3de7e301d5_11.jpg?w=300&amp;q=90"" title=""Ada Tax Amnesty, Setoran pajak Hingga September Capai Rp 767 T""/> ",['img'],0,0,3,0,0.0,0.0
+540,,[],0,0,1,0,0.0,0.0
+541,"<div class=""title_ln""></div>",['div'],0,0,1,0,0.0,0.0
+542,<h2></h2>,['h2'],0,0,1,0,0.0,2.1
+543,<span></span>,['span'],0,0,1,0,0.0,4.2
+544,"Ada <i>Tax Amnesty</i>, Setoran pajak Hingga September Capai Rp 767 T <span class=""labdate f11 normal"">Senin, 03 Okt 2016 22:15 WIB</span>","['i', 'span']",17,0,4,0,21.0,8.4
+545,,[],0,0,1,0,0.0,4.2
+546,,[],0,0,1,0,0.0,2.1
+547,,[],0,0,1,0,0.0,0.0
+548,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+549,,[],0,0,1,0,0.0,0.0
+550,,[],0,0,1,0,0.0,0.0
+551,,[],0,0,1,0,0.0,0.0
+552,,[],0,0,1,0,0.0,0.0
+553,,[],0,0,1,0,0.0,0.0
+554,,[],0,0,0,0,0.0,0.0
+555,"<div class=""banner_reg"" id=""scr4""></div>",['div'],0,0,1,0,0.0,0.0
+556,,[],0,0,0,0,0.0,0.0
+557,,[],0,0,1,0,0.0,0.0
+558,"<div class=""banner_reg banner_reg_lr"" id=""scr6""></div>",['div'],0,0,1,0,0.0,0.0
+559,,[],0,0,0,0,0.0,0.0
+560,,[],0,0,1,0,0.0,0.0
+561,"<div class=""banner_reg banner_reg_lr"" id=""scr7""></div>",['div'],0,0,1,0,0.0,0.0
+562,,[],0,0,0,0,0.0,0.0
+563,,[],0,0,1,0,0.0,0.0
+564,"<div class=""boxlr mb15 mpop""></div>",['div'],0,0,1,0,0.0,0.55
+565,"<div class=""title_lr"" id=""tab-popcom""></div>",['div'],0,0,1,0,0.0,1.65
+566,"<a class=""selected mostpopular_ga"" href=""#box-pop""><span>Most<br>Popular</br></span></a>","['a', 'span', 'br']",0,1,6,1,5.5,3.3
+567,"<a class=""mostcommented_ga"" href=""#box-com""><span>Most<br>Commented</br></span></a>","['a', 'span', 'br']",0,1,6,1,5.5,3.3
+568,,[],0,0,0,0,0.0,1.65
+569,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.55
+570,,[],0,0,1,0,0.0,0.0
+571,"<div class=""mostpopular_ga"" id=""box-pop""></div>",['div'],0,0,1,0,0.0,0.0
+572,"<ul class=""list_fokus list_fokus_add""></ul>",['ul'],0,0,1,0,0.0,0.0
+573,<li></li>,['li'],0,0,1,0,0.0,0.0
+574,<article></article>,['article'],0,0,1,0,0.0,0.3
+575,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312619/datangi-kantor-pusat-pajak-hercules-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.6
+576,"<div class=""num_fokus"">01</div>",['div'],1,0,2,0,3.0,2.6
+577,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.4
+578,"<h2><span>Datangi Kantor Pusat Pajak, Hercules Ikut <i>Tax Amnesty</i></span></h2>","['h2', 'span', 'i']",8,0,6,0,14.0,5.9
+579,,[],0,0,1,0,0.0,2.8
+580,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.4
+581,,[],0,0,1,0,0.0,0.0
+582,,[],0,0,1,0,0.0,0.0
+583,,[],0,0,1,0,0.0,0.0
+584,<li></li>,['li'],0,0,1,0,0.0,0.0
+585,<article></article>,['article'],0,0,1,0,0.0,0.3
+586,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312605/ahok-sebut-sandiaga-uno-pengemplang-pajak-pengusaha-tidak-fair""></a>",['a'],0,0,1,0,0.0,0.6
+587,"<div class=""num_fokus"">02</div>",['div'],1,0,2,0,3.0,2.7
+588,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.6
+589,"<h2><span>Ahok Sebut Sandiaga Uno Pengemplang Pajak, Pengusaha: Tidak <i>Fair</i></span></h2>","['h2', 'span', 'i']",9,0,6,0,15.0,6.3
+590,,[],0,0,1,0,0.0,3.0
+591,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.5
+592,,[],0,0,1,0,0.0,0.0
+593,,[],0,0,1,0,0.0,0.0
+594,,[],0,0,1,0,0.0,0.0
+595,<li></li>,['li'],0,0,1,0,0.0,0.0
+596,<article></article>,['article'],0,0,1,0,0.0,0.3
+597,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312617/tak-hanya-umkm-pengusaha-besar-masih-ramaikan-periode-ii-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.6
+598,"<div class=""num_fokus"">03</div>",['div'],1,0,2,0,3.0,2.9
+599,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+600,"<h2><span>Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II <i>Tax Amnesty</i></span></h2>","['h2', 'span', 'i']",11,0,6,0,17.0,7.1
+601,,[],0,0,1,0,0.0,3.4
+602,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+603,,[],0,0,1,0,0.0,0.0
+604,,[],0,0,1,0,0.0,0.0
+605,,[],0,0,1,0,0.0,0.0
+606,<li></li>,['li'],0,0,1,0,0.0,0.0
+607,<article></article>,['article'],0,0,1,0,0.0,0.3
+608,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312609/ada-tax-amnesty-setoran-pajak-hingga-september-capai-rp-767-t""></a>",['a'],0,0,1,0,0.0,0.6
+609,"<div class=""num_fokus"">04</div>",['div'],1,0,2,0,3.0,2.9
+610,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+611,"<h2><span>Ada <i>Tax Amnesty</i>, Setoran pajak Hingga September Capai Rp 767 T</span></h2>","['h2', 'span', 'i']",11,0,6,0,17.0,7.1
+612,,[],0,0,1,0,0.0,3.4
+613,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+614,,[],0,0,1,0,0.0,0.0
+615,,[],0,0,1,0,0.0,0.0
+616,,[],0,0,1,0,0.0,0.0
+617,<li></li>,['li'],0,0,1,0,0.0,0.0
+618,<article></article>,['article'],0,0,1,0,0.0,0.3
+619,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312600/sandiaga-uno-ikut-tax-amnesty-ditjen-pajak-tak-akan-diusut-asal-hartanya""></a>",['a'],0,0,1,0,0.0,0.6
+620,"<div class=""num_fokus"">05</div>",['div'],1,0,2,0,3.0,3.0
+621,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.2
+622,"<h2><span>Sandiaga Uno Ikut <i>Tax Amnesty</i>, Ditjen Pajak: Tak Akan Diusut Asal Hartanya</span></h2>","['h2', 'span', 'i']",12,0,6,0,18.0,7.5
+623,,[],0,0,1,0,0.0,3.6
+624,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.8
+625,,[],0,0,1,0,0.0,0.0
+626,,[],0,0,1,0,0.0,0.0
+627,,[],0,0,1,0,0.0,0.0
+628,<li></li>,['li'],0,0,1,0,0.0,0.0
+629,<article></article>,['article'],0,0,1,0,0.0,0.3
+630,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312577/32-peserta-tax-amnesty-bayar-tebusan-di-atas-rp-100-morang""></a>",['a'],0,0,1,0,0.0,0.6
+631,"<div class=""num_fokus"">06</div>",['div'],1,0,2,0,3.0,2.9
+632,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+633,<h2><span>32 Peserta <i>Tax Amnesty</i> Bayar Tebusan di Atas Rp 100 M/Orang</span></h2>,"['h2', 'span', 'i']",11,0,6,0,17.0,7.1
+634,,[],0,0,1,0,0.0,3.4
+635,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+636,,[],0,0,1,0,0.0,0.0
+637,,[],0,0,1,0,0.0,0.0
+638,,[],0,0,1,0,0.0,0.0
+639,<li></li>,['li'],0,0,1,0,0.0,0.0
+640,<article></article>,['article'],0,0,1,0,0.0,0.3
+641,"<a href=""//finance.detik.com/energi/3312566/pln-buka-lowongan-untuk-lulusan-d3-hingga-s1-di-7-kota""></a>",['a'],0,0,1,0,0.0,0.6
+642,"<div class=""num_fokus"">07</div>",['div'],1,0,2,0,3.0,2.7
+643,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.6
+644,<h2><span>PLN Buka Lowongan Untuk Lulusan D3 Hingga S1 di 7 Kota</span></h2>,"['h2', 'span']",11,0,4,0,15.0,6.3
+645,,[],0,0,1,0,0.0,3.0
+646,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.5
+647,,[],0,0,1,0,0.0,0.0
+648,,[],0,0,1,0,0.0,0.0
+649,,[],0,0,1,0,0.0,0.0
+650,<li></li>,['li'],0,0,1,0,0.0,0.0
+651,<article></article>,['article'],0,0,1,0,0.0,0.3
+652,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312449/ahok-sebut-ikut-tax-amnesty-dulu-mengemplang-pajak-ini-bahayanya""></a>",['a'],0,0,1,0,0.0,0.6
+653,"<div class=""num_fokus"">08</div>",['div'],1,0,2,0,3.0,2.8
+654,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.8
+655,"<h2><span>Ahok Sebut Ikut <i>Tax Amnesty</i> Dulu Mengemplang Pajak, Ini Bahayanya</span></h2>","['h2', 'span', 'i']",10,0,6,0,16.0,6.7
+656,,[],0,0,1,0,0.0,3.2
+657,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.6
+658,,[],0,0,1,0,0.0,0.0
+659,,[],0,0,1,0,0.0,0.0
+660,,[],0,0,1,0,0.0,0.0
+661,<li></li>,['li'],0,0,1,0,0.0,0.0
+662,<article></article>,['article'],0,0,1,0,0.0,0.3
+663,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312591/ada-tax-amnesty-pemerintah-dapat-26000-wajib-pajak-baru""></a>",['a'],0,0,1,0,0.0,0.6
+664,"<div class=""num_fokus"">09</div>",['div'],1,0,2,0,3.0,2.7
+665,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.6
+666,"<h2><span>Ada <i>Tax Amnesty</i>, Pemerintah Dapat 26.000 Wajib Pajak Baru</span></h2>","['h2', 'span', 'i']",9,0,6,0,15.0,6.3
+667,,[],0,0,1,0,0.0,3.0
+668,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.5
+669,,[],0,0,1,0,0.0,0.0
+670,,[],0,0,1,0,0.0,0.0
+671,,[],0,0,1,0,0.0,0.0
+672,<li></li>,['li'],0,0,1,0,0.0,0.0
+673,<article></article>,['article'],0,0,1,0,0.0,0.3
+674,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312575/darmin-harap-usulan-suntikan-modal-rp-9-t-ke-4-bumn-disetujui-dpr""></a>",['a'],0,0,1,0,0.0,0.6
+675,"<div class=""num_fokus"">10</div>",['div'],1,0,2,0,3.0,2.9
+676,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+677,<h2><span>Darmin Harap Usulan Suntikan Modal Rp 9 T ke 4 BUMN Disetujui DPR</span></h2>,"['h2', 'span']",13,0,4,0,17.0,7.1
+678,,[],0,0,1,0,0.0,3.4
+679,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+680,,[],0,0,1,0,0.0,0.0
+681,,[],0,0,1,0,0.0,0.0
+682,,[],0,0,1,0,0.0,0.0
+683,,[],0,0,1,0,0.0,0.25
+684,"<div class=""a-center""></div>",['div'],0,0,1,0,0.0,0.5
+685,"<a class=""btn_more"" href=""//finance.detik.com/mostpopular"">Selengkapnya</a>",['a'],0,1,2,0,2.5,1.0
+686,,[],0,0,1,0,0.0,0.5
+687,,[],0,0,1,0,0.0,0.25
+688,"<div class=""mostcommented_ga"" id=""box-com""></div>",['div'],0,0,1,0,0.0,0.0
+689,"<ul class=""list_fokus box-commented""></ul>",['ul'],0,0,1,0,0.0,0.0
+690,<li></li>,['li'],0,0,1,0,0.0,0.0
+691,<article></article>,['article'],0,0,1,0,0.0,0.0
+692,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312449/ahok-sebut-ikut-tax-amnesty-dulu-mengemplang-pajak-ini-bahayanya""></a>",['a'],0,0,1,0,0.0,0.4
+693,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+694,492 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+695,,[],0,0,1,0,0.0,2.0
+696,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.8
+697,"<h2>Ahok Sebut Ikut Tax Amnesty Dulu Mengemplang Pajak, Ini Bahayanya</h2>",['h2'],10,0,2,0,12.0,4.8
+698,,[],0,0,1,0,0.0,2.4
+699,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.2
+700,,[],0,0,1,0,0.0,0.0
+701,,[],0,0,1,0,0.0,0.0
+702,,[],0,0,1,0,0.0,0.0
+703,<li></li>,['li'],0,0,1,0,0.0,0.0
+704,<article></article>,['article'],0,0,1,0,0.0,0.0
+705,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312388/tanggapi-pernyataan-ahok-dirjen-pajak-tak-ada-istilah-pengemplang-pajak-""></a>",['a'],0,0,1,0,0.0,0.4
+706,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+707,273 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+708,,[],0,0,1,0,0.0,2.0
+709,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.8
+710,"<h2>Tanggapi Pernyataan Ahok, Dirjen Pajak: Tak Ada Istilah Pengemplang Pajak</h2>",['h2'],10,0,2,0,12.0,4.8
+711,,[],0,0,1,0,0.0,2.4
+712,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.2
+713,,[],0,0,1,0,0.0,0.0
+714,,[],0,0,1,0,0.0,0.0
+715,,[],0,0,1,0,0.0,0.0
+716,<li></li>,['li'],0,0,1,0,0.0,0.0
+717,<article></article>,['article'],0,0,1,0,0.0,0.0
+718,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3307993/ini-penjelasan-sandiaga-uno-simpan-uang-di-luar-negeri""></a>",['a'],0,0,1,0,0.0,0.4
+719,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+720,259 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+721,,[],0,0,1,0,0.0,1.9
+722,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.6
+723,<h2>Ini Penjelasan Sandiaga Uno Simpan Uang di Luar Negeri</h2>,['h2'],9,0,2,0,11.0,4.4
+724,,[],0,0,1,0,0.0,2.2
+725,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.1
+726,,[],0,0,1,0,0.0,0.0
+727,,[],0,0,1,0,0.0,0.0
+728,,[],0,0,1,0,0.0,0.0
+729,<li></li>,['li'],0,0,1,0,0.0,0.0
+730,<article></article>,['article'],0,0,1,0,0.0,0.0
+731,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312345/ahok-keliru--peserta-tax-amnesty-tak-semua-pengemplang-pajak""></a>",['a'],0,0,1,0,0.0,0.4
+732,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+733,218 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+734,,[],0,0,1,0,0.0,1.9
+735,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.6
+736,"<h2>Ahok Keliru, Peserta Tax Amnesty Tak Semua Pengemplang Pajak</h2>",['h2'],9,0,2,0,11.0,4.4
+737,,[],0,0,1,0,0.0,2.2
+738,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.1
+739,,[],0,0,1,0,0.0,0.0
+740,,[],0,0,1,0,0.0,0.0
+741,,[],0,0,1,0,0.0,0.0
+742,<li></li>,['li'],0,0,1,0,0.0,0.0
+743,<article></article>,['article'],0,0,1,0,0.0,0.0
+744,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3308718/sandiaga-ajak-ahok-para-cagub-dan-cawagub-dki-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.4
+745,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+746,173 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+747,,[],0,0,1,0,0.0,2.1
+748,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.0
+749,"<h2>Sandiaga Ajak Ahok, Para Cagub dan Cawagub DKI Ikut Tax Amnesty</h2>",['h2'],11,0,2,0,13.0,5.2
+750,,[],0,0,1,0,0.0,2.6
+751,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.3
+752,,[],0,0,1,0,0.0,0.0
+753,,[],0,0,1,0,0.0,0.0
+754,,[],0,0,1,0,0.0,0.0
+755,<li></li>,['li'],0,0,1,0,0.0,0.0
+756,<article></article>,['article'],0,0,1,0,0.0,0.0
+757,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312500/ahok-sebut-ikut-tax-amnesty-pernah-kemplang-pajak-bisa-ganggu-program-jokowi""></a>",['a'],0,0,1,0,0.0,0.4
+758,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+759,158 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+760,,[],0,0,1,0,0.0,2.2
+761,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.2
+762,"<h2>Ahok Sebut Ikut Tax Amnesty Pernah Kemplang Pajak, Bisa Ganggu Program Jokowi</h2>",['h2'],12,0,2,0,14.0,5.6
+763,,[],0,0,1,0,0.0,2.8
+764,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.4
+765,,[],0,0,1,0,0.0,0.0
+766,,[],0,0,1,0,0.0,0.0
+767,,[],0,0,1,0,0.0,0.0
+768,<li></li>,['li'],0,0,1,0,0.0,0.0
+769,<article></article>,['article'],0,0,1,0,0.0,0.0
+770,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3310320/live-report-hari-terakhir-periode-i-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.4
+771,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+772,146 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+773,,[],0,0,1,0,0.0,1.8
+774,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.4
+775,<h2>Live Report: Hari Terakhir Periode I Tax Amnesty</h2>,['h2'],8,0,2,0,10.0,4.0
+776,,[],0,0,1,0,0.0,2.0
+777,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.0
+778,,[],0,0,1,0,0.0,0.0
+779,,[],0,0,1,0,0.0,0.0
+780,,[],0,0,1,0,0.0,0.0
+781,<li></li>,['li'],0,0,1,0,0.0,0.0
+782,<article></article>,['article'],0,0,1,0,0.0,0.0
+783,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3307960/sandiaga-uno-daftarkan-banyak-perusahaannya-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.4
+784,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+785,137 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+786,,[],0,0,1,0,0.0,1.8
+787,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.4
+788,<h2>Sandiaga Uno Daftarkan Banyak Perusahaannya Ikut Tax Amnesty</h2>,['h2'],8,0,2,0,10.0,4.0
+789,,[],0,0,1,0,0.0,2.0
+790,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.0
+791,,[],0,0,1,0,0.0,0.0
+792,,[],0,0,1,0,0.0,0.0
+793,,[],0,0,1,0,0.0,0.0
+794,<li></li>,['li'],0,0,1,0,0.0,0.0
+795,<article></article>,['article'],0,0,1,0,0.0,0.0
+796,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3311587/rini-soemarno-usul-pt-kai-ganti-nama-jadi-pt-kereta-indonesia""></a>",['a'],0,0,1,0,0.0,0.4
+797,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+798,119 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+799,,[],0,0,1,0,0.0,2.1
+800,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.0
+801,<h2>Rini Soemarno Usul PT KAI Ganti Nama Jadi 'PT Kereta Indonesia'</h2>,['h2'],11,0,2,0,13.0,5.2
+802,,[],0,0,1,0,0.0,2.6
+803,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.3
+804,,[],0,0,1,0,0.0,0.0
+805,,[],0,0,1,0,0.0,0.0
+806,,[],0,0,1,0,0.0,0.0
+807,<li></li>,['li'],0,0,1,0,0.0,0.0
+808,<article></article>,['article'],0,0,1,0,0.0,0.0
+809,"<a href=""//finance.detik.com/bursa-dan-valas/3307718/tax-amnesty-ri-jadi-salah-satu-tersukses-di-dunia-ini-datanya""></a>",['a'],0,0,1,0,0.0,0.4
+810,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+811,108 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+812,,[],0,0,1,0,0.0,2.1
+813,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.0
+814,"<h2>Tax Amnesty RI Jadi Salah Satu Tersukses di Dunia, Ini Datanya</h2>",['h2'],11,0,2,0,13.0,5.2
+815,,[],0,0,1,0,0.0,2.6
+816,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.3
+817,,[],0,0,1,0,0.0,0.0
+818,,[],0,0,1,0,0.0,0.0
+819,,[],0,0,1,0,0.0,0.0
+820,,[],0,0,1,0,0.0,0.0
+821,,[],0,0,0,0,0.0,0.0
+822,,[],0,0,1,0,0.0,0.0
+823,,[],0,0,1,0,0.0,0.0
+824,,[],0,0,0,0,0.0,0.0
+825,,[],0,0,0,0,0.0,0.0
+826,"<div class=""boxlr mb15""></div>",['div'],0,0,1,0,0.0,0.0
+827,"<iframe class=""frame_iklan_baris"" frameborder=""0"" height=""285"" scrolling=""no"" src=""http://channelbox.iklanbaris.detik.com/chanel_boxs/11/9/5"" style=""overflow:hidden; margin-bottom:-3px;"" width=""300""></iframe>",['iframe'],0,0,2,0,0.0,0.0
+828,,[],0,0,1,0,0.0,0.0
+829,,[],0,0,0,0,0.0,0.0
+830,"<div class=""sticky"" data-sticky_column=""""></div>",['div'],0,0,1,0,0.0,0.0
+831,"<div class=""boxlr mb15 mpop""></div>",['div'],0,0,1,0,0.0,0.55
+832,"<div class=""title_lr"" id=""tab-popcom""></div>",['div'],0,0,1,0,0.0,1.65
+833,"<a class=""selected mostpopular_ga"" href=""#box-pop2""><span>Most<br>Popular</br></span></a>","['a', 'span', 'br']",0,1,6,1,5.5,3.3
+834,"<a class=""mostcommented_ga"" href=""#box-com2""><span>Most<br>Commented</br></span></a>","['a', 'span', 'br']",0,1,6,1,5.5,3.3
+835,,[],0,0,0,0,0.0,1.65
+836,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.55
+837,,[],0,0,1,0,0.0,0.0
+838,"<div class=""mostpopular_ga"" id=""box-pop2""></div>",['div'],0,0,1,0,0.0,0.0
+839,"<ul class=""list_fokus list_fokus_add""></ul>",['ul'],0,0,1,0,0.0,0.0
+840,<li></li>,['li'],0,0,1,0,0.0,0.0
+841,<article></article>,['article'],0,0,1,0,0.0,0.3
+842,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312619/datangi-kantor-pusat-pajak-hercules-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.6
+843,"<div class=""num_fokus"">01</div>",['div'],1,0,2,0,3.0,2.6
+844,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.4
+845,"<h2><span>Datangi Kantor Pusat Pajak, Hercules Ikut <i>Tax Amnesty</i></span></h2>","['h2', 'span', 'i']",8,0,6,0,14.0,5.9
+846,,[],0,0,1,0,0.0,2.8
+847,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.4
+848,,[],0,0,1,0,0.0,0.0
+849,,[],0,0,1,0,0.0,0.0
+850,,[],0,0,1,0,0.0,0.0
+851,<li></li>,['li'],0,0,1,0,0.0,0.0
+852,<article></article>,['article'],0,0,1,0,0.0,0.3
+853,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312605/ahok-sebut-sandiaga-uno-pengemplang-pajak-pengusaha-tidak-fair""></a>",['a'],0,0,1,0,0.0,0.6
+854,"<div class=""num_fokus"">02</div>",['div'],1,0,2,0,3.0,2.7
+855,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.6
+856,"<h2><span>Ahok Sebut Sandiaga Uno Pengemplang Pajak, Pengusaha: Tidak <i>Fair</i></span></h2>","['h2', 'span', 'i']",9,0,6,0,15.0,6.3
+857,,[],0,0,1,0,0.0,3.0
+858,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.5
+859,,[],0,0,1,0,0.0,0.0
+860,,[],0,0,1,0,0.0,0.0
+861,,[],0,0,1,0,0.0,0.0
+862,<li></li>,['li'],0,0,1,0,0.0,0.0
+863,<article></article>,['article'],0,0,1,0,0.0,0.3
+864,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312617/tak-hanya-umkm-pengusaha-besar-masih-ramaikan-periode-ii-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.6
+865,"<div class=""num_fokus"">03</div>",['div'],1,0,2,0,3.0,2.9
+866,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+867,"<h2><span>Tak Hanya UMKM, Pengusaha Besar Masih Ramaikan Periode II <i>Tax Amnesty</i></span></h2>","['h2', 'span', 'i']",11,0,6,0,17.0,7.1
+868,,[],0,0,1,0,0.0,3.4
+869,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+870,,[],0,0,1,0,0.0,0.0
+871,,[],0,0,1,0,0.0,0.0
+872,,[],0,0,1,0,0.0,0.0
+873,<li></li>,['li'],0,0,1,0,0.0,0.0
+874,<article></article>,['article'],0,0,1,0,0.0,0.3
+875,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312609/ada-tax-amnesty-setoran-pajak-hingga-september-capai-rp-767-t""></a>",['a'],0,0,1,0,0.0,0.6
+876,"<div class=""num_fokus"">04</div>",['div'],1,0,2,0,3.0,2.9
+877,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+878,"<h2><span>Ada <i>Tax Amnesty</i>, Setoran pajak Hingga September Capai Rp 767 T</span></h2>","['h2', 'span', 'i']",11,0,6,0,17.0,7.1
+879,,[],0,0,1,0,0.0,3.4
+880,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+881,,[],0,0,1,0,0.0,0.0
+882,,[],0,0,1,0,0.0,0.0
+883,,[],0,0,1,0,0.0,0.0
+884,<li></li>,['li'],0,0,1,0,0.0,0.0
+885,<article></article>,['article'],0,0,1,0,0.0,0.3
+886,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312600/sandiaga-uno-ikut-tax-amnesty-ditjen-pajak-tak-akan-diusut-asal-hartanya""></a>",['a'],0,0,1,0,0.0,0.6
+887,"<div class=""num_fokus"">05</div>",['div'],1,0,2,0,3.0,3.0
+888,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.2
+889,"<h2><span>Sandiaga Uno Ikut <i>Tax Amnesty</i>, Ditjen Pajak: Tak Akan Diusut Asal Hartanya</span></h2>","['h2', 'span', 'i']",12,0,6,0,18.0,7.5
+890,,[],0,0,1,0,0.0,3.6
+891,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.8
+892,,[],0,0,1,0,0.0,0.0
+893,,[],0,0,1,0,0.0,0.0
+894,,[],0,0,1,0,0.0,0.0
+895,<li></li>,['li'],0,0,1,0,0.0,0.0
+896,<article></article>,['article'],0,0,1,0,0.0,0.3
+897,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312577/32-peserta-tax-amnesty-bayar-tebusan-di-atas-rp-100-morang""></a>",['a'],0,0,1,0,0.0,0.6
+898,"<div class=""num_fokus"">06</div>",['div'],1,0,2,0,3.0,2.9
+899,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+900,<h2><span>32 Peserta <i>Tax Amnesty</i> Bayar Tebusan di Atas Rp 100 M/Orang</span></h2>,"['h2', 'span', 'i']",11,0,6,0,17.0,7.1
+901,,[],0,0,1,0,0.0,3.4
+902,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+903,,[],0,0,1,0,0.0,0.0
+904,,[],0,0,1,0,0.0,0.0
+905,,[],0,0,1,0,0.0,0.0
+906,<li></li>,['li'],0,0,1,0,0.0,0.0
+907,<article></article>,['article'],0,0,1,0,0.0,0.3
+908,"<a href=""//finance.detik.com/energi/3312566/pln-buka-lowongan-untuk-lulusan-d3-hingga-s1-di-7-kota""></a>",['a'],0,0,1,0,0.0,0.6
+909,"<div class=""num_fokus"">07</div>",['div'],1,0,2,0,3.0,2.7
+910,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.6
+911,<h2><span>PLN Buka Lowongan Untuk Lulusan D3 Hingga S1 di 7 Kota</span></h2>,"['h2', 'span']",11,0,4,0,15.0,6.3
+912,,[],0,0,1,0,0.0,3.0
+913,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.5
+914,,[],0,0,1,0,0.0,0.0
+915,,[],0,0,1,0,0.0,0.0
+916,,[],0,0,1,0,0.0,0.0
+917,<li></li>,['li'],0,0,1,0,0.0,0.0
+918,<article></article>,['article'],0,0,1,0,0.0,0.3
+919,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312449/ahok-sebut-ikut-tax-amnesty-dulu-mengemplang-pajak-ini-bahayanya""></a>",['a'],0,0,1,0,0.0,0.6
+920,"<div class=""num_fokus"">08</div>",['div'],1,0,2,0,3.0,2.8
+921,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.8
+922,"<h2><span>Ahok Sebut Ikut <i>Tax Amnesty</i> Dulu Mengemplang Pajak, Ini Bahayanya</span></h2>","['h2', 'span', 'i']",10,0,6,0,16.0,6.7
+923,,[],0,0,1,0,0.0,3.2
+924,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.6
+925,,[],0,0,1,0,0.0,0.0
+926,,[],0,0,1,0,0.0,0.0
+927,,[],0,0,1,0,0.0,0.0
+928,<li></li>,['li'],0,0,1,0,0.0,0.0
+929,<article></article>,['article'],0,0,1,0,0.0,0.3
+930,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312591/ada-tax-amnesty-pemerintah-dapat-26000-wajib-pajak-baru""></a>",['a'],0,0,1,0,0.0,0.6
+931,"<div class=""num_fokus"">09</div>",['div'],1,0,2,0,3.0,2.7
+932,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.6
+933,"<h2><span>Ada <i>Tax Amnesty</i>, Pemerintah Dapat 26.000 Wajib Pajak Baru</span></h2>","['h2', 'span', 'i']",9,0,6,0,15.0,6.3
+934,,[],0,0,1,0,0.0,3.0
+935,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.5
+936,,[],0,0,1,0,0.0,0.0
+937,,[],0,0,1,0,0.0,0.0
+938,,[],0,0,1,0,0.0,0.0
+939,<li></li>,['li'],0,0,1,0,0.0,0.0
+940,<article></article>,['article'],0,0,1,0,0.0,0.3
+941,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312575/darmin-harap-usulan-suntikan-modal-rp-9-t-ke-4-bumn-disetujui-dpr""></a>",['a'],0,0,1,0,0.0,0.6
+942,"<div class=""num_fokus"">10</div>",['div'],1,0,2,0,3.0,2.9
+943,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,4.0
+944,<h2><span>Darmin Harap Usulan Suntikan Modal Rp 9 T ke 4 BUMN Disetujui DPR</span></h2>,"['h2', 'span']",13,0,4,0,17.0,7.1
+945,,[],0,0,1,0,0.0,3.4
+946,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.7
+947,,[],0,0,1,0,0.0,0.0
+948,,[],0,0,1,0,0.0,0.0
+949,,[],0,0,1,0,0.0,0.0
+950,,[],0,0,1,0,0.0,0.25
+951,"<div class=""a-center""></div>",['div'],0,0,1,0,0.0,0.5
+952,"<a class=""btn_more"" href=""//finance.detik.com/mostpopular"">Selengkapnya</a>",['a'],0,1,2,0,2.5,1.0
+953,,[],0,0,1,0,0.0,0.5
+954,,[],0,0,1,0,0.0,0.25
+955,"<div class=""mostcommented_ga"" id=""box-com2""></div>",['div'],0,0,1,0,0.0,0.0
+956,"<ul class=""list_fokus box-commented""></ul>",['ul'],0,0,1,0,0.0,0.0
+957,<li></li>,['li'],0,0,1,0,0.0,0.0
+958,<article></article>,['article'],0,0,1,0,0.0,0.0
+959,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312449/ahok-sebut-ikut-tax-amnesty-dulu-mengemplang-pajak-ini-bahayanya""></a>",['a'],0,0,1,0,0.0,0.4
+960,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+961,492 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+962,,[],0,0,1,0,0.0,2.0
+963,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.8
+964,"<h2>Ahok Sebut Ikut Tax Amnesty Dulu Mengemplang Pajak, Ini Bahayanya</h2>",['h2'],10,0,2,0,12.0,4.8
+965,,[],0,0,1,0,0.0,2.4
+966,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.2
+967,,[],0,0,1,0,0.0,0.0
+968,,[],0,0,1,0,0.0,0.0
+969,,[],0,0,1,0,0.0,0.0
+970,<li></li>,['li'],0,0,1,0,0.0,0.0
+971,<article></article>,['article'],0,0,1,0,0.0,0.0
+972,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312388/tanggapi-pernyataan-ahok-dirjen-pajak-tak-ada-istilah-pengemplang-pajak-""></a>",['a'],0,0,1,0,0.0,0.4
+973,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+974,273 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+975,,[],0,0,1,0,0.0,2.0
+976,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.8
+977,"<h2>Tanggapi Pernyataan Ahok, Dirjen Pajak: Tak Ada Istilah Pengemplang Pajak</h2>",['h2'],10,0,2,0,12.0,4.8
+978,,[],0,0,1,0,0.0,2.4
+979,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.2
+980,,[],0,0,1,0,0.0,0.0
+981,,[],0,0,1,0,0.0,0.0
+982,,[],0,0,1,0,0.0,0.0
+983,<li></li>,['li'],0,0,1,0,0.0,0.0
+984,<article></article>,['article'],0,0,1,0,0.0,0.0
+985,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3307993/ini-penjelasan-sandiaga-uno-simpan-uang-di-luar-negeri""></a>",['a'],0,0,1,0,0.0,0.4
+986,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+987,259 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+988,,[],0,0,1,0,0.0,1.9
+989,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.6
+990,<h2>Ini Penjelasan Sandiaga Uno Simpan Uang di Luar Negeri</h2>,['h2'],9,0,2,0,11.0,4.4
+991,,[],0,0,1,0,0.0,2.2
+992,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.1
+993,,[],0,0,1,0,0.0,0.0
+994,,[],0,0,1,0,0.0,0.0
+995,,[],0,0,1,0,0.0,0.0
+996,<li></li>,['li'],0,0,1,0,0.0,0.0
+997,<article></article>,['article'],0,0,1,0,0.0,0.0
+998,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312345/ahok-keliru--peserta-tax-amnesty-tak-semua-pengemplang-pajak""></a>",['a'],0,0,1,0,0.0,0.4
+999,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+1000,218 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+1001,,[],0,0,1,0,0.0,1.9
+1002,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.6
+1003,"<h2>Ahok Keliru, Peserta Tax Amnesty Tak Semua Pengemplang Pajak</h2>",['h2'],9,0,2,0,11.0,4.4
+1004,,[],0,0,1,0,0.0,2.2
+1005,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.1
+1006,,[],0,0,1,0,0.0,0.0
+1007,,[],0,0,1,0,0.0,0.0
+1008,,[],0,0,1,0,0.0,0.0
+1009,<li></li>,['li'],0,0,1,0,0.0,0.0
+1010,<article></article>,['article'],0,0,1,0,0.0,0.0
+1011,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3308718/sandiaga-ajak-ahok-para-cagub-dan-cawagub-dki-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.4
+1012,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+1013,173 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+1014,,[],0,0,1,0,0.0,2.1
+1015,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.0
+1016,"<h2>Sandiaga Ajak Ahok, Para Cagub dan Cawagub DKI Ikut Tax Amnesty</h2>",['h2'],11,0,2,0,13.0,5.2
+1017,,[],0,0,1,0,0.0,2.6
+1018,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.3
+1019,,[],0,0,1,0,0.0,0.0
+1020,,[],0,0,1,0,0.0,0.0
+1021,,[],0,0,1,0,0.0,0.0
+1022,<li></li>,['li'],0,0,1,0,0.0,0.0
+1023,<article></article>,['article'],0,0,1,0,0.0,0.0
+1024,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3312500/ahok-sebut-ikut-tax-amnesty-pernah-kemplang-pajak-bisa-ganggu-program-jokowi""></a>",['a'],0,0,1,0,0.0,0.4
+1025,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+1026,158 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+1027,,[],0,0,1,0,0.0,2.2
+1028,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.2
+1029,"<h2>Ahok Sebut Ikut Tax Amnesty Pernah Kemplang Pajak, Bisa Ganggu Program Jokowi</h2>",['h2'],12,0,2,0,14.0,5.6
+1030,,[],0,0,1,0,0.0,2.8
+1031,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.4
+1032,,[],0,0,1,0,0.0,0.0
+1033,,[],0,0,1,0,0.0,0.0
+1034,,[],0,0,1,0,0.0,0.0
+1035,<li></li>,['li'],0,0,1,0,0.0,0.0
+1036,<article></article>,['article'],0,0,1,0,0.0,0.0
+1037,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3310320/live-report-hari-terakhir-periode-i-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.4
+1038,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+1039,146 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+1040,,[],0,0,1,0,0.0,1.8
+1041,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.4
+1042,<h2>Live Report: Hari Terakhir Periode I Tax Amnesty</h2>,['h2'],8,0,2,0,10.0,4.0
+1043,,[],0,0,1,0,0.0,2.0
+1044,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.0
+1045,,[],0,0,1,0,0.0,0.0
+1046,,[],0,0,1,0,0.0,0.0
+1047,,[],0,0,1,0,0.0,0.0
+1048,<li></li>,['li'],0,0,1,0,0.0,0.0
+1049,<article></article>,['article'],0,0,1,0,0.0,0.0
+1050,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3307960/sandiaga-uno-daftarkan-banyak-perusahaannya-ikut-tax-amnesty""></a>",['a'],0,0,1,0,0.0,0.4
+1051,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+1052,137 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+1053,,[],0,0,1,0,0.0,1.8
+1054,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,2.4
+1055,<h2>Sandiaga Uno Daftarkan Banyak Perusahaannya Ikut Tax Amnesty</h2>,['h2'],8,0,2,0,10.0,4.0
+1056,,[],0,0,1,0,0.0,2.0
+1057,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.0
+1058,,[],0,0,1,0,0.0,0.0
+1059,,[],0,0,1,0,0.0,0.0
+1060,,[],0,0,1,0,0.0,0.0
+1061,<li></li>,['li'],0,0,1,0,0.0,0.0
+1062,<article></article>,['article'],0,0,1,0,0.0,0.0
+1063,"<a href=""//finance.detik.com/berita-ekonomi-bisnis/3311587/rini-soemarno-usul-pt-kai-ganti-nama-jadi-pt-kereta-indonesia""></a>",['a'],0,0,1,0,0.0,0.4
+1064,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+1065,119 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+1066,,[],0,0,1,0,0.0,2.1
+1067,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.0
+1068,<h2>Rini Soemarno Usul PT KAI Ganti Nama Jadi 'PT Kereta Indonesia'</h2>,['h2'],11,0,2,0,13.0,5.2
+1069,,[],0,0,1,0,0.0,2.6
+1070,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.3
+1071,,[],0,0,1,0,0.0,0.0
+1072,,[],0,0,1,0,0.0,0.0
+1073,,[],0,0,1,0,0.0,0.0
+1074,<li></li>,['li'],0,0,1,0,0.0,0.0
+1075,<article></article>,['article'],0,0,1,0,0.0,0.0
+1076,"<a href=""//finance.detik.com/bursa-dan-valas/3307718/tax-amnesty-ri-jadi-salah-satu-tersukses-di-dunia-ini-datanya""></a>",['a'],0,0,1,0,0.0,0.4
+1077,"<div class=""num""></div>",['div'],0,0,1,0,0.0,0.8
+1078,108 <span>Komentar</span>,['span'],2,0,2,0,4.0,1.6
+1079,,[],0,0,1,0,0.0,2.1
+1080,"<div class=""title_lnf""></div>",['div'],0,0,1,0,0.0,3.0
+1081,"<h2>Tax Amnesty RI Jadi Salah Satu Tersukses di Dunia, Ini Datanya</h2>",['h2'],11,0,2,0,13.0,5.2
+1082,,[],0,0,1,0,0.0,2.6
+1083,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,1.3
+1084,,[],0,0,1,0,0.0,0.0
+1085,,[],0,0,1,0,0.0,0.0
+1086,,[],0,0,1,0,0.0,0.0
+1087,,[],0,0,1,0,0.0,0.0
+1088,,[],0,0,0,0,0.0,0.0
+1089,,[],0,0,1,0,0.0,0.0
+1090,,[],0,0,1,0,0.0,0.0
+1091,,[],0,0,1,0,0.0,0.0
+1092,,[],0,0,0,0,0.0,0.0
+1093,,[],0,0,1,0,0.0,0.0
+1094,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+1095,,[],0,0,1,0,0.0,0.0
+1096,"<div class=""footer footer_ga""></div>",['div'],0,0,1,0,0.0,0.0
+1097,"<div class=""foot1""></div>",['div'],0,0,1,0,0.0,0.0
+1098,"<div class=""fl""></div>",['div'],0,0,1,0,0.0,0.0
+1099,"<a href=""//detik.com""></a>",['a'],0,0,1,0,0.0,0.0
+1100,"<img alt=""detikcom"" src=""https://cdn.detik.net.id/finance/images/logo_detik_footer.png""/>",['img'],0,0,1,0,0.0,0.0
+1101,,[],0,0,2,0,0.0,0.0
+1102,,[],0,0,1,0,0.0,0.0
+1103,"<div class=""fr""></div>",['div'],0,0,1,0,0.0,0.0
+1104,"<div class=""share_bottom""></div>",['div'],0,0,1,0,0.0,0.0
+1105,"<a href=""https://facebook.com/detikfinance"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.0
+1106,"<img alt=""icon facebook detikcom"" src=""https://cdn.detik.net.id/finance/images/foot_fb.png""/>",['img'],0,0,1,0,0.0,0.0
+1107,,[],0,0,2,0,0.0,0.0
+1108,"<a href=""https://twitter.com/detikfinance"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.0
+1109,"<img alt=""icon facebook detikcom"" src=""https://cdn.detik.net.id/finance/images/foot_tw.png""/>",['img'],0,0,1,0,0.0,0.0
+1110,,[],0,0,2,0,0.0,0.0
+1111,"<a href=""https://plus.google.com/u/0/+detikcom/posts"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.0
+1112,"<img alt=""icon facebook detikcom"" src=""https://cdn.detik.net.id/finance/images/foot_gplus.png""/>",['img'],0,0,1,0,0.0,0.0
+1113,,[],0,0,2,0,0.0,0.0
+1114,"<a href=""https://instagram.com/detikcom"" target=""_blank""></a>",['a'],0,0,1,0,0.0,0.0
+1115,"<img alt=""icon facebook detikcom"" src=""https://cdn.detik.net.id/finance/images/foot_insta.png""/>",['img'],0,0,1,0,0.0,0.0
+1116,,[],0,0,2,0,0.0,0.0
+1117,,[],0,0,1,0,0.0,0.0
+1118,,[],0,0,1,0,0.0,0.0
+1119,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+1120,,[],0,0,1,0,0.0,0.0
+1121,"<div class=""clearfix""></div>",['div'],0,0,2,0,0.0,0.0
+1122,"<div class=""foot2""></div>",['div'],0,0,1,0,0.0,0.8
+1123,"<div class=""fl""></div>",['div'],0,0,1,0,0.0,1.95
+1124,"Copyright @ 2016 detikcom, All right reserved ·",[],8,0,0,0,8.0,4.35
+1125,"<a href=""//detik.com/dapur/redaksi"">Redaksi</a> ·",['a'],1,1,2,0,3.5,4.25
+1126,"<a href=""//detik.com/dapur/pedoman-media"">Pedoman Media Siber</a> ·",['a'],1,3,2,0,4.5,4.4
+1127,"<a href=""//microsite.detik.com/vacancy/"">Karir</a> ·",['a'],1,1,2,0,3.5,3.85
+1128,"<a href=""//detik.com/dapur/kotak-pos"">Kotak Pos</a> ·",['a'],1,2,2,0,4.0,3.95
+1129,"<a href=""//detik.com/dapur/beriklan"">Info Iklan</a> ·",['a'],1,2,2,0,4.0,3.8
+1130,"<a href=""//detik.com/dapur/privacy-policy"">Privacy Policy</a> ·",['a'],1,2,2,0,4.0,3.3
+1131,"<a href=""//detik.com/dapur/desclaimer"">Disclaimer</a><br/>","['a', 'br']",0,1,3,1,2.5,2.2
+1132,,[],0,0,2,0,0.0,0.9
+1133,,[],0,0,1,0,0.0,0.25
+1134,"<div class=""clearfix pt10""></div>",['div'],0,0,2,0,0.0,0.0
+1135,,[],0,0,1,0,0.0,0.0
+1136,,[],0,0,1,0,0.0,0.0
+1137,,[],0,0,1,0,0.0,0.0
+1138,,[],0,0,1,0,0.0,0.0

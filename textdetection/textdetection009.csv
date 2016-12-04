@@ -1,0 +1,528 @@
+HTML,TAG,TC,LTC,TG,P,CTTD
+"<!DOCTYPE html>
+",[],0,0,0,0,0
+,[],0,0,0,0,0
+"<html dir=""ltr"" lang=""en-US"" xmlns=""https://www.w3.org/1999/xhtml"" xmlns:fb=""https://www.facebook.com/2008/fbml""></html>",['html'],0,0,1,0,0
+<head></head>,['head'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+<body></body>,['body'],0,0,1,0,0
+"<div id=""fb-root""></div>",['div'],0,0,2,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+"<div class=""full-body""></div>",['div'],0,0,1,0,0
+"<div class=""pages""></div>",['div'],0,0,1,0,0
+"<div class=""top-nav""></div>",['div'],0,0,1,0,0
+"<ul class=""lang""></ul>",['ul'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://www.tempo.co"">Indonesia</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://en.tempo.co"">English</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+"<div class=""top-space-login"" id=""login-top""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+"<div class=""block-search""></div>",['div'],0,0,1,0,0
+"<form action=""https://search.tempo.co/index.php/search/result"" method=""GET""></form>",['form'],0,0,1,0,0
+"<input class=""search-button"" name=""submit"" type=""submit"" value=""""/>",['input'],0,0,1,0,0
+"<input name=""type"" type=""hidden"" value=""semua""/>",['input'],0,0,1,0,0
+"<input name=""fld"" type=""hidden"" value=""news""/>",['input'],0,0,1,0,0
+"<input class=""search-bar"" name=""vSearch"" placeholder=""search..."" required="""" type=""text""/>",['input'],0,0,1,0,0
+,[],0,0,5,0,0
+,[],0,0,1,0,0
+"<div class=""top-medsos""></div>",['div'],0,0,1,0,0
+"<div class=""top-twitter""><a class=""fade"" href=""https://twitter.com/tempodotco"" title=""twitter""> </a></div>","['div', 'a']",0,0,4,0,0
+"<div class=""top-facebook""><a class=""fade"" href=""https://www.facebook.com/TempoMedia"" title=""facebook""> </a></div>","['div', 'a']",0,0,4,0,0
+"<div class=""top-google""><a class=""fade"" href=""https://plus.google.com/109335234362909335582/posts"" title=""google+""> </a></div>","['div', 'a']",0,0,4,0,0
+"<div class=""top-rss""><a class=""fade"" href=""https://rss.tempo.co/index.php/teco/news/feed"" title=""RSS""> </a></div>","['div', 'a']",0,0,4,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<header class=""m15-b m15-t""></header>",['header'],0,0,1,0,0
+"<div class=""logo-tempo kanal-head""></div>",['div'],0,0,1,0,0
+"<h2 class=""logo-kanal""><a href=""https://www.tempo.co"" title=""tempo.co""></a></h2>","['h2', 'a']",0,0,4,0,0
+"<h1><a href=""https://tekno.tempo.co"" title=""tekno"">tekno</a></h1>","['h1', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+"<div class=""block-toplink m5-b""></div>",['div'],0,0,2,0,0
+"<ul class=""top-link""></ul>",['ul'],0,0,1,0,0
+"<li style=""color:#333;"">selasa, 04 oktober 2016</li>",['li'],4,0,2,0,6.0
+"<li><a href=""https://majalah.tempo.co"" target=""_blank"" title=""Majalah Tempo"">Majalah Tempo</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""https://magz.tempo.co"" target=""_blank"" title=""Tempo English"">Tempo English</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""http://koran.tempo.co"" target=""_blank"" title=""Koran Tempo"">Koran Tempo</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""http://komunika.tempo.co"" target=""_blank"" title=""Komunika"">Komunika</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""https://store.tempo.co"" target=""_blank"" title=""Tempo Store"">Tempo Store</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""https://investigasi.tempo.co"" target=""_blank"" title=""Investigasi"">Investigasi</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""https://www.tempo.co/fokus"">Fokus</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""https://edsus.tempo.co"" target=""_blank"" title=""Edisi Khusus"">Edisi Khusus</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""https://indonesiana.tempo.co"" target=""_blank"" title=""Indonesiana"">Indonesiana</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""https://www.tempo.co/inforial"">Business Update</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""https://www.tempo.co/indikator"">Indikator</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""http://www.tempochannel.com"">Tempo Channel</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""https://bola.tempo.co/skor"" style=""color:#a7be39;"">Live Score</a></li>","['li', 'a']",0,2,4,0,5.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<div class=""block-outmenu""></div>",['div'],0,0,2,0,0
+"<div class=""block-mainmenu m15-b""></div>",['div'],0,0,1,0,0
+"<ul class=""main-menu""></ul>",['ul'],0,0,1,0,0
+"<li class=""home""><a href=""https://www.tempo.co"" title=""Home""></a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""logos""><a href=""https://www.tempo.co"" title=""Home""></a></li>","['li', 'a']",0,0,4,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://nasional.tempo.co"" title=""Politik"">Nasional</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://bisnis.tempo.co"" title=""Bisnis"">Bisnis</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://metro.tempo.co"" title=""Metro"">Metro</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://dunia.tempo.co"" title=""Dunia"">Dunia</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+"<div id=""main-menu-sub""></div>",['div'],0,0,1,0,0
+<ul></ul>,['ul'],0,0,1,0,0
+<li>Bola</li>,['li'],1,0,1,0,2.0
+<ul></ul>,['ul'],0,0,1,0,0
+"<li><a href=""https://bola.tempo.co"" title=""Bola"">Bola</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""https://sport.tempo.co"" title=""Sport"">Sport</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://gaya.tempo.co"" title=""Gaya"">Gaya</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://seleb.tempo.co"" title=""Seleb"">Seleb</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://cantik.tempo.co"" title=""Cantik"">Cantik</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+"<li class=""selected""></li>",['li'],0,0,1,0,0
+"<a href=""https://tekno.tempo.co"" title=""Tekno"">Tekno</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""http://otomotif.tempo.co"" title=""Otomotif"">Otomotif</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""https://travel.tempo.co"" title=""Travel"">Travel</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<a href=""http://foto.tempo.co"" title=""Foto"">Foto</a>",['a'],0,1,2,0,2.5
+,[],0,0,1,0,0
+"<li><a href=""https://video.tempo.co"" title=""Video"">Video</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""http://grafis.tempo.co"" title=""Grafis"">Grafis</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""https://kolom.tempo.co"">Kolom</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a href=""https://www.tempo.co/indeks"" title=""Indeks"">Indeks</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+"<div class=""pages-col""></div>",['div'],0,0,1,0,0
+"<div class=""blocking m15-b"" style=""text-align:center;""></div>",['div'],0,0,1,0,0
+"<div id=""div-gpt-ad-1432034735081-1"" style=""height:auto; width:auto; text-align:center;""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,2,0,0
+"<div class=""right-col""></div>",['div'],0,0,1,0,0
+"<div class=""w300 m10-b""></div>",['div'],0,0,1,0,0
+"<div class=""banner300x250 top""></div>",['div'],0,0,1,0,0
+"<div id=""div-gpt-ad-1422512954465-1"" style=""width:300px; height:auto;padding-bottom:3px;""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+"<div class=""banner300x250""></div>",['div'],0,0,3,0,0
+"<div id=""div-gpt-ad-1422512954465-2"" style=""width:300px; height:auto;padding-bottom:3px;""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+"<div class=""banner300x250""></div>",['div'],0,0,3,0,0
+"<div id=""div-gpt-ad-1422512954465-3"" style=""width:300px; height:auto;""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+" <div class=""blocking m15-t m15-b""></div>",['div'],0,0,3,0,0
+"<div id=""tops""></div>",['div'],0,0,1,0,0
+"<h2 class=""title"">Top 10 Teknologi</h2>",['h2'],3,0,2,0,5.0
+"<div id=""tops-1""></div>",['div'],0,0,1,0,0
+"<span class=""number"">1</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/03/061809188/iphone-6-plus-terbakar-di-saku-terdengar-letupan-lalu"" title=""iPhone 6 Plus Terbakar di Saku, Terdengar Letupan Lalu..."">iPhone 6 Plus Terbakar di Saku, Terdengar Letupan Lalu...</a></h3>","['h3', 'a']",0,9,4,0,8.5
+"<span class=""number"">2</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/03/172809222/samsung-pay-sudah-beroperasi-di-9-negara"" title=""Samsung Pay Sudah Beroperasi di 9 Negara  "">Samsung Pay Sudah Beroperasi di 9 Negara  </a></h3>","['h3', 'a']",0,7,4,0,7.5
+"<span class=""number"">3</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/03/172809216/apple-akan-sisipkan-iklan-di-app-store"" title=""Apple Akan Sisipkan Iklan di App Store  "">Apple Akan Sisipkan Iklan di App Store  </a></h3>","['h3', 'a']",0,7,4,0,7.5
+"<span class=""number"">4</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/03/061809161/mengintip-proses-merobohkan-bangunan-tinggi-di-indonesia"" title=""Mengintip Proses Merobohkan Bangunan Tinggi di Indonesia"">Mengintip Proses Merobohkan Bangunan Tinggi di Indonesia</a></h3>","['h3', 'a']",0,7,4,0,7.5
+"<span class=""number"">5</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/03/097809213/iphone-7-segera-masuk-malaysia-bagaimana-indonesia"" title=""iPhone 7 Segera Masuk Malaysia, Bagaimana Indonesia?  "">iPhone 7 Segera Masuk Malaysia, Bagaimana Indonesia?  </a></h3>","['h3', 'a']",0,7,4,0,7.5
+"<span class=""number"">6</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/03/061809272/yoshinori-ohsumi-menerima-nobel-bidang-kedokteran"" title=""Yoshinori Ohsumi Menerima Nobel Bidang Kedokteran"">Yoshinori Ohsumi Menerima Nobel Bidang Kedokteran</a></h3>","['h3', 'a']",0,6,4,0,7.0
+"<span class=""number"">7</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/03/061809160/ketika-perusahaan-perangkat-lunak-masuk-kampus-nasional"" title=""Ketika Perusahaan Perangkat Lunak Masuk Kampus Nasional"">Ketika Perusahaan Perangkat Lunak Masuk Kampus Nasional</a></h3>","['h3', 'a']",0,7,4,0,7.5
+"<span class=""number"">8</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia"" title=""Samsung Z2 Mulai Dipasarkan di Indonesia  "">Samsung Z2 Mulai Dipasarkan di Indonesia  </a></h3>","['h3', 'a']",0,6,4,0,7.0
+"<span class=""number"">9</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/04/061809413/dji-mavic-pro-atau-gopro-karma-ini-yang-lebih-tangguh"" title=""DJI Mavic Pro atau GoPro Karma, Ini yang Lebih Tangguh"">DJI Mavic Pro atau GoPro Karma, Ini yang Lebih Tangguh</a></h3>","['h3', 'a']",0,10,4,0,9.0
+"<span class=""number"">10</span>",['span'],1,0,2,0,3.0
+"<h3><a href=""https://tekno.tempo.co/read/news/2016/10/04/072809430/samsung-luncurkan-ulang-galaxy-note-7-secara-global"" title=""Samsung Luncurkan Ulang Galaxy Note 7 Secara Global  "">Samsung Luncurkan Ulang Galaxy Note 7 Secara Global  </a></h3>","['h3', 'a']",0,8,4,0,8.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<div id=""widget_foto"" kanal=""tekno""></div> <div class=""blocking m15-b bgw""></div>","['div', 'div']",0,0,3,0,0
+"<h2 class=""title"">Grafis<span class=""more""><a href=""http://grafis.tempo.co"">+</a></span></h2>","['h2', 'span', 'a']",0,1,6,0,6.5
+"<ul class=""list-double""><li><a href=""http://grafis.tempo.co/read/flashgrafis/2016/08/24/780/ketika-angka-berbicara-candu-rokok-dan-pajak-dosa"" title=""Ketika Angka Berbicara Candu Rokok dan Pajak Dosa""><img alt=""Ketika Angka Berbicara Candu Rokok dan Pajak Dosa"" src=""https://cdn.tmpo.co/data/2015/08/28/id_431839/431839_300.jpg""/></a><h4><a href=""http://grafis.tempo.co/read/flashgrafis/2016/08/24/780/ketika-angka-berbicara-candu-rokok-dan-pajak-dosa"" title=""Ketika Angka Berbicara Candu Rokok dan Pajak Dosa"">Ketika Angka Berbicara Candu Rokok dan Pajak Dosa</a></h4></li><li><a href=""http://grafis.tempo.co/read/flashgrafis/2016/08/19/779/fakta-fakta-di-balik-medali-emas-tontowi-liliyana"" title=""Fakta-fakta di Balik Medali Emas Tontowi/Liliyana""><img alt=""Fakta-fakta di Balik Medali Emas Tontowi/Liliyana"" src=""https://cdn.tmpo.co/data/2016/08/18/id_531569/531569_300.jpg""/></a><h4><a href=""http://grafis.tempo.co/read/flashgrafis/2016/08/19/779/fakta-fakta-di-balik-medali-emas-tontowi-liliyana"" title=""Fakta-fakta di Balik Medali Emas Tontowi/Liliyana"">Fakta-fakta di Balik Medali Emas Tontowi/Liliyana</a></h4></li></ul>","['ul', 'li', 'a', 'img', 'h4', 'a', 'li', 'a', 'img', 'h4', 'a']",-1,14,22,0,28.0
+" <div class=""right-fixed""></div>",['div'],0,0,2,0,0
+"<div id=""widget_video"" kanal=""tekno""></div>",['div'],0,0,2,0,0
+"<div class=""banner300x250 top""></div>",['div'],0,0,1,0,0
+"<div id=""div-gpt-ad-1422512954465-4"" style=""width:300px; height:auto;""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,2,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<div class=""left-col""></div>",['div'],0,0,1,0,0
+"<div class=""w160 m10-b""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+"<div id=""div-gpt-ad-1432034735081-0"" style=""height:600px; width:160px;""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+" <div class=""blocking m15-b""></div>",['div'],0,0,2,0,0
+"<div id=""tops""></div>",['div'],0,0,1,0,0
+"<h2 class=""title"">Terpopuler</h2>",['h2'],1,0,2,0,3.0
+"<div id=""tops-1""></div>",['div'],0,0,1,0,0
+"<span class=""number small"">1</span>",['span'],1,0,2,0,3.0
+"<h3 class=""small""><a href=""https://nasional.tempo.co/read/news/2016/10/03/063809248/pengakuan-istri-kedua-sanusi-soal-rumah-rp-16-5-miliar"" title=""Pengakuan Istri Kedua Sanusi Soal Rumah Rp 16,5 Miliar"">Pengakuan Istri Kedua Sanusi Soal Rumah Rp 16,5 Miliar</a></h3><span class=""number small"">2</span>","['h3', 'a', 'span']",0,9,6,0,10.5
+"<h3 class=""small""><a href=""https://metro.tempo.co/read/news/2016/10/03/083809283/ratna-sarumpaet-kalau-saya-presiden-luhut-saya-bui"" title=""Ratna Sarumpaet: Kalau Saya Presiden, Luhut Saya Bui!  "">Ratna Sarumpaet: Kalau Saya Presiden, Luhut Saya Bui!  </a></h3><span class=""number small"">3</span>","['h3', 'a', 'span']",1,8,6,0,11.0
+"<h3 class=""small""><a href=""https://seleb.tempo.co/read/news/2016/10/03/219809282/raffi-ahmad-selingkuh-nagita-slavina-menjawab"" title=""Raffi Ahmad Selingkuh, Nagita Slavina Menjawab"">Raffi Ahmad Selingkuh, Nagita Slavina Menjawab</a></h3><span class=""number small"">4</span>","['h3', 'a', 'span']",0,6,6,0,9.0
+"<h3 class=""small""><a href=""https://metro.tempo.co/read/news/2016/10/03/064809182/ibu-yang-mutilasi-anak-ternyata-istri-anggota-provos-polda-metro"" title=""Ibu yang Mutilasi Anak Ternyata Istri Anggota Provos Polda Metro"">Ibu yang Mutilasi Anak Ternyata Istri Anggota Provos Polda Metro</a></h3><span class=""number small"">5</span>","['h3', 'a', 'span']",0,10,6,0,11.0
+"<h3 class=""small""><a href=""https://nasional.tempo.co/read/news/2016/10/03/063809270/kisah-sanusi-istri-kedua-cinta-bermula-di-thamrin-city"" title=""Kisah Sanusi &amp; Istri Kedua, Cinta Bermula di Thamrin City  "">Kisah Sanusi &amp; Istri Kedua, Cinta Bermula di Thamrin City  </a></h3><span class=""number small"">6</span>","['h3', 'a', 'span']",1,10,6,0,12.0
+"<h3 class=""small""><a href=""https://nasional.tempo.co/read/news/2016/10/03/063809219/anya-geraldine-blakblakan-alasan-mengunggah-video-mesra"" title=""Anya Geraldine Blakblakan Alasan Mengunggah Video Mesra  "">Anya Geraldine Blakblakan Alasan Mengunggah Video Mesra  </a></h3><span class=""number small"">7</span>","['h3', 'a', 'span']",1,7,6,0,10.5
+"<h3 class=""small""><a href=""https://metro.tempo.co/read/news/2016/10/03/083809199/ratna-sarumpaet-ajak-penantang-ahok-kumpulkan-korban-gusuran"" title=""Ratna Sarumpaet Ajak Penantang Ahok Kumpulkan Korban Gusuran  "">Ratna Sarumpaet Ajak Penantang Ahok Kumpulkan Korban Gusuran  </a></h3><span class=""number small"">8</span>","['h3', 'a', 'span']",1,8,6,0,11.0
+"<h3 class=""small""><a href=""https://nasional.tempo.co/read/news/2016/10/03/063809276/adegan-kematian-korban-dimas-kanjeng-dijerat-dibekap-dan"" title=""Adegan Kematian Korban Dimas Kanjeng: Dijerat, Dibekap, dan...  "">Adegan Kematian Korban Dimas Kanjeng: Dijerat, Dibekap, dan...  </a></h3><span class=""number small"">9</span>","['h3', 'a', 'span']",1,8,6,0,11.0
+"<h3 class=""small""><a href=""https://seleb.tempo.co/read/news/2016/10/03/219809206/momen-mesra-anya-geraldine-yang-bakal-dihapus-dari-youtube"" title=""Momen Mesra Anya Geraldine yang Bakal Dihapus dari YouTube"">Momen Mesra Anya Geraldine yang Bakal Dihapus dari YouTube</a></h3><span class=""number small"">10</span>","['h3', 'a', 'span']",0,9,6,0,10.5
+"<h3 class=""small""><a href=""https://pilkada.tempo.co/read/news/2016/10/03/304809228/dilema-ahok-antara-sombong-dan-curi-start-kampanye"" title=""Dilema Ahok: Antara Sombong dan Curi Start Kampanye  "">Dilema Ahok: Antara Sombong dan Curi Start Kampanye  </a></h3> ","['h3', 'a']",0,8,5,0,9.0
+,[],0,0,1,0,0
+" <div id=""widget_tempochanel_160""></div>",['div'],0,0,3,0,0
+"<div id=""widget_majalah_kanan""></div>",['div'],0,0,2,0,0
+"<div class=""left-fixed""></div>",['div'],0,0,1,0,0
+"<div class=""blocking m20-b bgw""></div>",['div'],0,0,1,0,0
+"<h2 class=""title"">Berita Pilihan</h2>",['h2'],2,0,2,0,4.0
+"<ul class=""list-text""><li><h4><a href=""https://dunia.tempo.co/read/news/2016/10/03/116809118/di-luar-dugaan-rakyat-kolombia-tolak-berdamai-dengan-farc"" title=""Di Luar Dugaan, Rakyat Kolombia Tolak Berdamai dengan FARC   "">Di Luar Dugaan, Rakyat Kolombia Tolak Berdamai dengan FARC   </a></h4></li><li><h4><a href=""https://bisnis.tempo.co/read/news/2016/10/03/090809113/kantong-plastik-di-toko-retail-digratiskan-lagi"" title=""Kantong Plastik di Toko Retail Digratiskan Lagi"">Kantong Plastik di Toko Retail Digratiskan Lagi</a></h4></li><li><h4><a href=""https://nasional.tempo.co/read/news/2016/10/03/058809110/tabrak-burung-pesawat-garuda-batal-terbang-ke-jakarta"" title=""Tabrak Burung, Pesawat Garuda Batal Terbang ke Jakarta"">Tabrak Burung, Pesawat Garuda Batal Terbang ke Jakarta</a></h4></li><li><h4><a href=""https://dunia.tempo.co/read/news/2016/10/03/118809109/presiden-duterte-mohon-maaf-kepada-yahudi"" title=""Presiden Duterte Mohon Maaf kepada Yahudi"">Presiden Duterte Mohon Maaf kepada Yahudi</a></h4></li><li><h4><a href=""https://bola.tempo.co/read/news/2016/10/03/099809107/8-calon-ketua-umum-pssi-ikuti-debat-terbuka"" title=""8 Calon Ketua Umum PSSI Ikuti Debat Terbuka  "">8 Calon Ketua Umum PSSI Ikuti Debat Terbuka  </a></h4></li></ul>","['ul', 'li', 'h4', 'a', 'li', 'h4', 'a', 'li', 'h4', 'a', 'li', 'h4', 'a', 'li', 'h4', 'a']",-3,38,32,0,48.0
+ ,[],0,0,2,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<div class=""double-block""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+"<div class=""center-col""></div>",['div'],0,0,1,0,0
+"<div class=""w100 m10-b""></div>",['div'],0,0,1,0,0
+"<div class=""artikel""></div>",['div'],0,0,1,0,0
+"<ul class=""block-kanal-map""></ul>",['ul'],0,0,1,0,0
+"<li><a class=""shadow fade"" href=""https://www.tempo.co"">home</a></li><li><a class=""shadow fade"" href=""#"">teknologi</a></li><li><a class=""shadow fade"" href=""#"">itempo</a></li> ","['li', 'a', 'li', 'a', 'li', 'a']",-2,3,13,0,12.5
+<h1></h1>,['h1'],0,0,1,0,0
+Samsung Z2 Mulai Dipasarkan di Indonesia  	,[],6,0,1,0,7.0
+"<div class=""block-tanggal""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+"Selasa, 04 Oktober 2016 | 10:31 WIB",[],7,0,0,0,7.0
+,[],0,0,1,0,0
+"<div class=""block-display""></div>",['div'],0,0,1,0,0
+"<div class=""single-img""></div>",['div'],0,0,1,0,0
+"<div class=""share-display fade""></div>",['div'],0,0,1,0,0
+<ul></ul>,['ul'],0,0,1,0,0
+"<li><a href=""javascript:void(0)"" onclick=""popupwindow('https://www.facebook.com/sharer/sharer.php?u=https://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia', 'Share Facebook', 600, 400)"" title=""share facebook""><img alt=""share facebook"" src=""https://cdn.tmpo.co/web/teco/images/fb-img-share.png""/></a></li>","['li', 'a', 'img']",0,0,6,0,0
+"<li><a href=""javascript:void(0)"" onclick=""popupwindow('https://twitter.com/home?status=https://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia', 'Twitter Share', 600, 400)"" title=""share twitter""><img alt=""share twitter"" src=""https://cdn.tmpo.co/web/teco/images/twitter-img-share.png""/></a></li>","['li', 'a', 'img']",0,0,6,0,0
+"<li><a href=""javascript:void(0)"" onclick=""popupwindow('https://plus.google.com/share?url=https://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia', 'Google Share', 600, 400)"" title=""share google+""><img alt=""share google+"" src=""https://cdn.tmpo.co/web/teco/images/google-img-share.png""/></a></li>","['li', 'a', 'img']",0,0,6,0,0
+"<li><a href=""javascript:void(0)"" onclick=""popupwindow('https://id.pinterest.com/pin/create/button/?url=https://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia&amp;media=https://cdn.tmpo.co/data/2016/09/24/id_541863/541863_620.jpg', 'Pinterest', 600, 400)"" title=""share pinterest""><img alt=""share pinterest"" src=""https://cdn.tmpo.co/web/teco/images/pinterest-img-share.png""/></a></li>","['li', 'a', 'img']",0,0,6,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<img alt=""Samsung Z2 Mulai Dipasarkan di Indonesia  "" src=""https://cdn.tmpo.co/data/2016/09/24/id_541863/541863_620.jpg""/>",['img'],0,0,1,0,0
+,[],0,0,2,0,0
+,[],0,0,0,0,0
+"<div class=""deskripsi"">Samsung Z2. technoblink.com</div>",['div'],3,0,2,0,5.0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<p><span style=""color: #666666;""><strong>TEMPO.CO</strong></span>, <span style=""color: #666666;""><strong>Jakarta</strong></span> - <strong></strong>Samsung Electronic mulai mendistribusikan telepon seluler Samsung Z2 di Indonesia. Sepekan lalu, Samsung mengumumkan kehadiran <em>gadget</em> dengan sistem operasi Tizen ini untuk Indonesia.<br/> <br/> Selama sepekan terakhir, iklan produk ini beredar melalui televisi dan media sosial. Namun konsumen di Indonesia masih mengaku kesulitan untuk mendapatkan Samsung Z2 di gerai penjualan setempat. <br/> <br/> Kabar yang dilansir <em>Tizenexpert.com,</em> Selasa, 4 Oktober 2016, menyebutkan Samsung Indonesia menyatakan Z2 mulai didistribusikan awal pekan ini ke seluruh mitra retailnya. Samsung Z2 akan dijual seharga Rp 899 ribu. <br/> <br/> Samsung juga mengatakan Samsung Z2 bekerja pada jaringan 4G LTE, salah satunya melalui operator Smartfren dengan Band 3, Band 5, dan Band 40. Sedangkan sistem berlangganan bisa didapatkan melalui operator lain, Telkomsel. Pengguna dari jaringan lain harus menggunakan kartu kredit untuk membeli aplikasi berbayar dari toko Tizen.<br/> <br/> Toko aplikasi Tizen Store dikabarkan sudah mendapat banyak permintaan dari konsumen, terutama untuk menyediakan aplikasi Blackberry Messenger dan permainan <em>Clash of Clans</em>. Saat ini, Tizen Store memiliki lebih dari 6.500 aplikasi. Sebanyak 2.700 aplikasi secara spesifik diperuntukkan untuk Z2. Sedangkan 1.600 aplikasi lainnya akan tersedia untuk Indonesia.<br/> <br/> <strong>MAYA NAWANGWULAN</strong></p><br/><br/>","['p', 'span', 'strong', 'span', 'strong', 'strong', 'em', 'br', 'br', 'br', 'br', 'em', 'br', 'br', 'br', 'br', 'em', 'br', 'br', 'strong', 'br', 'br']",179,0,44,13,210.0
+"<p><strong><br/><br/>Baca Ju<em>ga<br/></em></strong><a href=""http://otomotif.tempo.co/read/news/2016/09/28/171807868/piaggio-luncurkan-vespa-dan-moto-guzzi-edisi-terbatas"" title=""Piaggio  Luncurkan Vespa dan Moto Guzzi Edisi Terbatas"">Piaggio Luncurkan Vespa dan Moto Guzzi Edisi Terbatas</a><em><br/></em><a href=""http://otomotif.tempo.co/read/news/2016/09/29/123808431/honda-lirik-kontes-modifikasi-honda-hr-v"" title=""Honda Lirik Kontes Modifikasi Honda HR-V"">Honda Lirik Kontes Modifikasi Honda HR-V<br/></a><a href=""https://tekno.tempo.co/read/news/2016/10/03/061809188/iphone-6-plus-terbakar-di-saku-terdengar-letupan-lalu"" title=""iPhone 6 Plus Terbakar di Saku, Terdengar Letupan Lalu..."">iPhone 6 Plus Terbakar di Saku, Terdengar Letupan Lalu...</a><span class=""number""><br/></span><a href=""https://tekno.tempo.co/read/news/2016/10/03/172809222/samsung-pay-sudah-beroperasi-di-9-negara"" title=""Samsung Pay Sudah Beroperasi di 9 Negara  "">Samsung Pay Sudah Beroperasi di 9 Negara  </a></p> ","['p', 'strong', 'br', 'br', 'em', 'br', 'a', 'em', 'br', 'a', 'br', 'a', 'span', 'br', 'a']",-2,30,31,7,37.0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+"<div id=""div-gpt-ad-1473151795579-8""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+"<div class=""share-konten m20-b m30-t""></div>",['div'],0,0,1,0,0
+"<div class=""viewport-share""></div>",['div'],0,0,2,0,0
+"<div class=""title"">bagikan<br>halaman ini</br></div>","['div', 'br']",2,0,4,1,5.0
+"<ul class=""share-big""></ul>",['ul'],0,0,1,0,0
+"<li class=""pinterest""></li>",['li'],0,0,1,0,0
+"<a href=""javascript:void(0)"" onclick=""popupwindow('https://id.pinterest.com/pin/create/button/?url=http://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia&amp;media=https://cdn.tmpo.co/data/2016/09/24/id_541863/541863_620.jpg', 'Pinterest', 600, 400)"" title=""Pinterest""></a>",['a'],0,0,1,0,0
+"<div class=""angka angka-pin"">0</div>",['div'],1,0,2,0,3.0
+"<div class=""med-name"">Pint it</div>",['div'],2,0,2,0,4.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<li class=""like""></li>",['li'],0,0,1,0,0
+"<a href=""javascript:void(0)"" onclick=""popupwindow('https://www.facebook.com/plugins/like.php?href=http://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia', 'Facebook Like', 600, 400)"" title=""Like""></a>",['a'],0,0,1,0,0
+"<div class=""angka angka-like"">0</div>",['div'],1,0,2,0,3.0
+"<div class=""med-name"">Like</div>",['div'],1,0,2,0,3.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<li class=""google""></li>",['li'],0,0,1,0,0
+"<a href=""javascript:void(0)"" onclick=""popupwindow('https://plus.google.com/share?url=http://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia', 'Google Share', 600, 400)"" title=""Google+""></a>",['a'],0,0,1,0,0
+"<div class=""angka angka-google"">0</div>",['div'],1,0,2,0,3.0
+"<div class=""med-name"">Google+</div>",['div'],1,0,2,0,3.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<li class=""twitter""></li>",['li'],0,0,1,0,0
+"<a href=""javascript:void(0)"" onclick=""popupwindow('https://twitter.com/home?status=http://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia', 'Twitter Share', 600, 400)"" title=""Twitter""></a>",['a'],0,0,1,0,0
+"<div class=""angka angka-twitter"">0</div>",['div'],1,0,2,0,3.0
+"<div class=""med-name"">Twitter</div>",['div'],1,0,2,0,3.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<li class=""fb""></li>",['li'],0,0,1,0,0
+"<a href=""javascript:void(0)"" onclick=""popupwindow('https://www.facebook.com/sharer/sharer.php?u=http://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia', 'Share Facebook', 600, 400)"" title=""Facebook""></a>",['a'],0,0,1,0,0
+"<div class=""angka angka-fb"">0</div>",['div'],1,0,2,0,3.0
+"<div class=""med-name"">Facebook</div>",['div'],1,0,2,0,3.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+" <div class=""blocking off""></div>",['div'],0,0,2,0,0
+"<div class=""blocking m20-b left-side"" style=""width:48%; margin-right:2%;""></div>",['div'],0,0,1,0,0
+"<div class=""blocking m20-b off""></div>",['div'],0,0,1,0,0
+"<div class=""title small"">Berita Terkait</div>",['div'],2,0,2,0,4.0
+"<ul class=""list-text big-14f""></ul>",['ul'],0,0,1,0,0
+"<li><a href=""https://tekno.tempo.co/read/news/2016/10/04/061809413/dji-mavic-pro-atau-gopro-karma-ini-yang-lebih-tangguh"" title=""DJI Mavic Pro atau GoPro Karma, Ini yang Lebih Tangguh"">DJI Mavic Pro atau GoPro Karma, Ini yang Lebih Tangguh</a></li><li><a href=""https://tekno.tempo.co/read/news/2016/10/03/172809222/samsung-pay-sudah-beroperasi-di-9-negara"" title=""Samsung Pay Sudah Beroperasi di 9 Negara  "">Samsung Pay Sudah Beroperasi di 9 Negara  </a></li><li><a href=""https://tekno.tempo.co/read/news/2016/10/03/172809216/apple-akan-sisipkan-iklan-di-app-store"" title=""Apple Akan Sisipkan Iklan di App Store  "">Apple Akan Sisipkan Iklan di App Store  </a></li><li><a href=""https://tekno.tempo.co/read/news/2016/10/03/097809213/iphone-7-segera-masuk-malaysia-bagaimana-indonesia"" title=""iPhone 7 Segera Masuk Malaysia, Bagaimana Indonesia?  "">iPhone 7 Segera Masuk Malaysia, Bagaimana Indonesia?  </a></li><li><a href=""https://tekno.tempo.co/read/news/2016/10/01/172808766/memulai-debut-di-pasar-as-begini-strategi-leeco"" title=""Memulai Debut di Pasar AS, Begini Strategi LeEco"">Memulai Debut di Pasar AS, Begini Strategi LeEco</a></li> ","['li', 'a', 'li', 'a', 'li', 'a', 'li', 'a', 'li', 'a']",-1,39,21,0,39.5
+,[],0,0,1,0,0
+"<div class=""blocking m20-b off""></div>",['div'],0,0,1,0,0
+"<div class=""title small"">Topik</div>",['div'],1,0,2,0,3.0
+"<ul class=""topik-terkait""></ul>",['ul'],0,0,1,0,0
+"<li><a href=""https://www.tempo.co/topik/masalah/1181/teknologi-informasi-ponsel-gadget-pda-pocketpc"">#Teknologi Informasi -- Ponsel-Gadget-PDA-PocketPC</a></li><li><a href=""https://www.tempo.co/topik/lembaga/1328/samsung-electronic-co-ltd"">#Samsung Electronic co ltd</a></li> ","['li', 'a', 'li', 'a']",-1,8,9,0,12.0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+"<div class=""blocking m20-b right-side"" style=""width:48%; margin-left:2%;""></div>",['div'],0,0,1,0,0
+"<div class=""blocking m5-b off""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+"<ul class=""terkait-img""></ul>",['ul'],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<div class=""multi-terkait"">Foto</div>",['div'],1,0,2,0,3.0
+"<a href=""http://foto.tempo.co/read/beritafoto/44274/begini-jadinya-kalau-samsung-galaxy-note-7-masuk-air"" title=""Begini Jadinya kalau Samsung Galaxy Note 7 Masuk  Air""><img alt=""Begini Jadinya kalau Samsung Galaxy Note 7 Masuk  Air"" class=""img100"" src=""https://statik.tempo.co/?id=529915""/></a>","['a', 'img']",0,0,4,0,0
+"<h4><a href=""http://foto.tempo.co/read/beritafoto/44274/begini-jadinya-kalau-samsung-galaxy-note-7-masuk-air"" title=""Begini Jadinya kalau Samsung Galaxy Note 7 Masuk  Air"">Begini Jadinya kalau Samsung Galaxy Note 7 Masuk  Air</a></h4>","['h4', 'a']",0,9,4,0,8.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<div class=""multi-terkait"">Video</div>",['div'],1,0,2,0,3.0
+"<a href=""https://video.tempo.co/read/2015/01/15/2547/ukuran-ponsel-masa-depan-bisa-lebih-kecil-dengan-pmic"" title=""Ukuran Ponsel Masa Depan Bisa Lebih Kecil dengan PMIC""><img alt=""Ukuran Ponsel Masa Depan Bisa Lebih Kecil dengan PMIC"" class=""img100"" src=""https://statik.tempo.co/?id=361263""/></a>","['a', 'img']",0,0,4,0,0
+"<h4><a href=""https://video.tempo.co/read/2015/01/15/2547/ukuran-ponsel-masa-depan-bisa-lebih-kecil-dengan-pmic"" title=""Ukuran Ponsel Masa Depan Bisa Lebih Kecil dengan PMIC"">Ukuran Ponsel Masa Depan Bisa Lebih Kecil dengan PMIC</a></h4>","['h4', 'a']",0,9,4,0,8.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<div class=""multi-terkait"">Infografis</div>",['div'],1,0,2,0,3.0
+"<a href=""http://grafis.tempo.co/read/flashgrafis/2012/09/05/474/pelanggaran-samsung-terhadap-paten-apple"" title=""Pelanggaran Samsung Terhadap Paten Apple""><img alt=""Pelanggaran Samsung Terhadap Paten Apple"" class=""img100"" src=""https://statik.tempo.co/?id=136375""/></a>","['a', 'img']",0,0,4,0,0
+"<h4><a href=""http://grafis.tempo.co/read/flashgrafis/2012/09/05/474/pelanggaran-samsung-terhadap-paten-apple"" title=""Pelanggaran Samsung Terhadap Paten Apple"">Pelanggaran Samsung Terhadap Paten Apple</a></h4>","['h4', 'a']",0,5,4,0,6.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<div class=""multi-terkait"">Indonesiana</div>",['div'],1,0,2,0,3.0
+"<a href=""https://indonesiana.tempo.co/read/91682/2016/09/30/leavy_volley/asus-luncurkan-tablet-premium-4g"" title=""ASUS Luncurkan Tablet Premium 4G""><img alt=""ASUS Luncurkan Tablet Premium 4G"" class=""img100"" src=""https://cdn.tmpo.co/indonesiana/foto/0/image_275.jpg""/></a>","['a', 'img']",0,0,4,0,0
+"<h4><a href=""https://indonesiana.tempo.co/read/91682/2016/09/30/leavy_volley/asus-luncurkan-tablet-premium-4g"" title=""ASUS Luncurkan Tablet Premium 4G"">ASUS Luncurkan Tablet Premium 4G</a></h4>","['h4', 'a']",0,5,4,0,6.5
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<div id=""div-gpt-ad-1467096376074-7""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<div class=""blocking m20-b off""></div>",['div'],0,0,1,0,0
+"<div class=""title komentar""><span class=""jml-komentar""></span></div>","['div', 'span']",0,0,3,0,0
+"<span class=""tab-comment fb fb-comment-btn""><a href=""#"" title=""komentar lewat Akun Facebook""></a></span>","['span', 'a']",0,0,4,0,0
+"<span class=""tab-comment tid tempo-comment-btn""><a href=""#"" title=""komentar lewat Akun Tempo.ID""></a></span>","['span', 'a']",0,0,4,0,0
+,[],0,0,1,0,0
+"<div class=""komentar-inside""></div>",['div'],0,0,1,0,0
+"<div class=""tulis-komentar""></div>",['div'],0,0,1,0,0
+"<div class=""auth-komentar""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+"<textarea class=""form komen-input"" placeholder=""Komentari berita di atas...""></textarea>",['textarea'],0,0,2,0,0
+"<input class=""hdkomentarType"" type=""hidden"" value=""idnews""/>",['input'],0,0,2,0,0
+"<input class=""hdkomentarId"" type=""hidden"" value=""809423""/>",['input'],0,0,2,0,0
+"<input class=""hdkomentarMod"" type=""hidden"" value=""""/>",['input'],0,0,2,0,0
+"<button class=""kirim-komentar sendComment"">Kirim</button>",['button'],1,0,2,0,3.0
+"<p class=""disclaimer"">Disclaimer : Komentar adalah tanggapan pribadi, tidak mewakili kebijakan editorial redaksi tempo.co. Redaksi berhak mengubah kata-kata yang berbau pelecehan, intimidasi, bertendensi suku, agama, ras, dan antar golongan</p>",['p'],27,0,2,1,28.0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<ul class=""baca-komentar list-komentar""></ul>",['ul'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<div class=""hal-komentar""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+"<div class=""fb-comments"" data-colorscheme=""light"" data-href=""https://tekno.tempo.co/read/news/2016/10/04/172809423/samsung-z2-mulai-dipasarkan-di-indonesia"" data-numposts=""5"" data-width=""100%""></div>",['div'],0,0,2,0,0
+"<div class=""addcrowdy""> </div>",['div'],0,0,2,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<div id=""widget_foto_bawah""></div>",['div'],0,0,2,0,0
+"<div class=""blocking off""></div>",['div'],0,0,1,0,0
+"<h2 class=""title"" style=""border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:5px 0;"">Berita Terbaru</h2>",['h2'],2,0,2,0,4.0
+"<div class=""blocking m20-b left-side"" style=""width:48%; margin-right:2%;""></div>",['div'],0,0,1,0,0
+"<ul class=""list-text""></ul>",['ul'],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:40 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://cantik.tempo.co/read/news/2016/10/04/332809436/3-zat-gizi-untuk-atasi-kulit-kusam"" title=""3 Zat Gizi untuk Atasi Kulit Kusam"">3 Zat Gizi untuk Atasi Kulit Kusam</a></h4>","['h4', 'a']",0,7,4,0,7.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:38 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://nasional.tempo.co/read/news/2016/10/04/078809435/bawaslu-kampanye-pilkada-dki-di-media-sosial-tak-kondusif"" title=""Bawaslu: Kampanye Pilkada DKI di Media Sosial Tak Kondusif"">Bawaslu: Kampanye Pilkada DKI di Media Sosial Tak Kondusif</a></h4>","['h4', 'a']",0,9,4,0,8.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:33 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://bola.tempo.co/read/news/2016/10/04/099809433/cedera-ivan-rakitic-tak-bisa-perkuat-kroasia"" title=""Cedera, Ivan Rakitic Tak Bisa Perkuat Kroasia"">Cedera, Ivan Rakitic Tak Bisa Perkuat Kroasia</a></h4>","['h4', 'a']",0,7,4,0,7.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:32 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://metro.tempo.co/read/news/2016/10/04/064809432/dua-mayat-dalam-drainase-di-depok-tewas-diracun"" title=""Dua Mayat Dalam Drainase di Depok Tewas Diracun"">Dua Mayat Dalam Drainase di Depok Tewas Diracun</a></h4>","['h4', 'a']",0,8,4,0,8.0
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:30 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://tekno.tempo.co/read/news/2016/10/04/072809431/aplikasi-telegram-luncurkan-fitur-game-berbasis-bot"" title=""Aplikasi Telegram Luncurkan Fitur Game Berbasis Bot"">Aplikasi Telegram Luncurkan Fitur Game Berbasis Bot</a></h4>","['h4', 'a']",0,7,4,0,7.5
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<div class=""blocking m20-b right-side"" style=""width:48%; margin-left:2%;""></div>",['div'],0,0,1,0,0
+"<ul class=""list-text""></ul>",['ul'],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:21 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://tekno.tempo.co/read/news/2016/10/04/072809430/samsung-luncurkan-ulang-galaxy-note-7-secara-global"" title=""Samsung Luncurkan Ulang Galaxy Note 7 Secara Global"">Samsung Luncurkan Ulang Galaxy Note 7 Secara Global</a></h4>","['h4', 'a']",0,8,4,0,8.0
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:16 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://bola.tempo.co/read/news/2016/10/04/099809429/presiden-fifa-usulkan-piala-dunia-diikuti-48-negara"" title=""Presiden FIFA Usulkan Piala Dunia Diikuti 48 Negara"">Presiden FIFA Usulkan Piala Dunia Diikuti 48 Negara</a></h4>","['h4', 'a']",0,8,4,0,8.0
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:05 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://nasional.tempo.co/read/news/2016/10/04/058809427/sambut-asian-games-permukiman-kumuh-palembang-akan-ditata"" title=""Sambut Asian Games, Permukiman Kumuh Palembang Akan Ditata"">Sambut Asian Games, Permukiman Kumuh Palembang Akan Ditata</a></h4>","['h4', 'a']",0,8,4,0,8.0
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 11:03 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://cantik.tempo.co/read/news/2016/10/04/334809425/kurangi-stres-bekerja-dengan-4-cara-sederhana"" title=""Kurangi Stres Bekerja dengan 4 Cara Sederhana"">Kurangi Stres Bekerja dengan 4 Cara Sederhana</a></h4>","['h4', 'a']",0,7,4,0,7.5
+,[],0,0,1,0,0
+<li></li>,['li'],0,0,1,0,0
+"<h5 class=""waktu"">selasa, 04 oktober 2016 | 10:54 WIB</h5>",['h5'],7,0,2,0,9.0
+"<h4><a href=""https://dunia.tempo.co/read/news/2016/10/04/117809424/turki-perpanjang-status-keadaan-darurat-selama-90-hari"" title=""Turki Perpanjang Status Keadaan Darurat Selama 90 Hari"">Turki Perpanjang Status Keadaan Darurat Selama 90 Hari</a></h4>","['h4', 'a']",0,8,4,0,8.0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+" <div class=""blocking off""></div>",['div'],0,0,2,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+"<ins class=""adsbygoogle"" data-ad-client=""ca-pub-6260878263544661"" data-ad-format=""auto"" data-ad-slot=""8622043641"" style=""display:block""></ins>",['ins'],0,0,2,0,0
+,[],0,0,0,0,0
+ ,[],0,0,2,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<div class=""scrollTop""></div>",['div'],0,0,2,0,0
+,[],0,0,1,0,0
+,[],0,0,0,0,0
+"<div id=""div-gpt-ad-1447834450534-1-oop""></div>",['div'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+<footer></footer>,['footer'],0,0,1,0,0
+"<div class=""block-footer m15-l m15-r""></div>",['div'],0,0,1,0,0
+"<ul class=""footer""></ul>",['ul'],0,0,1,0,0
+"<div class=""logo-footer""><a class=""fade"" href=""#""><img height=""90"" src=""/assets/teco/images/logo-footer2.png"" width=""90""/></a></div>","['div', 'a', 'img']",0,0,6,0,0
+"<div class=""footer-col""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://nasional.tempo.co"">Nasional</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://bisnis.tempo.co"">Bisnis</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://metro.tempo.co"">Metro</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://dunia.tempo.co"">Dunia</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://bola.tempo.co"">Bola</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+"<div class=""footer-col""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://sport.tempo.co"">Sport</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://gaya.tempo.co"">Gaya</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://seleb.tempo.co"">Seleb</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://tekno.tempo.co"">Tekno</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""http://otomotif.tempo.co"">Otomotif</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+"<div class=""footer-col""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://travel.tempo.co"">Travel</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""http://foto.tempo.co"">Foto</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://video.tempo.co"">Video</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""http://grafis.tempo.co"">Grafis</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://www.tempo.co/indeks"">Indeks Berita</a></li>","['li', 'a']",0,2,4,0,5.0
+,[],0,0,1,0,0
+"<div class=""footer-col""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://www.tempo.co/fokus"">Fokus</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://www.tempo.co/indikator"">Indikator</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://kolom.tempo.co"">Catatan Pinggir</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://kolom.tempo.co"">Cari Angin</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://kolom.tempo.co"">Kolom</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+"<div class=""footer-col""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://kolom.tempo.co"">Opini</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://seleb.tempo.co"">Jeda</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://edsus.tempo.co"">Edisi Khusus</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://investigasi.tempo.co"">Investigasi</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""http://www.tempochannel.com"">Tempo Channel</a></li>","['li', 'a']",0,2,4,0,5.0
+,[],0,0,1,0,0
+"<div class=""footer-col""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://en.tempo.co"">Tempo.co Inggris</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://majalah.tempo.co"">Majalah Tempo</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""http://koran.tempo.co"">Koran Tempo</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://indonesiana.tempo.co"">Indonesiana</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://store.tempo.co"">Tempo Store</a></li>","['li', 'a']",0,2,4,0,5.0
+,[],0,0,1,0,0
+"<div class=""footer-col""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://korporat.tempo.co"">Tempo Korporat</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://magz.tempo.co"">Tempo Magz</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""http://komunika.tempo.co"">Komunika</a></li>","['li', 'a']",0,1,4,0,4.5
+"<li><a class=""fade"" href=""https://search.tempo.co"">Tempo Search</a></li>","['li', 'a']",0,2,4,0,5.0
+,[],0,0,0,0,0
+,[],0,0,1,0,0
+"<div class=""footer-col foot-blank""></div>",['div'],0,0,1,0,0
+"<li><a class=""fade"" href=""https://tempo-institute.org"">Tempo Institute</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://www.tempo.co/inforial"">Business Update</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://komunitas.tempo.co"">Tempo Komunitas</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a class=""fade"" href=""https://langganan.tempo.co"">Langganan</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+"<div class=""footer-col right""></div>",['div'],0,0,1,0,0
+"<ul class=""foot-icon""></ul>",['ul'],0,0,1,0,0
+"<li class=""apps""><a class=""fade"" href=""https://itunes.apple.com/us/app/tempo.co/id414031470?mt=8"" title=""Apple Apps""> </a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""android""><a class=""fade"" href=""https://play.google.com/store/apps/details?id=com.apps.foundry.tempo&amp;hl=en"" title=""Android""> </a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""windows""><a class=""fade"" href=""https://www.windowsphone.com/en-pk/store/app/tempo-co/db03ccff-428a-4a66-a178-150182aee1f2"" title=""Windows Mobile""> </a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""blackberry""><a class=""fade"" href=""https://appworld.blackberry.com/webstore/content/132944/?lang=en&amp;countrycode=ID"" title=""Blackberry""> </a></li>","['li', 'a']",0,0,4,0,0
+,[],0,0,1,0,0
+"<ul class=""foot-icon""></ul>",['ul'],0,0,1,0,0
+"<li class=""twitter""><a class=""fade"" href=""https://twitter.com/tempodotco"" title=""Twitter""> </a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""facebook""><a class=""fade"" href=""https://www.facebook.com/TempoMedia"" title=""Facebook""> </a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""google""><a class=""fade"" href=""https://plus.google.com/109335234362909335582/posts"" title=""Google+""> </a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""rss""><a class=""fade"" href=""https://rss.tempo.co/index.php/teco/news/feed"" title=""RSS Tempo""> </a></li>","['li', 'a']",0,0,4,0,0
+,[],0,0,1,0,0
+"<ul class=""foot-icon""></ul>",['ul'],0,0,1,0,0
+"<li class=""youtube""><a class=""fade"" href=""https://www.youtube.com/user/tempodotco"" title=""Youtube""> </a></li>","['li', 'a']",0,0,4,0,0
+"<li class=""pinterest""><a class=""fade"" href=""https://www.pinterest.com/tempoco/"" title=""Pinterest""> </a></li>","['li', 'a']",0,0,4,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<div class=""foot-about""></div>",['div'],0,0,1,0,0
+"<div class=""inside""></div>",['div'],0,0,1,0,0
+"<ul class=""about""></ul>",['ul'],0,0,1,0,0
+"<li class=""rightcopy"">© 2015 - <span class=""red"">Tempo Inti Media</span></li>","['li', 'span']",6,0,4,0,10.0
+"<li><a href=""https://www.tempo.co/about/"">Tentang Kami</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""https://www.tempo.co/terms_of_use/"">Term Of Use</a></li>","['li', 'a']",0,3,4,0,5.5
+"<li><a href=""https://www.tempo.co/kode_etik/"">Kode Etik</a></li>","['li', 'a']",0,2,4,0,5.0
+"<li><a href=""https://korporat.tempo.co/karir/kesempatan"">Karir</a></li>","['li', 'a']",0,1,4,0,4.5
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+,[],0,0,1,0,0
+"<link href=""https://fonts.googleapis.com/css?family=Patua+One"" rel=""stylesheet"" type=""text/css""/>",['link'],0,0,1,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,0,0,0
+,[],0,0,2,0,0
+,[],0,0,1,0,0

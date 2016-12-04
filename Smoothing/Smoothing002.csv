@@ -1,0 +1,697 @@
+,HTML,TAG,TC,LTC,TG,P,CTTD,CTTDs
+0,"<!DOCTYPE html>
+",[],0,0,0,0,0.0,0.0
+1,,[],0,0,0,0,0.0,0.0
+2,"<html itemscope=""itemscope"" itemtype=""http://schema.org/WebPage"" lang=""id-ID""></html>",['html'],0,0,1,0,0.0,1.7
+3,<head></head>,['head'],0,0,1,0,0.0,3.4
+4,<title>Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru - Tribun Batam</title>,['title'],15,0,2,0,17.0,6.8
+5,,[],0,0,0,0,0.0,3.4
+6,,[],0,0,1,0,0.0,1.7
+7,"<body id=""bodyart""></body>",['body'],0,0,1,0,0.0,0.0
+8,"<div id=""skinads"" style=""position:fixed;width:100%;""></div>",['div'],0,0,1,0,0.0,0.0
+9,"<div class=""main""></div>",['div'],0,0,1,0,0.0,0.0
+10,"<div class=""fl"" style=""height:600px;width:90px;left:-97px;position:relative;text-align:right;z-index:999999""></div>",['div'],0,0,1,0,0.0,0.0
+11,"<div id=""div-Left-Skin"" style=""width:90px; height:600px;display:none""></div>",['div'],0,0,1,0,0.0,0.0
+12,,[],0,0,0,0,0.0,0.0
+13,,[],0,0,1,0,0.0,0.0
+14,,[],0,0,1,0,0.0,0.0
+15,"<div class=""fr"" style=""height:600px;width:90px;right:-97px;position:relative;text-align:left;z-index:999999""></div>",['div'],0,0,1,0,0.0,0.0
+16,"<div id=""div-Right-Skin"" style=""width:90px; height:600px;display:none""></div>",['div'],0,0,1,0,0.0,0.0
+17,,[],0,0,0,0,0.0,0.0
+18,,[],0,0,1,0,0.0,0.0
+19,,[],0,0,1,0,0.0,0.0
+20,,[],0,0,1,0,0.0,0.0
+21,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+22,,[],0,0,1,0,0.0,0.0
+23,"<div id=""fb-root""></div>",['div'],0,0,2,0,0.0,0.0
+24,,[],0,0,0,0,0.0,0.0
+25,,[],0,0,0,0,0.0,0.0
+26,"<div class=""thead""></div>",['div'],0,0,1,0,0.0,0.0
+27,"<div class=""theader""></div>",['div'],0,0,1,0,0.0,0.0
+28,"<div class=""tlogo""></div>",['div'],0,0,1,0,0.0,0.0
+29,"<a class=""show"" href=""http://batam.tribunnews.com/"" title=""Tribun Batam""></a>",['a'],0,0,1,0,0.0,0.0
+30,"<img alt=""Tribun Batam"" height=""40"" src=""http://cdn-1.tstatic.net/img/logo/daerah/svg2/tribunbatam.svg"" style=""height:40px;width:auto""/>",['img'],0,0,2,0,0.0,0.0
+31,,[],0,0,1,0,0.0,0.0
+32,,[],0,0,1,0,0.0,0.6
+33,<ul></ul>,['ul'],0,0,1,0,0.0,1.2
+34,"<li class=""fbo2 grey ar"" title=""2016-10-04T05:12:06+07:00"">Selasa, 4 Oktober 2016</li>",['li'],4,0,2,0,6.0,2.9
+35,"<li class=""havc search blue""></li>",['li'],0,0,1,0,0.0,2.2
+36,"<i class=""fa fa-search fa-lg mr10""></i><span class=""fbo2"">Cari</span>","['i', 'span']",1,0,4,0,5.0,2.6
+37,"<div class=""submenu""></div>",['div'],0,0,1,0,0.0,1.0
+38,<div></div>,['div'],0,0,1,0,0.0,0.5
+39,"<form action=""http://batam.tribunnews.com/search"" id=""cse-search-box""></form>",['form'],0,0,1,0,0.0,0.0
+40,"<input class=""inputsearch"" lang=""id"" name=""q"" placeholder=""Cari Berita"" type=""text""/>",['input'],0,0,2,0,0.0,0.0
+41,"<input name=""cx"" type=""hidden"" value=""partner-pub-7486139053367666:4965051114""/>",['input'],0,0,2,0,0.0,0.0
+42,"<input name=""cof"" type=""hidden"" value=""FORID:10""/>",['input'],0,0,2,0,0.0,0.0
+43,"<input name=""ie"" type=""hidden"" value=""UTF-8""/>",['input'],0,0,2,0,0.0,0.0
+44,"<input name=""siteurl"" type=""hidden"" value=""www.tribunnews.com""/>",['input'],0,0,2,0,0.0,0.0
+45,"<button class=""buttonsearch"" type=""submit""></button>",['button'],0,0,1,0,0.0,0.0
+46,"<i class=""fa fa-search""></i>",['i'],0,0,2,0,0.0,0.0
+47,,[],0,0,1,0,0.0,0.0
+48,"<div class=""cl""></div>",['div'],0,0,2,0,0.0,0.0
+49,,[],0,0,1,0,0.0,0.0
+50,,[],0,0,1,0,0.0,0.0
+51,,[],0,0,1,0,0.0,0.0
+52,,[],0,0,1,0,0.0,0.65
+53,"<li class=""havc tn""></li>",['li'],0,0,1,0,0.0,1.3
+54,"<a href=""http://www.tribunnews.com"" target=""_blank""><img alt=""Tribun"" class=""fl mr10"" height=""21"" src=""http://cdn-1.tstatic.net/img/logo/tribun/svg/Logo_T_blue.svg"" width=""21""/><div class=""fl fbo2 blue"">Network</div></a>","['a', 'img', 'div']",0,1,6,0,6.5,2.6
+55,"<div class=""submenu""></div>",['div'],0,0,1,0,0.0,1.3
+56,"<div class=""""></div>",['div'],0,0,1,0,0.0,0.65
+57,"<div class=""tnetwork""></div>",['div'],0,0,1,0,0.0,0.45
+58,"<ul class=""lsihomeloc""></ul>",['ul'],0,0,1,0,0.0,1.35
+59,"<li><a href=""http://www.tribunnews.com/"" title=""Tribunnews.com"">Tribunnews.com</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+60,"<li><a href=""http://www.superball.id/"" title=""SuperBall.id"">SuperBall.id</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+61,"<li><a href=""http://www.tribunstyle.com/"" title=""Tribun Style"">TribunStyle.com</a></li>","['li', 'a']",0,1,4,0,4.5,4.55
+62,"<li><a href=""http://www.tribuntravel.com/"" title=""Tribun Travel"">TribunTravel.com</a></li>","['li', 'a']",0,1,4,0,4.5,4.65
+63,"<li><a href=""http://jualbeli.tribunnews.com/"" target=""_blank"" title=""Tribun JualBeli"">Tribun JualBeli</a></li>","['li', 'a']",0,2,4,0,5.0,4.35
+64,"<li><a href=""http://video.tribunnews.com/"" target=""_blank"" title=""Tribun Video"">Tribun Video</a></li>","['li', 'a']",0,2,4,0,5.0,3.45
+65,,[],0,0,1,0,0.0,1.5
+66,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,1.0
+67,"<ul class=""lsihomeloc""></ul>",['ul'],0,0,1,0,0.0,1.45
+68,"<li><a href=""http://www.wartakotalive.com"" target=""_blank"" title=""Aceh"">Warta Kota</a></li>","['li', 'a']",0,2,4,0,5.0,3.4
+69,"<li><a href=""http://bogor.tribunnews.com"" target=""_blank"" title=""Bogor"">TribunnewsBogor.com</a></li>","['li', 'a']",0,1,4,0,4.5,4.25
+70,"<li><a href=""http://jogja.tribunnews.com"" target=""_blank"" title=""Yogjakarta"">Tribun Jogja</a></li>","['li', 'a']",0,2,4,0,5.0,4.8
+71,"<li><a href=""http://solo.tribunnews.com"" target=""_blank"" title=""Solo"">TribunSolo.com</a></li>","['li', 'a']",0,1,4,0,4.5,4.7
+72,"<li><a href=""http://jabar.tribunnews.com"" target=""_blank"" title=""Bandung"">Tribun Jabar</a></li>","['li', 'a']",0,2,4,0,5.0,4.8
+73,"<li><a href=""http://surabaya.tribunnews.com"" target=""_blank"" title=""Surabaya"">Surya</a></li>","['li', 'a']",0,1,4,0,4.5,4.75
+74,"<li><a href=""http://jateng.tribunnews.com"" target=""_blank"" title=""Jateng"">Tribun Jateng</a></li>","['li', 'a']",0,2,4,0,5.0,4.9
+75,"<li><a href=""http://bali.tribunnews.com"" target=""_blank"" title=""Bali"">Tribun Bali</a></li>","['li', 'a']",0,2,4,0,5.0,4.95
+76,"<li><a href=""http://banjarmasin.tribunnews.com"" target=""_blank"" title=""Banjarmasin"">Banjarmasin Post</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+77,"<li><a href=""http://palembang.tribunnews.com"" target=""_blank"" title=""Palembang"">Sriwijaya Post</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+78,"<li><a href=""http://bangka.tribunnews.com"" target=""_blank"" title=""Bangka"">Bangka Pos</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+79,"<li><a href=""http://batam.tribunnews.com"" target=""_blank"" title=""Batam"">Tribun Batam</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+80,"<li><a href=""http://jambi.tribunnews.com"" target=""_blank"" title=""Jambi"">Tribun Jambi</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+81,"<li><a href=""http://aceh.tribunnews.com"" target=""_blank"" title=""Aceh"">Serambi Indonesia</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+82,"<li><a href=""http://kaltim.tribunnews.com"" target=""_blank"" title=""Balikpapan"">Tribun Kaltim</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+83,"<li><a href=""http://lampung.tribunnews.com"" target=""_blank"" title=""Lampung"">Tribun Lampung</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+84,"<li><a href=""http://manado.tribunnews.com"" target=""_blank"" title=""Manado"">Tribun Manado</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+85,"<li><a href=""http://medan.tribunnews.com"" target=""_blank"" title=""Medan"">Tribun Medan</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+86,"<li><a href=""http://pontianak.tribunnews.com"" target=""_blank"" title=""Pontianak"">Tribun Pontianak</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+87,"<li><a href=""http://pekanbaru.tribunnews.com"" target=""_blank"" title=""Pekanbaru"">Tribun Pekanbaru</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+88,"<li><a href=""http://makassar.tribunnews.com"" target=""_blank"" title=""Makassar"">Tribun Timur</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+89,"<li><a href=""http://sumsel.tribunnews.com"" target=""_blank"" title=""Sumsel"">Tribun Sumsel</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+90,"<li><a href=""http://kupang.tribunnews.com"" target=""_blank"" title=""Kupang"">Pos Kupang</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+91,"<li><a href=""http://belitung.tribunnews.com"" target=""_blank"" title=""Belitung"">Pos Belitung</a></li>","['li', 'a']",0,2,4,0,5.0,4.5
+92,"<li><a href=""http://suryamalang.tribunnews.com"" target=""_blank"" title=""Surya Malang"">Surya Malang</a></li>","['li', 'a']",0,2,4,0,5.0,3.5
+93,,[],0,0,1,0,0.0,1.5
+94,,[],0,0,1,0,0.0,0.5
+95,,[],0,0,1,0,0.0,0.0
+96,,[],0,0,1,0,0.0,0.0
+97,,[],0,0,1,0,0.0,0.0
+98,"<li class=""sn havc"" id=""sosmedmn""></li>",['li'],0,0,1,0,0.0,0.0
+99,"<i class=""fa fa-facebook-official fa-lg "" style=""color:#3b5998;""></i>",['i'],0,0,2,0,0.0,0.0
+100,"<i class=""fa fa-twitter fa-lg ml15"" style=""color:#00aced;""></i>",['i'],0,0,2,0,0.0,0.0
+101,"<i class=""fa fa-google-plus-square fa-lg ml15"" style=""color:#d34836;""></i>",['i'],0,0,2,0,0.0,0.0
+102,"<i class=""fa fa-rss fa-lg ml15"" style=""color:#FF6600;""></i>",['i'],0,0,2,0,0.0,0.0
+103,"<div class=""submenu""></div>",['div'],0,0,1,0,0.0,0.0
+104,"<div class=""sn_content""></div>",['div'],0,0,1,0,0.0,0.0
+105,,[],0,0,1,0,0.0,0.0
+106,,[],0,0,1,0,0.0,0.0
+107,,[],0,0,1,0,0.0,1.3
+108,"<li class=""havc user"" id=""userid""></li>",['li'],0,0,1,0,0.0,2.6
+109,"<a class=""blue"" href=""#"" id=""login"" onclick='login(""login"",""Masuk"")' rel=""nofollow"" title=""Login"">Login</a><div class=""submenu submenu-login""><div class=""submenuc-login fbo2""><span class=""fbo2 grey"">Belum punya akun?</span> <a class=""f16"" href=""#"" onclick='register(""register"",""Daftar Baru"")' rel=""nofollow"" title=""Register"">Mendaftar</a><div class=""grey fbo mt10 mb10"">Atau</div></div></div>","['a', 'div', 'div', 'span', 'a', 'div']",2,2,10,0,13.0,5.2
+110,,[],0,0,0,0,0.0,2.6
+111,"<div class=""gplusbtn signin_sm signin_sm_gplus mt5 cl2 fr"" id=""gConnect1""> </div>",['div'],0,0,2,0,0.0,1.3
+112,,[],0,0,2,0,0.0,0.0
+113,,[],0,0,0,0,0.0,0.0
+114,,[],0,0,0,0,0.0,0.3
+115,"<div class=""ac"" id=""fpresult"" style=""display:none; width:300px;""></div>",['div'],0,0,1,0,0.0,0.6
+116,"<div class=""al message mb10"" id=""fpresultpar"" style=""display:none"">Loading...</div>",['div'],1,0,2,0,3.0,1.2
+117,"<div class=""al""><a href=""http://www.tribunnews.com/account/"" target=""blank"" title=""Tribun Akun""><img alt=""Tribun Akun"" height=""30"" src=""http://cdn-1.tstatic.net/img/logo/tribun/tribunakun.png"" width=""100""/></a></div>","['div', 'a', 'img']",0,0,5,0,0.0,0.6
+118,,[],0,0,1,0,0.0,0.8
+119,"<form accept-charset=""utf-8"" action=""http://www.tribunnews.com/auth/forgot_password_json?callback=?"" class=""form"" id=""fpform"" method=""GET""></form>",['form'],0,0,1,0,0.0,1.0
+120,"<div class=""al"">Email atau Username:</div>",['div'],3,0,2,0,5.0,2.0
+121,"<div class=""pt50 al""><input class=""input"" id=""login_fp"" maxlength=""80"" name=""login"" size=""25"" type=""text"" value=""""/></div>","['div', 'input']",0,0,4,0,0.0,1.0
+122,"<div class=""pt10 al""><input class=""button"" id=""fpbtn"" name=""fpbtn"" type=""submit"" value=""Kirim""/></div>","['div', 'input']",0,0,4,0,0.0,0.5
+123,,[],0,0,1,0,0.0,0.0
+124,,[],0,0,1,0,0.0,0.3
+125,"<div class=""ac"" id=""logresult"" style=""display:none""></div>",['div'],0,0,1,0,0.0,0.6
+126,"<div class=""al message mb10"" id=""logresultpar"" style=""display:none; margin-bottom:10px"">Mengirim...</div>",['div'],1,0,2,0,3.0,1.2
+127,"<form accept-charset=""utf-8"" action=""http://www.tribunnews.com/auth/login_json?callback=?"" class=""form"" id=""logform"" method=""GET""></form>",['form'],0,0,1,0,0.0,0.6
+128,"<div class=""pa10 fl"" style=""width:240px""></div>",['div'],0,0,1,0,0.0,0.3
+129,"<div class=""al""><a href=""http://www.tribunnews.com/account/"" target=""blank"" title=""Tribun Akun""><img alt=""Tribun Akun"" height=""30"" src=""http://cdn-1.tstatic.net/img/logo/tribun/tribunakun.png"" width=""100""/></a></div>","['div', 'a', 'img']",0,0,5,0,0.0,0.0
+130,,[],0,0,1,0,0.0,0.0
+131,"<div class=""al mb10""></div>",['div'],0,0,1,0,0.0,0.0
+132,"<input class=""input"" id=""login_log"" maxlength=""80"" name=""login"" placeholder=""Email"" required="""" style=""padding:10px;width:220px"" type=""text"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+133,,[],0,0,1,0,0.0,0.0
+134,"<div class=""al mb10""></div>",['div'],0,0,1,0,0.0,0.0
+135,"<input class=""input"" name=""password"" placeholder=""Kata sandi"" required="""" size=""35"" style=""padding:10px;width:220px"" type=""password"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+136,,[],0,0,1,0,0.0,0.8
+137,"<div class=""hide al mb10"" id=""captchalogin""></div>",['div'],0,0,1,0,0.0,1.6
+138,"<div id=""captchaloginimg""></div>Tulis angka disamping<br/><input class=""input"" maxlength=""6"" name=""captchalogin"" size=""6"" type=""text"" value=""""/>","['div', 'br', 'input']",3,0,6,1,8.0,3.2
+139,,[],0,0,1,0,0.0,1.6
+140,"<div class=""wfull mb10""></div>",['div'],0,0,1,0,0.0,1.4
+141,"<div class=""fl""></div>",['div'],0,0,1,0,0.0,1.2
+142,"<input class=""checkbox"" id=""remember"" name=""remember"" style=""margin:0;padding:0"" type=""checkbox"" value=""1""/> <label for=""remember"">Ingat saya</label>","['input', 'label']",2,0,4,0,6.0,2.4
+143,,[],0,0,1,0,0.0,1.55
+144,"<div class=""fr""></div>",['div'],0,0,1,0,0.0,1.3
+145,"<a href=""#"" onclick='fbox(""#fpresult"",""Lupa kata sandi"",""inline"")' title=""Forget Password"">Lupa kata sandi</a>",['a'],0,3,2,0,3.5,1.4
+146,,[],0,0,1,0,0.0,0.7
+147,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.35
+148,,[],0,0,1,0,0.0,0.0
+149,"<div class=""al""></div>",['div'],0,0,1,0,0.0,0.0
+150,"<input class=""sl_type"" name=""sl_type"" type=""hidden"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+151,"<input class=""sl_userid"" name=""sl_userid"" type=""hidden"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+152,"<input class=""button"" id=""loginbtn"" name=""loginbtn"" style=""font-size:14px; padding:10px;width:100%"" type=""submit"" value=""Masuk""/>",['input'],0,0,2,0,0.0,0.0
+153,"<div class=""pt10 f13"" id=""logindesc""></div>",['div'],0,0,2,0,0.0,0.0
+154,,[],0,0,1,0,0.0,0.0
+155,,[],0,0,1,0,0.0,0.3
+156,"<div class=""al fl pb15"" id=""sl_btn_log"" style=""margin:10px 20px 0px 10px;height:180px;border-left:1px solid #ddd;padding-left:20px""></div>",['div'],0,0,1,0,0.0,0.6
+157,"<div class=""grey fbo mb10 al"">Atau</div>",['div'],1,0,2,0,3.0,1.2
+158,,[],0,0,0,0,0.0,0.6
+159,"<div class=""gplusbtn signin signin_gplus mt10"" id=""gConnect2""> </div>",['div'],0,0,2,0,0.0,0.3
+160,,[],0,0,1,0,0.0,0.0
+161,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+162,,[],0,0,1,0,0.0,0.0
+163,,[],0,0,1,0,0.0,0.3
+164,"<div class=""ac"" id=""regresult"" style=""display:none""></div>",['div'],0,0,1,0,0.0,0.6
+165,"<div class=""al message"" id=""regresultpar"" style=""display:none; margin-bottom:10px"">Mengirim...</div>",['div'],1,0,2,0,3.0,1.2
+166,"<form accept-charset=""utf-8"" action=""http://www.tribunnews.com/auth/register_fb_json?callback=?"" class=""form"" id=""rform"" method=""get""></form>",['form'],0,0,1,0,0.0,0.6
+167,"<div class=""fotofb""></div>",['div'],0,0,2,0,0.0,0.3
+168,"<div class=""al pa10 fl"" style=""width:240px""></div>",['div'],0,0,1,0,0.0,0.0
+169,"<div class=""al""><a href=""http://www.tribunnews.com/account/"" target=""blank"" title=""Tribun Akun""><img alt=""Tribun Akun"" height=""30"" src=""http://cdn-1.tstatic.net/img/logo/tribun/tribunakun.png"" width=""100""/></a></div>","['div', 'a', 'img']",0,0,5,0,0.0,0.0
+170,,[],0,0,1,0,0.0,0.0
+171,"<div class=""mb10""></div>",['div'],0,0,1,0,0.0,0.0
+172,"<input class=""input"" id=""username"" maxlength=""20"" name=""username"" placeholder=""Nama pengguna (username)"" required="""" style=""padding:10px;width:220px"" type=""text"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+173,,[],0,0,1,0,0.0,0.0
+174,"<div class=""mb10""></div>",['div'],0,0,1,0,0.0,0.0
+175,"<input class=""input"" id=""name"" maxlength=""70"" name=""name"" placeholder=""Nama Lengkap"" required="""" style=""padding:10px;width:220px;"" type=""text"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+176,,[],0,0,1,0,0.0,0.0
+177,"<div class=""mb10""></div>",['div'],0,0,1,0,0.0,0.0
+178,"<input class=""input"" id=""email"" maxlength=""80"" name=""email"" placeholder=""Email"" required="""" style=""padding:10px;width:220px"" type=""email"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+179,,[],0,0,1,0,0.0,0.0
+180,"<div class=""mb10""></div>",['div'],0,0,1,0,0.0,0.0
+181,"<input class=""input"" maxlength=""20"" name=""password"" placeholder=""Kata sandi"" required="""" style=""padding:10px;width:220px"" type=""password"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+182,,[],0,0,1,0,0.0,0.0
+183,"<div class=""mb10"" id=""captchadiv""></div>",['div'],0,0,1,0,0.0,0.0
+184,"<input class=""input fl"" maxlength=""6"" name=""captcha"" placeholder=""Kode Captcha"" style=""width:86px;padding:10px"" type=""text"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+185,"<div class=""fl ml10"" id=""captcha""></div>",['div'],0,0,2,0,0.0,0.0
+186,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+187,,[],0,0,1,0,0.0,0.0
+188,"<div class=""mt10""></div>",['div'],0,0,1,0,0.0,0.0
+189,"<input class=""sl_type"" name=""sl_type"" type=""hidden"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+190,"<input class=""sl_userid"" name=""sl_userid"" type=""hidden"" value=""""/>",['input'],0,0,2,0,0.0,0.0
+191,"<input class=""button"" id=""registerbtn"" name=""register"" style=""font-size:14px; width:100%; padding-top:10px;padding-bottom:10px"" type=""submit"" value=""Mendaftar""/>",['input'],0,0,2,0,0.0,0.0
+192,"<div class=""f13 pt10"" id=""registerdesc""></div>",['div'],0,0,2,0,0.0,0.0
+193,,[],0,0,1,0,0.0,0.0
+194,,[],0,0,1,0,0.0,0.3
+195,"<div class=""fl mr10 mt10"" id=""sl_btn_reg"" style=""margin-left:10px;height:300px;border-left:1px solid #ddd;padding-left:20px""></div>",['div'],0,0,1,0,0.0,0.6
+196,"<div class=""grey fbo mb10 al"">Atau</div>",['div'],1,0,2,0,3.0,1.2
+197,,[],0,0,0,0,0.0,0.6
+198,"<div class=""gplusbtn signin register_gplus mt10"" id=""gConnect3""> </div>",['div'],0,0,2,0,0.0,0.3
+199,,[],0,0,1,0,0.0,0.0
+200,,[],0,0,1,0,0.0,0.0
+201,,[],0,0,1,0,0.0,0.0
+202,,[],0,0,1,0,0.0,0.0
+203,,[],0,0,1,0,0.0,0.0
+204,,[],0,0,1,0,0.0,0.0
+205,,[],0,0,1,0,0.0,0.0
+206,"<div class=""main""></div>",['div'],0,0,1,0,0.0,0.0
+207,"<div class=""header pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+208,"<div class="""" id=""div-Top-Leaderboard"" style=""width:auto;text-align:center;height:90px;display:none""></div>",['div'],0,0,1,0,0.0,0.0
+209,,[],0,0,0,0,0.0,0.0
+210,,[],0,0,1,0,0.0,0.0
+211,,[],0,0,0,0,0.0,0.0
+212,,[],0,0,0,0,0.0,0.0
+213,"<div id=""crt-a63f52c1"" style=""width:728px;height:90px;margin:0px auto;""></div>",['div'],0,0,2,0,0.0,0.0
+214,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+215,,[],0,0,1,0,0.0,0.0
+216,,[],0,0,0,0,0.0,0.0
+217,"<div id=""fixposmenu""></div>",['div'],0,0,2,0,0.0,0.0
+218,"<div class=""main-menu"" id=""main-menu"" style=""z-index:9;""></div>",['div'],0,0,1,0,0.0,0.0
+219,<div></div>,['div'],0,0,1,0,0.0,0.45
+220,<ul></ul>,['ul'],0,0,1,0,0.0,1.25
+221,"<li><a href=""http://batam.tribunnews.com/"" title=""Home"">Home</a></li>","['li', 'a']",0,1,4,0,4.5,2.5
+222,"<li><a href=""#"" title=""Home"">News</a></li>","['li', 'a']",0,1,3,0,3.5,2.75
+223,<ul></ul>,['ul'],0,0,1,0,0.0,2.5
+224,"<li><a href=""http://www.tribunnews.com/nasional"" target=""_blank"" title=""Nasional"">Nasional</a></li>","['li', 'a']",0,1,4,0,4.5,3.5
+225,"<li><a href=""http://www.tribunnews.com/regional"" target=""_blank"" title=""Regional"">Regional</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+226,"<li><a href=""http://www.tribunnews.com/internasional"" target=""_blank"" title=""Internasional"">Internasional</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+227,"<li><a href=""http://www.tribunnews.com/metropolitan"" target=""_blank"" title=""Metropolitan"">Jakarta</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+228,,[],0,0,1,0,0.0,1.35
+229,,[],0,0,1,0,0.0,0.7
+230,"<li class=""nw selected""></li>",['li'],0,0,1,0,0.0,0.5
+231,"<a href=""http://batam.tribunnews.com/kepri/"" title=""Kepri"">Kepri</a>",['a'],0,1,2,0,2.5,1.0
+232,,[],0,0,1,0,0.0,0.75
+233,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.75
+234,"<a href=""http://batam.tribunnews.com/jiran/"" title=""Jiran"">Jiran</a>",['a'],0,1,2,0,2.5,1.0
+235,,[],0,0,1,0,0.0,0.75
+236,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.75
+237,"<a href=""http://batam.tribunnews.com/bisnis/"" title=""Bisnis"">Bisnis</a>",['a'],0,1,2,0,2.5,1.0
+238,,[],0,0,1,0,0.0,0.75
+239,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.75
+240,"<a href=""http://batam.tribunnews.com/superball/"" title=""Superball"">Superball</a>",['a'],0,1,2,0,2.5,1.0
+241,,[],0,0,1,0,0.0,0.75
+242,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.75
+243,"<a href=""http://batam.tribunnews.com/sport/"" title=""Sport"">Sport</a>",['a'],0,1,2,0,2.5,1.0
+244,,[],0,0,1,0,0.0,0.75
+245,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.75
+246,"<a href=""http://batam.tribunnews.com/seleb/"" title=""Seleb"">Seleb</a>",['a'],0,1,2,0,2.5,1.0
+247,,[],0,0,1,0,0.0,0.75
+248,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.75
+249,"<a href=""http://batam.tribunnews.com/video/"" title=""Video"">Video</a>",['a'],0,1,2,0,2.5,1.0
+250,,[],0,0,1,0,0.0,0.8
+251,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.85
+252,"<a href=""http://batam.tribunnews.com/lipsus/"" title=""Liputan Khusus"">Liputan Khusus</a>",['a'],0,2,2,0,3.0,1.2
+253,,[],0,0,1,0,0.0,0.9
+254,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.9
+255,"<a href=""http://batam.tribunnews.com/citizen-journalism/"" title=""Citizen Journalism"">Citizen Journalism</a>",['a'],0,2,2,0,3.0,1.2
+256,,[],0,0,1,0,0.0,0.85
+257,"<li class=""nw ""></li>",['li'],0,0,1,0,0.0,0.8
+258,"<a href=""http://batam.tribunnews.com/epaper/"" target=""_blank"" title=""Epaper"">Epaper</a>",['a'],0,1,2,0,2.5,1.35
+259,,[],0,0,1,0,0.0,1.2
+260,"<li><a href=""#"" title=""images"">Lainnya</a></li>","['li', 'a']",0,1,3,0,3.5,2.1
+261,<ul></ul>,['ul'],0,0,1,0,0.0,2.05
+262,"<li><a href=""http://batam.tribunnews.com/politik"" title=""Politik"">Politik</a></li>","['li', 'a']",0,1,4,0,4.5,3.5
+263,"<li><a href=""http://batam.tribunnews.com/teknologi"" title=""Teknologi"">Teknologi</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+264,"<li><a href=""http://batam.tribunnews.com/otomotif"" title=""Otomotif"">Otomotif</a></li>","['li', 'a']",0,1,4,0,4.5,4.55
+265,"<li><a href=""http://batam.tribunnews.com/kesehatan"" title=""Kesehatan"">Kesehatan</a></li>","['li', 'a']",0,1,4,0,4.5,4.65
+266,"<li><a href=""http://batam.tribunnews.com/public-service"" title=""Public Service"">Public Service</a></li>","['li', 'a']",0,2,4,0,5.0,4.85
+267,"<li><a href=""http://jualbeli.tribunnews.com//"" target=""_blank"" title=""Tribun JualBeli"">Tribun JualBeli</a></li>","['li', 'a']",0,2,4,0,5.0,4.95
+268,"<li><a href=""http://www.tribunnews.com/epaper"" title=""Epaper"">Tribun Epaper</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+269,"<li><a href=""http://forum.tribunnews.com"" title=""Tribun Livechat"">Tribun Forum</a></li>","['li', 'a']",0,2,4,0,5.0,4.5
+270,"<li><a href=""http://batam.tribunnews.com/indeks/"" title=""Indeks Berita"">Indeks Berita</a></li>","['li', 'a']",0,2,4,0,5.0,3.5
+271,,[],0,0,1,0,0.0,1.5
+272,,[],0,0,1,0,0.0,0.5
+273,,[],0,0,1,0,0.0,0.0
+274,,[],0,0,1,0,0.0,0.0
+275,,[],0,0,1,0,0.0,0.0
+276,,[],0,0,0,0,0.0,0.0
+277,"<div class=""main-menu menu-enjoy"" style=""z-index:1""></div>",['div'],0,0,1,0,0.0,0.0
+278,<div></div>,['div'],0,0,1,0,0.0,0.0
+279,<ul></ul>,['ul'],0,0,1,0,0.0,0.3
+280,"<li class=""nw "" style=""background:#ec2028""></li>",['li'],0,0,1,0,0.0,0.6
+281,"<a href=""http://batam.tribunnews.com/enjoy-batam/"" style=""color:#fff;text-shadow:none"" title=""Enjoy Batam"">Enjoy Batam</a>",['a'],0,2,2,0,3.0,1.2
+282,,[],0,0,1,0,0.0,0.85
+283,"<li class=""nw "" style=""background:#0033a7""></li>",['li'],0,0,1,0,0.0,0.8
+284,"<a href=""http://batam.tribunnews.com/enjoy-batam/akomodasi/"" style=""color:#fff;text-shadow:none"" title=""Akomodasi"">Akomodasi</a>",['a'],0,1,2,0,2.5,1.0
+285,,[],0,0,1,0,0.0,0.75
+286,"<li class=""nw "" style=""background:#6700f3""></li>",['li'],0,0,1,0,0.0,0.75
+287,"<a href=""http://batam.tribunnews.com/enjoy-batam/kuliner/"" style=""color:#fff;text-shadow:none"" title=""Kuliner"">Kuliner</a>",['a'],0,1,2,0,2.5,1.0
+288,,[],0,0,1,0,0.0,0.75
+289,"<li class=""nw "" style=""background:#0b9600""></li>",['li'],0,0,1,0,0.0,0.75
+290,"<a href=""http://batam.tribunnews.com/enjoy-batam/destinasi/"" style=""color:#fff;text-shadow:none"" title=""Destinasi"">Destinasi</a>",['a'],0,1,2,0,2.5,1.0
+291,,[],0,0,1,0,0.0,0.75
+292,"<li class=""nw "" style=""background:#ffcb04""></li>",['li'],0,0,1,0,0.0,0.75
+293,"<a href=""http://batam.tribunnews.com/enjoy-batam/shopping/"" style=""color:#fff;text-shadow:none"" title=""Shopping"">Shopping</a>",['a'],0,1,2,0,2.5,1.0
+294,,[],0,0,1,0,0.0,0.75
+295,"<li class=""nw "" style=""background:#fa7000""></li>",['li'],0,0,1,0,0.0,0.75
+296,"<a href=""http://batam.tribunnews.com/enjoy-batam/ticketing/"" style=""color:#fff;text-shadow:none"" title=""Ticketing"">Ticketing</a>",['a'],0,1,2,0,2.5,1.0
+297,,[],0,0,1,0,0.0,0.8
+298,"<li class=""nw "" style=""background:#00a7e5""></li>",['li'],0,0,1,0,0.0,0.85
+299,"<a href=""http://www.tribunnews.com/travel/"" style=""color:#fff;text-shadow:none"" target=""_blank"" title=""Tribun Travel"">Tribun Travel</a>",['a'],0,2,2,0,3.0,1.2
+300,,[],0,0,1,0,0.0,0.6
+301,,[],0,0,1,0,0.0,0.3
+302,,[],0,0,1,0,0.0,0.0
+303,,[],0,0,1,0,0.0,0.0
+304,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+305,"<div class=""blt ovh"" id=""div-Top-LargeLeaderboard"" style=""display:none;margin:0px auto 15px;width:auto;height:auto;max-height:250px;text-align:center;""></div>",['div'],0,0,1,0,0.0,0.0
+306,,[],0,0,0,0,0.0,0.0
+307," <div class=""content""></div>",['div'],0,0,2,0,0.0,0.0
+308,"<div class=""fl w677""></div>",['div'],0,0,1,0,0.0,0.0
+309,"<div class=""bsh mb20"" id=""va""></div>",['div'],0,0,1,0,0.0,0.25
+310,"<div class=""p1020 bsht""></div>",['div'],0,0,1,0,0.0,0.8
+311,"<a href=""http://batam.tribunnews.com/"" title=""Halaman Depan"">Home</a>",['a'],0,1,2,0,2.5,2.1
+312,"<span class=""pl5 pr5"">»</span>",['span'],1,0,2,0,3.0,3.0
+313,"<h4 class=""dip""><a href=""http://batam.tribunnews.com/kepri/"" title=""Kepulauan Riau"">Kepulauan Riau</a></h4>","['h4', 'a']",0,2,4,0,5.0,4.5
+314,"<span class=""pl5 pr5"">»</span>",['span'],1,0,2,0,3.0,4.6
+315,"<a href=""http://batam.tribunnews.com/kepri/tanjungpinang-bintan/"" title=""Tanjungpinang dan Bintan"">Tanjungpinang dan Bintan</a>",['a'],0,3,9,0,10.5,5.3
+316,,[],0,0,0,0,0.0,3.8
+317,"<div class=""pos_rel"" id=""article""></div>",['div'],0,0,1,0,0.0,5.25
+318,"<h1 class=""f50 black2 f400 crimson"" id=""arttitle"" style=""line-height:110%"">Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru</h1>",['h1'],12,0,2,0,14.0,9.3
+319,"<h4 class=""hide"">Empat pejabat teras Polres Bintan diganti, termasuk Kasatnarkoba dan Kasatreskrim. Ada apa?</h4>",['h4'],12,0,2,0,14.0,10.2
+320,"<div class=""grey bdr3 pb10 pt10""><time>Senin, 3 Oktober 2016 22:15</time></div>","['div', 'time']",5,0,4,0,9.0,7.8
+321,"<div class=""fl pt20 pos_rel"" id=""article_con""></div>",['div'],0,0,1,0,0.0,6.3
+322,"<div id=""artimg""></div>",['div'],0,0,1,0,0.0,7.1
+323,"<div class=""pb20 ovh""><div class=""ovh imgfull_div""><img alt=""Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru"" class=""imgfull"" height=""393"" src=""http://cdn-2.tstatic.net/batam/foto/bank/images/pergantian-pejabat-polres-bintan_20161003_221530.jpg"" style=""float:none;height:auto"" width=""700""/></div><div class=""cl2""></div><div class=""f11 white pa3 fr pos_rel ar"" style=""margin-top: -21px;background: rgba(0,0,0,.5);"">tribunbatam/aminnudin</div><div class=""cl2""></div><div class=""arial f12 pt5 grey2"">Suasana pelantikan empat pejabat baru di Polres Bintan, Senin (3/10/2016), dua di antaranya Kasatnarkoba dan Kasatreskrim </div></div> ","['div', 'div', 'img', 'div', 'div', 'div', 'div']",16,0,15,0,31.0,12.4
+324,"<div class=""cl2 mr20 fl cright w160 mb20 bggrey"" id=""articleright""></div>",['div'],0,0,1,0,0.0,6.2
+325,,[],0,0,0,0,0.0,3.1
+326,"<div id=""fixads""></div>",['div'],0,0,2,0,0.0,0.0
+327,"<div id=""wideskyscraper"" style=""height:600px;width:160px;padding:0px;z-index:1""></div>",['div'],0,0,1,0,0.0,0.0
+328,"<div style=""width:160px; height:600px;""></div>",['div'],0,0,1,0,0.0,0.0
+329,"<div id=""div-Left-WideSkyscraper"" style=""width:160px; height:600px;display:none""></div>",['div'],0,0,1,0,0.0,0.0
+330,,[],0,0,0,0,0.0,0.0
+331,,[],0,0,1,0,0.0,0.0
+332,,[],0,0,0,0,0.0,0.0
+333,,[],0,0,0,0,0.0,0.0
+334,"<div id=""crt-701fb163"" style=""width:160px;height:600px;display:none""></div>",['div'],0,0,2,0,0.0,0.0
+335,,[],0,0,0,0,0.0,0.0
+336, ,[],0,0,2,0,0.0,2.2
+337," <div class=""side-article txt-article""></div>",['div'],0,0,2,0,0.0,6.2
+338,"<p><strong>BATAM.TRIBUNNEWS.COM, BINTAN</strong> - Tradisi pedang pora mewarnai serah terima jabatan pejabat di <a href=""http://batam.tribunnews.com/tag/polres/"" title=""Polres"">Polres</a> <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a>, Senin (3/10/2016).</p>","['p', 'strong', 'a', 'a']",14,2,8,1,22.0,15.15
+339,<p>Empat perwira baru Senin itu diminta cepat bekerja. Tumpukan pekerjaan rumah sudah menanti di meja masing masing.</p>,['p'],17,0,2,1,18.0,19.7
+340,"<p>Para pejabat tersebut yakni AKP Adi Kuasa Tarigan, Kasat Reskrim baru yang menggantikan AKP Arya Tesa Brahmana. Arya pindah sebagai Kabag Ops di <a href=""http://batam.tribunnews.com/tag/polres/"" title=""Polres"">Polres</a> Tanjungpinang.</p>","['p', 'a']",24,1,4,1,27.5,27.7
+341,"<p>Perwira lain AKP Dasta Analis sebagai Kasat Narkoba <a href=""http://batam.tribunnews.com/tag/polres/"" title=""Polres"">Polres</a> <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a> yang baru menggantikan AKP Harefa Buala yang pindah sebagai Kapolsek Bengkong Batam.</p>","['p', 'a', 'a']",20,2,6,1,26.0,32.9
+342,"<p>""Untuk jabatan Kabag Ops yang ditinggal Pak Sofian akan diisi setelah pejabat yang baru yaitu Kabag Sumba <a href=""http://batam.tribunnews.com/tag/polres/"" title=""Polres"">Polres</a> Natuna, Kompol Renan setelah ada penggantinya di sana. Karena jabatan yang ditinggalkan tak bisa langsung dilepas begitu saja, tapi Insya Allah Minggu depan sudah bisa bergabung dengan kita,"" kata Kapolres <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a> AKBP Febrianto Guntur Sunoto.</p>","['p', 'a', 'a']",51,2,6,1,57.0,39.5
+343,"<p>Lalu ada AKP Norman yang menjabat Kasatpol Air <a href=""http://batam.tribunnews.com/tag/polres/"" title=""Polres"">Polres</a> <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a>. Norman sebelumnya menjabat sebagai Kasat Shabara <a href=""http://batam.tribunnews.com/tag/polres/"" title=""Polres"">Polres</a> <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a>. Dan terakhir Kasat Shabar <a href=""http://batam.tribunnews.com/tag/polres/"" title=""Polres"">Polres</a> <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a> dijabat AKP William Romi.</p>","['p', 'a', 'a', 'a', 'a', 'a', 'a']",22,6,14,1,38.0,34.95
+344,"<p>Guntur, sapaan Kapolres <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a> berharap pejabat baru cepat beradaptasi.</p>","['p', 'a']",8,1,4,1,11.5,26.8
+345,"<p>Khusus Kasat Reskrim yang baru diminta untuk yang paling cepat beradaptasi. Banyak masalah kriminal di <a href=""http://batam.tribunnews.com/tag/bintan/"" title=""Bintan"">Bintan</a> perlu segera dibereskan. ""Terutama di Reskrim ini ya, karena persoalan reskrim menjadi sorotan pimpinan,"" kata Guntur.</p>","['p', 'a']",31,1,4,1,34.5,23.9
+346,"<p>Untuk pejabat lama yang pindah tugas, Guntur juga mengharpakan cepat beradaptasi di tempat baru untuk menyelesaikan pekerjaan rumah. (*) </p>",['p'],19,0,2,1,20.0,16.05
+347,,[],0,0,1,0,0.0,7.45
+348,"<div class=""side-article mb20""></div>",['div'],0,0,1,0,0.0,2.4
+349,"<div class=""f12 grey mb15""></div>",['div'],0,0,1,0,0.0,0.8
+350,<div>Penulis: Aminnudin		</div>,['div'],2,0,2,0,4.0,2.0
+351,<div></div>,['div'],0,0,1,0,0.0,1.6
+352,Editor: Agoes Sumarwah		,[],3,0,1,0,4.0,2.0
+353,,[],0,0,1,0,0.0,1.3
+354,"<div class=""mb0 f16 ln24 mb10 mt5"" style=""display:inline-block""></div>",['div'],0,0,1,0,0.0,2.55
+355,"<div class=""fbo2 pr10 grey fl"">Tags <i class=""fa fa-tags grey""></i></div>","['div', 'i']",1,0,4,0,5.0,4.3
+356,"<h5 class=""tagcload3 tagcloud3""><a href=""http://batam.tribunnews.com/tag/polres/?url=2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" title=""Polres"">Polres</a></h5><h5 class=""tagcload3 tagcloud3""><a href=""http://batam.tribunnews.com/tag/bintan/?url=2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" title=""Bintan"">Bintan</a></h5><h5 class=""tagcload3 tagcloud3""><a href=""http://batam.tribunnews.com/tag/pejabat/?url=2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" title=""Pejabat"">Pejabat</a></h5>","['h5', 'a', 'h5', 'a', 'h5', 'a']",-2,3,12,0,11.5,5.6
+357,,[],0,0,1,0,0.0,3.4
+358,"<div class=""mb10""></div>",['div'],0,0,1,0,0.0,2.35
+359,"<div class=""f16 fbo2 pb10""><span class=""fbo2 grey"">Baca Juga</span></div>","['div', 'span']",2,0,4,0,6.0,2.4
+360,"<div class=""f14""></div>",['div'],0,0,1,0,0.0,1.2
+361,<ul></ul>,['ul'],0,0,1,0,0.0,0.6
+362,"<li class=""pb7""></li>",['li'],0,0,1,0,0.0,0.0
+363,<h3></h3>,['h3'],0,0,1,0,0.0,1.2
+364,"<a class=""fbo2 f15"" href=""http://batam.tribunnews.com/tag/bintan/?url=2016/10/03/bocah-2-tahun-tewas-terlindas-truk-di-depan-mata-kedua-orangtuanya"" title=""Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya""></a>",['a'],0,0,1,0,0.0,2.4
+365,Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya 					,[],11,0,1,0,12.0,4.8
+366,,[],0,0,1,0,0.0,2.4
+367,,[],0,0,1,0,0.0,1.2
+368,"<li class=""pb7""></li>",['li'],0,0,1,0,0.0,0.0
+369,<h3></h3>,['h3'],0,0,1,0,0.0,0.8
+370,"<a class=""fbo2 f15"" href=""http://batam.tribunnews.com/tag/polres/?url=2016/10/03/perwakilan-aliansi-umat-ancam-demo-basecamp-cafe"" title=""Perwakilan Aliansi Umat Ancam Demo Basecamp Cafe""></a>",['a'],0,0,1,0,0.0,1.6
+371,Perwakilan Aliansi Umat Ancam Demo Basecamp Cafe 					,[],7,0,1,0,8.0,3.2
+372,,[],0,0,1,0,0.0,1.6
+373,,[],0,0,1,0,0.0,0.8
+374,"<li class=""pb7""></li>",['li'],0,0,1,0,0.0,0.0
+375,<h3></h3>,['h3'],0,0,1,0,0.0,1.3
+376,"<a class=""fbo2 f15"" href=""http://batam.tribunnews.com/tag/bintan/?url=2016/10/02/pengusaha-hotel-di-lagoi-keluhkan-tingginya-tarif-dasar-listrik-ini-kata-mereka"" title=""Pengusaha Hotel di Lagoi Keluhkan Tingginya Tarif Dasar Listrik. Ini Kata Mereka""></a>",['a'],0,0,1,0,0.0,2.6
+377,Pengusaha Hotel di Lagoi Keluhkan Tingginya Tarif Dasar Listrik. Ini Kata Mereka 					,[],12,0,1,0,13.0,5.2
+378,,[],0,0,1,0,0.0,2.6
+379,,[],0,0,1,0,0.0,1.3
+380,"<li class=""pb7""></li>",['li'],0,0,1,0,0.0,0.0
+381,<h3></h3>,['h3'],0,0,1,0,0.0,1.3
+382,"<a class=""fbo2 f15"" href=""http://batam.tribunnews.com/tag/bintan/?url=2016/10/02/warga-minta-pengendara-hati-hati-melintasi-jalan-nusantara-di-km15-ini-alasannya"" title=""Warga Minta Pengendara Hati-hati Melintasi Jalan Nusantara di KM15 . Ini Alasannya""></a>",['a'],0,0,1,0,0.0,2.6
+383,Warga Minta Pengendara Hati-hati Melintasi Jalan Nusantara di KM15 . Ini Alasannya 					,[],12,0,1,0,13.0,5.2
+384,,[],0,0,1,0,0.0,2.6
+385,,[],0,0,1,0,0.0,1.3
+386,"<li class=""pb7""></li>",['li'],0,0,1,0,0.0,0.0
+387,<h3></h3>,['h3'],0,0,1,0,0.0,1.1
+388,"<a class=""fbo2 f15"" href=""http://batam.tribunnews.com/tag/bintan/?url=2016/09/30/ombak-besar-di-laut-nelayan-bintan-cari-ikan-dekat-bakau-bakau"" title=""Ombak Besar di Laut, Nelayan Bintan Cari Ikan Dekat Bakau-bakau""></a>",['a'],0,0,1,0,0.0,2.2
+389,"Ombak Besar di Laut, Nelayan Bintan Cari Ikan Dekat Bakau-bakau 					",[],10,0,1,0,11.0,4.4
+390,,[],0,0,1,0,0.0,2.2
+391,,[],0,0,1,0,0.0,1.1
+392,,[],0,0,1,0,0.0,0.0
+393,,[],0,0,1,0,0.0,0.0
+394,,[],0,0,1,0,0.0,0.0
+395,"<div class=""mt10 share hide sharebtn"" style=""height:20px""></div>",['div'],0,0,1,0,0.0,0.0
+396,"<div class=""fl""></div>",['div'],0,0,1,0,0.0,0.0
+397,"<div class=""fb-like"" data-action=""like"" data-href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru/"" data-kid-directed-site=""true"" data-layout=""button_count"" data-share=""false"" data-show-faces=""false""></div>",['div'],0,0,2,0,0.0,0.0
+398,,[],0,0,1,0,0.0,0.25
+399,"<div class=""fl ml20""></div>",['div'],0,0,1,0,0.0,0.5
+400,"<a class=""twitter-share-button"" data-count=""horizontal"" data-text=""Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru"" data-url=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru/"" data-via=""tribunewsbatam"" href=""http://twitter.com/share"" title=""Tweet"">Tweet</a>",['a'],0,1,2,0,2.5,1.0
+401,,[],0,0,0,0,0.0,0.5
+402,,[],0,0,1,0,0.0,0.25
+403,"<div class=""fl ml20""></div>",['div'],0,0,1,0,0.0,0.0
+404,,[],0,0,0,0,0.0,0.0
+405,"<div class=""g-plusone"" data-annotation=""bubble"" data-href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru/"" data-size=""medium""></div>",['div'],0,0,2,0,0.0,0.0
+406,,[],0,0,0,0,0.0,0.0
+407,,[],0,0,0,0,0.0,0.0
+408,,[],0,0,1,0,0.0,0.0
+409,"<div class=""fl"" style=""margin-top:1px""></div>",['div'],0,0,1,0,0.0,0.0
+410,"<div class=""fb-share-button"" data-href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru/"" data-kid-directed-site=""true"" data-layout=""button_count""></div>",['div'],0,0,2,0,0.0,0.0
+411,,[],0,0,1,0,0.0,0.3
+412,"<div class=""fr mt2 ml10""></div>",['div'],0,0,1,0,0.0,0.6
+413,"<a class=""button2 f11"" href=""#"" onclick=""fbox('#shareother','Share','inline')"" style=""padding:1px 5px 2px"" title=""Share"">+ Share</a>",['a'],0,2,2,0,3.0,1.2
+414,,[],0,0,1,0,0.0,0.6
+415,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,1.4
+416,"<div class=""mt20 f16 fbo2 pb5""></div>",['div'],0,0,2,0,0.0,2.2
+417,"<a class=""grey"" href=""http://batam.tribunnews.com/video"" title=""Video Pilihan"">Video Pilihan:</a> <a class="""" href=""http://video.tribunnews.com/view/9578/dilaporkan-karena-posting-foto-dan-video-vulgar-ini-tanggapan-selebgram-anya-geraldine"">Dilaporkan karena Posting Foto dan Video Vulgar, Ini Tanggapan Selebgram Anya Geraldine</a>","['a', 'a']",0,14,4,0,11.0,4.4
+418,,[],0,0,1,0,0.0,2.2
+419,"<div class=""pos_rel"" style=""display: block; position: relative; max-width: 100%;""></div>",['div'],0,0,1,0,0.0,2.5
+420,"<a class=""show"" href=""http://video.tribunnews.com/view/9578/dilaporkan-karena-posting-foto-dan-video-vulgar-ini-tanggapan-selebgram-anya-geraldine"" style=""width:520px;height:292px;background:url(http://cdn-5.tstatic.net/2016/10/03/rr1FxCSLnkJ2jGUyyHROW8NugO2xnA6B-poster.jpg)""></a>",['a'],0,0,1,0,0.0,2.8
+421,"<span class=""hide"">Dilaporkan karena Posting Foto dan Video Vulgar, Ini Tanggapan Selebgram Anya Geraldine</span>",['span'],12,0,2,0,14.0,5.6
+422,"<i class=""fa fa-play fa-3x playoverlay playoverlay-c"" style=""border-radius:30px;padding:10px 15px;opacity:0.8""></i>",['i'],0,0,2,0,0.0,2.8
+423,,[],0,0,1,0,0.0,1.4
+424,,[],0,0,1,0,0.0,0.0
+425,,[],0,0,1,0,0.0,0.0
+426,"<div id=""fixsharebottom""></div>",['div'],0,0,2,0,0.0,0.0
+427,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+428,,[],0,0,1,0,0.0,0.0
+429,"<div class=""fl mb10 mt20 share ml20"" id=""sharebox""></div>",['div'],0,0,1,0,0.0,0.0
+430,,[],0,0,0,0,0.0,0.0
+431,,[],0,0,0,0,0.0,0.0
+432,"<div id=""fixsharetop""></div>",['div'],0,0,2,0,0.0,0.0
+433,"<div id=""share"" style=""height:370px;width:60px;padding:0px;z-index:1""></div>",['div'],0,0,1,0,0.0,0.0
+434,"<a class=""ac white rd2 mb10 f18 dip"" href=""javascript:void(0);"" onclick=""window.open('https://www.facebook.com/sharer/sharer.php?u=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');"" style=""background: #3b5998;width:65px;padding:20px 0px""><i class=""fa fa-facebook fa-lg""></i></a><a class=""ac white rd2 mb10 f18 dip"" href=""javascript:void(0);"" onclick=""window.open('https://twitter.com/intent/tweet?original_referer=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;text=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru&amp;tw_p=tweetbutton&amp;url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;via=tribunewsbatam', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');"" style=""background: #4099ff;width:65px;padding:20px 0px""><i class=""fa fa-twitter fa-lg""></i></a><a class=""ac white rd2 mb10 f18 dip"" href=""javascript:void(0);"" onclick=""window.open('https://plus.google.com/share?url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');"" style=""background: #d34836;width:65px;padding:20px 0px""><i class=""fa fa-google-plus fa-lg""></i></a><a class=""ac white rd2 mb10 f18 dip"" href=""javascript:void(0);"" onclick=""window.open('http://www.pinterest.com/pin/create/button/?url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;media=http://cdn-2.tstatic.net/batam/foto/bank/images/pergantian-pejabat-polres-bintan_20161003_221530.jpg&amp;description=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');"" style=""background: #bd081c;width:65px;padding:20px 0px""><i class=""fa fa-pinterest fa-lg""></i></a> <span class=""ac white rd2 mb10 f18 show"" href=""#"" onclick=""fbox('#shareother','Share','inline')"" style=""background:#aaaaaa;width:65px;padding:20px 0px;cursor:pointer;"" title=""Share""><i class=""fa fa-share-alt fa-lg""></i></span>","['a', 'i', 'a', 'i', 'a', 'i', 'a', 'i', 'span', 'i']",0,0,20,0,0.0,0.0
+435,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+436,,[],0,0,1,0,0.0,0.0
+437,,[],0,0,1,0,0.0,0.0
+438,"<div class=""lsi hide w250 f15 f600"" id=""shareother""></div>",['div'],0,0,1,0,0.0,0.45
+439,<ul></ul>,['ul'],0,0,1,0,0.0,1.35
+440,"<li class=""ptb5""><a href=""https://www.facebook.com/sharer/sharer.php?u=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;t=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru"" target=""_blank"" title=""Facebook"">Facebook</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+441,"<li class=""ptb5""><a href=""https://twitter.com/intent/tweet?original_referer=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;text=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru&amp;url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;via=tribunewsbatam"" target=""_blank"" title=""Twitter"">Twitter</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+442,"<li class=""ptb5""><a href=""https://plus.google.com/share?url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" target=""_blank"" title=""Google Plus"">Google+</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+443,"<li class=""ptb5""><a href=""http://www.pinterest.com/pin/create/button/?url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;media=http://cdn-2.tstatic.net/batam/foto/bank/images/pergantian-pejabat-polres-bintan_20161003_221530.jpg&amp;description=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru"" target=""_blank"" title=""Pinterest"">Pinterest</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+444,"<li class=""ptb5""><a href=""http://digg.com/submit?url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;title=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru"" target=""_blank"" title=""Digg"">Digg</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+445,"<li class=""ptb5""><a href=""http://delicious.com/save?jump=yes&amp;url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;title=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru&amp;notes=Empat%20pejabat%20teras%20Polres%20Bintan%20diganti,%20termasuk%20Kasatnarkoba%20dan%20Kasatreskrim.%20Ada%20apa?&amp;via=tribunnews.com"" target=""_blank"" title=""Delicious"">delicious</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+446,"<li class=""ptb5""><a href=""http://reddit.com/submit?url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;title=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru"" target=""_blank"" title=""reddit"">reddit</a></li>","['li', 'a']",0,1,4,0,4.5,4.5
+447,"<li class=""ptb5""><a href=""http://www.stumbleupon.com/submit?url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;title=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru"" target=""_blank"" title=""StumbleUpon"">StumbleUpon</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+448,"<li class=""ptb5""><a href=""http://www.linkedin.com/shareArticle?mini=true&amp;url=http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru&amp;title=Kenapa%20Kasat%20Narkoba%20Polres%20Bintan%20Diganti?%20Ini%20Pesan%20Kapolres%20kepada%20Kasatreskrim%20Baru&amp;summary=Empat%20pejabat%20teras%20Polres%20Bintan%20diganti,%20termasuk%20Kasatnarkoba%20dan%20Kasatreskrim.%20Ada%20apa?&amp;source=Tribunnews.com"" target=""_blank"" title=""LinkenIn"">LinkedIn</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+449,,[],0,0,1,0,0.0,1.35
+450," <div class=""cl2""></div>",['div'],0,0,3,0,0.0,0.45
+451,"<div class=""w300 fl""></div>",['div'],0,0,1,0,0.0,0.3
+452,"<div class=""""></div>",['div'],0,0,1,0,0.0,0.6
+453,"<a class=""twitter-follow-button"" data-lang=""en"" data-show-count=""true"" data-show-screen-name=""true"" href=""https://twitter.com/tribunewsbatam"" title=""Follow Twitter"">Follow @tribunewsbatam</a>",['a'],0,2,2,0,3.0,1.2
+454,,[],0,0,0,0,0.0,0.6
+455,,[],0,0,1,0,0.0,0.3
+456,"<div class=""pt5""></div>",['div'],0,0,1,0,0.0,0.0
+457,"<div class=""fb-page"" data-height=""224"" data-hide-cover=""false"" data-href=""https://www.facebook.com/redaksitribunbatam"" data-show-facepile=""true"" data-show-posts=""false"" data-width=""300""></div>",['div'],0,0,1,0,0.0,0.0
+458,"<div class=""fb-xfbml-parse-ignore""></div>",['div'],0,0,2,0,0.0,0.0
+459,,[],0,0,1,0,0.0,0.0
+460,,[],0,0,1,0,0.0,0.0
+461,,[],0,0,1,0,0.0,0.0
+462,"<div class=""fr""></div>",['div'],0,0,1,0,0.0,0.0
+463,"<div id=""div-Bottom-MediumRectangle""></div>",['div'],0,0,1,0,0.0,0.0
+464,,[],0,0,0,0,0.0,0.0
+465, ,[],0,0,2,0,0.0,0.0
+466,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+467,,[],0,0,1,0,0.0,0.0
+468,,[],0,0,0,0,0.0,0.0
+469,,[],0,0,0,0,0.0,0.0
+470,,[],0,0,0,0,0.0,0.0
+471,"<div class=""bsh ovh mb20 artoht"" id=""criteo-365464"" style=""display:none""></div>",['div'],0,0,2,0,0.0,0.0
+472,,[],0,0,0,0,0.0,0.0
+473,,[],0,0,0,0,0.0,0.4
+474,"<div class=""bsh ovh mb20 artoht"" id=""artoht""></div>",['div'],0,0,1,0,0.0,0.8
+475,"<h2 class=""f22 tsa2 tap pa15 red bsht f300"">JANGAN LEWATKAN</h2>",['h2'],2,0,2,0,4.0,1.6
+476,"<div class="""" style=""padding-right:0px!important""></div>",['div'],0,0,1,0,0.0,0.8
+477,"<div class=""fl mr10 artohtitm ovh""></div>",['div'],0,0,1,0,0.0,0.4
+478,"<a href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" title=""Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru""></a>",['a'],0,0,1,0,0.0,0.0
+479,"<div class=""pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+480,"<img alt=""Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru"" class=""shou2"" height=""97"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/pergantian-pejabat-polres-bintan_20161003_221530.jpg"" width=""130""/>",['img'],0,0,2,0,0.0,0.0
+481,,[],0,0,1,0,0.0,0.0
+482,,[],0,0,1,0,0.0,0.0
+483,<h3></h3>,['h3'],0,0,1,0,0.0,1.0
+484,"<a class=""fbo2 f14 pt5 al"" href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" title=""Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru""></a>",['a'],0,0,1,0,0.0,2.0
+485,Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres… 				,[],9,0,1,0,10.0,4.0
+486,,[],0,0,1,0,0.0,2.0
+487,,[],0,0,1,0,0.0,1.0
+488,"<div class=""fl mr10 artohtitm ovh""></div>",['div'],0,0,1,0,0.0,0.0
+489,"<a href=""http://batam.tribunnews.com/2016/10/03/hore-apbd-perubahan-karimun-rp-12-t-ini-rincian-belanjanya"" title=""Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya""></a>",['a'],0,0,1,0,0.0,0.0
+490,"<div class=""pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+491,"<img alt=""Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya"" class=""shou2"" height=""97"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/apbdp-karimun_20160919_192758.jpg"" width=""130""/>",['img'],0,0,2,0,0.0,0.0
+492,,[],0,0,1,0,0.0,0.0
+493,,[],0,0,1,0,0.0,0.0
+494,<h3></h3>,['h3'],0,0,1,0,0.0,1.1
+495,"<a class=""fbo2 f14 pt5 al"" href=""http://batam.tribunnews.com/2016/10/03/hore-apbd-perubahan-karimun-rp-12-t-ini-rincian-belanjanya"" title=""Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya""></a>",['a'],0,0,1,0,0.0,2.2
+496,"Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya 				",[],10,0,1,0,11.0,4.4
+497,,[],0,0,1,0,0.0,2.2
+498,,[],0,0,1,0,0.0,1.1
+499,"<div class=""fl mr10 artohtitm ovh""></div>",['div'],0,0,1,0,0.0,0.0
+500,"<a href=""http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" title=""Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya""></a>",['a'],0,0,1,0,0.0,0.0
+501,"<div class=""pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+502,"<img alt=""Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya"" class=""shou2"" height=""97"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/lanal-baksos_20161003_220854.jpg"" width=""130""/>",['img'],0,0,2,0,0.0,0.0
+503,,[],0,0,1,0,0.0,0.0
+504,,[],0,0,1,0,0.0,0.0
+505,<h3></h3>,['h3'],0,0,1,0,0.0,1.0
+506,"<a class=""fbo2 f14 pt5 al"" href=""http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" title=""Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya""></a>",['a'],0,0,1,0,0.0,2.0
+507,"Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya 				",[],9,0,1,0,10.0,4.0
+508,,[],0,0,1,0,0.0,2.0
+509,,[],0,0,1,0,0.0,1.0
+510,"<div class=""fl mr10 artohtitm ovh""></div>",['div'],0,0,1,0,0.0,0.0
+511,"<a href=""http://batam.tribunnews.com/2016/10/03/tiga-nelayan-numbing-dikabarkan-tenggelam-kabarnya-gara-gara-pompongnya-mengalami-ini"" title=""Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara Pompongnya Mengalami Ini""></a>",['a'],0,0,1,0,0.0,0.0
+512,"<div class=""pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+513,"<img alt=""Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara Pompongnya Mengalami Ini"" class=""shou2"" height=""97"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/ilustrasi-kapal-tenggelam_20151130_101804.jpg"" width=""130""/>",['img'],0,0,2,0,0.0,0.0
+514,,[],0,0,1,0,0.0,0.0
+515,,[],0,0,1,0,0.0,0.0
+516,<h3></h3>,['h3'],0,0,1,0,0.0,0.8
+517,"<a class=""fbo2 f14 pt5 al"" href=""http://batam.tribunnews.com/2016/10/03/tiga-nelayan-numbing-dikabarkan-tenggelam-kabarnya-gara-gara-pompongnya-mengalami-ini"" title=""Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara Pompongnya Mengalami Ini""></a>",['a'],0,0,1,0,0.0,1.6
+518,"Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara… 				",[],7,0,1,0,8.0,3.2
+519,,[],0,0,1,0,0.0,1.6
+520,,[],0,0,1,0,0.0,0.8
+521,"<div class=""fl mr10 artohtitm ovh""></div>",['div'],0,0,1,0,0.0,0.0
+522,"<a href=""http://batam.tribunnews.com/2016/10/03/tanjungpinang-tambahkan-lomba-memancing-di-festival-bahari-kata-riono-biar-ada-sewa-pompong"" title=""Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari, Kata Riono Biar Ada Sewa Pompong""></a>",['a'],0,0,1,0,0.0,0.0
+523,"<div class=""pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+524,"<img alt=""Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari, Kata Riono Biar Ada Sewa Pompong"" class=""shou2"" height=""97"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/sekda-tanjungpinang_20151117_172429.jpg"" width=""130""/>",['img'],0,0,2,0,0.0,0.0
+525,,[],0,0,1,0,0.0,0.0
+526,,[],0,0,1,0,0.0,0.0
+527,<h3></h3>,['h3'],0,0,1,0,0.0,0.8
+528,"<a class=""fbo2 f14 pt5 al"" href=""http://batam.tribunnews.com/2016/10/03/tanjungpinang-tambahkan-lomba-memancing-di-festival-bahari-kata-riono-biar-ada-sewa-pompong"" title=""Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari, Kata Riono Biar Ada Sewa Pompong""></a>",['a'],0,0,1,0,0.0,1.6
+529,"Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari,… 				",[],7,0,1,0,8.0,3.2
+530,,[],0,0,1,0,0.0,1.6
+531,,[],0,0,1,0,0.0,0.8
+532,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+533,,[],0,0,1,0,0.0,0.3
+534,"<div class=""bsh mb20 artoht"" id=""comments""></div>",['div'],0,0,2,0,0.0,0.6
+535,"<div class=""f22 tsa2 tap pa15 red bsht f300"">KOMENTAR</div>",['div'],1,0,2,0,3.0,1.2
+536,"<div class=""pa20""></div>",['div'],0,0,1,0,0.0,0.6
+537,"<div class=""fb-comments"" data-colorscheme=""light"" data-href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" data-numposts=""20"" data-width=""100%""></div>",['div'],0,0,2,0,0.0,0.3
+538,,[],0,0,1,0,0.0,0.0
+539,,[],0,0,1,0,0.0,0.0
+540,,[],0,0,0,0,0.0,0.0
+541,"<div id=""latestul""></div>",['div'],0,0,1,0,0.0,0.0
+542,"<div data-sort=""0"" style=""display:none""></div>",['div'],0,0,2,0,0.0,0.0
+543,,[],0,0,1,0,0.0,0.0
+544,"<div class=""fr w300"" id=""boxright""></div>",['div'],0,0,1,0,0.0,0.0
+545,"<div class=""w300"" id=""boxright_fix""></div>",['div'],0,0,1,0,0.0,0.0
+546,"<div class=""mb20 bggrey2"" id=""div-Right-MediumRectangle-1"" style=""width:300px; height:auto;min-height:250px;height:auto;display:none""></div>",['div'],0,0,1,0,0.0,0.0
+547,,[],0,0,0,0,0.0,0.0
+548,,[],0,0,1,0,0.0,0.0
+549,,[],0,0,0,0,0.0,0.0
+550,,[],0,0,0,0,0.0,0.0
+551,"<div id=""crt-477989"" style=""width:300px; height:250px; margin-bottom:20px;display:none""></div>",['div'],0,0,2,0,0.0,0.0
+552,"<div class=""mb20""></div>",['div'],0,0,1,0,0.0,0.0
+553,<div></div>,['div'],0,0,1,0,0.0,0.6
+554,"<h2 class=""f300 f24 ""></h2>",['h2'],0,0,1,0,0.0,1.2
+555,"<span class=""blue2 bdrblue"">berita</span> <span class=""red"">POPULER</span>","['span', 'span']",2,0,4,0,6.0,2.4
+556,,[],0,0,1,0,0.0,1.2
+557,"<div class=""mt5 bdr mb15""></div>",['div'],0,0,2,0,0.0,0.6
+558,,[],0,0,1,0,0.0,0.0
+559,<ul></ul>,['ul'],0,0,1,0,0.0,0.0
+560,"<li class=""pb15 art-list pos_rel""></li>",['li'],0,0,1,0,0.0,0.0
+561,"<div class=""fr pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+562,"<a href=""2016/10/03/usai-mutilasi-anaknya-warga-lihat-tersangka-telanjang-badan"" title=""Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan""></a>",['a'],0,0,1,0,0.0,0.0
+563,"<img alt=""pelaku-mutilasi_20161003_181840.jpg"" class=""pa5 shou bgwhite"" eight=""69"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/pelaku-mutilasi_20161003_181840.jpg"" width=""90""/>",['img'],0,0,2,0,0.0,0.0
+564,,[],0,0,1,0,0.0,0.0
+565,,[],0,0,1,0,0.0,0.0
+566,"<div class=""mt5 mr110""></div>",['div'],0,0,1,0,0.0,0.0
+567,<h3></h3>,['h3'],0,0,1,0,0.0,0.9
+568,"<a class=""fbo2 f15 txt-oev-3"" href=""http://batam.tribunnews.com/2016/10/03/usai-mutilasi-anaknya-warga-lihat-tersangka-telanjang-badan"" title=""Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan""></a>",['a'],0,0,1,0,0.0,1.8
+569,"Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan 						",[],8,0,1,0,9.0,3.6
+570,,[],0,0,1,0,0.0,1.8
+571,"<div class=""grey pt5""></div>",['div'],0,0,1,0,0.0,1.4
+572,"<span class=""fa fa-clock-o mr5""></span>",['span'],0,0,2,0,0.0,1.0
+573,"<time class=""grey foot timeago"" title=""2016-10-03 17:54:14"">11 jam lalu </time>",['time'],3,0,2,0,5.0,2.0
+574,,[],0,0,1,0,0.0,1.0
+575,,[],0,0,1,0,0.0,0.5
+576,"<div class=""sharecot pos_abs nw"" data-href=""http://batam.tribunnews.com/2016/10/03/usai-mutilasi-anaknya-warga-lihat-tersangka-telanjang-badan/"" data-title=""Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan"" data-via=""tribunewsbatam""></div>",['div'],0,0,2,0,0.0,0.0
+577,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+578,,[],0,0,1,0,0.0,0.0
+579,"<li class=""pb15 art-list pos_rel""></li>",['li'],0,0,1,0,0.0,0.0
+580,"<div class=""fr pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+581,"<a href=""2016/10/03/bocah-2-tahun-tewas-terlindas-truk-di-depan-mata-kedua-orangtuanya"" title=""Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya""></a>",['a'],0,0,1,0,0.0,0.0
+582,"<img alt=""lakalantas-di-kijang_20161003_183702.jpg"" class=""pa5 shou bgwhite"" eight=""69"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/lakalantas-di-kijang_20161003_183702.jpg"" width=""90""/>",['img'],0,0,2,0,0.0,0.0
+583,,[],0,0,1,0,0.0,0.0
+584,,[],0,0,1,0,0.0,0.0
+585,"<div class=""mt5 mr110""></div>",['div'],0,0,1,0,0.0,0.0
+586,<h3></h3>,['h3'],0,0,1,0,0.0,1.2
+587,"<a class=""fbo2 f15 txt-oev-3"" href=""http://batam.tribunnews.com/2016/10/03/bocah-2-tahun-tewas-terlindas-truk-di-depan-mata-kedua-orangtuanya"" title=""Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya""></a>",['a'],0,0,1,0,0.0,2.4
+588,Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya 						,[],11,0,1,0,12.0,4.8
+589,,[],0,0,1,0,0.0,2.4
+590,"<div class=""grey pt5""></div>",['div'],0,0,1,0,0.0,1.7
+591,"<span class=""fa fa-clock-o mr5""></span>",['span'],0,0,2,0,0.0,1.0
+592,"<time class=""grey foot timeago"" title=""2016-10-03 18:33:37"">10 jam lalu </time>",['time'],3,0,2,0,5.0,2.0
+593,,[],0,0,1,0,0.0,1.0
+594,,[],0,0,1,0,0.0,0.5
+595,"<div class=""sharecot pos_abs nw"" data-href=""http://batam.tribunnews.com/2016/10/03/bocah-2-tahun-tewas-terlindas-truk-di-depan-mata-kedua-orangtuanya/"" data-title=""Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya"" data-via=""tribunewsbatam""></div>",['div'],0,0,2,0,0.0,0.0
+596,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+597,,[],0,0,1,0,0.0,0.0
+598,"<li class=""pb15 art-list pos_rel""></li>",['li'],0,0,1,0,0.0,0.0
+599,"<div class=""fr pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+600,"<a href=""2016/10/03/sepekan-terakhir-pelaku-mutilasi-seperti-orang-ketakutan-tapi-berani-tantang-suami"" title=""Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami""></a>",['a'],0,0,1,0,0.0,0.0
+601,"<img alt=""mutilasi_20161003_174906.jpg"" class=""pa5 shou bgwhite"" eight=""69"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/mutilasi_20161003_174906.jpg"" width=""90""/>",['img'],0,0,2,0,0.0,0.0
+602,,[],0,0,1,0,0.0,0.0
+603,,[],0,0,1,0,0.0,0.0
+604,"<div class=""mt5 mr110""></div>",['div'],0,0,1,0,0.0,0.0
+605,<h3></h3>,['h3'],0,0,1,0,0.0,1.2
+606,"<a class=""fbo2 f15 txt-oev-3"" href=""http://batam.tribunnews.com/2016/10/03/sepekan-terakhir-pelaku-mutilasi-seperti-orang-ketakutan-tapi-berani-tantang-suami"" title=""Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami""></a>",['a'],0,0,1,0,0.0,2.4
+607,"Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami 						",[],11,0,1,0,12.0,4.8
+608,,[],0,0,1,0,0.0,2.4
+609,"<div class=""grey pt5""></div>",['div'],0,0,1,0,0.0,1.7
+610,"<span class=""fa fa-clock-o mr5""></span>",['span'],0,0,2,0,0.0,1.0
+611,"<time class=""grey foot timeago"" title=""2016-10-03 18:02:47"">11 jam lalu </time>",['time'],3,0,2,0,5.0,2.0
+612,,[],0,0,1,0,0.0,1.0
+613,,[],0,0,1,0,0.0,0.5
+614,"<div class=""sharecot pos_abs nw"" data-href=""http://batam.tribunnews.com/2016/10/03/sepekan-terakhir-pelaku-mutilasi-seperti-orang-ketakutan-tapi-berani-tantang-suami/"" data-title=""Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami"" data-via=""tribunewsbatam""></div>",['div'],0,0,2,0,0.0,0.0
+615,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+616,,[],0,0,1,0,0.0,0.0
+617,"<li class=""pb15 art-list pos_rel""></li>",['li'],0,0,1,0,0.0,0.0
+618,"<div class=""fr pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+619,"<a href=""2016/10/03/kim-kardashian-sempat-memohon-agar-tak-dibunuh-ini-dramanya"" title=""Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya""></a>",['a'],0,0,1,0,0.0,0.0
+620,"<img alt=""kim-kardashian_20161003_200615.jpg"" class=""pa5 shou bgwhite"" eight=""69"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/kim-kardashian_20161003_200615.jpg"" width=""90""/>",['img'],0,0,2,0,0.0,0.0
+621,,[],0,0,1,0,0.0,0.0
+622,,[],0,0,1,0,0.0,0.0
+623,"<div class=""mt5 mr110""></div>",['div'],0,0,1,0,0.0,0.0
+624,<h3></h3>,['h3'],0,0,1,0,0.0,1.5
+625,"<a class=""fbo2 f15 txt-oev-3"" href=""http://batam.tribunnews.com/2016/10/03/kim-kardashian-sempat-memohon-agar-tak-dibunuh-ini-dramanya"" title=""Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya""></a>",['a'],0,0,1,0,0.0,3.0
+626,"Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya 						",[],14,0,1,0,15.0,6.0
+627,,[],0,0,1,0,0.0,3.0
+628,"<div class=""grey pt5""></div>",['div'],0,0,1,0,0.0,2.0
+629,"<span class=""fa fa-clock-o mr5""></span>",['span'],0,0,2,0,0.0,1.0
+630,"<time class=""grey foot timeago"" title=""2016-10-03 20:16:36"">8 jam lalu </time>",['time'],3,0,2,0,5.0,2.0
+631,,[],0,0,1,0,0.0,1.0
+632,,[],0,0,1,0,0.0,0.5
+633,"<div class=""sharecot pos_abs nw"" data-href=""http://batam.tribunnews.com/2016/10/03/kim-kardashian-sempat-memohon-agar-tak-dibunuh-ini-dramanya/"" data-title=""Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya"" data-via=""tribunewsbatam""></div>",['div'],0,0,2,0,0.0,0.0
+634,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+635,,[],0,0,1,0,0.0,0.0
+636,"<li class=""pb15 art-list pos_rel""></li>",['li'],0,0,1,0,0.0,0.0
+637,"<div class=""fr pos_rel""></div>",['div'],0,0,1,0,0.0,0.0
+638,"<a href=""2016/10/03/setelah-dumutilasi-potongan-tubuh-bayi-diletakkan-ibunya-di-atas-piring"" title=""Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring""></a>",['a'],0,0,1,0,0.0,0.0
+639,"<img alt=""mutilasi_20161003_174906.jpg"" class=""pa5 shou bgwhite"" eight=""69"" src=""http://cdn-2.tstatic.net/batam/foto/bank/thumbnails2/mutilasi_20161003_174906.jpg"" width=""90""/>",['img'],0,0,2,0,0.0,0.0
+640,,[],0,0,1,0,0.0,0.0
+641,,[],0,0,1,0,0.0,0.0
+642,"<div class=""mt5 mr110""></div>",['div'],0,0,1,0,0.0,0.0
+643,<h3></h3>,['h3'],0,0,1,0,0.0,1.1
+644,"<a class=""fbo2 f15 txt-oev-3"" href=""http://batam.tribunnews.com/2016/10/03/setelah-dumutilasi-potongan-tubuh-bayi-diletakkan-ibunya-di-atas-piring"" title=""Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring""></a>",['a'],0,0,1,0,0.0,2.2
+645,"Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring 						",[],10,0,1,0,11.0,4.4
+646,,[],0,0,1,0,0.0,2.2
+647,"<div class=""grey pt5""></div>",['div'],0,0,1,0,0.0,1.6
+648,"<span class=""fa fa-clock-o mr5""></span>",['span'],0,0,2,0,0.0,1.0
+649,"<time class=""grey foot timeago"" title=""2016-10-03 17:53:35"">11 jam lalu </time>",['time'],3,0,2,0,5.0,2.0
+650,,[],0,0,1,0,0.0,1.0
+651,,[],0,0,1,0,0.0,0.5
+652,"<div class=""sharecot pos_abs nw"" data-href=""http://batam.tribunnews.com/2016/10/03/setelah-dumutilasi-potongan-tubuh-bayi-diletakkan-ibunya-di-atas-piring/"" data-title=""Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring"" data-via=""tribunewsbatam""></div>",['div'],0,0,2,0,0.0,0.0
+653,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+654,,[],0,0,1,0,0.0,0.0
+655,,[],0,0,1,0,0.0,0.0
+656,"<div class=""mb20 bggrey2"" id=""div-Right-MediumRectangle-2"" style=""width:300px; height:250px;""></div>",['div'],0,0,2,0,0.0,0.0
+657,,[],0,0,0,0,0.0,0.0
+658,"<div class=""mb20 bggrey2"" id=""div-Right-MediumRectangle-3"" style=""width:300px; height:auto;min-height:250px""></div>",['div'],0,0,2,0,0.0,0.0
+659,,[],0,0,0,0,0.0,0.0
+660,,[],0,0,1,0,0.0,0.0
+661,"<div class=""f12 mb15""></div>",['div'],0,0,1,0,0.0,0.6
+662,"<div class=""nw dip""></div>",['div'],0,0,1,0,0.0,1.5
+663,<h5>TRIBUNnews.com Network © 2016</h5>,['h5'],4,0,2,0,6.0,3.5
+664,"<span class=""f10 grey pl5 pr5"">•</span>",['span'],1,0,2,0,3.0,3.7
+665,"<h6><a class=""grey"" href=""http://www.tribunnews.com/about/"" title=""About Us"">About Us</a></h6>","['h6', 'a']",0,2,4,0,5.0,4.25
+666,"<span class=""f10 grey pl5 pr5"">•</span>",['span'],1,0,2,0,3.0,3.4
+667,"<h6><a class=""grey"" href=""http://www.tribunnews.com/help/"" title=""Help"">Help</a></h6>","['h6', 'a']",0,1,4,0,4.5,2.9
+668,,[],0,0,1,0,0.0,1.7
+669,"<div class=""nw dip""></div>",['div'],0,0,1,0,0.0,1.75
+670,"<h6><a class=""grey"" href=""http://www.tribunnews.com/privacy-policy/"" title=""Privacy Policy"">Privacy Policy</a></h6>","['h6', 'a']",0,2,4,0,5.0,3.15
+671,"<span class=""f10 grey pl5 pr5"">•</span>",['span'],1,0,2,0,3.0,3.6
+672,"<h6><a class=""grey"" href=""http://www.tribunnews.com/terms/"" title=""terms"">Terms of Use</a></h6>","['h6', 'a']",0,3,4,0,5.5,4.35
+673,"<span class=""f10 grey pl5 pr5"">•</span>",['span'],1,0,2,0,3.0,3.8
+674,"<h6><a class=""grey"" href=""http://batam.tribunnews.com/redaksi/"" title=""redaksi"">Redaksi</a></h6>","['h6', 'a']",0,1,4,0,4.5,4.05
+675,"<span class=""f10 grey pl5 pr5"">•</span>",['span'],1,0,2,0,3.0,3.4
+676,"<h6><a class=""grey"" href=""http://batam.tribunnews.com/info-iklan/"" title=""info-iklan"">Info iklan</a></h6>","['h6', 'a']",0,2,4,0,5.0,3.05
+677,,[],0,0,1,0,0.0,1.8
+678,"<div class=""nw dip""></div>",['div'],0,0,1,0,0.0,1.5
+679,"<h6><a class=""grey"" href=""http://batam.tribunnews.com/contact-us/"" title=""Contact Us"">Contact Us</a></h6>","['h6', 'a']",0,2,4,0,5.0,2.0
+680,,[],0,0,1,0,0.0,1.0
+681,,[],0,0,1,0,0.0,0.5
+682,,[],0,0,1,0,0.0,0.0
+683,"<div class=""show"" id=""boxright_fixb""></div>",['div'],0,0,2,0,0.0,0.0
+684,"<div id=""boxright_fixc""></div>",['div'],0,0,2,0,0.0,0.0
+685,,[],0,0,1,0,0.0,0.0
+686,"<div class=""cl2""></div>",['div'],0,0,2,0,0.0,0.0
+687,,[],0,0,0,0,0.0,0.0
+688,,[],0,0,0,0,0.0,0.0
+689,"<div class=""ontop hide""><i class=""fa fa-arrow-circle-up""></i></div>","['div', 'i']",0,0,4,0,0.0,0.0
+690,"<div class=""pos_rel"" id=""adsoutofpage""></div>",['div'],0,0,1,0,0.0,0.0
+691,"<div id=""div-BalloonAds""></div>",['div'],0,0,1,0,0.0,0.0
+692,,[],0,0,0,0,0.0,0.0
+693,,[],0,0,1,0,0.0,0.0
+694,,[],0,0,1,0,0.0,0.0

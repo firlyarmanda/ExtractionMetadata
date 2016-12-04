@@ -1,0 +1,386 @@
+,HTML,TAG,TC,LTC,TG,P,CTTD,CTTDs
+0,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+",[],0,0,0,0,0.0,0.0
+1,,[],0,0,0,0,0.0,0.0
+2,"<html xmlns=""http://www.w3.org/1999/xhtml"" xmlns:fb=""http://www.facebook.com/2008/fbml"" xmlns:og=""http://ogp.me/ns#""></html>",['html'],0,0,1,0,0.0,2.5
+3,<head></head>,['head'],0,0,1,0,0.0,5.0
+4,"<title>Nggak Bahagia, Sandeul B1A4 Ternyata Galau Ditinggal Cewek di MV 'Stay As You Are' | Kabar, Berita, Artikel &amp; Hot Gossip - WowKeren.com</title>",['title'],23,0,2,0,25.0,10.0
+5,,[],0,0,0,0,0.0,5.0
+6,,[],0,0,0,0,0.0,2.5
+7,,[],0,0,1,0,0.0,0.0
+8,<body></body>,['body'],0,0,1,0,0.0,0.0
+9,,[],0,0,0,0,0.0,0.0
+10,,[],0,0,0,0,0.0,0.0
+11,"<div id=""Container""></div>",['div'],0,0,1,0,0.0,0.0
+12,"<div id=""TopBar""></div>",['div'],0,0,1,0,0.0,0.0
+13,"<div id=""TopLoginBox"" style=""display:none;""></div>",['div'],0,0,1,0,0.0,0.0
+14,,[],0,0,0,0,0.0,0.0
+15,,[],0,0,0,0,0.0,0.0
+16,,[],0,0,1,0,0.0,0.0
+17,"<div id=""TopSearch""></div>",['div'],0,0,1,0,0.0,0.0
+18,"<div class=""share-button""><a href=""http://www.facebook.com/pages/WowKeren/223648314313567""><img src=""/images/gif/fb-icon.png""/></a> <a href=""http://twitter.com/wow_keren""><img src=""/images/gif/twitter-icon.png""/></a></div>","['div', 'a', 'img', 'a', 'img']",0,0,10,0,0.0,0.0
+19,"<div class=""search-box""></div>",['div'],0,0,1,0,0.0,0.0
+20,"<table border=""0"" cellpadding=""0"" cellspacing=""0"" width=""230""><tr height=""32px""><td></td></tr></table>","['table', 'tr', 'td']",0,0,3,0,0.0,0.0
+21,,[],0,0,0,0,0.0,0.0
+22,"<div class=""cse-branding-right"" style=""background-color:#666666;color:#666666""></div>",['div'],0,0,1,0,0.0,0.0
+23,"<div class=""cse-branding-form""></div>",['div'],0,0,1,0,0.0,0.0
+24,"<form action=""http://www.wowkeren.com/search.php"" id=""cse-search-box""></form>",['form'],0,0,1,0,0.0,0.0
+25,<div></div>,['div'],0,0,1,0,0.0,0.0
+26,"<input name=""cx"" type=""hidden"" value=""partner-pub-3868204026319657:36qhhpowesu""/>",['input'],0,0,2,0,0.0,0.0
+27,"<input name=""cof"" type=""hidden"" value=""FORID:10""/>",['input'],0,0,2,0,0.0,0.0
+28,"<input name=""ie"" type=""hidden"" value=""ISO-8859-1""/>",['input'],0,0,2,0,0.0,0.0
+29,"<input maxlength=""255"" name=""q"" size=""25"" style=""margin-top:12px;"" type=""text""/><input align=""absmiddle"" border=""0"" name=""sa"" src=""/images/gif/search-icon.gif"" style=""margin-top:-4px;margin-left:-2px"" type=""image"" value=""Search""/>","['input', 'input']",0,0,4,0,0.0,0.0
+30,,[],0,0,1,0,0.0,0.0
+31,,[],0,0,1,0,0.0,0.0
+32,,[],0,0,1,0,0.0,0.0
+33,"<div class=""cse-branding-logo""></div>",['div'],0,0,2,0,0.0,0.0
+34,"<div class=""cse-branding-text""></div>",['div'],0,0,2,0,0.0,0.0
+35,,[],0,0,1,0,0.0,0.0
+36,,[],0,0,3,0,0.0,0.0
+37,,[],0,0,1,0,0.0,0.0
+38,,[],0,0,1,0,0.0,0.0
+39,,[],0,0,1,0,0.0,0.0
+40,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+41,"<div id=""TopHeader""></div>",['div'],0,0,1,0,0.0,0.0
+42,"<div id=""TopLogo""><img src=""/images/gif/new_logo.gif""/></div>","['div', 'img']",0,0,4,0,0.0,0.0
+43,"<div id=""TopLogoText""><a href=""http://www.wowkeren.com""><img alt=""WowKeren.com Logo"" border=""0"" src=""/images/gif/logo-text.gif"" title=""WowKeren.com Logo""/></a></div>","['div', 'a', 'img']",0,0,6,0,0.0,0.0
+44,"<div id=""Ad728""></div>",['div'],0,0,1,0,0.0,0.0
+45,,[],0,0,0,0,0.0,0.0
+46,,[],0,0,0,0,0.0,0.0
+47,"<div id=""div-728x90A"" style=""width:728px; height:90px;""></div>",['div'],0,0,1,0,0.0,0.0
+48,,[],0,0,0,0,0.0,0.0
+49,,[],0,0,0,0,0.0,0.0
+50,,[],0,0,0,0,0.0,0.0
+51,,[],0,0,1,0,0.0,0.0
+52,,[],0,0,0,0,0.0,0.0
+53,,[],0,0,1,0,0.0,0.0
+54,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+55,,[],0,0,1,0,0.0,0.0
+56,"<div id=""topmenu-v02""></div>",['div'],0,0,1,0,0.0,0.0
+57,,[],0,0,0,0,0.0,0.0
+58,"<div id=""tmenu-home""><a href=""http://www.wowkeren.com""><img src=""/menu/home-01.jpg""/></a></div>","['div', 'a', 'img']",0,0,6,0,0.0,0.0
+59,,[],0,0,0,0,0.0,0.4
+60,"<div id=""tmenu-wkfav""></div>",['div'],0,0,1,0,0.0,0.8
+61,"<div id=""tmenu-topcat"">WK FAVORIT</div>",['div'],2,0,2,0,4.0,1.6
+62,"<div class=""ddsmoothmenu"" id=""smoothmenu1""></div>",['div'],0,0,1,0,0.0,1.15
+63,<ul></ul>,['ul'],0,0,1,0,0.0,1.1
+64,"<li class=""smoothmenu_fav""><a href=""/berita/"">BERITA</a></li>","['li', 'a']",0,1,3,0,3.5,1.9
+65,<ul></ul>,['ul'],0,0,1,0,0.0,2.2
+66,"<li><a href=""/berita/seleb/"">Berita Seleb</a></li>","['li', 'a']",0,2,4,0,5.0,3.85
+67,"<li><a href=""/berita/film/"">Berita Film</a></li>","['li', 'a']",0,2,4,0,5.0,4.5
+68,"<li><a href=""/berita/tv/"">Berita TV</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+69,"<li><a href=""/berita/musik/"">Berita Musik</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+70,"<li><a href=""/berita/olahraga/"">Berita Olahraga</a></li>","['li', 'a']",0,2,4,0,5.0,5.0
+71,"<li><a href=""/berita/teknologi/"">Berita Teknologi</a></li>","['li', 'a']",0,2,4,0,5.0,5.05
+72,"<li><a href=""/berita/unik/"">Berita Unik</a></li>","['li', 'a']",0,2,4,0,5.0,5.15
+73,"<li><a href=""/berita/korea/"">Berita Hiburan Korea</a></li>","['li', 'a']",0,3,4,0,5.5,4.8
+74,"<li><a href=""/berita/indo/"">Berita Hiburan Indo</a></li>","['li', 'a']",0,3,4,0,5.5,3.8
+75,,[],0,0,1,0,0.0,2.05
+76,,[],0,0,1,0,0.0,1.35
+77,"<li><a href=""#"">TOP 20</a></li>","['li', 'a']",0,2,3,0,4.0,2.05
+78,<ul></ul>,['ul'],0,0,1,0,0.0,2.2
+79,"<li><a href=""/musik/chart-k-pop/"">K-Pop</a></li>","['li', 'a']",0,1,4,0,4.5,3.2
+80,"<li><a href=""/musik/chart-lagu-barat/"">Lagu Barat</a></li>","['li', 'a']",0,2,4,0,5.0,2.9
+81,,[],0,0,1,0,0.0,1.8
+82,,[],0,0,1,0,0.0,1.2
+83,"<li><a href=""#"">FOTO</a></li>","['li', 'a']",0,1,3,0,3.5,1.9
+84,<ul></ul>,['ul'],0,0,1,0,0.0,2.2
+85,"<li><a href=""/foto/"">Event Liputan</a></li>","['li', 'a']",0,2,4,0,5.0,3.35
+86,"<li><a href=""/galeri/"">Galeri Selebriti</a></li>","['li', 'a']",0,2,4,0,5.0,3.0
+87,,[],0,0,1,0,0.0,1.95
+88,,[],0,0,1,0,0.0,1.85
+89,"<li><a href=""/video/"">VIDEO</a></li>","['li', 'a']",0,1,4,0,4.5,2.7
+90,"<li><a href=""/lirik/"">LIRIK</a></li>","['li', 'a']",0,1,4,0,4.5,2.7
+91,,[],0,0,1,0,0.0,1.35
+92,,[],0,0,1,0,0.0,0.45
+93,"<div style=""clear:both;""></div>",['div'],0,0,2,0,0.0,0.0
+94,,[],0,0,1,0,0.0,0.0
+95,,[],0,0,0,0,0.0,0.4
+96,"<div id=""tmenu-wkch""></div>",['div'],0,0,1,0,0.0,0.8
+97,"<div id=""tmenu-topcat"">WK CHANNEL</div>",['div'],2,0,2,0,4.0,1.6
+98,"<div class=""ddsmoothmenu-ch"" id=""smoothmenu1""></div>",['div'],0,0,1,0,0.0,1.25
+99,<ul></ul>,['ul'],0,0,1,0,0.0,1.65
+100,"<li><a href=""/seleb/"">SELEB</a></li>","['li', 'a']",0,1,4,0,4.5,2.5
+101,"<li><a href=""/film/"">FILM</a></li>","['li', 'a']",0,1,3,0,3.5,2.7
+102,<ul></ul>,['ul'],0,0,1,0,0.0,2.35
+103,"<li><a href=""/film/now-playing/"">Now Playing</a></li>","['li', 'a']",0,2,3,0,4.0,2.75
+104,"<li><a href=""/film/coming-soon/"">Coming Soon</a></li>","['li', 'a']",0,2,3,0,4.0,2.4
+105,,[],0,0,3,0,0.0,1.65
+106,,[],0,0,1,0,0.0,1.75
+107,"<li><a href=""/tv/"">TV</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+108,"<li><a href=""/musik/"">MUSIK</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+109,"<li><a href=""/tekno/"">TEKNO</a></li>","['li', 'a']",0,1,4,0,4.5,4.05
+110,"<li><a href=""/umum/"">UMUM</a></li>","['li', 'a']",0,1,4,0,4.5,3.15
+111,,[],0,0,1,0,0.0,1.35
+112,"<div style=""clear:both;""></div>",['div'],0,0,2,0,0.0,0.45
+113,,[],0,0,1,0,0.0,0.0
+114,,[],0,0,1,0,0.0,0.0
+115,,[],0,0,0,0,0.0,0.4
+116,"<div id=""tmenu-wkcom""></div>",['div'],0,0,1,0,0.0,0.8
+117,"<div id=""tmenu-topcat"">WK COMMUNITY</div>",['div'],2,0,2,0,4.0,1.6
+118,"<div class=""ddsmoothmenu-com"" id=""smoothmenu1""></div>",['div'],0,0,1,0,0.0,1.25
+119,<ul></ul>,['ul'],0,0,1,0,0.0,1.75
+120,"<li><a href=""javascript:void()"" onclick=""loginclick();return false;"">LOGIN</a></li>","['li', 'a']",0,1,4,0,4.5,2.7
+121,"<li><a href=""javascript:void()"" onclick=""regclick();return false;"">REGISTER</a></li>","['li', 'a']",0,1,4,0,4.5,2.7
+122,,[],0,0,1,0,0.0,1.35
+123,"<br style=""clear: left""/>",['br'],0,0,2,1,0.0,0.45
+124,,[],0,0,1,0,0.0,0.0
+125,,[],0,0,1,0,0.0,0.0
+126,,[],0,0,1,0,0.0,0.0
+127,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+128,"<div id=""SecondMenu""></div>",['div'],0,0,1,0,0.0,0.0
+129,"<div id=""popupWin""></div>",['div'],0,0,1,0,0.0,0.0
+130,"<a id=""popupWinClose""><img src=""/images/gif/close_modal_btn.png""/></a>","['a', 'img']",0,0,4,0,0.0,0.0
+131,"<div id=""popupContent""></div>",['div'],0,0,2,0,0.0,0.0
+132,,[],0,0,1,0,0.0,0.0
+133,"<div id=""popupWait""><img src=""/tools/img/ajax-loader.gif""/></div>","['div', 'img']",0,0,4,0,0.0,0.0
+134,"<div id=""backgroundPopup""></div>",['div'],0,0,2,0,0.0,0.0
+135,,[],0,0,1,0,0.0,0.0
+136,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+137,,[],0,0,1,0,0.0,0.0
+138,,[],0,0,0,0,0.0,0.0
+139,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+140,,[],0,0,0,0,0.0,0.0
+141,"<div id=""Container""></div>",['div'],0,0,1,0,0.0,0.0
+142,"<div id=""TopikKeren""></div>",['div'],0,0,1,0,0.0,0.0
+143,"<div class=""left"" style=""width:20px;""><img alt=""Topik Keren"" src=""/images/gif/topik-keren.gif"" title=""Topik Keren""/></div>","['div', 'img']",0,0,4,0,0.0,0.0
+144,"<div class=""left""></div>",['div'],0,0,1,0,0.0,1.1
+145,"<ul id=""TopikKeren1""></ul>",['ul'],0,0,1,0,0.0,3.25
+146,"<li><a href=""http://www.wowkeren.com/berita/tampil/00128767.html""><img src=""/images/news/preview/00128767.jpg""><h2>TRAILER</h2>Kris dan Fan Bingbing di 'L.O.R.D'</img></a></li>","['li', 'a', 'img', 'h2']",0,6,8,0,11.0,7.5
+147,"<li><a href=""http://www.wowkeren.com/berita/tampil/00128574.html""><img src=""/images/news/preview/00128574.jpg""><h2>INDO</h2>Asty Ananta Dibully Pindah Agama</img></a></li>","['li', 'a', 'img', 'h2']",0,5,8,0,10.5,9.4
+148,"<li><a href=""http://www.wowkeren.com/berita/tampil/00128591.html""><img src=""/images/news/preview/00128591.jpg""><h2>BOX OFFICE</h2>'Miss Peregrine' Jawara</img></a></li>","['li', 'a', 'img', 'h2']",0,4,8,0,10.0,10.25
+149,"<li><a href=""http://www.wowkeren.com/berita/tampil/00128332.html""><img src=""/images/news/preview/00128332.jpg""><h2>TEKNO</h2>Pabrik BlackBerry di Indonesia</img></a></li>","['li', 'a', 'img', 'h2']",0,4,8,0,10.0,10.15
+150,"<li><a href=""http://www.wowkeren.com/berita/tampil/00128299.html""><img src=""/images/news/preview/00128299.jpg""><h2>KOREA</h2>Suzy Menawan di Iklan Alhokol </img></a></li>","['li', 'a', 'img', 'h2']",0,5,8,0,10.5,10.2
+151,"<li><a href=""http://www.wowkeren.com/berita/tampil/00128104.html""><img src=""/images/news/preview/00128104.jpg""><h2>TV</h2>Deretan Sinetron Baru SCTV</img></a></li>","['li', 'a', 'img', 'h2']",0,4,8,0,10.0,10.15
+152,"<li><a href=""http://www.wowkeren.com/berita/tampil/00128083.html""><img src=""/images/news/preview/00128083.jpg""><h2>SELEB</h2>Aishwarya-Rani Mukherjee Perang Dingin?</img></a></li>","['li', 'a', 'img', 'h2']",0,4,8,0,10.0,10.1
+153,"<li><a href=""http://www.wowkeren.com/berita/tampil/00127709.html""><img src=""/images/news/preview/00127709.jpg""><h2>UMUM</h2>Polisi Ungkap Kisah Kelam Jessica</img></a></li>","['li', 'a', 'img', 'h2']",0,5,8,0,10.5,10.3
+154,"<li><a href=""http://www.wowkeren.com/berita/tampil/00127686.html""><img src=""/images/news/preview/00127686.jpg""><h2>KOREA</h2>Seolhyun-Zico Sudah Putus</img></a></li>","['li', 'a', 'img', 'h2']",0,3,8,0,9.5,9.3
+155,"<li><a href=""http://www.wowkeren.com/berita/tampil/00127515.html""><img src=""/images/news/preview/00127515.jpg""><h2>K-POP MV</h2>A Pink Kalem di MV 'Only One'  </img></a></li>","['li', 'a', 'img', 'h2']",0,8,8,0,12.0,7.75
+156,,[],0,0,1,0,0.0,3.35
+157,,[],0,0,1,0,0.0,1.2
+158,,[],0,0,1,0,0.0,0.0
+159,,[],0,0,1,0,0.0,0.0
+160,,[],0,0,0,0,0.0,0.0
+161,,[],0,0,0,0,0.0,0.0
+162,"<div id=""Container""></div>",['div'],0,0,1,0,0.0,0.5
+163,"<div id=""TagPopular""></div>",['div'],0,0,1,0,0.0,1.0
+164,"<div class=""TagHead""><strong>TAGS</strong></div>","['div', 'strong']",1,0,4,0,5.0,2.6
+165,"<ul class=""TagItem""></ul>",['ul'],0,0,1,0,0.0,2.75
+166,"<li><a href=""http://www.wowkeren.com/tag/asty-ananta-nikah/"" target=""_blank"">#Asty Ananta Nikah Diam-Diam</a></li>","['li', 'a']",0,4,4,0,6.0,4.65
+167,"<li><a href=""http://www.wowkeren.com/tag/ami-awards-2016/"" target=""_blank"">#AMI Awards 19th</a></li>","['li', 'a']",0,3,4,0,5.5,5.3
+168,"<li><a href=""http://www.wowkeren.com/tag/mario-teguh-vs-deddy-corbuzier/"" target=""_blank"">#Mario Teguh Vs Deddy Corbuzier</a></li>","['li', 'a']",0,5,4,0,6.5,6.1
+169,"<li><a href=""http://www.wowkeren.com/tag/banjir-bandang-garut/"" target=""_blank"">#Banjir Bandang Garut 2016</a></li>","['li', 'a']",0,4,4,0,6.0,5.45
+170,"<li><a href=""http://www.wowkeren.com/tag/brad-angelina-cerai/"" target=""_blank"">#Brad Pitt-Angelina Jolie Cerai</a></li>","['li', 'a']",0,4,4,0,6.0,4.25
+171,,[],0,0,1,0,0.0,1.8
+172,,[],0,0,1,0,0.0,0.6
+173,,[],0,0,1,0,0.0,0.0
+174,,[],0,0,0,0,0.0,0.0
+175,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+176,,[],0,0,0,0,0.0,0.0
+177,"<div id=""Container""></div>",['div'],0,0,1,0,0.0,0.0
+178,,[],0,0,0,0,0.0,0.0
+179,"<div class=""right-line"" id=""FirstCol670""></div>",['div'],0,0,1,0,0.0,1.05
+180,,[],0,0,0,0,0.0,2.1
+181,"<div id=""KategoriHalaman"">Home &gt; <a href=""/berita/"">Berita</a> &gt; <a href=""/berita/musik/"">Berita Musik</a></div>","['div', 'a', 'a']",3,3,6,0,10.5,4.2
+182,,[],0,0,0,0,0.0,3.9
+183,,[],0,0,0,0,0.0,4.65
+184,"<div id=""JudulHalaman""><h1>Nggak Bahagia, Sandeul B1A4 Ternyata Galau Ditinggal Cewek di MV 'Stay As You Are'</h1></div>","['div', 'h1']",14,0,4,0,18.0,7.9
+185,"<div id=""IsiBerita""></div>",['div'],0,0,1,0,0.0,6.4
+186,"<div class=""published-date"">04 Oct 2016 10:28:16 WIB</div>",['div'],5,0,2,0,7.0,7.4
+187,"<div class=""summary""><i>Seperti ini kegalauan Sandeul di MV 'Stay As You Are'.</i></div>","['div', 'i']",10,0,4,0,14.0,7.0
+188,"<div class=""liner""></div>",['div'],0,0,2,0,0.0,3.5
+189,"<div class=""social-net""></div>",['div'],0,0,1,0,0.0,1.4
+190,"<span class=""st_facebook_hcount"" displaytext=""Facebook""></span>",['span'],0,0,2,0,0.0,0.0
+191,"<span class=""st_twitter_hcount"" displaytext=""Tweet""></span>",['span'],0,0,2,0,0.0,0.0
+192,"<span class=""st_googleplus_hcount"" displaytext=""Google +""></span>",['span'],0,0,2,0,0.0,0.0
+193,"<span class=""st_whatsapp_hcount"" displaytext=""WhatsApp""></span>",['span'],0,0,2,0,0.0,0.0
+194,"<span class=""st_pinterest_hcount"" displaytext=""Pinterest""></span>",['span'],0,0,2,0,0.0,0.0
+195,"<span class=""st_email_hcount"" displaytext=""Email""></span>",['span'],0,0,2,0,0.0,0.0
+196,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+197,,[],0,0,1,0,0.0,0.0
+198,"<div class=""content""></div>",['div'],0,0,1,0,0.0,0.0
+199,"<div class=""newspic""></div>",['div'],0,0,1,0,0.0,0.0
+200,"<img height=""350"" src=""/images/news/00128772.jpg"" width=""630""> <div class=""social-net""></div></img>","['img', 'div']",0,0,2,0,0.0,0.0
+201,"<span class=""st_facebook_large"" displaytext=""Facebook""></span>",['span'],0,0,2,0,0.0,0.0
+202,"<span class=""st_twitter_large"" displaytext=""Tweet""></span>",['span'],0,0,2,0,0.0,0.0
+203,"<span class=""st_googleplus_large"" displaytext=""Google +""></span>",['span'],0,0,2,0,0.0,0.0
+204,"<span class=""st_whatsapp_large"" displaytext=""WhatsApp""></span>",['span'],0,0,2,0,0.0,0.0
+205,"<span class=""st_pinterest_large"" displaytext=""Pinterest""></span>",['span'],0,0,2,0,0.0,0.0
+206,"<span class=""st_email_large"" displaytext=""Email""></span>",['span'],0,0,2,0,0.0,0.0
+207,,[],0,0,1,0,0.0,3.6
+208,,[],0,0,2,0,0.0,10.1
+209,"<p><strong>WowKeren.com</strong> - Selang empat hari setelah meluncurkan <a href=""http://www.wowkeren.com/berita/tampil/00128328.html""><strong>teaser</strong></a>, <a class="""" href=""http://www.wowkeren.com/seleb/sandeul/"" rel=""tag"">Sandeul</a> akhirnya merilis MV lagu terbarunya bertajuk ""Stay As You Are"". Video tersebut diunggah melalui laman Youtube pada Selasa (4/10) pagi. <br><br/></br></p>","['p', 'strong', 'a', 'strong', 'a', 'br', 'br']",27,2,11,3,36.0,21.8
+210,"Video ini sedikit berbeda dari konsep teaser sebelumnya yang hanya menampilkan Sandeul sebagai bintang utamanya. Dalam video berdurasi kurang dari 4 menit itu, Sandeul terlihat ditemani oleh seorang wanita. <br><br/></br>","['br', 'br']",29,0,2,2,29.0,24.15
+211,"Di awal video, Sandeul diceritakan menjalani aktivitasnya seorang diri. Ia pun terlihat galau dan berpenampilan berantakan. <br><br/></br>","['br', 'br']",16,0,2,2,16.0,23.0
+212,"Namun di pertengahan video, personel <a class="""" href=""http://www.wowkeren.com/seleb/b1a4/"" rel=""tag"">B1A4</a> ini terlihat mesra bersama seorang wanita. Keduanya menghabiskan waktu dengan jalan-jalan hingga makan bersama. <br><br/></br>","['a', 'br', 'br']",19,1,4,2,21.5,23.6
+213,Di akhir video baru diketahui jika Sandeul terlihat galau sebelumnya karena wanita tersebut ternyata memutuskan untuk pergi meninggalkannya. Ia pun sangat berharap agar wanita itu dapat kembali di sisinya. <br><br/></br>,"['br', 'br']",29,0,2,2,29.0,27.65
+214,"Konsep MV tersebut ternyata sesuai dengan isi lagu ""Stay As You Are"". Lagu yang dibawakan dengan apik oleh Sandeul ini bercerita tentang permintaan seseorang kepada kekasihnya agar tetap tinggal di sisinya. <br><br/></br>","['br', 'br']",31,0,2,2,31.0,30.45
+215,"Sementara itu, single ini merupakan salah satu dari lima track dalam album solo Sandeul dengan judul yang sama. Selain ""Stay As You Are"", dalam album tersebut Sandeul juga menyanyikan satu lagu duet bersama Wheein <a class="""" href=""http://www.wowkeren.com/seleb/mamamoo/"" rel=""tag"">Mamamoo</a> yang berjudul ""Ya!"". <br><br/></br>","['a', 'br', 'br']",37,1,4,2,39.5,29.3
+216,"<iframe allowfullscreen="""" frameborder=""0"" height=""354"" src=""https://www.youtube.com/embed/4cV7IJ5TPvs"" width=""630""></iframe> <strong>(wk/kr)</strong><br><br> </br></br>","['iframe', 'strong', 'br', 'br']",1,0,23,2,22.0,19.8
+217,,[],0,0,0,0,0.0,8.35
+218,,[],0,0,0,0,0.0,2.2
+219,"<div id=""cto_351531""></div>",['div'],0,0,2,0,0.0,0.0
+220,,[],0,0,0,0,0.0,0.0
+221,,[],0,0,0,0,0.0,0.0
+222,,[],0,0,0,0,0.0,0.0
+223,"<div class=""social-net""></div>",['div'],0,0,1,0,0.0,0.0
+224,"<span class=""st_facebook_hcount"" displaytext=""Facebook""></span>",['span'],0,0,2,0,0.0,0.0
+225,"<span class=""st_twitter_hcount"" displaytext=""Tweet""></span>",['span'],0,0,2,0,0.0,0.0
+226,"<span class=""st_googleplus_hcount"" displaytext=""Google +""></span>",['span'],0,0,2,0,0.0,0.0
+227,"<span class=""st_whatsapp_hcount"" displaytext=""WhatsApp""></span>",['span'],0,0,2,0,0.0,0.0
+228,"<span class=""st_pinterest_hcount"" displaytext=""Pinterest""></span>",['span'],0,0,2,0,0.0,0.0
+229,"<span class=""st_email_hcount"" displaytext=""Email""></span>",['span'],0,0,2,0,0.0,0.0
+230,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+231,,[],0,0,1,0,0.0,0.6
+232,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,2.15
+233,<p>Berita <strong>Sandeul</strong> terkait : <br/></p>,"['p', 'strong', 'br']",4,0,4,2,6.0,5.15
+234,"• <a href=""/berita/tampil/00128328.html"">Sendiri Tapi Bahagia, Sandeul B1A4 Kece di Teaser MV 'Stay As You Are'</a><br/>","['a', 'br']",1,13,3,1,9.5,7.25
+235,"• <a href=""/berita/tampil/00127221.html"">Umumkan Bakal Debut Solo, Sandeul B1A4 Tulis Pesan Mengharukan Buat Fans</a><br/>","['a', 'br']",1,11,3,1,8.5,7.0
+236,"• <a href=""/seleb/sandeul/berita.html"">Lihat berita terbaru Sandeul ...</a><br/>","['a', 'br']",1,5,3,1,5.5,4.85
+237,,[],0,0,5,0,0.0,1.95
+238,<div></div>,['div'],0,0,1,0,0.0,1.65
+239,"<div class=""padding-left:20px;"" id=""IsiUmum""></div>",['div'],0,0,1,0,0.0,2.2
+240,"<div class=""mtop"">Koleksi foto <b>Sandeul</b> terkini (<a href=""/seleb/sandeul/foto.html"">58 foto</a>):</div>","['div', 'b', 'a']",4,2,6,0,11.0,4.4
+241,"<div><div class=""img""><a href=""/foto/seleb/b1a4/b1a4-06.html""><img alt=""B1A4 Saat Acara Promo Album Lets Fly"" src=""/images/events/thumb/2012/01/24/b1a4-06.jpg"" title=""B1A4 Saat Acara Promo Album Lets Fly"" width=""80""/></a></div><div class=""img""><a href=""/foto/seleb/b1a4/b1a4-03.html""><img alt=""Pose B1A4 untuk Kepentingan Promo"" src=""/images/events/thumb/2012/01/24/b1a4-03.jpg"" title=""Pose B1A4 untuk Kepentingan Promo"" width=""80""/></a></div><div class=""img""><a href=""/foto/seleb/b1a4/sandeul-b1a4-the-star-aug-2013-01.html""><img alt=""Sandeul B1A4 di Majalah The Star Edisi Agustus 2013"" src=""/images/events/thumb/2013/08/15/sandeul-b1a4-the-star-aug-2013-01.jpg"" title=""Sandeul B1A4 di Majalah The Star Edisi Agustus 2013"" width=""80""/></a></div><div class=""img""><a href=""/foto/seleb/b1a4/b1a4-10.html""><img alt=""B1A4 Saat Hadir di Suatu Ajang Pemilihan Bakat"" src=""/images/events/thumb/2012/01/24/b1a4-10.jpg"" title=""B1A4 Saat Hadir di Suatu Ajang Pemilihan Bakat"" width=""80""/></a></div><div class=""img""><a href=""/foto/seleb/letters-of-angels-project/b1a4-letters-of-angels-elle-des-2013.html""><img alt=""B1A4  Ikut Proyek 'Letters of Angels' Majalah Elle Edisi Desember 2013"" src=""/images/events/thumb/2013/12/17/b1a4-letters-of-angels-elle-des-2013.jpg"" title=""B1A4  Ikut Proyek 'Letters of Angels' Majalah Elle Edisi Desember 2013"" width=""80""/></a></div><div class=""img""><a href=""/foto/seleb/b1a4/b1a4-02.html""><img alt=""B1A4 dalam Labels WM Entertainment"" src=""/images/events/thumb/2012/01/24/b1a4-02.jpg"" title=""B1A4 dalam Labels WM Entertainment"" width=""80""/></a></div></div>","['div', 'div', 'a', 'img', 'div', 'a', 'img', 'div', 'a', 'img', 'div', 'a', 'img', 'div', 'a', 'img', 'div', 'a', 'img']",0,0,37,0,0.0,2.2
+242,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,1.1
+243,,[],0,0,1,0,0.0,0.0
+244,,[],0,0,1,0,0.0,0.0
+245," <div class=""clear""></div>",['div'],0,0,3,0,0.0,0.0
+246,,[],0,0,1,0,0.0,0.0
+247,,[],0,0,1,0,0.0,0.0
+248,,[],0,0,0,0,0.0,0.0
+249,,[],0,0,0,0,0.0,0.0
+250,"<div id=""PageNavigation""></div>",['div'],0,0,1,0,0.0,0.0
+251,"<div class=""right-line"" id=""PgNav-container""></div>",['div'],0,0,1,0,0.0,1.15
+252,"<div class=""PgNav-btprev""></div>",['div'],0,0,2,0,0.0,2.3
+253,"<div class=""PgNav-ctprev""><a href=""/berita/tampil/00128771.html""><img align=""left"" src=""/images/news/preview/00128771.jpg"" style=""padding-right:10px;"">Ada Pria 'Misterius' di Foto Sophia Latjuba, Netter: Pasti Ariel NOAH</img></a></div>","['div', 'a', 'img']",0,11,6,0,11.5,4.6
+254,,[],0,0,1,0,0.0,2.3
+255,"<div id=""PgNav-container""></div>",['div'],0,0,1,0,0.0,2.4
+256,"<div class=""PgNav-btnext""></div>",['div'],0,0,2,0,0.0,2.5
+257,"<div class=""PgNav-ctnext""><a href=""/berita/tampil/00128773.html""><img src=""/images/news/preview/00128773.jpg"" style=""float:right; padding-left:10px;"">Reuni di APAN 2016, Jin Goo Unggah Foto Kocak Bareng Kim Min Suk</img></a></div>","['div', 'a', 'img']",0,13,6,0,12.5,5.0
+258,,[],0,0,1,0,0.0,2.5
+259,,[],0,0,1,0,0.0,1.25
+260,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+261,,[],0,0,0,0,0.0,0.0
+262,,[],0,0,0,0,0.0,0.0
+263,"<div class=""tliner"" id=""FC-container-mtop""></div>",['div'],0,0,1,0,0.0,0.0
+264,"<div class=""right-line"" id=""DuaKolom""></div>",['div'],0,0,1,0,0.0,0.5
+265,"<div id=""IsiUmum""></div>",['div'],0,0,1,0,0.0,1.0
+266,<h2>BACA JUGA ...</h2>,['h2'],3,0,2,0,5.0,3.0
+267,<ul></ul>,['ul'],0,0,1,0,0.0,4.05
+268,"<li><a href=""/berita/tampil/00128785.html"">Kompak Imut Pangku Nicole Rossi Syuting 'Anugerah Cinta', Irish Bella Digoda Netter</a></li>","['li', 'a']",0,12,4,0,10.0,7.4
+269,"<li><a href=""/berita/tampil/00128784.html"">Putus Hubungan dengan Mantan Suami, Nikita Mirzani: Kalau Dia Kasih Duit Baru Komunikasi</a></li>","['li', 'a']",0,13,4,0,10.5,8.7
+270,"<li><a href=""/berita/tampil/00128783.html"">Idap Gangguan Kecemasan, Soyul Crayon Pop Terpaksa Hiatus</a></li>","['li', 'a']",0,8,4,0,8.0,9.2
+271,"<li><a href=""/berita/tampil/00128782.html"">Unyu Banget, Intip Aksi Menggemaskan 23 Bayi Panda Mungil Ini</a></li>","['li', 'a']",0,10,4,0,9.0,9.4
+272,"<li><a href=""/berita/tampil/00128781.html"">Nam Joo Hyuk dan Seohyun Bikin Penonton Gemes di 'Scarlet Heart Ryeo' Eps 12</a></li>","['li', 'a']",0,14,4,0,11.0,9.75
+273,"<li><a href=""/berita/tampil/00128780.html"">Serangan Teroris Bikin Banyak Selebriti Pakistan Didesak Angkat Kaki dari Bollywood</a></li>","['li', 'a']",0,11,4,0,9.5,9.5
+274,"<li><a href=""/berita/tampil/00128779.html"">Diisukan Batal Nikahi Liam Hemsworth, Miley Cyrus Kembali Nyeleneh</a></li>","['li', 'a']",0,9,4,0,8.5,8.2
+275,"<li><a href=""/berita/tampil/00128778.html"">Asyik! Chen Bakal Rilis Lagu EDM 'Years' Buat SM STATION</a></li>","['li', 'a']",0,10,4,0,9.0,6.25
+276,,[],0,0,1,0,0.0,2.65
+277,,[],0,0,1,0,0.0,0.9
+278,,[],0,0,1,0,0.0,0.0
+279,"<div id=""DuaKolom""></div>",['div'],0,0,1,0,0.0,0.4
+280,"<div id=""IsiUmum"" style=""padding-left:20px;""></div>",['div'],0,0,1,0,0.0,0.8
+281,<h2>BERITA POPULER</h2>,['h2'],2,0,2,0,4.0,2.6
+282,<ul></ul>,['ul'],0,0,1,0,0.0,3.85
+283,"<li><a href=""/berita/tampil/00128785.html"">Kompak Imut Pangku Nicole Rossi Syuting 'Anugerah Cinta', Irish Bella Digoda Netter</a></li>","['li', 'a']",0,12,4,0,10.0,7.4
+284,"<li><a href=""/berita/tampil/00128784.html"">Putus Hubungan dengan Mantan Suami, Nikita Mirzani: Kalau Dia Kasih Duit Baru Komunikasi</a></li>","['li', 'a']",0,13,4,0,10.5,9.1
+285,"<li><a href=""/berita/tampil/00128782.html"">Unyu Banget, Intip Aksi Menggemaskan 23 Bayi Panda Mungil Ini</a></li>","['li', 'a']",0,10,4,0,9.0,9.85
+286,"<li><a href=""/berita/tampil/00128781.html"">Nam Joo Hyuk dan Seohyun Bikin Penonton Gemes di 'Scarlet Heart Ryeo' Eps 12</a></li>","['li', 'a']",0,14,4,0,11.0,10.0
+287,"<li><a href=""/berita/tampil/00128780.html"">Serangan Teroris Bikin Banyak Selebriti Pakistan Didesak Angkat Kaki dari Bollywood</a></li>","['li', 'a']",0,11,4,0,9.5,9.6
+288,"<li><a href=""/berita/tampil/00128779.html"">Diisukan Batal Nikahi Liam Hemsworth, Miley Cyrus Kembali Nyeleneh</a></li>","['li', 'a']",0,9,4,0,8.5,9.25
+289,"<li><a href=""/berita/tampil/00128777.html"">Tanpa Red Velvet, Seulgi Akui Deg-Degan Tampil di 'King of Mask Singer'</a></li>","['li', 'a']",0,12,4,0,10.0,8.35
+290,"<li><a href=""/berita/tampil/00128776.html"">Polisi Geledah 'Istana' Dimas Kanjeng, Barang-Barang 'Sakti' Ini Disita</a></li>","['li', 'a']",0,9,4,0,8.5,6.25
+291,,[],0,0,1,0,0.0,2.7
+292,,[],0,0,1,0,0.0,0.85
+293,,[],0,0,1,0,0.0,0.0
+294,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+295,,[],0,0,1,0,0.0,0.0
+296,"<div class=""tliner"" id=""FC-container-mtop""></div>",['div'],0,0,1,0,0.0,0.5
+297,"<div id=""IsiUmum"" style=""padding-right: 0;""></div>",['div'],0,0,1,0,0.0,11.95
+298,"<h2 class=""mtop"">RAGAM FOTO MUSIK</h2>",['h2'],3,0,2,0,5.0,23.9
+299,"<div style=""margin:5px 0 5px 0;""><div class=""img""><a href=""/foto/album/ami-awards-2016/ami-awards-2016-01.html""><img alt=""AMI Awards 2016"" src=""/images/events/thumb/2016/09/29/ami-awards-2016-01.jpg"" title=""AMI Awards 2016""/></a><div class=""imgdesc""><a href=""/foto/album/ami-awards-2016/ami-awards-2016-01.html"" style=""color: black;""><h3>AMI Awards 2016</h3></a></div></div><div class=""img""><a href=""/foto/album/exo-planet-3-the-exo-rdium-bangkok/exo-planet-3-the-exo-rdium-bangkok-01.html""><img alt=""EXO Planet #3 - The EXO'rDIUM"" src=""/images/events/thumb/2016/09/14/exo-planet-3-the-exo-rdium-bangkok-01.jpg"" title=""EXO Planet #3 - The EXO'rDIUM""/></a><div class=""imgdesc""><a href=""/foto/album/exo-planet-3-the-exo-rdium-bangkok/exo-planet-3-the-exo-rdium-bangkok-01.html"" style=""color: black;""><h3>EXO Planet #3 - The EXO'rDIUM</h3></a></div></div><div class=""img""><a href=""/foto/album/mtv-video-music-awards-2016/mtv-video-music-awards-2016-01.html""><img alt=""MTV Video Music Awards 2016"" src=""/images/events/thumb/2016/08/29/mtv-video-music-awards-2016-01.jpg"" title=""MTV Video Music Awards 2016""/></a><div class=""imgdesc""><a href=""/foto/album/mtv-video-music-awards-2016/mtv-video-music-awards-2016-01.html"" style=""color: black;""><h3>MTV Video Music Awards 2016</h3></a></div></div><div class=""img""><a href=""/foto/album/hut-rcti-ke-27-dan-sctv-ke-26/hut-rcti-ke-27-01.html""><img alt=""HUT RCTI ke-27 dan SCTV ke-26"" src=""/images/events/thumb/2016/08/24/hut-rcti-ke-27-01.jpg"" title=""HUT RCTI ke-27 dan SCTV ke-26""/></a><div class=""imgdesc""><a href=""/foto/album/hut-rcti-ke-27-dan-sctv-ke-26/hut-rcti-ke-27-01.html"" style=""color: black;""><h3>HUT RCTI ke-27 dan SCTV ke-26</h3></a></div></div><div class=""img""><a href=""/foto/album/smtown-live-tokyo-dome/smtown-live-tokyo-dome-01.html""><img alt=""'SM Town Live World Tour V'"" src=""/images/events/thumb/2016/08/16/smtown-live-tokyo-dome-01.jpg"" title=""'SM Town Live World Tour V'""/></a><div class=""imgdesc""><a href=""/foto/album/smtown-live-tokyo-dome/smtown-live-tokyo-dome-01.html"" style=""color: black;""><h3>'SM Town Live World Tour V'</h3></a></div></div><div class=""img""><a href=""/foto/album/konser-selena-gomez-revival-jakarta/konser-selena-gomez-revival-jakarta-01.html""><img alt=""Konser Selena Gomez di Jakarta"" src=""/images/events/thumb/2016/07/25/konser-selena-gomez-revival-jakarta-01.jpg"" title=""Konser Selena Gomez di Jakarta""/></a><div class=""imgdesc""><a href=""/foto/album/konser-selena-gomez-revival-jakarta/konser-selena-gomez-revival-jakarta-01.html"" style=""color: black;""><h3>Konser Selena Gomez di Jakarta</h3></a></div></div><div class=""img""><a href=""/foto/album/konser-spesial-q-academy/acil-bimbio-q-academy-special-01.html""><img alt=""Konser 'Q-Academy' Charity &amp; Berbagi"" src=""/images/events/thumb/2016/06/30/acil-bimbio-q-academy-special-01.jpg"" title=""Konser 'Q-Academy' Charity &amp; Berbagi""/></a><div class=""imgdesc""><a href=""/foto/album/konser-spesial-q-academy/acil-bimbio-q-academy-special-01.html"" style=""color: black;""><h3>Konser 'Q-Academy' Charity &amp; Berbagi</h3></a></div></div><div class=""img""><a href=""/foto/album/comeback-juni-2016/comeback-juni-2016-01.html""><img alt=""Comeback Artis K-Pop"" src=""/images/events/thumb/2016/06/21/comeback-juni-2016-01.jpg"" title=""Comeback Artis K-Pop""/></a><div class=""imgdesc""><a href=""/foto/album/comeback-juni-2016/comeback-juni-2016-01.html"" style=""color: black;""><h3>Comeback Artis K-Pop</h3></a></div></div></div>","['div', 'div', 'a', 'img', 'div', 'a', 'h3', 'div', 'a', 'img', 'div', 'a', 'h3', 'div', 'a', 'img', 'div', 'a', 'h3', 'div', 'a', 'img', 'div', 'a', 'h3', 'div', 'a', 'img', 'div', 'a', 'h3', 'div', 'a', 'img', 'div', 'a', 'h3', 'div', 'a', 'img', 'div', 'a', 'h3', 'div', 'a', 'img', 'div', 'a', 'h3']",-7,39,97,0,109.5,44.8
+300,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,22.4
+301,,[],0,0,1,0,0.0,10.95
+302,,[],0,0,1,0,0.0,0.0
+303,,[],0,0,1,0,0.0,0.0
+304,,[],0,0,0,0,0.0,0.0
+305,,[],0,0,1,0,0.0,0.0
+306,,[],0,0,0,0,0.0,0.0
+307,,[],0,0,0,0,0.0,0.0
+308,"<div id=""SecondCol330""></div>",['div'],0,0,1,0,0.0,0.0
+309,"<div id=""Ad300A""></div>",['div'],0,0,1,0,0.0,0.0
+310,,[],0,0,0,0,0.0,0.0
+311,,[],0,0,0,0,0.0,0.0
+312,,[],0,0,0,0,0.0,0.0
+313,,[],0,0,0,0,0.0,0.0
+314,,[],0,0,1,0,0.0,0.0
+315,"<div id=""Ad300B"" style=""margin-top:15px;""></div>",['div'],0,0,1,0,0.0,0.0
+316,,[],0,0,0,0,0.0,0.0
+317,"<div id=""div-300x250B"" style=""width:300px; height:250px;""></div>",['div'],0,0,1,0,0.0,0.0
+318,,[],0,0,0,0,0.0,0.0
+319,,[],0,0,0,0,0.0,0.0
+320,,[],0,0,1,0,0.0,0.0
+321,,[],0,0,0,0,0.0,0.0
+322,,[],0,0,1,0,0.0,0.0
+323,"<div id=""Ad300C"" style=""margin-top:15px;""></div>",['div'],0,0,1,0,0.0,0.0
+324,,[],0,0,0,0,0.0,0.0
+325,,[],0,0,0,0,0.0,0.0
+326,,[],0,0,0,0,0.0,0.0
+327,,[],0,0,0,0,0.0,0.0
+328,,[],0,0,1,0,0.0,0.0
+329,"<div id=""SecondColContainer""></div>",['div'],0,0,1,0,0.0,0.0
+330,"<div id=""tabs_wrapper""></div>",['div'],0,0,1,0,0.0,0.0
+331,"<div id=""tabs_container""></div>",['div'],0,0,1,0,0.0,0.45
+332,"<ul id=""tabs"" style=""font: 1.5em arial bold;""></ul>",['ul'],0,0,1,0,0.0,1.35
+333,"<li class=""active""><a href=""#tab1"">TERPOPULER</a></li>","['li', 'a']",0,1,4,0,4.5,2.7
+334,"<li><a href=""#tab2"">TERKINI</a></li>","['li', 'a']",0,1,4,0,4.5,2.7
+335,,[],0,0,1,0,0.0,1.35
+336,,[],0,0,1,0,0.0,17.95
+337,"<div id=""tabs_content_container""></div>",['div'],0,0,1,0,0.0,35.0
+338,"<div class=""tab_content"" id=""tab1"" style=""display: block;""><div class=""tab-list""><a href=""/berita/tampil/00128208.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128208.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128208.html"" target=""_blank"">Ogah Lipsync, Ini Grup Idol yang Paling Sering Nyanyi Live di Acara Musik</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128551.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128551.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128551.html"" target=""_blank"">Tiffany Akhirnya Manggung Perdana Bareng SNSD Usai Insiden Bendera</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128181.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128181.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128181.html"" target=""_blank"">Tae Yeon-Tiffany Beri Sinyal Comeback SNSD Lebih Cepat dari Dugaan?</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00127837.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00127837.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00127837.html"" target=""_blank"">Ditinggal Member Hingga Bubar, Grup Ini Cetak Sejarah Buruk di Kancah K-Pop</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128505.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128505.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128505.html"" target=""_blank"">Manggung Perdana Sejak Putus dari Zico, Seolhyun AOA Malah Bikin Netter Simpati</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128547.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128547.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128547.html"" target=""_blank"">Menang di BAMA Music Awards, Fatin Bangga Bawa Piala</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00127969.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00127969.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00127969.html"" target=""_blank"">Akhirnya Rilis, Lagu Sedih OST 'Scarlet Heart Ryeo' Ini Bikin Baper Maksimal</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00127796.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00127796.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00127796.html"" target=""_blank"">Tak Terima 'Hard Carry' GOT7 Disamakan Dengan 'Fire' BTS, Ini Pembelaan Fans</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128003.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128003.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128003.html"" target=""_blank"">Deretan Grup Idol Ini Masuk Nominasi Best Korean Act di MTV EMA 2016, Siapa Saja?</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128026.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128026.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128026.html"" target=""_blank"">Unik, Ternyata Ini Konsep Sebenarnya 'Russian Roulette' Red Velvet</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128542.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128542.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128542.html"" target=""_blank"">Skill Nge-Dance Luar Biasa, Yugyeom Dipaksa Jadi Center GOT7</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128531.html"" target=""_blank""><img alt="""" src=""/images/news/medium/2016/00128531.jpg"" title=""""/></a><div class=""text""><a href=""/berita/tampil/00128531.html"" target=""_blank"">Subunit Chen-Baekhyun-Xiumin Dikabarkan Siap Debut di Tanggal Ini</a></div></div></div>","['div', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a']",-11,130,121,0,175.0,88.15
+339,,[],0,0,1,0,0.0,71.3
+340,"<div class=""tab_content"" id=""tab2""><div class=""tab-list""><a href=""/berita/tampil/00128783.html"" target=""_blank""><img alt=""Idap Gangguan Kecemasan, Soyul Crayon Pop Terpaksa Hiatus"" src=""/images/news/medium/2016/00128783.jpg"" title=""Idap Gangguan Kecemasan, Soyul Crayon Pop Terpaksa Hiatus""/></a><div class=""text""><a href=""/berita/tampil/00128783.html"" target=""_blank"">Idap Gangguan Kecemasan, Soyul Crayon Pop Terpaksa Hiatus</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128778.html"" target=""_blank""><img alt=""Asyik! Chen Bakal Rilis Lagu EDM 'Years' Buat SM STATION"" src=""/images/news/medium/2016/00128778.jpg"" title=""Asyik! Chen Bakal Rilis Lagu EDM 'Years' Buat SM STATION""/></a><div class=""text""><a href=""/berita/tampil/00128778.html"" target=""_blank"">Asyik! Chen Bakal Rilis Lagu EDM 'Years' Buat SM STATION</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128772.html"" target=""_blank""><img alt=""Nggak Bahagia, Sandeul B1A4 Ternyata Galau Ditinggal Cewek di MV 'Stay As You Are'"" src=""/images/news/medium/2016/00128772.jpg"" title=""Nggak Bahagia, Sandeul B1A4 Ternyata Galau Ditinggal Cewek di MV 'Stay As You Are'""/></a><div class=""text""><a href=""/berita/tampil/00128772.html"" target=""_blank"">Nggak Bahagia, Sandeul B1A4 Ternyata Galau Ditinggal Cewek di MV 'Stay As You Are'</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128768.html"" target=""_blank""><img alt=""Vierratale Vakum, Widy Bentuk Duo Bareng Mantan Vokalis Killing Me Inside"" src=""/images/news/medium/2016/00128768.jpg"" title=""Vierratale Vakum, Widy Bentuk Duo Bareng Mantan Vokalis Killing Me Inside""/></a><div class=""text""><a href=""/berita/tampil/00128768.html"" target=""_blank"">Vierratale Vakum, Widy Bentuk Duo Bareng Mantan Vokalis Killing Me Inside</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128763.html"" target=""_blank""><img alt=""Jin Pamer Rambut Pink, BTS Tidur dan 'Mandi' Bareng di Teaser Foto Baru 'WINGS'"" src=""/images/news/medium/2016/00128763.jpg"" title=""Jin Pamer Rambut Pink, BTS Tidur dan 'Mandi' Bareng di Teaser Foto Baru 'WINGS'""/></a><div class=""text""><a href=""/berita/tampil/00128763.html"" target=""_blank"">Jin Pamer Rambut Pink, BTS Tidur dan 'Mandi' Bareng di Teaser Foto Baru 'WINGS'</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128761.html"" target=""_blank""><img alt=""Unggah Video Duet Bareng Ayah, Miley Cyrus Bikin Fans Nangis Haru"" src=""/images/news/medium/2016/00128761.jpg"" title=""Unggah Video Duet Bareng Ayah, Miley Cyrus Bikin Fans Nangis Haru""/></a><div class=""text""><a href=""/berita/tampil/00128761.html"" target=""_blank"">Unggah Video Duet Bareng Ayah, Miley Cyrus Bikin Fans Nangis Haru</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128751.html"" target=""_blank""><img alt=""Bak Adegan Film, Intip Keren Sekaligus Kelamnya Monsta X di MV 'Fighter'"" src=""/images/news/medium/2016/00128751.jpg"" title=""Bak Adegan Film, Intip Keren Sekaligus Kelamnya Monsta X di MV 'Fighter'""/></a><div class=""text""><a href=""/berita/tampil/00128751.html"" target=""_blank"">Bak Adegan Film, Intip Keren Sekaligus Kelamnya Monsta X di MV 'Fighter'</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128744.html"" target=""_blank""><img alt=""Netter Akui 'Lihat' Red Velvet di Teaser MV '1 of 1' SHINee, Kok Bisa?"" src=""/images/news/medium/2016/00128744.jpg"" title=""Netter Akui 'Lihat' Red Velvet di Teaser MV '1 of 1' SHINee, Kok Bisa?""/></a><div class=""text""><a href=""/berita/tampil/00128744.html"" target=""_blank"">Netter Akui 'Lihat' Red Velvet di Teaser MV '1 of 1' SHINee, Kok Bisa?</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128740.html"" target=""_blank""><img alt=""Dibawakan Lee Hi, 'My Love' OST Kisah Cinta Lee Jun Ki-IU di 'Scarlet Heart' Bikin Baper"" src=""/images/news/medium/2016/00128740.jpg"" title=""Dibawakan Lee Hi, 'My Love' OST Kisah Cinta Lee Jun Ki-IU di 'Scarlet Heart' Bikin Baper""/></a><div class=""text""><a href=""/berita/tampil/00128740.html"" target=""_blank"">Dibawakan Lee Hi, 'My Love' OST Kisah Cinta Lee Jun Ki-IU di 'Scarlet Heart' Bikin Baper</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128736.html"" target=""_blank""><img alt=""Debut Solo Lebih Dulu, Begini Komentar Para Member 1D Soal Lagu Niall Horan"" src=""/images/news/medium/2016/00128736.jpg"" title=""Debut Solo Lebih Dulu, Begini Komentar Para Member 1D Soal Lagu Niall Horan""/></a><div class=""text""><a href=""/berita/tampil/00128736.html"" target=""_blank"">Debut Solo Lebih Dulu, Begini Komentar Para Member 1D Soal Lagu Niall Horan</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128718.html"" target=""_blank""><img alt=""Usai Awkarin, Young Lex Ganti Kolaborasi dengan Gamaliel GAC"" src=""/images/news/medium/2016/00128718.jpg"" title=""Usai Awkarin, Young Lex Ganti Kolaborasi dengan Gamaliel GAC""/></a><div class=""text""><a href=""/berita/tampil/00128718.html"" target=""_blank"">Usai Awkarin, Young Lex Ganti Kolaborasi dengan Gamaliel GAC</a></div></div><div class=""tab-list""><a href=""/berita/tampil/00128715.html"" target=""_blank""><img alt=""Usai G-Friend, Gantian Oh My Girl Jadi Korban Jatuh di Panggung"" src=""/images/news/medium/2016/00128715.jpg"" title=""Usai G-Friend, Gantian Oh My Girl Jadi Korban Jatuh di Panggung""/></a><div class=""text""><a href=""/berita/tampil/00128715.html"" target=""_blank"">Usai G-Friend, Gantian Oh My Girl Jadi Korban Jatuh di Panggung</a></div></div></div>","['div', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a', 'div', 'a', 'img', 'div', 'a']",-11,143,121,0,181.5,90.1
+341,,[],0,0,1,0,0.0,36.3
+342,,[],0,0,1,0,0.0,18.15
+343,,[],0,0,1,0,0.0,0.0
+344," <div id=""Ad300"" style=""margin-top:10px;""></div>",['div'],0,0,2,0,0.0,0.0
+345,,[],0,0,0,0,0.0,0.0
+346,"<iframe allowtransparency=""true"" frameborder=""0"" scrolling=""no"" src=""//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWowKeren%2F223648314313567&amp;width=300&amp;height=152&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=147349138698793"" style=""border:none; overflow:hidden; width:300px; height:152px;""></iframe>",['iframe'],0,0,2,0,0.0,0.0
+347,,[],0,0,1,0,0.0,0.0
+348,"<div id=""Ad300"" style=""margin-top:10px; background-color:white;""></div>",['div'],0,0,1,0,0.0,0.0
+349,,[],0,0,0,0,0.0,0.0
+350,,[],0,0,0,0,0.0,0.0
+351,"<a href=""https://twitter.com/intent/follow?screen_name=wow_keren""><img src=""/images/jpg/twitter-follow.png"" width=""300""/></a>","['a', 'img']",0,0,4,0,0.0,0.0
+352,,[],0,0,1,0,0.0,0.0
+353,,[],0,0,1,0,0.0,0.0
+354,,[],0,0,0,0,0.0,0.0
+355,,[],0,0,1,0,0.0,0.0
+356,,[],0,0,0,0,0.0,0.0
+357,"<div class=""clear""></div>",['div'],0,0,2,0,0.0,0.0
+358,,[],0,0,0,0,0.0,0.0
+359,"<div id=""Container""></div>",['div'],0,0,1,0,0.0,0.0
+360,"<div id=""MasterFooter""></div>",['div'],0,0,1,0,0.0,2.25
+361,"<p><img class=""logo"" src=""/images/gif/wk-logo-footer.gif""/></p>","['p', 'img']",0,0,2,1,0.0,5.55
+362,"<span class=""text""><strong>BERITA</strong> :</span> <a href=""/berita/seleb/"">Seleb</a> | <a href=""/berita/korea/"">Korea</a> | <a href=""/berita/film/"">Film</a> | <a href=""/berita/tv/"">TV</a> | <a href=""/berita/musik/"">Musik</a>","['span', 'strong', 'a', 'a', 'a', 'a', 'a']",6,5,14,0,22.5,12.4
+363,"| <a href=""/berita/olahraga/"">Olahraga</a> | <a href=""/berita/umum/"">Umum</a> | <a href=""/rss/wk_news.xml"">RSS</a>","['a', 'a', 'a']",3,3,6,0,10.5,11.3
+364,"| <a href=""http://twitter.com/wow_keren"" target=""_blank"">WK on Twitter</a> | <a href=""http://www.facebook.com/pages/WowKeren/223648314313567"">WK on Facebook</a> | <a href=""http://m.wowkeren.com"">Mobile Version</a>","['a', 'a', 'a']",3,8,6,0,13.0,11.4
+365,<br/>,['br'],0,0,1,1,0.0,8.85
+366,"<a href=""/html/aboutus.php"">Tentang Kami</a> | <a href=""/html/kontak.php"">Kontak</a> | <a href=""/job/"">Job Vacancy</a> | <a href=""/html/disclaimer.php"">Disclaimer</a> | <a href=""/html/terms.php"">Syarat dan Ketentuan</a>","['a', 'a', 'a', 'a', 'a']",4,9,10,0,18.5,11.7
+367,"<span class=""text"">© 2016 Copyright <strong>MEDIA INFO</strong>. All Rights Reserved.</span>","['span', 'strong']",8,0,7,0,15.0,9.7
+368,,[],0,0,1,0,0.0,4.85
+369,<br><br/></br>,"['br', 'br']",0,0,3,2,0.0,1.5
+370,,[],0,0,0,0,0.0,0.0
+371,,[],0,0,0,0,0.0,0.0
+372,,[],0,0,0,0,0.0,0.0
+373,,[],0,0,0,0,0.0,0.0
+374,,[],0,0,0,0,0.0,0.0
+375,,[],0,0,0,0,0.0,0.0
+376,"<div id=""epmads-0dd56916c2163e6fcf2a24ae1ac3fa4c""></div>",['div'],0,0,2,0,0.0,0.0
+377,,[],0,0,0,0,0.0,0.0
+378,,[],0,0,0,0,0.0,0.0
+379,,[],0,0,0,0,0.0,0.0
+380,,[],0,0,0,0,0.0,0.0
+381,,[],0,0,0,0,0.0,0.0
+382,,[],0,0,3,0,0.0,0.0
+383,,[],0,0,1,0,0.0,0.0
