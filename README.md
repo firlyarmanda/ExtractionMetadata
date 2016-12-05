@@ -36,6 +36,7 @@ FIND CANDIDATES
 -aku list smoothing001.csv di ListSmoothing.py
 
 -terus panggil ke Threshold.py *sebenernya aku mau nyimpen nilai thresholdnya langsung ke csv tiap htmlnya tapi aku ga bisa-bisa wkwkw makanya aku simpen satu-satu deh*
+-simpen di folder SMoothing
 
 didalam threshold.py ngitung:
 
@@ -44,5 +45,5 @@ didalam threshold.py ngitung:
     #th_gap(Threshold_Gap) : nilai maximum TG di tiap html
     #th_cttd(Threshold_CTTD): minval + (k * (maxval - minval))
 
-
+Selanjutnya nentuin textbox nya yang bisa dijadikan candidate sebegai main content. baru abis itu verifikasi textbox mana yang memang mengandung main content
 
