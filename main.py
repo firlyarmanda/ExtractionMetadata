@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('Smoothing/Smoothing008.csv')
+df = pd.read_csv('Smoothing/Smoothing002.csv')
 
 def create_candidates(df, thetaCTTD, thetaGAP):
     k = 0
@@ -31,27 +31,50 @@ def create_candidates(df, thetaCTTD, thetaGAP):
         k += 1
     return TB
 
+
 def get_unique(tb):
-    TB = tb.copy()
+    tb_copy = tb.copy()
     for key, value in tb.iteritems():
         if key == len(tb) - 1:
             break
         elif value['end'] == tb[key+1]['end']:
-            del TB[key+1]
-    return TB
+            del tb_copy[key+1]
+    return tb_copy
+
 
 def remove_overlap_candidate(tb):
-    TB = get_unique(tb)
-    keys = TB.keys()
+    tb = get_unique(tb)
+    keys = tb.keys()
     for index in range(len(keys)-1):
-        if TB[keys[index]]['start'] < TB[keys[index+1]]['start'] < TB[keys[index]]['end'] < TB[keys[index+1]]['end']:
-            TB[keys[index]]['end'] = TB[keys[index+1]]['start'] - 1
+        if (tb[keys[index]]['start'] <
+                tb[keys[index+1]]['start'] <
+                tb[keys[index]]['end'] <
+                tb[keys[index+1]]['end']):
+            tb[keys[index]]['end'] = tb[keys[index+1]]['start'] - 1
         else:
             continue
-    return TB
+    return tb
 
-tb = create_candidates(df, 6, 10)
-TB = remove_overlap_candidate(tb)
+text_box = create_candidates(df, 6, 10)
+TB_clean = remove_overlap_candidate(text_box)
 
-for x, vl in TB.iteritems():
-    print x, vl
+idx = []
+for key, value in TB_clean.iteritems():
+    idx = idx + (range(value['start'], value['end']))
+
+df = df.ix[idx]
+df = df.reset_index()
+
+text_box_main_content = create_candidates(df, 15, 10)
+TB_clean_main_content = remove_overlap_candidate(text_box_main_content)
+
+idx = []
+
+for key, value in TB_clean_main_content.iteritems():
+    idx = idx + (range(value['start'], value['end']))
+
+df_main = df.ix[idx]
+df_main = df_main.reset_index(drop=True)
+df_main.to_csv('content.csv')
+df_title = df.drop(df.index[idx])
+df_title[df_title['TC'] > 0].to_csv('title_date.csv')
