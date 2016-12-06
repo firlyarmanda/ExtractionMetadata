@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('Smoothing/Smoothing001.csv')
+df = pd.read_csv('Smoothing/Smoothing008.csv')
 
 def create_candidates(df, thetaCTTD, thetaGAP):
     k = 0
@@ -31,21 +31,27 @@ def create_candidates(df, thetaCTTD, thetaGAP):
         k += 1
     return TB
 
-def get_unique_candidate(TB):
+def get_unique(tb):
     TB = tb.copy()
     for key, value in tb.iteritems():
         if key == len(tb) - 1:
             break
-        if value['end'] == tb[key+1]['end']:
+        elif value['end'] == tb[key+1]['end']:
             del TB[key+1]
-        elif value['start'] < tb[key+1]['start'] < value['end']:
-            TB[key]['end'] = tb[key+1]['start'] - 1
+    return TB
+
+def remove_overlap_candidate(tb):
+    TB = get_unique(tb)
+    keys = TB.keys()
+    for index in range(len(keys)-1):
+        if TB[keys[index]]['start'] < TB[keys[index+1]]['start'] < TB[keys[index]]['end'] < TB[keys[index+1]]['end']:
+            TB[keys[index]]['end'] = TB[keys[index+1]]['start'] - 1
         else:
             continue
     return TB
 
 tb = create_candidates(df, 6, 10)
-TB = get_unique_candidate(tb)
+TB = remove_overlap_candidate(tb)
 
-for x in TB.iteritems():
-    print x
+for x, vl in TB.iteritems():
+    print x, vl
