@@ -1,0 +1,575 @@
+,HTML,TAG,Words,TC,LTC,TG,P,CTTD,CTTDs
+0,"<!DOCTYPE html>
+",[],,0,0,0,0,0.0,1.0
+1,"<html itemscope=""itemscope"" itemtype=""http://schema.org/WebPage"" lang=""id-ID""><head></head></html>","['html', 'head']",,0,0,2,0,0.0,2.0
+2,"<title>Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya - Tribun Batam</title>",['title'],"Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya - Tribun Batam",12,0,2,0,10.0,4.0
+3,,[],,0,0,1,0,0.0,2.0
+4,<body></body>,['body'],,0,0,1,0,0.0,1.0
+5,<div></div>,['div'],,0,0,1,0,0.0,0.0
+6,<div></div>,['div'],,0,0,1,0,0.0,0.0
+7,<div></div>,['div'],,0,0,1,0,0.0,0.0
+8,<div></div>,['div'],,0,0,1,0,0.0,0.0
+9,,[],,0,0,1,0,0.0,0.0
+10,,[],,0,0,1,0,0.0,0.0
+11,<div></div>,['div'],,0,0,1,0,0.0,0.0
+12,<div></div>,['div'],,0,0,1,0,0.0,0.0
+13,,[],,0,0,1,0,0.0,0.0
+14,,[],,0,0,1,0,0.0,0.0
+15,,[],,0,0,1,0,0.0,0.0
+16,,[],,0,0,1,0,0.0,0.0
+17,<div></div>,['div'],,0,0,1,0,0.0,0.0
+18,<div></div>,['div'],,0,0,1,0,0.0,0.0
+19,<div></div>,['div'],,0,0,1,0,0.0,0.0
+20,"<a href=""http://batam.tribunnews.com/"" title=""Tribun Batam""></a>",['a'],,0,0,1,0,0.0,0.0
+21,,[],,0,0,1,0,0.0,0.0
+22,,[],,0,0,1,0,0.0,0.2
+23,<ul></ul>,['ul'],,0,0,1,0,0.0,0.4
+24,"<li title=""2016-10-04T05:16:12+07:00"">Selasa, 4 Oktober 2016</li>",['li'],"Selasa, 4 Oktober 2016",4,0,2,0,2.0,0.8
+25,<li></li>,['li'],,0,0,1,0,0.0,0.4
+26,<span>Cari</span>,['span'],Cari,1,0,2,0,0.0,0.2
+27,<div></div>,['div'],,0,0,1,0,0.0,0.0
+28,<div></div>,['div'],,0,0,1,0,0.0,0.0
+29,"<form action=""http://batam.tribunnews.com/search""></form>",['form'],,0,0,1,0,0.0,0.0
+30,"<button type=""submit""></button>",['button'],,0,0,1,0,0.0,0.0
+31,,[],,0,0,1,0,0.0,0.0
+32,,[],,0,0,1,0,0.0,0.0
+33,,[],,0,0,1,0,0.0,0.0
+34,,[],,0,0,1,0,0.0,0.0
+35,,[],,0,0,1,0,0.0,0.0
+36,<li></li>,['li'],,0,0,1,0,0.0,0.0
+37,"<a href=""http://www.tribunnews.com"" target=""_blank""><div>Network</div></a>","['a', 'div']",Network,0,1,4,0,0.0,0.0
+38,<div></div>,['div'],,0,0,1,0,0.0,0.0
+39,<div></div>,['div'],,0,0,1,0,0.0,0.0
+40,<div></div>,['div'],,0,0,1,0,0.0,0.0
+41,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+42,"<li><a href=""http://www.tribunnews.com/"" title=""Tribunnews.com"">Tribunnews.com</a></li>","['li', 'a']",Tribunnews.com,0,1,4,0,0.0,0.0
+43,"<li><a href=""http://www.superball.id/"" title=""SuperBall.id"">SuperBall.id</a></li>","['li', 'a']",SuperBall.id,0,1,4,0,0.0,0.0
+44,"<li><a href=""http://www.tribunstyle.com/"" title=""Tribun Style"">TribunStyle.com</a></li>","['li', 'a']",TribunStyle.com,0,1,4,0,0.0,0.0
+45,"<li><a href=""http://www.tribuntravel.com/"" title=""Tribun Travel"">TribunTravel.com</a></li>","['li', 'a']",TribunTravel.com,0,1,4,0,0.0,0.0
+46,"<li><a href=""http://jualbeli.tribunnews.com/"" target=""_blank"" title=""Tribun JualBeli"">Tribun JualBeli</a></li>","['li', 'a']",Tribun JualBeli,0,2,4,0,0.0,0.0
+47,"<li><a href=""http://video.tribunnews.com/"" target=""_blank"" title=""Tribun Video"">Tribun Video</a></li>","['li', 'a']",Tribun Video,0,2,4,0,0.0,0.0
+48,,[],,0,0,1,0,0.0,0.0
+49,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+50,"<li><a href=""http://www.wartakotalive.com"" target=""_blank"" title=""Aceh"">Warta Kota</a></li>","['li', 'a']",Warta Kota,0,2,4,0,0.0,0.0
+51,"<li><a href=""http://bogor.tribunnews.com"" target=""_blank"" title=""Bogor"">TribunnewsBogor.com</a></li>","['li', 'a']",TribunnewsBogor.com,0,1,4,0,0.0,0.0
+52,"<li><a href=""http://jogja.tribunnews.com"" target=""_blank"" title=""Yogjakarta"">Tribun Jogja</a></li>","['li', 'a']",Tribun Jogja,0,2,4,0,0.0,0.0
+53,"<li><a href=""http://solo.tribunnews.com"" target=""_blank"" title=""Solo"">TribunSolo.com</a></li>","['li', 'a']",TribunSolo.com,0,1,4,0,0.0,0.0
+54,"<li><a href=""http://jabar.tribunnews.com"" target=""_blank"" title=""Bandung"">Tribun Jabar</a></li>","['li', 'a']",Tribun Jabar,0,2,4,0,0.0,0.0
+55,"<li><a href=""http://surabaya.tribunnews.com"" target=""_blank"" title=""Surabaya"">Surya</a></li>","['li', 'a']",Surya,0,1,4,0,0.0,0.0
+56,"<li><a href=""http://jateng.tribunnews.com"" target=""_blank"" title=""Jateng"">Tribun Jateng</a></li>","['li', 'a']",Tribun Jateng,0,2,4,0,0.0,0.0
+57,"<li><a href=""http://bali.tribunnews.com"" target=""_blank"" title=""Bali"">Tribun Bali</a></li>","['li', 'a']",Tribun Bali,0,2,4,0,0.0,0.0
+58,"<li><a href=""http://banjarmasin.tribunnews.com"" target=""_blank"" title=""Banjarmasin"">Banjarmasin Post</a></li>","['li', 'a']",Banjarmasin Post,0,2,4,0,0.0,0.0
+59,"<li><a href=""http://palembang.tribunnews.com"" target=""_blank"" title=""Palembang"">Sriwijaya Post</a></li>","['li', 'a']",Sriwijaya Post,0,2,4,0,0.0,0.0
+60,"<li><a href=""http://bangka.tribunnews.com"" target=""_blank"" title=""Bangka"">Bangka Pos</a></li>","['li', 'a']",Bangka Pos,0,2,4,0,0.0,0.0
+61,"<li><a href=""http://batam.tribunnews.com"" target=""_blank"" title=""Batam"">Tribun Batam</a></li>","['li', 'a']",Tribun Batam,0,2,4,0,0.0,0.0
+62,"<li><a href=""http://jambi.tribunnews.com"" target=""_blank"" title=""Jambi"">Tribun Jambi</a></li>","['li', 'a']",Tribun Jambi,0,2,4,0,0.0,0.0
+63,"<li><a href=""http://aceh.tribunnews.com"" target=""_blank"" title=""Aceh"">Serambi Indonesia</a></li>","['li', 'a']",Serambi Indonesia,0,2,4,0,0.0,0.0
+64,"<li><a href=""http://kaltim.tribunnews.com"" target=""_blank"" title=""Balikpapan"">Tribun Kaltim</a></li>","['li', 'a']",Tribun Kaltim,0,2,4,0,0.0,0.0
+65,"<li><a href=""http://lampung.tribunnews.com"" target=""_blank"" title=""Lampung"">Tribun Lampung</a></li>","['li', 'a']",Tribun Lampung,0,2,4,0,0.0,0.0
+66,"<li><a href=""http://manado.tribunnews.com"" target=""_blank"" title=""Manado"">Tribun Manado</a></li>","['li', 'a']",Tribun Manado,0,2,4,0,0.0,0.0
+67,"<li><a href=""http://medan.tribunnews.com"" target=""_blank"" title=""Medan"">Tribun Medan</a></li>","['li', 'a']",Tribun Medan,0,2,4,0,0.0,0.0
+68,"<li><a href=""http://pontianak.tribunnews.com"" target=""_blank"" title=""Pontianak"">Tribun Pontianak</a></li>","['li', 'a']",Tribun Pontianak,0,2,4,0,0.0,0.0
+69,"<li><a href=""http://pekanbaru.tribunnews.com"" target=""_blank"" title=""Pekanbaru"">Tribun Pekanbaru</a></li>","['li', 'a']",Tribun Pekanbaru,0,2,4,0,0.0,0.0
+70,"<li><a href=""http://makassar.tribunnews.com"" target=""_blank"" title=""Makassar"">Tribun Timur</a></li>","['li', 'a']",Tribun Timur,0,2,4,0,0.0,0.0
+71,"<li><a href=""http://sumsel.tribunnews.com"" target=""_blank"" title=""Sumsel"">Tribun Sumsel</a></li>","['li', 'a']",Tribun Sumsel,0,2,4,0,0.0,0.0
+72,"<li><a href=""http://kupang.tribunnews.com"" target=""_blank"" title=""Kupang"">Pos Kupang</a></li>","['li', 'a']",Pos Kupang,0,2,4,0,0.0,0.0
+73,"<li><a href=""http://belitung.tribunnews.com"" target=""_blank"" title=""Belitung"">Pos Belitung</a></li>","['li', 'a']",Pos Belitung,0,2,4,0,0.0,0.0
+74,"<li><a href=""http://suryamalang.tribunnews.com"" target=""_blank"" title=""Surya Malang"">Surya Malang</a></li>","['li', 'a']",Surya Malang,0,2,4,0,0.0,0.0
+75,,[],,0,0,1,0,0.0,0.0
+76,,[],,0,0,1,0,0.0,0.0
+77,,[],,0,0,1,0,0.0,0.0
+78,,[],,0,0,1,0,0.0,0.0
+79,,[],,0,0,1,0,0.0,0.0
+80,<li></li>,['li'],,0,0,1,0,0.0,0.0
+81,<div></div>,['div'],,0,0,1,0,0.0,0.0
+82,<div></div>,['div'],,0,0,1,0,0.0,0.0
+83,,[],,0,0,1,0,0.0,0.0
+84,,[],,0,0,1,0,0.0,0.0
+85,,[],,0,0,1,0,0.0,0.0
+86,<li></li>,['li'],,0,0,1,0,0.0,0.0
+87,"<a href=""#"" onclick='login(""login"",""Masuk"")' rel=""nofollow"" title=""Login"">Login</a><div><div><span>Belum punya akun?</span> <a href=""#"" onclick='register(""register"",""Daftar Baru"")' rel=""nofollow"" title=""Register"">Mendaftar</a><div>Atau</div></div></div>","['a', 'div', 'div', 'span', 'a', 'div']",LoginBelum punya akun? MendaftarAtau,2,2,10,0,0.0,0.0
+88,<div> </div>,['div'], ,0,0,2,0,0.0,0.0
+89,,[],,0,0,2,0,0.0,0.0
+90,<div></div>,['div'],,0,0,1,0,0.0,0.0
+91,<div>Loading...</div>,['div'],Loading...,1,0,2,0,0.0,0.0
+92,<div></div>,['div'],,0,0,1,0,0.0,0.0
+93,,[],,0,0,1,0,0.0,0.1
+94,"<form accept-charset=""utf-8"" action=""http://www.tribunnews.com/auth/forgot_password_json?callback=?"" method=""GET""></form>",['form'],,0,0,1,0,0.0,0.2
+95,<div>Email atau Username:</div>,['div'],Email atau Username:,3,0,2,0,1.0,0.4
+96,<div></div>,['div'],,0,0,2,0,0.0,0.2
+97,<div></div>,['div'],,0,0,2,0,0.0,0.1
+98,,[],,0,0,1,0,0.0,0.0
+99,,[],,0,0,1,0,0.0,0.0
+100,<div></div>,['div'],,0,0,1,0,0.0,0.0
+101,<div>Mengirim...</div>,['div'],Mengirim...,1,0,2,0,0.0,0.0
+102,"<form accept-charset=""utf-8"" action=""http://www.tribunnews.com/auth/login_json?callback=?"" method=""GET""></form>",['form'],,0,0,1,0,0.0,0.0
+103,<div></div>,['div'],,0,0,1,0,0.0,0.0
+104,<div></div>,['div'],,0,0,1,0,0.0,0.0
+105,,[],,0,0,1,0,0.0,0.0
+106,<div></div>,['div'],,0,0,1,0,0.0,0.0
+107,,[],,0,0,1,0,0.0,0.0
+108,<div></div>,['div'],,0,0,1,0,0.0,0.0
+109,,[],,0,0,1,0,0.0,0.3
+110,<div></div>,['div'],,0,0,1,0,0.0,0.6
+111,Tulis angka disamping,[],Tulis angka disamping,3,0,0,0,3.0,1.2
+112,,[],,0,0,1,0,0.0,0.6
+113,<div></div>,['div'],,0,0,1,0,0.0,0.3
+114,<div></div>,['div'],,0,0,1,0,0.0,0.0
+115,"<label for=""remember"">Ingat saya</label>",['label'],Ingat saya,2,0,2,0,0.0,0.0
+116,,[],,0,0,1,0,0.0,0.0
+117,<div></div>,['div'],,0,0,1,0,0.0,0.0
+118,"<a href=""#"" onclick='fbox(""#fpresult"",""Lupa kata sandi"",""inline"")' title=""Forget Password"">Lupa kata sandi</a>",['a'],Lupa kata sandi,0,3,2,0,0.0,0.0
+119,,[],,0,0,1,0,0.0,0.0
+120,,[],,0,0,1,0,0.0,0.0
+121,<div></div>,['div'],,0,0,1,0,0.0,0.0
+122,,[],,0,0,1,0,0.0,0.0
+123,,[],,0,0,1,0,0.0,0.0
+124,<div></div>,['div'],,0,0,1,0,0.0,0.0
+125,<div>Atau</div>,['div'],Atau,1,0,2,0,0.0,0.0
+126,<div> </div>,['div'], ,0,0,2,0,0.0,0.0
+127,,[],,0,0,1,0,0.0,0.0
+128,,[],,0,0,1,0,0.0,0.0
+129,,[],,0,0,1,0,0.0,0.0
+130,<div></div>,['div'],,0,0,1,0,0.0,0.0
+131,<div>Mengirim...</div>,['div'],Mengirim...,1,0,2,0,0.0,0.0
+132,"<form accept-charset=""utf-8"" action=""http://www.tribunnews.com/auth/register_fb_json?callback=?"" method=""get""></form>",['form'],,0,0,1,0,0.0,0.0
+133,<div></div>,['div'],,0,0,1,0,0.0,0.0
+134,<div></div>,['div'],,0,0,1,0,0.0,0.0
+135,,[],,0,0,1,0,0.0,0.0
+136,<div></div>,['div'],,0,0,1,0,0.0,0.0
+137,,[],,0,0,1,0,0.0,0.0
+138,<div></div>,['div'],,0,0,1,0,0.0,0.0
+139,,[],,0,0,1,0,0.0,0.0
+140,<div></div>,['div'],,0,0,1,0,0.0,0.0
+141,,[],,0,0,1,0,0.0,0.0
+142,<div></div>,['div'],,0,0,1,0,0.0,0.0
+143,,[],,0,0,1,0,0.0,0.0
+144,<div></div>,['div'],,0,0,1,0,0.0,0.0
+145,,[],,0,0,1,0,0.0,0.0
+146,<div></div>,['div'],,0,0,1,0,0.0,0.0
+147,,[],,0,0,1,0,0.0,0.0
+148,,[],,0,0,1,0,0.0,0.0
+149,<div></div>,['div'],,0,0,1,0,0.0,0.0
+150,<div>Atau</div>,['div'],Atau,1,0,2,0,0.0,0.0
+151,<div> </div>,['div'], ,0,0,2,0,0.0,0.0
+152,,[],,0,0,1,0,0.0,0.0
+153,,[],,0,0,1,0,0.0,0.0
+154,,[],,0,0,1,0,0.0,0.0
+155,,[],,0,0,1,0,0.0,0.0
+156,,[],,0,0,1,0,0.0,0.0
+157,,[],,0,0,1,0,0.0,0.0
+158,,[],,0,0,1,0,0.0,0.0
+159,<div></div>,['div'],,0,0,1,0,0.0,0.0
+160,<div></div>,['div'],,0,0,1,0,0.0,0.0
+161,<div></div>,['div'],,0,0,1,0,0.0,0.0
+162,,[],,0,0,1,0,0.0,0.0
+163,,[],,0,0,1,0,0.0,0.0
+164,<div></div>,['div'],,0,0,1,0,0.0,0.0
+165,<div></div>,['div'],,0,0,1,0,0.0,0.0
+166,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+167,"<li><a href=""http://batam.tribunnews.com/"" title=""Home"">Home</a></li>","['li', 'a']",Home,0,1,4,0,0.0,0.0
+168,"<li><a href=""#"" title=""Home"">News</a></li>","['li', 'a']",News,0,1,3,0,0.0,0.0
+169,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+170,"<li><a href=""http://www.tribunnews.com/nasional"" target=""_blank"" title=""Nasional"">Nasional</a></li>","['li', 'a']",Nasional,0,1,4,0,0.0,0.0
+171,"<li><a href=""http://www.tribunnews.com/regional"" target=""_blank"" title=""Regional"">Regional</a></li>","['li', 'a']",Regional,0,1,4,0,0.0,0.0
+172,"<li><a href=""http://www.tribunnews.com/internasional"" target=""_blank"" title=""Internasional"">Internasional</a></li>","['li', 'a']",Internasional,0,1,4,0,0.0,0.0
+173,"<li><a href=""http://www.tribunnews.com/metropolitan"" target=""_blank"" title=""Metropolitan"">Jakarta</a></li>","['li', 'a']",Jakarta,0,1,4,0,0.0,0.0
+174,,[],,0,0,1,0,0.0,0.0
+175,,[],,0,0,1,0,0.0,0.0
+176,<li></li>,['li'],,0,0,1,0,0.0,0.0
+177,"<a href=""http://batam.tribunnews.com/kepri/"" title=""Kepri"">Kepri</a>",['a'],Kepri,0,1,2,0,0.0,0.0
+178,,[],,0,0,1,0,0.0,0.0
+179,<li></li>,['li'],,0,0,1,0,0.0,0.0
+180,"<a href=""http://batam.tribunnews.com/jiran/"" title=""Jiran"">Jiran</a>",['a'],Jiran,0,1,2,0,0.0,0.0
+181,,[],,0,0,1,0,0.0,0.0
+182,<li></li>,['li'],,0,0,1,0,0.0,0.0
+183,"<a href=""http://batam.tribunnews.com/bisnis/"" title=""Bisnis"">Bisnis</a>",['a'],Bisnis,0,1,2,0,0.0,0.0
+184,,[],,0,0,1,0,0.0,0.0
+185,<li></li>,['li'],,0,0,1,0,0.0,0.0
+186,"<a href=""http://batam.tribunnews.com/superball/"" title=""Superball"">Superball</a>",['a'],Superball,0,1,2,0,0.0,0.0
+187,,[],,0,0,1,0,0.0,0.0
+188,<li></li>,['li'],,0,0,1,0,0.0,0.0
+189,"<a href=""http://batam.tribunnews.com/sport/"" title=""Sport"">Sport</a>",['a'],Sport,0,1,2,0,0.0,0.0
+190,,[],,0,0,1,0,0.0,0.0
+191,<li></li>,['li'],,0,0,1,0,0.0,0.0
+192,"<a href=""http://batam.tribunnews.com/seleb/"" title=""Seleb"">Seleb</a>",['a'],Seleb,0,1,2,0,0.0,0.0
+193,,[],,0,0,1,0,0.0,0.0
+194,<li></li>,['li'],,0,0,1,0,0.0,0.0
+195,"<a href=""http://batam.tribunnews.com/video/"" title=""Video"">Video</a>",['a'],Video,0,1,2,0,0.0,0.0
+196,,[],,0,0,1,0,0.0,0.0
+197,<li></li>,['li'],,0,0,1,0,0.0,0.0
+198,"<a href=""http://batam.tribunnews.com/lipsus/"" title=""Liputan Khusus"">Liputan Khusus</a>",['a'],Liputan Khusus,0,2,2,0,0.0,0.0
+199,,[],,0,0,1,0,0.0,0.0
+200,<li></li>,['li'],,0,0,1,0,0.0,0.0
+201,"<a href=""http://batam.tribunnews.com/citizen-journalism/"" title=""Citizen Journalism"">Citizen Journalism</a>",['a'],Citizen Journalism,0,2,2,0,0.0,0.0
+202,,[],,0,0,1,0,0.0,0.0
+203,<li></li>,['li'],,0,0,1,0,0.0,0.0
+204,"<a href=""http://batam.tribunnews.com/epaper/"" target=""_blank"" title=""Epaper"">Epaper</a>",['a'],Epaper,0,1,2,0,0.0,0.0
+205,,[],,0,0,1,0,0.0,0.0
+206,"<li><a href=""#"" title=""images"">Lainnya</a></li>","['li', 'a']",Lainnya,0,1,3,0,0.0,0.0
+207,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+208,"<li><a href=""http://batam.tribunnews.com/politik"" title=""Politik"">Politik</a></li>","['li', 'a']",Politik,0,1,4,0,0.0,0.0
+209,"<li><a href=""http://batam.tribunnews.com/teknologi"" title=""Teknologi"">Teknologi</a></li>","['li', 'a']",Teknologi,0,1,4,0,0.0,0.0
+210,"<li><a href=""http://batam.tribunnews.com/otomotif"" title=""Otomotif"">Otomotif</a></li>","['li', 'a']",Otomotif,0,1,4,0,0.0,0.0
+211,"<li><a href=""http://batam.tribunnews.com/kesehatan"" title=""Kesehatan"">Kesehatan</a></li>","['li', 'a']",Kesehatan,0,1,4,0,0.0,0.0
+212,"<li><a href=""http://batam.tribunnews.com/public-service"" title=""Public Service"">Public Service</a></li>","['li', 'a']",Public Service,0,2,4,0,0.0,0.0
+213,"<li><a href=""http://jualbeli.tribunnews.com//"" target=""_blank"" title=""Tribun JualBeli"">Tribun JualBeli</a></li>","['li', 'a']",Tribun JualBeli,0,2,4,0,0.0,0.0
+214,"<li><a href=""http://www.tribunnews.com/epaper"" title=""Epaper"">Tribun Epaper</a></li>","['li', 'a']",Tribun Epaper,0,2,4,0,0.0,0.0
+215,"<li><a href=""http://forum.tribunnews.com"" title=""Tribun Livechat"">Tribun Forum</a></li>","['li', 'a']",Tribun Forum,0,2,4,0,0.0,0.0
+216,"<li><a href=""http://batam.tribunnews.com/indeks/"" title=""Indeks Berita"">Indeks Berita</a></li>","['li', 'a']",Indeks Berita,0,2,4,0,0.0,0.0
+217,,[],,0,0,1,0,0.0,0.0
+218,,[],,0,0,1,0,0.0,0.0
+219,,[],,0,0,1,0,0.0,0.0
+220,,[],,0,0,1,0,0.0,0.0
+221,,[],,0,0,1,0,0.0,0.0
+222,<div></div>,['div'],,0,0,1,0,0.0,0.0
+223,<div></div>,['div'],,0,0,1,0,0.0,0.0
+224,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+225,<li></li>,['li'],,0,0,1,0,0.0,0.0
+226,"<a href=""http://batam.tribunnews.com/enjoy-batam/"" title=""Enjoy Batam"">Enjoy Batam</a>",['a'],Enjoy Batam,0,2,2,0,0.0,0.0
+227,,[],,0,0,1,0,0.0,0.0
+228,<li></li>,['li'],,0,0,1,0,0.0,0.0
+229,"<a href=""http://batam.tribunnews.com/enjoy-batam/akomodasi/"" title=""Akomodasi"">Akomodasi</a>",['a'],Akomodasi,0,1,2,0,0.0,0.0
+230,,[],,0,0,1,0,0.0,0.0
+231,<li></li>,['li'],,0,0,1,0,0.0,0.0
+232,"<a href=""http://batam.tribunnews.com/enjoy-batam/kuliner/"" title=""Kuliner"">Kuliner</a>",['a'],Kuliner,0,1,2,0,0.0,0.0
+233,,[],,0,0,1,0,0.0,0.0
+234,<li></li>,['li'],,0,0,1,0,0.0,0.0
+235,"<a href=""http://batam.tribunnews.com/enjoy-batam/destinasi/"" title=""Destinasi"">Destinasi</a>",['a'],Destinasi,0,1,2,0,0.0,0.0
+236,,[],,0,0,1,0,0.0,0.0
+237,<li></li>,['li'],,0,0,1,0,0.0,0.0
+238,"<a href=""http://batam.tribunnews.com/enjoy-batam/shopping/"" title=""Shopping"">Shopping</a>",['a'],Shopping,0,1,2,0,0.0,0.0
+239,,[],,0,0,1,0,0.0,0.0
+240,<li></li>,['li'],,0,0,1,0,0.0,0.0
+241,"<a href=""http://batam.tribunnews.com/enjoy-batam/ticketing/"" title=""Ticketing"">Ticketing</a>",['a'],Ticketing,0,1,2,0,0.0,0.0
+242,,[],,0,0,1,0,0.0,0.0
+243,<li></li>,['li'],,0,0,1,0,0.0,0.0
+244,"<a href=""http://www.tribunnews.com/travel/"" target=""_blank"" title=""Tribun Travel"">Tribun Travel</a>",['a'],Tribun Travel,0,2,2,0,0.0,0.0
+245,,[],,0,0,1,0,0.0,0.0
+246,,[],,0,0,1,0,0.0,0.0
+247,,[],,0,0,1,0,0.0,0.0
+248,,[],,0,0,1,0,0.0,0.0
+249,<div></div>,['div'],,0,0,1,0,0.0,0.0
+250, <div></div>,['div'], ,0,0,2,0,0.0,0.0
+251,<div></div>,['div'],,0,0,1,0,0.0,0.0
+252,<div></div>,['div'],,0,0,1,0,0.0,0.0
+253,<div></div>,['div'],,0,0,1,0,0.0,0.0
+254,"<a href=""http://batam.tribunnews.com/"" title=""Halaman Depan"">Home</a>",['a'],Home,0,1,2,0,0.0,0.0
+255,<span>»</span>,['span'],»,1,0,2,0,0.0,0.0
+256,"<h4><a href=""http://batam.tribunnews.com/kepri/"" title=""Kepulauan Riau"">Kepulauan Riau</a></h4>","['h4', 'a']",Kepulauan Riau,0,2,4,0,0.0,0.0
+257,<span>»</span>,['span'],»,1,0,2,0,0.0,0.0
+258,"<a href=""http://batam.tribunnews.com/kepri/natuna-lingga-anambas /"" title=""Natuna, Lingga dan Anambas "">Natuna, Lingga dan Anambas </a>",['a'],"Natuna, Lingga dan Anambas ",0,4,2,0,0.0,0.0
+259,,[],,0,0,1,0,0.0,10.7
+260,<div></div>,['div'],,0,0,1,0,0.0,23.0
+261,"<h1>Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya</h1>",['h1'],"Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya",9,0,2,100,107.0,51.1
+262,"<h4>Lanal Tarempa bersama dengan Koramil Palmatak, Koramil Tarempa lakukan berbagai kegiatan sosial di Dusun Sedak, Kecamatan Siantan, Senin(3/10)</h4>",['h4'],"Lanal Tarempa bersama dengan Koramil Palmatak, Koramil Tarempa lakukan berbagai kegiatan sosial di Dusun Sedak, Kecamatan Siantan, Senin(3/10)",18,0,2,0,16.0,38.0
+263,"<div><time>Senin, 3 Oktober 2016 22:07</time></div>","['div', 'time']","Senin, 3 Oktober 2016 22:07",5,0,4,50,51.0,34.3
+264,<div></div>,['div'],,0,0,1,0,0.0,12.1
+265,<div></div>,['div'],,0,0,1,0,0.0,5.7
+266,"<div><div>tribunbatam/septyan mulia rohman</div><div>Suasana perayaan HUT TNI di Tarempa, Senin (3/10/2016) </div></div> ","['div', 'div', 'div']","tribunbatam/septyan mulia rohmanSuasana perayaan HUT TNI di Tarempa, Senin (3/10/2016)  ",10,0,7,0,3.0,1.2
+267,<div></div>,['div'],,0,0,1,0,0.0,0.6
+268,<div></div>,['div'],,0,0,1,0,0.0,0.3
+269,<div></div>,['div'],,0,0,1,0,0.0,0.0
+270,<div></div>,['div'],,0,0,1,0,0.0,0.0
+271,,[],,0,0,1,0,0.0,0.0
+272, ,[], ,0,0,2,0,0.0,3.1
+273, <div></div>,['div'], ,0,0,2,0,0.0,8.05
+274,"<p><strong>BATAM.TRIBUNNEWS.COM, ANAMBAS</strong> - Dalam memperingati hari ulang tahun TNI ke 71, <a href=""http://batam.tribunnews.com/tag/lanal/"" title=""Lanal"">Lanal</a> <a href=""http://batam.tribunnews.com/tag/tarempa/"" title=""Tarempa"">Tarempa</a> bersama dengan Koramil Palmatak, Koramil <a href=""http://batam.tribunnews.com/tag/tarempa/"" title=""Tarempa"">Tarempa</a> lakukan berbagai kegiatan sosial di Dusun Sedak, Desa <a href=""http://batam.tribunnews.com/tag/tarempa/"" title=""Tarempa"">Tarempa</a> Timur, Kecamatan Siantan, Senin(3/10). Kegiatan tersebut dimulai dengan gotong royong kebersihan bersama dengan masyarakat dusun Sedak.</p>","['p', 'strong', 'a', 'a', 'a', 'a']","BATAM.TRIBUNNEWS.COM, ANAMBAS - Dalam memperingati hari ulang tahun TNI ke 71, Lanal Tarempa bersama dengan Koramil Palmatak, Koramil Tarempa lakukan berbagai kegiatan sosial di Dusun Sedak, Desa Tarempa Timur, Kecamatan Siantan, Senin(3/10). Kegiatan tersebut dimulai dengan gotong royong kebersihan bersama dengan masyarakat dusun Sedak.",40,4,12,1,31.0,20.4
+275,"<p>Danlanal <a href=""http://batam.tribunnews.com/tag/tarempa/"" title=""Tarempa"">Tarempa</a>, Letkol Ronald Rarun mengatakan, kegiatan bhakti sosial bersama dengan Koramil dan Polhut Pemkab Anambas sebagai bukti kemanunggalan TNI dengan Rakyat.</p>","['p', 'a']","Danlanal Tarempa, Letkol Ronald Rarun mengatakan, kegiatan bhakti sosial bersama dengan Koramil dan Polhut Pemkab Anambas sebagai bukti kemanunggalan TNI dengan Rakyat.",21,1,4,1,18.5,26.1
+276,"<p>""Ini merupakan rangkaian kegitan TNI di Anambas dalam memperingati HUT TNI ke 71. Kita laksanakan di Dusun Sedak karena, Dusun ini merupakan binaan TNI. Bahkan sebelumnya kita sudah bangun juga disini TPQ yang bisa dimanfaatkan oleh masyarakat,"" ujar Ronald kepada sejumlah wartawan, Senin (3/10/2016).</p>",['p'],"""Ini merupakan rangkaian kegitan TNI di Anambas dalam memperingati HUT TNI ke 71. Kita laksanakan di Dusun Sedak karena, Dusun ini merupakan binaan TNI. Bahkan sebelumnya kita sudah bangun juga disini TPQ yang bisa dimanfaatkan oleh masyarakat,"" ujar Ronald kepada sejumlah wartawan, Senin (3/10/2016).",44,0,2,1,43.0,35.8
+277,"<p>Ronald menambahkan, selain melakukan kegiatan gotong-royong kebersihan bersama TNI AL, TNI AD, Jalasenastri, Persit dan Polhut dan masyarakat Dusun Sedak, mereka juga melakukan penanaman pohon bakau dan pengecatan lapangan bola volley. Masyarakat Dusun Sedak juga menyambut baik kedatangan TNI tersebut.</p>",['p'],"Ronald menambahkan, selain melakukan kegiatan gotong-royong kebersihan bersama TNI AL, TNI AD, Jalasenastri, Persit dan Polhut dan masyarakat Dusun Sedak, mereka juga melakukan penanaman pohon bakau dan pengecatan lapangan bola volley. Masyarakat Dusun Sedak juga menyambut baik kedatangan TNI tersebut.",40,0,2,1,39.0,39.65
+278,"<p>""Giat kita ada beberapa rangkaian seperti penanaman aren dan bibit bakau, pengecatan lapangan volley. Setelah itu ibu-ibu Jalansenastri dan Persit langsung bertanding bersama setelah cat lapangan sudah mengering. Kebersamaan seperti ini sangat baik apalagi masyarakat disini sangat welcome dengan TNI,"" ujarnya.</p>",['p'],"""Giat kita ada beberapa rangkaian seperti penanaman aren dan bibit bakau, pengecatan lapangan volley. Setelah itu ibu-ibu Jalansenastri dan Persit langsung bertanding bersama setelah cat lapangan sudah mengering. Kebersamaan seperti ini sangat baik apalagi masyarakat disini sangat welcome dengan TNI,"" ujarnya.",41,0,2,1,40.0,43.2
+279,"<p>Menurut Ronald, sesuai dengan Tema Bersama Rakyat TNI Kuat, Hebat, Profesional Siap Mewujudkan Indonesia yang Berdaulat, Mandiri dan Berkepribadian maka semakin terjalin kekuatan yang baik. Masyarakat yang merupakan tentara rakyat yang akan menjadikan persatuan dan kesatuan semakin kokoh. Dirinya juga mengajak masyarakat agar selalu menjadi menjaga persatuan dan kesatuan sehingga tidak ada ancaman yang bisa mengganggu NKRI.</p>",['p'],"Menurut Ronald, sesuai dengan Tema Bersama Rakyat TNI Kuat, Hebat, Profesional Siap Mewujudkan Indonesia yang Berdaulat, Mandiri dan Berkepribadian maka semakin terjalin kekuatan yang baik. Masyarakat yang merupakan tentara rakyat yang akan menjadikan persatuan dan kesatuan semakin kokoh. Dirinya juga mengajak masyarakat agar selalu menjadi menjaga persatuan dan kesatuan sehingga tidak ada ancaman yang bisa mengganggu NKRI.",57,0,2,1,56.0,44.25
+280,"<p>""Ini sebagai wujud kemanunggalan TNI bersama rakyat. Kami selama ini sudah dekat dengan rakyat semakin baik, karena bersama rakyat TNI akan semakin kuat. Kami juga mengajak masyarakat untuk menghilangkan kegiatan negatif dan memberikan informasi jika ada hal-hal yang mencurigakan,"" katanya.</p>",['p'],"""Ini sebagai wujud kemanunggalan TNI bersama rakyat. Kami selama ini sudah dekat dengan rakyat semakin baik, karena bersama rakyat TNI akan semakin kuat. Kami juga mengajak masyarakat untuk menghilangkan kegiatan negatif dan memberikan informasi jika ada hal-hal yang mencurigakan,"" katanya.",40,0,2,1,39.0,36.8
+281,"<p>Sementara Danramil 02 <a href=""http://batam.tribunnews.com/tag/tarempa/"" title=""Tarempa"">Tarempa</a> Kapten (Inf) Syamsuwarno mengatakan, kegiatan ini merupakan bentuk kemanunggalan TNI bersama masyarakat. Pihaknya berharap‎, kegiatan ini memberikan dampak positif bagi masyarakat.</p>","['p', 'a']","Sementara Danramil 02 Tarempa Kapten (Inf) Syamsuwarno mengatakan, kegiatan ini merupakan bentuk kemanunggalan TNI bersama masyarakat. Pihaknya berharap‎, kegiatan ini memberikan dampak positif bagi masyarakat.",24,1,4,1,21.5,25.4
+282,"<p>""Harapan kami, selain memberikan ‎dampak positif bagi masyarakat, ini merupakan wujud bahwa TNI dekat dengan rakyat,"" ungkapnya. (*)</p>",['p'],"""Harapan kami, selain memberikan ‎dampak positif bagi masyarakat, ini merupakan wujud bahwa TNI dekat dengan rakyat,"" ungkapnya. (*)",18,0,2,1,17.0,15.0
+283,,[],,0,0,1,0,0.0,5.55
+284,<div></div>,['div'],,0,0,1,0,0.0,1.9
+285,<div></div>,['div'],,0,0,1,0,0.0,0.4
+286,<div>Penulis: Septyan Mulia Rohman		</div>,['div'],Penulis: Septyan Mulia Rohman		,4,0,2,0,2.0,1.0
+287,<div></div>,['div'],,0,0,1,0,0.0,0.8
+288,Editor: Agoes Sumarwah		,[],Editor: Agoes Sumarwah		,3,0,1,0,2.0,1.0
+289,,[],,0,0,1,0,0.0,0.4
+290,<div></div>,['div'],,0,0,1,0,0.0,0.2
+291,<div>Tags </div>,['div'],Tags ,1,0,2,0,0.0,0.0
+292,"<h5><a href=""http://batam.tribunnews.com/tag/lanal/?url=2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" title=""Lanal"">Lanal</a></h5><h5><a href=""http://batam.tribunnews.com/tag/tarempa/?url=2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" title=""Tarempa"">Tarempa</a></h5><h5><a href=""http://batam.tribunnews.com/tag/bakti-sosial/?url=2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" title=""Bakti Sosial"">Bakti Sosial</a></h5>","['h5', 'a', 'h5', 'a', 'h5', 'a']",LanalTarempaBakti Sosial,0,4,12,0,0.0,0.0
+293,,[],,0,0,1,0,0.0,0.0
+294,<div></div>,['div'],,0,0,1,0,0.0,0.0
+295,<div><span>Baca Juga</span></div>,"['div', 'span']",Baca Juga,2,0,4,0,0.0,0.0
+296,<div></div>,['div'],,0,0,1,0,0.0,0.0
+297,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+298,<li></li>,['li'],,0,0,1,0,0.0,0.0
+299,<h3></h3>,['h3'],,0,0,1,0,0.0,1.1
+300,"<a href=""http://batam.tribunnews.com/tag/tarempa/?url=2016/10/02/pawai-1-muharram-di-tarempa-banjir-sambutan-bupati-janjikan-jadi-kegiatan-tahunan"" title=""Pawai 1 Muharram di Tarempa Banjir Sambutan, Bupati Janjikan Jadi Kegiatan Tahunan""></a>",['a'],,0,0,1,0,0.0,2.2
+301,"Pawai 1 Muharram di Tarempa Banjir Sambutan, Bupati Janjikan Jadi Kegiatan Tahunan 					",[],"Pawai 1 Muharram di Tarempa Banjir Sambutan, Bupati Janjikan Jadi Kegiatan Tahunan 					",12,0,1,0,11.0,4.4
+302,,[],,0,0,1,0,0.0,2.2
+303,,[],,0,0,1,0,0.0,1.1
+304,<li></li>,['li'],,0,0,1,0,0.0,0.0
+305,<h3></h3>,['h3'],,0,0,1,0,0.0,0.8
+306,"<a href=""http://batam.tribunnews.com/tag/bakti-sosial/?url=2016/09/28/hut-ke-71-tni-bocah-di-batulicin-rame-rame-disunat"" title=""HUT ke 71 TNI, Bocah di Batulicin Rame-rame Disunat""></a>",['a'],,0,0,1,0,0.0,1.6
+307,"HUT ke 71 TNI, Bocah di Batulicin Rame-rame Disunat 					",[],"HUT ke 71 TNI, Bocah di Batulicin Rame-rame Disunat 					",9,0,1,0,8.0,3.2
+308,,[],,0,0,1,0,0.0,1.6
+309,,[],,0,0,1,0,0.0,0.8
+310,<li></li>,['li'],,0,0,1,0,0.0,0.0
+311,<h3></h3>,['h3'],,0,0,1,0,0.0,0.9
+312,"<a href=""http://batam.tribunnews.com/tag/tarempa/?url=2016/09/18/warga-tarempa-masih-keluhkan-jaringan-telekomunikasi-akses-masih-timbul-tenggelam"" title=""Warga Tarempa Masih Keluhkan Jaringan Telekomunikasi, Sinyal Masih Timbul Tenggelam""></a>",['a'],,0,0,1,0,0.0,1.8
+313,"Warga Tarempa Masih Keluhkan Jaringan Telekomunikasi, Sinyal Masih Timbul Tenggelam 					",[],"Warga Tarempa Masih Keluhkan Jaringan Telekomunikasi, Sinyal Masih Timbul Tenggelam 					",10,0,1,0,9.0,3.6
+314,,[],,0,0,1,0,0.0,1.8
+315,,[],,0,0,1,0,0.0,0.9
+316,<li></li>,['li'],,0,0,1,0,0.0,0.0
+317,<h3></h3>,['h3'],,0,0,1,0,0.0,1.0
+318,"<a href=""http://batam.tribunnews.com/tag/lanal/?url=2016/09/14/lanal-dabo-singkep-gagalkan-upaya-ilegal-pemindahan-minyak-di-kegelapan-laut"" title=""Lanal Dabo Singkep Gagalkan Upaya Ilegal Pemindahan Minyak di Kegelapan Laut""></a>",['a'],,0,0,1,0,0.0,2.0
+319,Lanal Dabo Singkep Gagalkan Upaya Ilegal Pemindahan Minyak di Kegelapan Laut 					,[],Lanal Dabo Singkep Gagalkan Upaya Ilegal Pemindahan Minyak di Kegelapan Laut 					,11,0,1,0,10.0,4.0
+320,,[],,0,0,1,0,0.0,2.0
+321,,[],,0,0,1,0,0.0,1.0
+322,<li></li>,['li'],,0,0,1,0,0.0,0.0
+323,<h3></h3>,['h3'],,0,0,1,0,0.0,1.4
+324,"<a href=""http://batam.tribunnews.com/tag/tarempa/?url=2016/09/08/komandan-lanal-tarempa-minta-pt-palapa-ring-barat-koordinasi-biar-tak-meleset-soal-peta-laut"" title=""Komandan Lanal Tarempa Minta PT Palapa Ring Barat Koordinasi, Biar Tak Meleset soal Peta Laut""></a>",['a'],,0,0,1,0,0.0,2.8
+325,"Komandan Lanal Tarempa Minta PT Palapa Ring Barat Koordinasi, Biar Tak Meleset soal Peta Laut 					",[],"Komandan Lanal Tarempa Minta PT Palapa Ring Barat Koordinasi, Biar Tak Meleset soal Peta Laut 					",15,0,1,0,14.0,5.6
+326,,[],,0,0,1,0,0.0,2.8
+327,,[],,0,0,1,0,0.0,1.4
+328,,[],,0,0,1,0,0.0,0.0
+329,,[],,0,0,1,0,0.0,0.0
+330,,[],,0,0,1,0,0.0,0.0
+331,<div></div>,['div'],,0,0,1,0,0.0,0.0
+332,<div></div>,['div'],,0,0,1,0,0.0,0.0
+333,,[],,0,0,1,0,0.0,0.0
+334,<div></div>,['div'],,0,0,1,0,0.0,0.0
+335,"<a data-count=""horizontal"" data-text=""Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya"" data-url=""http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya/"" data-via=""tribunewsbatam"" href=""http://twitter.com/share"" title=""Tweet"">Tweet</a>",['a'],Tweet,0,1,2,0,0.0,0.0
+336,,[],,0,0,1,0,0.0,0.0
+337,<div></div>,['div'],,0,0,1,0,0.0,0.0
+338,,[],,0,0,1,0,0.0,0.0
+339,<div></div>,['div'],,0,0,1,0,0.0,0.0
+340,,[],,0,0,1,0,0.0,0.0
+341,<div></div>,['div'],,0,0,1,0,0.0,0.0
+342,"<a href=""#"" onclick=""fbox('#shareother','Share','inline')"" title=""Share"">+ Share</a>",['a'],+ Share,0,2,2,0,0.0,0.0
+343,,[],,0,0,1,0,0.0,0.0
+344,<div></div>,['div'],,0,0,2,0,0.0,0.0
+345,"<a href=""http://batam.tribunnews.com/video"" title=""Video Pilihan"">Video Pilihan:</a> <a href=""http://video.tribunnews.com/view/9578/dilaporkan-karena-posting-foto-dan-video-vulgar-ini-tanggapan-selebgram-anya-geraldine"">Dilaporkan karena Posting Foto dan Video Vulgar, Ini Tanggapan Selebgram Anya Geraldine</a>","['a', 'a']","Video Pilihan: Dilaporkan karena Posting Foto dan Video Vulgar, Ini Tanggapan Selebgram Anya Geraldine",0,14,4,0,0.0,0.0
+346,,[],,0,0,1,0,0.0,0.0
+347,<div></div>,['div'],,0,0,1,0,0.0,1.0
+348,"<a href=""http://video.tribunnews.com/view/9578/dilaporkan-karena-posting-foto-dan-video-vulgar-ini-tanggapan-selebgram-anya-geraldine""></a>",['a'],,0,0,1,0,0.0,2.0
+349,"<span>Dilaporkan karena Posting Foto dan Video Vulgar, Ini Tanggapan Selebgram Anya Geraldine</span>",['span'],"Dilaporkan karena Posting Foto dan Video Vulgar, Ini Tanggapan Selebgram Anya Geraldine",12,0,2,0,10.0,4.0
+350,,[],,0,0,1,0,0.0,2.0
+351,,[],,0,0,1,0,0.0,1.0
+352,,[],,0,0,1,0,0.0,0.0
+353,,[],,0,0,1,0,0.0,0.0
+354,<div></div>,['div'],,0,0,1,0,0.0,0.0
+355,<div></div>,['div'],,0,0,1,0,0.0,0.0
+356,"<a href=""javascript:void(0);"" onclick=""window.open('https://www.facebook.com/sharer/sharer.php?u=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');""></a><a href=""javascript:void(0);"" onclick=""window.open('https://twitter.com/intent/tweet?original_referer=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;text=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya&amp;tw_p=tweetbutton&amp;url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;via=tribunewsbatam', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');""></a><a href=""javascript:void(0);"" onclick=""window.open('https://plus.google.com/share?url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');""></a><a href=""javascript:void(0);"" onclick=""window.open('http://www.pinterest.com/pin/create/button/?url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;media=http://cdn-2.tstatic.net/batam/foto/bank/images/lanal-baksos_20161003_220854.jpg&amp;description=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya', '_blank', 'width=600,height=600,scrollbars=yes,status=yes,resizable=yes,screenx=0,screeny=0');""></a> <span href=""#"" onclick=""fbox('#shareother','Share','inline')"" title=""Share""></span>","['a', 'a', 'a', 'a', 'span']", ,0,0,10,0,0.0,0.0
+357,,[],,0,0,1,0,0.0,0.0
+358,,[],,0,0,1,0,0.0,0.0
+359,<div></div>,['div'],,0,0,1,0,0.0,0.0
+360,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+361,"<li><a href=""https://www.facebook.com/sharer/sharer.php?u=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;t=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya"" target=""_blank"" title=""Facebook"">Facebook</a></li>","['li', 'a']",Facebook,0,1,4,0,0.0,0.0
+362,"<li><a href=""https://twitter.com/intent/tweet?original_referer=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;text=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya&amp;url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;via=tribunewsbatam"" target=""_blank"" title=""Twitter"">Twitter</a></li>","['li', 'a']",Twitter,0,1,4,0,0.0,0.0
+363,"<li><a href=""https://plus.google.com/share?url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" target=""_blank"" title=""Google Plus"">Google+</a></li>","['li', 'a']",Google+,0,1,4,0,0.0,0.0
+364,"<li><a href=""http://www.pinterest.com/pin/create/button/?url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;media=http://cdn-2.tstatic.net/batam/foto/bank/images/lanal-baksos_20161003_220854.jpg&amp;description=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya"" target=""_blank"" title=""Pinterest"">Pinterest</a></li>","['li', 'a']",Pinterest,0,1,4,0,0.0,0.0
+365,"<li><a href=""http://digg.com/submit?url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;title=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya"" target=""_blank"" title=""Digg"">Digg</a></li>","['li', 'a']",Digg,0,1,4,0,0.0,0.0
+366,"<li><a href=""http://delicious.com/save?jump=yes&amp;url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;title=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya&amp;notes=Lanal%20Tarempa%20bersama%20dengan%20Koramil%20Palmatak,%20Koramil%20Tarempa%20lakukan%20berbagai%20kegiatan%20sosial%20di%20Dusun%20Sedak,%20Kecamatan%20Siantan,%20Senin(3/10)&amp;via=tribunnews.com"" target=""_blank"" title=""Delicious"">delicious</a></li>","['li', 'a']",delicious,0,1,4,0,0.0,0.0
+367,"<li><a href=""http://reddit.com/submit?url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;title=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya"" target=""_blank"" title=""reddit"">reddit</a></li>","['li', 'a']",reddit,0,1,4,0,0.0,0.0
+368,"<li><a href=""http://www.stumbleupon.com/submit?url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;title=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya"" target=""_blank"" title=""StumbleUpon"">StumbleUpon</a></li>","['li', 'a']",StumbleUpon,0,1,4,0,0.0,0.0
+369,"<li><a href=""http://www.linkedin.com/shareArticle?mini=true&amp;url=http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya&amp;title=Lanal%20Tarempa%20Bakti%20Sosial%20di%20Dusun%20Sedak,%20Ini%20Kegiatannya&amp;summary=Lanal%20Tarempa%20bersama%20dengan%20Koramil%20Palmatak,%20Koramil%20Tarempa%20lakukan%20berbagai%20kegiatan%20sosial%20di%20Dusun%20Sedak,%20Kecamatan%20Siantan,%20Senin(3/10)&amp;source=Tribunnews.com"" target=""_blank"" title=""LinkenIn"">LinkedIn</a></li>","['li', 'a']",LinkedIn,0,1,4,0,0.0,0.0
+370,,[],,0,0,1,0,0.0,0.0
+371,,[],,0,0,1,0,0.0,0.0
+372,<div></div>,['div'],,0,0,1,0,0.0,0.0
+373,<div></div>,['div'],,0,0,1,0,0.0,0.0
+374,"<a data-lang=""en"" data-show-count=""true"" data-show-screen-name=""true"" href=""https://twitter.com/tribunewsbatam"" title=""Follow Twitter"">Follow @tribunewsbatam</a>",['a'],Follow @tribunewsbatam,0,2,2,0,0.0,0.0
+375,,[],,0,0,1,0,0.0,0.0
+376,<div></div>,['div'],,0,0,1,0,0.0,0.0
+377,"<div data-height=""224"" data-hide-cover=""false"" data-href=""https://www.facebook.com/redaksitribunbatam"" data-show-facepile=""true"" data-show-posts=""false"" data-width=""300""></div>",['div'],,0,0,1,0,0.0,0.0
+378,,[],,0,0,1,0,0.0,0.0
+379,,[],,0,0,1,0,0.0,0.0
+380,,[],,0,0,1,0,0.0,0.0
+381,<div></div>,['div'],,0,0,1,0,0.0,0.0
+382,<div></div>,['div'],,0,0,1,0,0.0,0.0
+383, ,[], ,0,0,2,0,0.0,0.0
+384,,[],,0,0,1,0,0.0,0.0
+385,,[],,0,0,1,0,0.0,0.0
+386,<div></div>,['div'],,0,0,1,0,0.0,0.0
+387,<h2>JANGAN LEWATKAN</h2>,['h2'],JANGAN LEWATKAN,2,0,2,0,0.0,0.0
+388,<div></div>,['div'],,0,0,1,0,0.0,0.0
+389,<div></div>,['div'],,0,0,1,0,0.0,0.0
+390,"<a href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" title=""Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru""></a>",['a'],,0,0,1,0,0.0,0.0
+391,<div></div>,['div'],,0,0,1,0,0.0,0.0
+392,,[],,0,0,1,0,0.0,0.0
+393,,[],,0,0,1,0,0.0,0.0
+394,<h3></h3>,['h3'],,0,0,1,0,0.0,0.8
+395,"<a href=""http://batam.tribunnews.com/2016/10/03/kenapa-kasat-narkoba-polres-bintan-diganti-ini-pesan-kapolres-kepada-kasatreskrim-baru"" title=""Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres kepada Kasatreskrim Baru""></a>",['a'],,0,0,1,0,0.0,1.6
+396,Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres… 				,[],Kenapa Kasat Narkoba Polres Bintan Diganti? Ini Pesan Kapolres… 				,9,0,1,0,8.0,3.2
+397,,[],,0,0,1,0,0.0,1.6
+398,,[],,0,0,1,0,0.0,0.8
+399,<div></div>,['div'],,0,0,1,0,0.0,0.0
+400,"<a href=""http://batam.tribunnews.com/2016/10/03/hore-apbd-perubahan-karimun-rp-12-t-ini-rincian-belanjanya"" title=""Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya""></a>",['a'],,0,0,1,0,0.0,0.0
+401,<div></div>,['div'],,0,0,1,0,0.0,0.0
+402,,[],,0,0,1,0,0.0,0.0
+403,,[],,0,0,1,0,0.0,0.0
+404,<h3></h3>,['h3'],,0,0,1,0,0.0,0.9
+405,"<a href=""http://batam.tribunnews.com/2016/10/03/hore-apbd-perubahan-karimun-rp-12-t-ini-rincian-belanjanya"" title=""Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya""></a>",['a'],,0,0,1,0,0.0,1.8
+406,"Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya 				",[],"Hore, APBD Perubahan Karimun Rp 1,2 T, Ini Rincian Belanjanya 				",10,0,1,0,9.0,3.6
+407,,[],,0,0,1,0,0.0,1.8
+408,,[],,0,0,1,0,0.0,0.9
+409,<div></div>,['div'],,0,0,1,0,0.0,0.0
+410,"<a href=""http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" title=""Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya""></a>",['a'],,0,0,1,0,0.0,0.0
+411,<div></div>,['div'],,0,0,1,0,0.0,0.0
+412,,[],,0,0,1,0,0.0,0.0
+413,,[],,0,0,1,0,0.0,0.0
+414,<h3></h3>,['h3'],,0,0,1,0,0.0,0.8
+415,"<a href=""http://batam.tribunnews.com/2016/10/03/lanal-tarempa-bakti-sosial-di-dusun-sedak-ini-kegiatannya"" title=""Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya""></a>",['a'],,0,0,1,0,0.0,1.6
+416,"Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya 				",[],"Lanal Tarempa Bakti Sosial di Dusun Sedak, Ini Kegiatannya 				",9,0,1,0,8.0,3.2
+417,,[],,0,0,1,0,0.0,1.6
+418,,[],,0,0,1,0,0.0,0.8
+419,<div></div>,['div'],,0,0,1,0,0.0,0.0
+420,"<a href=""http://batam.tribunnews.com/2016/10/03/tiga-nelayan-numbing-dikabarkan-tenggelam-kabarnya-gara-gara-pompongnya-mengalami-ini"" title=""Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara Pompongnya Mengalami Ini""></a>",['a'],,0,0,1,0,0.0,0.0
+421,<div></div>,['div'],,0,0,1,0,0.0,0.0
+422,,[],,0,0,1,0,0.0,0.0
+423,,[],,0,0,1,0,0.0,0.0
+424,<h3></h3>,['h3'],,0,0,1,0,0.0,0.6
+425,"<a href=""http://batam.tribunnews.com/2016/10/03/tiga-nelayan-numbing-dikabarkan-tenggelam-kabarnya-gara-gara-pompongnya-mengalami-ini"" title=""Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara Pompongnya Mengalami Ini""></a>",['a'],,0,0,1,0,0.0,1.2
+426,"Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara… 				",[],"Tiga Nelayan Numbing Dikabarkan Tenggelam, Kabarnya Gara-gara… 				",7,0,1,0,6.0,2.4
+427,,[],,0,0,1,0,0.0,1.2
+428,,[],,0,0,1,0,0.0,0.6
+429,<div></div>,['div'],,0,0,1,0,0.0,0.0
+430,"<a href=""http://batam.tribunnews.com/2016/10/03/tanjungpinang-tambahkan-lomba-memancing-di-festival-bahari-kata-riono-biar-ada-sewa-pompong"" title=""Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari, Kata Riono Biar Ada Sewa Pompong""></a>",['a'],,0,0,1,0,0.0,0.0
+431,<div></div>,['div'],,0,0,1,0,0.0,0.0
+432,,[],,0,0,1,0,0.0,0.0
+433,,[],,0,0,1,0,0.0,0.0
+434,<h3></h3>,['h3'],,0,0,1,0,0.0,0.6
+435,"<a href=""http://batam.tribunnews.com/2016/10/03/tanjungpinang-tambahkan-lomba-memancing-di-festival-bahari-kata-riono-biar-ada-sewa-pompong"" title=""Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari, Kata Riono Biar Ada Sewa Pompong""></a>",['a'],,0,0,1,0,0.0,1.2
+436,"Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari,… 				",[],"Tanjungpinang Tambahkan Lomba Memancing di Festival Bahari,… 				",7,0,1,0,6.0,2.4
+437,,[],,0,0,1,0,0.0,1.2
+438,,[],,0,0,1,0,0.0,0.6
+439,,[],,0,0,1,0,0.0,0.0
+440,<div></div>,['div'],,0,0,2,0,0.0,0.0
+441,<div>KOMENTAR</div>,['div'],KOMENTAR,1,0,2,0,0.0,0.0
+442,<div></div>,['div'],,0,0,1,0,0.0,0.0
+443,,[],,0,0,1,0,0.0,0.0
+444,,[],,0,0,1,0,0.0,0.0
+445,<div></div>,['div'],,0,0,1,0,0.0,0.0
+446, ,[], ,0,0,2,0,0.0,0.0
+447,<div></div>,['div'],,0,0,1,0,0.0,0.0
+448,<div></div>,['div'],,0,0,1,0,0.0,0.0
+449,<div></div>,['div'],,0,0,1,0,0.0,0.0
+450,,[],,0,0,1,0,0.0,0.0
+451,<div></div>,['div'],,0,0,1,0,0.0,0.0
+452,<div></div>,['div'],,0,0,1,0,0.0,0.0
+453,<h2></h2>,['h2'],,0,0,1,0,0.0,0.0
+454,<span>berita</span> <span>POPULER</span>,"['span', 'span']",berita POPULER,2,0,4,0,0.0,0.0
+455,,[],,0,0,1,0,0.0,0.0
+456,,[],,0,0,1,0,0.0,0.0
+457,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+458,<li></li>,['li'],,0,0,1,0,0.0,0.0
+459,<div></div>,['div'],,0,0,1,0,0.0,0.0
+460,"<a href=""2016/10/03/usai-mutilasi-anaknya-warga-lihat-tersangka-telanjang-badan"" title=""Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan""></a>",['a'],,0,0,1,0,0.0,0.0
+461,,[],,0,0,1,0,0.0,0.0
+462,,[],,0,0,1,0,0.0,0.0
+463,<div></div>,['div'],,0,0,1,0,0.0,0.0
+464,<h3></h3>,['h3'],,0,0,1,0,0.0,0.7
+465,"<a href=""http://batam.tribunnews.com/2016/10/03/usai-mutilasi-anaknya-warga-lihat-tersangka-telanjang-badan"" title=""Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan""></a>",['a'],,0,0,1,0,0.0,1.4
+466,"Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan 						",[],"Usai Mutilasi Anaknya, Warga Lihat Tersangka Telanjang Badan 						",8,0,1,0,7.0,2.8
+467,,[],,0,0,1,0,0.0,1.4
+468,<div></div>,['div'],,0,0,1,0,0.0,5.8
+469,,[],,0,0,0,0,0.0,10.2
+470,"<time title=""2016-10-03 17:54:14"">11 jam lalu </time>",['time'],11 jam lalu ,3,0,2,50,51.0,20.4
+471,,[],,0,0,1,0,0.0,10.2
+472,,[],,0,0,1,0,0.0,5.1
+473,,[],,0,0,1,0,0.0,0.0
+474,<li></li>,['li'],,0,0,1,0,0.0,0.0
+475,<div></div>,['div'],,0,0,1,0,0.0,0.0
+476,"<a href=""2016/10/03/bocah-2-tahun-tewas-terlindas-truk-di-depan-mata-kedua-orangtuanya"" title=""Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya""></a>",['a'],,0,0,1,0,0.0,0.0
+477,,[],,0,0,1,0,0.0,0.0
+478,,[],,0,0,1,0,0.0,0.0
+479,<div></div>,['div'],,0,0,1,0,0.0,0.0
+480,<h3></h3>,['h3'],,0,0,1,0,0.0,1.0
+481,"<a href=""http://batam.tribunnews.com/2016/10/03/bocah-2-tahun-tewas-terlindas-truk-di-depan-mata-kedua-orangtuanya"" title=""Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya""></a>",['a'],,0,0,1,0,0.0,2.0
+482,Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya 						,[],Bocah 2 Tahun Tewas Terlindas Truk di Depan Mata Kedua Orangtuanya 						,11,0,1,0,10.0,4.0
+483,,[],,0,0,1,0,0.0,2.0
+484,<div></div>,['div'],,0,0,1,0,0.0,6.1
+485,,[],,0,0,0,0,0.0,10.2
+486,"<time title=""2016-10-03 18:33:37"">10 jam lalu </time>",['time'],10 jam lalu ,3,0,2,50,51.0,20.4
+487,,[],,0,0,1,0,0.0,10.2
+488,,[],,0,0,1,0,0.0,5.1
+489,,[],,0,0,1,0,0.0,0.0
+490,<li></li>,['li'],,0,0,1,0,0.0,0.0
+491,<div></div>,['div'],,0,0,1,0,0.0,0.0
+492,"<a href=""2016/10/03/sepekan-terakhir-pelaku-mutilasi-seperti-orang-ketakutan-tapi-berani-tantang-suami"" title=""Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami""></a>",['a'],,0,0,1,0,0.0,0.0
+493,,[],,0,0,1,0,0.0,0.0
+494,,[],,0,0,1,0,0.0,0.0
+495,<div></div>,['div'],,0,0,1,0,0.0,0.0
+496,<h3></h3>,['h3'],,0,0,1,0,0.0,1.0
+497,"<a href=""http://batam.tribunnews.com/2016/10/03/sepekan-terakhir-pelaku-mutilasi-seperti-orang-ketakutan-tapi-berani-tantang-suami"" title=""Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami""></a>",['a'],,0,0,1,0,0.0,2.0
+498,"Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami 						",[],"Sepekan Terakhir, Pelaku Mutilasi Seperti Orang Ketakutan Tapi Berani Tantang Suami 						",11,0,1,0,10.0,4.0
+499,,[],,0,0,1,0,0.0,2.0
+500,<div></div>,['div'],,0,0,1,0,0.0,6.1
+501,,[],,0,0,0,0,0.0,10.2
+502,"<time title=""2016-10-03 18:02:47"">11 jam lalu </time>",['time'],11 jam lalu ,3,0,2,50,51.0,20.4
+503,,[],,0,0,1,0,0.0,10.2
+504,,[],,0,0,1,0,0.0,5.1
+505,,[],,0,0,1,0,0.0,0.0
+506,<li></li>,['li'],,0,0,1,0,0.0,0.0
+507,<div></div>,['div'],,0,0,1,0,0.0,0.0
+508,"<a href=""2016/10/03/kim-kardashian-sempat-memohon-agar-tak-dibunuh-ini-dramanya"" title=""Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya""></a>",['a'],,0,0,1,0,0.0,0.0
+509,,[],,0,0,1,0,0.0,0.0
+510,,[],,0,0,1,0,0.0,0.0
+511,<div></div>,['div'],,0,0,1,0,0.0,0.0
+512,<h3></h3>,['h3'],,0,0,1,0,0.0,1.3
+513,"<a href=""http://batam.tribunnews.com/2016/10/03/kim-kardashian-sempat-memohon-agar-tak-dibunuh-ini-dramanya"" title=""Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya""></a>",['a'],,0,0,1,0,0.0,2.6
+514,"Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya 						",[],"Diborgol dan Ditodong Pistol di Kepala, Kim Kardashian Memohon Agar Tak Dibunuh. Ini Dramanya 						",14,0,1,0,13.0,5.2
+515,,[],,0,0,1,0,0.0,2.6
+516,<div></div>,['div'],,0,0,1,0,0.0,6.4
+517,,[],,0,0,0,0,0.0,10.2
+518,"<time title=""2016-10-03 20:16:36"">8 jam lalu </time>",['time'],8 jam lalu ,3,0,2,50,51.0,20.4
+519,,[],,0,0,1,0,0.0,10.2
+520,,[],,0,0,1,0,0.0,5.1
+521,,[],,0,0,1,0,0.0,0.0
+522,<li></li>,['li'],,0,0,1,0,0.0,0.0
+523,<div></div>,['div'],,0,0,1,0,0.0,0.0
+524,"<a href=""2016/10/03/setelah-dumutilasi-potongan-tubuh-bayi-diletakkan-ibunya-di-atas-piring"" title=""Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring""></a>",['a'],,0,0,1,0,0.0,0.0
+525,,[],,0,0,1,0,0.0,0.0
+526,,[],,0,0,1,0,0.0,0.0
+527,<div></div>,['div'],,0,0,1,0,0.0,0.0
+528,<h3></h3>,['h3'],,0,0,1,0,0.0,0.9
+529,"<a href=""http://batam.tribunnews.com/2016/10/03/setelah-dumutilasi-potongan-tubuh-bayi-diletakkan-ibunya-di-atas-piring"" title=""Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring""></a>",['a'],,0,0,1,0,0.0,1.8
+530,"Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring 						",[],"Setelah Dumutilasi, Potongan Tubuh Bayi Diletakkan Ibunya di Atas Piring 						",10,0,1,0,9.0,3.6
+531,,[],,0,0,1,0,0.0,1.8
+532,<div></div>,['div'],,0,0,1,0,0.0,6.0
+533,,[],,0,0,0,0,0.0,10.2
+534,"<time title=""2016-10-03 17:53:35"">11 jam lalu </time>",['time'],11 jam lalu ,3,0,2,50,51.0,20.4
+535,,[],,0,0,1,0,0.0,10.2
+536,,[],,0,0,1,0,0.0,5.1
+537,,[],,0,0,1,0,0.0,0.0
+538,,[],,0,0,1,0,0.0,0.0
+539,<div></div>,['div'],,0,0,2,0,0.0,0.0
+540,<div></div>,['div'],,0,0,2,0,0.0,0.0
+541,,[],,0,0,1,0,0.0,0.0
+542,<div></div>,['div'],,0,0,1,0,0.0,0.2
+543,<div></div>,['div'],,0,0,1,0,0.0,0.4
+544,<h5>TRIBUNnews.com Network © 2016</h5>,['h5'],TRIBUNnews.com Network © 2016,4,0,2,0,2.0,0.8
+545,<span>•</span>,['span'],•,1,0,2,0,0.0,0.4
+546,"<h6><a href=""http://www.tribunnews.com/about/"" title=""About Us"">About Us</a></h6>","['h6', 'a']",About Us,0,2,4,0,0.0,0.2
+547,<span>•</span>,['span'],•,1,0,2,0,0.0,0.0
+548,"<h6><a href=""http://www.tribunnews.com/help/"" title=""Help"">Help</a></h6>","['h6', 'a']",Help,0,1,4,0,0.0,0.0
+549,,[],,0,0,1,0,0.0,0.0
+550,<div></div>,['div'],,0,0,1,0,0.0,0.0
+551,"<h6><a href=""http://www.tribunnews.com/privacy-policy/"" title=""Privacy Policy"">Privacy Policy</a></h6>","['h6', 'a']",Privacy Policy,0,2,4,0,0.0,0.0
+552,<span>•</span>,['span'],•,1,0,2,0,0.0,0.0
+553,"<h6><a href=""http://www.tribunnews.com/terms/"" title=""terms"">Terms of Use</a></h6>","['h6', 'a']",Terms of Use,0,3,4,0,0.0,0.0
+554,<span>•</span>,['span'],•,1,0,2,0,0.0,0.0
+555,"<h6><a href=""http://batam.tribunnews.com/redaksi/"" title=""redaksi"">Redaksi</a></h6>","['h6', 'a']",Redaksi,0,1,4,0,0.0,0.0
+556,<span>•</span>,['span'],•,1,0,2,0,0.0,0.0
+557,"<h6><a href=""http://batam.tribunnews.com/info-iklan/"" title=""info-iklan"">Info iklan</a></h6>","['h6', 'a']",Info iklan,0,2,4,0,0.0,0.0
+558,,[],,0,0,1,0,0.0,0.0
+559,<div></div>,['div'],,0,0,1,0,0.0,0.0
+560,"<h6><a href=""http://batam.tribunnews.com/contact-us/"" title=""Contact Us"">Contact Us</a></h6>","['h6', 'a']",Contact Us,0,2,4,0,0.0,0.0
+561,,[],,0,0,1,0,0.0,0.0
+562,,[],,0,0,1,0,0.0,0.0
+563,,[],,0,0,1,0,0.0,0.0
+564,,[],,0,0,1,0,0.0,0.0
+565,,[],,0,0,1,0,0.0,0.0
+566,,[],,0,0,1,0,0.0,0.0
+567,<div></div>,['div'],,0,0,2,0,0.0,0.0
+568,<div></div>,['div'],,0,0,1,0,0.0,0.0
+569,<div></div>,['div'],,0,0,1,0,0.0,0.0
+570,,[],,0,0,1,0,0.0,0.0
+571,,[],,0,0,1,0,0.0,0.0
+572,,[],,0,0,2,0,0.0,0.0

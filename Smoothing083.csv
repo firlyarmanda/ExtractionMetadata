@@ -1,0 +1,716 @@
+,HTML,TAG,Words,TC,LTC,TG,P,CTTD,CTTDs
+0,"<!DOCTYPE html>
+",[],,0,0,0,0,0.0,0.7
+1,"<html itemscope=""itemscope"" itemtype=""http://schema.org/WebPage"" lang=""en""><head></head></html>","['html', 'head']",,0,0,2,0,0.0,1.4
+2,<title>Drama Italia vs Makedonia Dibintangi Immobile : Okezone Bola</title>,['title'],Drama Italia vs Makedonia Dibintangi Immobile : Okezone Bola,9,0,2,0,7.0,2.8
+3,,[],,0,0,1,0,0.0,1.4
+4,"<body onload=""loaded()""></body>",['body'],,0,0,1,0,0.0,0.7
+5,<div></div>,['div'],,0,0,1,0,0.0,0.0
+6,,[],,0,0,1,0,0.0,0.0
+7,<div></div>,['div'],,0,0,1,0,0.0,0.0
+8,<nav></nav>,['nav'],,0,0,1,0,0.0,0.0
+9,<div></div>,['div'],,0,0,1,0,0.0,0.0
+10,<div></div>,['div'],,0,0,1,0,0.0,0.0
+11,"<button aria-controls=""navbar"" aria-expanded=""false"" data-target=""#navbar"" data-toggle=""collapse"" type=""button""></button>",['button'],,0,0,1,0,0.0,0.0
+12,<span>Toggle navigation</span>,['span'],Toggle navigation,2,0,2,0,0.0,0.0
+13,,[],,0,0,1,0,0.0,0.0
+14,,[],,0,0,1,0,0.0,0.0
+15,<div></div>,['div'],,0,0,1,0,0.0,0.0
+16,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+17,"<li><a href=""http://news.okezone.com/"">Home</a></li>","['li', 'a']",Home,0,1,4,0,0.0,0.0
+18,"<li><a href=""http://news.okezone.com/nasional"">Nasional</a></li>","['li', 'a']",Nasional,0,1,4,0,0.0,0.0
+19,"<li><a href=""http://news.okezone.com/megapolitan"">Megapolitan</a></li>","['li', 'a']",Megapolitan,0,1,4,0,0.0,0.0
+20,"<li><a href=""http://news.okezone.com/international"">International</a></li>","['li', 'a']",International,0,1,4,0,0.0,0.0
+21,"<li><a href=""http://news.okezone.com/nusantara"">Nusantara</a></li>","['li', 'a']",Nusantara,0,1,4,0,0.0,0.0
+22,"<li><a href=""http://news.okezone.com/kampus"">Kampus</a></li>","['li', 'a']",Kampus,0,1,4,0,0.0,0.0
+23,"<li><a href=""http://news.okezone.com/autos"">Autos</a></li>","['li', 'a']",Autos,0,1,4,0,0.0,0.0
+24,"<li><a href=""http://news.okezone.com/tokoh"">Tokoh</a></li>","['li', 'a']",Tokoh,0,1,4,0,0.0,0.0
+25,"<li><a href=""http://news.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+26,"<li><a href=""http://news.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+27,"<li><a href=""http://news.okezone.com/index"">Indeks</a></li>","['li', 'a']",Indeks,0,1,4,0,0.0,0.0
+28,,[],,0,0,1,0,0.0,0.0
+29,,[],,0,0,1,0,0.0,0.0
+30,,[],,0,0,1,0,0.0,0.0
+31,,[],,0,0,1,0,0.0,0.0
+32,,[],,0,0,1,0,0.0,0.0
+33,<div></div>,['div'],,0,0,1,0,0.0,0.0
+34,<div></div>,['div'],,0,0,1,0,0.0,0.0
+35,<aside></aside>,['aside'],,0,0,1,0,0.0,0.0
+36,<div></div>,['div'],,0,0,1,0,0.0,0.0
+37,<div></div>,['div'],,0,0,1,0,0.0,0.0
+38,"<a href=""http://www.okezone.com/"">Okezone.com</a>",['a'],Okezone.com,0,1,2,0,0.0,0.0
+39,"<a href=""http://news.okezone.com/"">News</a>",['a'],News,0,1,2,0,0.0,0.0
+40,"<a href=""http://economy.okezone.com/"">Finance</a>",['a'],Finance,0,1,2,0,0.0,0.0
+41,"<a href=""http://lifestyle.okezone.com/"">Lifestyle</a>",['a'],Lifestyle,0,1,2,0,0.0,0.0
+42,"<a href=""http://celebrity.okezone.com/"">Celebrity</a>",['a'],Celebrity,0,1,2,0,0.0,0.0
+43,"<a href=""http://bola.okezone.com/"">Bola</a>",['a'],Bola,0,1,2,0,0.0,0.0
+44,"<a href=""http://haji.okezone.com/"">Haji</a>",['a'],Haji,0,1,2,0,0.0,0.0
+45,"<a href=""http://muslim.okezone.com/"">Muslim</a>",['a'],Muslim,0,1,2,0,0.0,0.0
+46,"<a href=""http://sports.okezone.com/"">Sports</a>",['a'],Sports,0,1,2,0,0.0,0.0
+47,"<a href=""http://techno.okezone.com/"">Techno</a>",['a'],Techno,0,1,2,0,0.0,0.0
+48,"<a href=""http://lifestyle.okezone.com/travel/"">Travel</a>",['a'],Travel,0,1,2,0,0.0,0.0
+49,"<a href=""http://lifestyle.okezone.com/food/"">Food</a>",['a'],Food,0,1,2,0,0.0,0.0
+50,"<a href=""http://lifestyle.okezone.com/health/"">Health</a>",['a'],Health,0,1,2,0,0.0,0.0
+51,"<a href=""http://news.okezone.com/autos/"">Autos</a>",['a'],Autos,0,1,2,0,0.0,0.0
+52,"<a href=""http://foto.okezone.com/"">Foto</a>",['a'],Foto,0,1,2,0,0.0,0.0
+53,"<a href=""http://video.okezone.com/"">Video</a>",['a'],Video,0,1,2,0,0.0,0.0
+54,"<a href=""http://rubik.okezone.com/"">Rubik</a>",['a'],Rubik,0,1,2,0,0.0,0.0
+55,"<a href=""http://warungkopi.okezone.com/"">Warung Kopi</a>",['a'],Warung Kopi,0,2,2,0,0.0,0.0
+56,"<a href=""http://tv.okezone.com/"">TV</a>",['a'],TV,0,1,2,0,0.0,0.0
+57,"<a href=""http://metube.okezone.com/"">MeTube</a>",['a'],MeTube,0,1,2,0,0.0,0.0
+58,"<a href=""http://index.okezone.com/"">Indeks</a>",['a'],Indeks,0,1,2,0,0.0,0.0
+59,,[],,0,0,1,0,0.0,0.0
+60,,[],,0,0,1,0,0.0,0.0
+61,,[],,0,0,1,0,0.0,0.0
+62,,[],,0,0,1,0,0.0,0.0
+63,<div></div>,['div'],,0,0,1,0,0.0,0.0
+64,<div></div>,['div'],,0,0,1,0,0.0,0.0
+65,<div></div>,['div'],,0,0,1,0,0.0,0.0
+66,<div></div>,['div'],,0,0,1,0,0.0,0.0
+67,"<a href=""http://www.okezone.com/"">Okezone.com</a>",['a'],Okezone.com,0,1,2,0,0.0,0.0
+68,"<a href=""http://news.okezone.com/""> News</a>",['a'], News,0,1,2,0,0.0,0.0
+69,"<a href=""http://economy.okezone.com/""> Finance</a>",['a'], Finance,0,1,2,0,0.0,0.0
+70,"<a href=""http://lifestyle.okezone.com/""> Lifestyle</a>",['a'], Lifestyle,0,1,2,0,0.0,0.0
+71,"<a href=""http://celebrity.okezone.com/""> Celebrity</a>",['a'], Celebrity,0,1,2,0,0.0,0.0
+72,"<a href=""http://bola.okezone.com/""> Bola</a>",['a'], Bola,0,1,2,0,0.0,0.0
+73,"<a href=""http://haji.okezone.com/"">Haji</a>",['a'],Haji,0,1,2,0,0.0,0.0
+74,"<a href=""http://muslim.okezone.com/"">Muslim</a>",['a'],Muslim,0,1,2,0,0.0,0.0
+75,"<a href=""http://sports.okezone.com/""> Sports</a>",['a'], Sports,0,1,2,0,0.0,0.0
+76,"<a href=""http://techno.okezone.com/"">Techno</a>",['a'],Techno,0,1,2,0,0.0,0.0
+77,,[],,0,0,1,0,0.0,0.0
+78,,[],,0,0,1,0,0.0,0.0
+79,<div></div>,['div'],,0,0,1,0,0.0,0.0
+80,<div></div>,['div'],,0,0,1,0,0.0,0.0
+81,"<a href=""http://lifestyle.okezone.com/travel/"">Travel</a>",['a'],Travel,0,1,2,0,0.0,0.0
+82,"<a href=""http://lifestyle.okezone.com/food/"">Food</a>",['a'],Food,0,1,2,0,0.0,0.0
+83,"<a href=""http://lifestyle.okezone.com/health/"">Health</a>",['a'],Health,0,1,2,0,0.0,0.0
+84,"<a href=""http://news.okezone.com/autos/"">Autos</a>",['a'],Autos,0,1,2,0,0.0,0.0
+85,"<a href=""http://foto.okezone.com/"">Foto</a>",['a'],Foto,0,1,2,0,0.0,0.0
+86,"<a href=""http://video.okezone.com/"">Video</a>",['a'],Video,0,1,2,0,0.0,0.0
+87,"<a href=""http://rubik.okezone.com/"">Rubik</a>",['a'],Rubik,0,1,2,0,0.0,0.0
+88,"<a href=""http://warungkopi.okezone.com/"">Warung Kopi</a>",['a'],Warung Kopi,0,2,2,0,0.0,0.0
+89,"<a href=""http://tv.okezone.com/"">TV</a>",['a'],TV,0,1,2,0,0.0,0.0
+90,"<a href=""http://metube.okezone.com/"">MeTube</a>",['a'],MeTube,0,1,2,0,0.0,0.0
+91,"<a href=""http://index.okezone.com/"">Indeks</a>",['a'],Indeks,0,1,2,0,0.0,0.0
+92,,[],,0,0,1,0,0.0,0.0
+93,,[],,0,0,1,0,0.0,0.0
+94,,[],,0,0,1,0,0.0,0.0
+95,,[],,0,0,1,0,0.0,0.0
+96,,[],,0,0,1,0,0.0,0.0
+97,<div></div>,['div'],,0,0,1,0,0.0,0.0
+98,<div></div>,['div'],,0,0,1,0,0.0,0.0
+99,<div></div>,['div'],,0,0,1,0,0.0,0.0
+100,<span></span>,['span'],,0,0,1,0,0.0,0.0
+101,"<a href=""http://bola.okezone.com/"" title=""Bola""></a>",['a'],,0,0,1,0,0.0,0.0
+102,,[],,0,0,1,0,0.0,0.0
+103,,[],,0,0,1,0,0.0,0.0
+104,,[],,0,0,1,0,0.0,0.0
+105,<div></div>,['div'],,0,0,1,0,0.0,0.0
+106,<div></div>,['div'],,0,0,1,0,0.0,0.0
+107,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+108,"<li><a href=""http://bola.okezone.com/"" title=""Bola Home"">Home</a></li>","['li', 'a']",Home,0,1,4,0,0.0,0.0
+109,"<li><a href=""http://bola.okezone.com/ligachampion"" title=""Liga Champion"">Champions</a></li>","['li', 'a']",Champions,0,1,4,0,0.0,0.0
+110,<li></li>,['li'],,0,0,1,0,0.0,0.0
+111,"<a href=""http://bola.okezone.com/ligainggris"" title=""Premier League""></a>",['a'],,0,0,1,0,0.0,0.0
+112,,[],,0,0,1,0,0.0,0.0
+113,,[],,0,0,1,0,0.0,0.0
+114,"<li><a href=""http://bola.okezone.com/ligaitalia"" title=""Liga Italia"">Italia </a></li>","['li', 'a']",Italia ,0,1,4,0,0.0,0.0
+115,"<li><a href=""http://bola.okezone.com/ligaspanyol"" title=""Liga Spanyol"">Spanyol </a></li>","['li', 'a']",Spanyol ,0,1,4,0,0.0,0.0
+116,"<li><a href=""http://bola.okezone.com/ligajerman"" title=""Liga Jerman"">Jerman </a></li>","['li', 'a']",Jerman ,0,1,4,0,0.0,0.0
+117,"<li><a href=""http://bola.okezone.com/ligaindonesia"" title=""Liga Indonesia"">Indonesia </a></li>","['li', 'a']",Indonesia ,0,1,4,0,0.0,0.0
+118,"<li><a href=""http://bola.okezone.com/boladunia"" title=""Sepak Bola Dunia"">Bola Dunia </a></li>","['li', 'a']",Bola Dunia ,0,2,4,0,0.0,0.0
+119,"<li><a href=""http://bola.okezone.com/foto"" title=""Foto Bola"">Foto </a></li>","['li', 'a']",Foto ,0,1,4,0,0.0,0.0
+120,"<li><a href=""http://bola.okezone.com/video"" title=""Video Bola"">Video </a></li>","['li', 'a']",Video ,0,1,4,0,0.0,0.0
+121,"<li><a href=""http://bola.okezone.com/index"" title=""Index Bola"">Indeks</a></li>","['li', 'a']",Indeks,0,1,4,0,0.0,0.0
+122,,[],,0,0,1,0,0.0,0.0
+123,,[],,0,0,1,0,0.0,0.0
+124,,[],,0,0,1,0,0.0,0.0
+125,<div></div>,['div'],,0,0,1,0,0.0,0.0
+126,,[],,0,0,1,0,0.0,0.0
+127,,[],,0,0,1,0,0.0,0.0
+128,<div></div>,['div'],,0,0,1,0,0.0,0.0
+129,"<form action=""http://search.okezone.com/search/""></form>",['form'],,0,0,1,0,0.0,0.0
+130,,[],,0,0,1,0,0.0,0.0
+131,,[],,0,0,1,0,0.0,0.0
+132,,[],,0,0,1,0,0.0,0.0
+133,<div></div>,['div'],,0,0,1,0,0.0,0.0
+134,<div></div>,['div'],,0,0,1,0,0.0,0.0
+135,<div></div>,['div'],,0,0,1,0,0.0,0.0
+136,,[],,0,0,1,0,0.0,0.0
+137,,[],,0,0,1,0,0.0,0.0
+138,,[],,0,0,1,0,0.0,0.0
+139,<div></div>,['div'],,0,0,1,0,0.0,0.0
+140,<div></div>,['div'],,0,0,1,0,0.0,0.0
+141,<div></div>,['div'],,0,0,1,0,0.0,0.0
+142,<div></div>,['div'],,0,0,1,0,0.0,0.0
+143,<div></div>,['div'],,0,0,1,0,0.0,0.0
+144,<div></div>,['div'],,0,0,1,0,0.0,0.0
+145,<div></div>,['div'],,0,0,1,0,0.0,10.4
+146,<div></div>,['div'],,0,0,1,0,0.0,21.0
+147,<h1>Drama Italia vs Makedonia Dibintangi Immobile</h1>,['h1'],Drama Italia vs Makedonia Dibintangi Immobile,6,0,2,100,104.0,42.6
+148,<p>Pidekso Gentur Satriaji</p>,['p'],Pidekso Gentur Satriaji,3,0,2,1,2.0,22.8
+149,"<p>Senin, 10 Oktober 2016 - 03:45 wib</p>",['p'],"Senin, 10 Oktober 2016 - 03:45 wib",7,0,2,1,6.0,13.2
+150,<div></div>,['div'],,0,0,1,0,0.0,1.4
+151,"<a href=""#commentx""> <b>0 Komentar</b></a>","['a', 'b']", 0 Komentar,0,2,4,0,0.0,0.6
+152,,[],,0,0,1,0,0.0,0.0
+153,,[],,0,0,1,0,0.0,0.0
+154,,[],,0,0,1,0,0.0,0.0
+155,,[],,0,0,1,0,0.0,0.0
+156,<div></div>,['div'],,0,0,1,0,0.0,0.0
+157,<div></div>,['div'],,0,0,1,0,0.0,0.0
+158,,[],,0,0,1,0,0.0,0.0
+159,,[],,0,0,1,0,0.0,0.0
+160,<div></div>,['div'],,0,0,1,0,0.0,4.1
+161,<div></div>,['div'],,0,0,1,0,0.0,8.2
+162,"<p><strong>SKOPJE </strong>– Italia dipaksa banting tulang saat menghadapi Makedonia dalam kualifikasi Piala Dunia 2018, Senin (10/10/2016) dini hari WIB. Sebelum mengakhiri laga dengan kemenangan 2-3, <em>Gli Azzurri </em>sempat tertinggal. Ciro Immobile pantas didaulat sebagai pahlawan Italia karena mencetak dua gol, termasuk gol kemenangan di <em>injury time</em> babak kedua.</p>","['p', 'strong', 'em', 'em']","SKOPJE – Italia dipaksa banting tulang saat menghadapi Makedonia dalam kualifikasi Piala Dunia 2018, Senin (10/10/2016) dini hari WIB. Sebelum mengakhiri laga dengan kemenangan 2-3, Gli Azzurri sempat tertinggal. Ciro Immobile pantas didaulat sebagai pahlawan Italia karena mencetak dua gol, termasuk gol kemenangan di injury time babak kedua.",48,0,8,1,41.0,20.4
+163,<p><strong>Jalannya Pertandingan</strong></p>,"['p', 'strong']",Jalannya Pertandingan,2,0,4,1,0.0,19.7
+164,"<p>Meskipun berstatus tim tamu, Italia justru tampil lebih dominan daripada Makedonia. Seisi pendukung tim tuan rumah yang berada di Nacionalna Arena Filip pun sempat dibuat jantungan setelah Antonio Candreva menjebol gawang Martin Bogatinov. Namun, gol tersebut dianulir lantaran Candreva berada di posisi <em>offside</em>.</p>","['p', 'em']","Meskipun berstatus tim tamu, Italia justru tampil lebih dominan daripada Makedonia. Seisi pendukung tim tuan rumah yang berada di Nacionalna Arena Filip pun sempat dibuat jantungan setelah Antonio Candreva menjebol gawang Martin Bogatinov. Namun, gol tersebut dianulir lantaran Candreva berada di posisi offside.",43,0,4,1,40.0,30.4
+165,<p>Blunder yang dilakukan oleh Alessio Romagnoli hampir menciptakan malapetaka untuk Italia. Egzijan Alilovski pun langsung mencuri bola dan melepaskan tendangan yang belum tepat sasaran. Dia sejatinya juga bisa memberikan bola kepada Goran Pandev atau Ilija Nestorovski.</p>,['p'],Blunder yang dilakukan oleh Alessio Romagnoli hampir menciptakan malapetaka untuk Italia. Egzijan Alilovski pun langsung mencuri bola dan melepaskan tendangan yang belum tepat sasaran. Dia sejatinya juga bisa memberikan bola kepada Goran Pandev atau Ilija Nestorovski.,36,0,2,1,35.0,32.6
+166,"<p>Italia juga cukup membahayakan kala melakukan serangan balik. Candreva melepaskan umpan lambung ke kotak penalti dan disambut dengan tendangan oleh Ciro Immobile. Sayangnya, usaha mantan penyerang Torino tersebut belum bisa membuahkan angka untuk Italia.</p>",['p'],"Italia juga cukup membahayakan kala melakukan serangan balik. Candreva melepaskan umpan lambung ke kotak penalti dan disambut dengan tendangan oleh Ciro Immobile. Sayangnya, usaha mantan penyerang Torino tersebut belum bisa membuahkan angka untuk Italia.",34,0,2,1,33.0,32.2
+167,<p>Gol untuk Italia baru tercipta pada menit 25 melalui Andrea Belotti. Sang bomber menyelesaikan umpan tarik dengan baik melalui tendangan volinya untuk mengubah skor 0-1. Publik yang mengisi Nacionalna Arena Filip pun seketika bungkam. Skor tidak berubah hingga babak pertama berakhir.</p>,['p'],Gol untuk Italia baru tercipta pada menit 25 melalui Andrea Belotti. Sang bomber menyelesaikan umpan tarik dengan baik melalui tendangan volinya untuk mengubah skor 0-1. Publik yang mengisi Nacionalna Arena Filip pun seketika bungkam. Skor tidak berubah hingga babak pertama berakhir.,41,0,2,1,40.0,28.2
+168,<p><strong>Babak Kedua</strong></p>,"['p', 'strong']",Babak Kedua,2,0,4,1,0.0,18.4
+169,"<p>Italia masih mendominasi pertandingan. Permainan rapi serta pertahanan yang solid membuat Makedonia sulit menggoyahkan trio Leonardo Bonucci, Andrea Barzagli, dan Alessio Romagnoli.</p>",['p'],"Italia masih mendominasi pertandingan. Permainan rapi serta pertahanan yang solid membuat Makedonia sulit menggoyahkan trio Leonardo Bonucci, Andrea Barzagli, dan Alessio Romagnoli.",22,0,2,1,21.0,20.9
+170,<p>Petaka untuk Italia baru datang pada menit 57. Blunder yang dilakukan Verratti membuat Nesterovski bisa menguasa bola. Dia lantas menembus pertahanan Italia dan melepaskan tendangan yang mengubah skor menjadi 1-1.</p>,['p'],Petaka untuk Italia baru datang pada menit 57. Blunder yang dilakukan Verratti membuat Nesterovski bisa menguasa bola. Dia lantas menembus pertahanan Italia dan melepaskan tendangan yang mengubah skor menjadi 1-1.,30,0,2,1,29.0,23.8
+171,"<p>Ternyata mimpi buruk Buffon belum berakhir, sebab dua menit kemudian gawangnya kembali kebobolan. Kali ini giliran Ferhan Hasani yang mencetak gol untuk Makedonia sekaligus membalikkan skor menjadi 2-1.</p>",['p'],"Ternyata mimpi buruk Buffon belum berakhir, sebab dua menit kemudian gawangnya kembali kebobolan. Kali ini giliran Ferhan Hasani yang mencetak gol untuk Makedonia sekaligus membalikkan skor menjadi 2-1.",28,0,2,1,27.0,27.6
+172,<p>Dalam kondisi tertinggal membuat Italia meningkatkan intensitas serangan. Serangan terus-menerus yang dilakukan pasukan Giampiero Ventura tersebut akhir membuahkan hasil pada menit 75 melalui Immobile. Skor kembali imbang!</p>,['p'],Dalam kondisi tertinggal membuat Italia meningkatkan intensitas serangan. Serangan terus-menerus yang dilakukan pasukan Giampiero Ventura tersebut akhir membuahkan hasil pada menit 75 melalui Immobile. Skor kembali imbang!,27,0,2,1,26.0,26.1
+173,<p>Dramatis! Immobile mencetak gol ke gawang Makedonia pada<em> injury time</em> babak kedua sehingga Italia kembali memimpin skor 2-3. Dia tanpa kesulitan menjebol gawang Bogatinov dengan sundulan setelah menerima umpan matang Candreva. Skor 2-3 untuk kemenangan Italia berakhir hingga laga bubar.</p>,"['p', 'em']",Dramatis! Immobile mencetak gol ke gawang Makedonia pada injury time babak kedua sehingga Italia kembali memimpin skor 2-3. Dia tanpa kesulitan menjebol gawang Bogatinov dengan sundulan setelah menerima umpan matang Candreva. Skor 2-3 untuk kemenangan Italia berakhir hingga laga bubar.,40,0,4,1,37.0,23.6
+174,<p><strong>Susunan Pemain</strong></p>,"['p', 'strong']",Susunan Pemain,2,0,4,1,0.0,12.8
+175,"<p><strong>Makedonia</strong>: Bogatinov; Mojsov, Sikov, Ristevski; Ristovski, Spirovski, Hasani/Trajchevski, Alioski, Zuta/Ibraimi; Pandev, Nestorovski/Petrovikj.</p>","['p', 'strong']","Makedonia: Bogatinov; Mojsov, Sikov, Ristevski; Ristovski, Spirovski, Hasani/Trajchevski, Alioski, Zuta/Ibraimi; Pandev, Nestorovski/Petrovikj.",12,0,4,1,9.0,9.3
+176,"<p><strong>Italia</strong>: Buffon; Romagnoli, Bonucci, Barzagli; De Sciglio, Bonaventura/Parolo, Verratti, Bernadeschi/Sansone, Candreva; Immobile, Belotti/Martins.</p>","['p', 'strong']","Italia: Buffon; Romagnoli, Bonucci, Barzagli; De Sciglio, Bonaventura/Parolo, Verratti, Bernadeschi/Sansone, Candreva; Immobile, Belotti/Martins.",13,0,4,1,10.0,5.8
+177,,[],,0,0,1,0,0.0,2.9
+178,<div></div>,['div'],,0,0,1,0,0.0,1.0
+179,<div></div>,['div'],,0,0,1,0,0.0,0.0
+180,<div></div>,['div'],,0,0,1,0,0.0,0.0
+181,,[],,0,0,1,0,0.0,0.0
+182,,[],,0,0,1,0,0.0,0.0
+183,,[],,0,0,1,0,0.0,0.0
+184,,[],,0,0,1,0,0.0,0.0
+185,<div></div>,['div'],,0,0,1,0,0.0,0.0
+186,<div><p>share</p></div>,"['div', 'p']",share,1,0,4,1,0.0,0.0
+187,<div></div>,['div'],,0,0,1,0,0.0,0.0
+188,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+189,"<li><a href=""#commentx"">0 <span>Komentar</span></a></li>","['li', 'a', 'span']",0 Komentar,0,2,6,0,0.0,0.0
+190,"<li><a onclick=""facebookshare();"">Share on Facebook </a></li>","['li', 'a']",Share on Facebook ,0,3,4,0,0.0,0.0
+191,"<li><a onclick=""twittershare();"">Share on Twitter</a></li>","['li', 'a']",Share on Twitter,0,3,4,0,0.0,0.0
+192,"<li><a onclick=""googleshare();"">Share on Google</a></li>","['li', 'a']",Share on Google,0,3,4,0,0.0,0.0
+193,"<li><a onclick=""pinterestshare();"">Share on Pinterest</a></li>","['li', 'a']",Share on Pinterest,0,3,4,0,0.0,0.0
+194,,[],,0,0,1,0,0.0,0.0
+195,,[],,0,0,1,0,0.0,0.0
+196,,[],,0,0,1,0,0.0,0.0
+197,<div></div>,['div'],,0,0,1,0,0.0,0.0
+198,<div></div>,['div'],,0,0,1,0,0.0,0.0
+199,<div> ​</div>,['div'], ​,1,0,2,0,0.0,0.0
+200,<div></div>,['div'],,0,0,1,0,0.0,0.0
+201,"<a href=""#commentx"">Tulis komentar</a> <a href=""https://id.okezone.com/privacy_policy"">disclaimer</a>","['a', 'a']",Tulis komentar disclaimer,0,3,4,0,0.0,0.0
+202,<div><span>  0 komentar</span></div>,"['div', 'span']",  0 komentar,2,0,4,0,0.0,0.0
+203,,[],,0,0,1,0,0.0,0.0
+204,<div></div>,['div'],,0,0,1,0,0.0,0.1
+205,<div></div>,['div'],,0,0,1,0,0.0,0.2
+206,<label>Sisa karakter :  </label>,['label'],Sisa karakter :  ,3,0,2,0,1.0,0.4
+207,"<button type=""button"">Kirim</button>",['button'],Kirim,1,0,2,0,0.0,0.2
+208,,[],,0,0,1,0,0.0,0.1
+209,,[],,0,0,1,0,0.0,0.0
+210,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+211,,[],,0,0,1,0,0.0,0.0
+212,<div></div>,['div'],,0,0,1,0,0.0,0.0
+213,,[],,0,0,1,0,0.0,0.0
+214,,[],,0,0,1,0,0.0,0.0
+215,,[],,0,0,1,0,0.0,0.0
+216,,[],,0,0,1,0,0.0,0.0
+217,,[],,0,0,1,0,0.0,0.0
+218,<div></div>,['div'],,0,0,1,0,0.0,0.0
+219,<span>Berita terkait</span>,['span'],Berita terkait,2,0,2,0,0.0,0.0
+220,<span></span>,['span'],,0,0,1,0,0.0,0.0
+221,"<a href=""http://bola.okezone.com/topic/26598/kualifikasi-piala-dunia-2018-zona-eropa"" title=""Kualifikasi Piala Dunia 2018 Zona Eropa"">Kualifikasi Piala Dunia 2018 Zona Eropa</a>",['a'],Kualifikasi Piala Dunia 2018 Zona Eropa,0,6,2,0,0.0,0.0
+222,,[],,0,0,1,0,0.0,0.0
+223,<div></div>,['div'],,0,0,1,0,0.0,0.0
+224,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+225,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510550/cetak-quatrick-vs-andorra-cristiano-ronaldo-bidik-hal-serupa-kontra-kepulauan-faroe"" title=""Cetak Quatrick vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe"">Cetak <i>Quatrick</i> vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe</a></li>","['li', 'a', 'i']","Cetak Quatrick vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe",0,12,6,0,0.0,0.0
+226,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510538/pique-pensiun-lopetegui-masih-banyak-pemain-yang-dapat-menggantikannya"" title=""Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya"">Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya</a></li>","['li', 'a']","Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya",0,9,4,0,0.0,0.0
+227,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510431/gerard-pique-pensiun-dari-timnas-spanyol"" title=""Gerard Pique Pensiun dari Timnas Spanyol"">Gerard Pique Pensiun dari Timnas Spanyol</a></li>","['li', 'a']",Gerard Pique Pensiun dari Timnas Spanyol,0,6,4,0,0.0,0.0
+228,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510296/immobile-buat-italia-vs-makedonia-imbang"" title=""Immobile Buat Italia vs Makedonia Imbang"">Immobile Buat Italia vs Makedonia Imbang</a></li>","['li', 'a']",Immobile Buat Italia vs Makedonia Imbang,0,6,4,0,0.0,0.0
+229,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510293/gawang-buffon-kebobolan-makedonia-1-1-italia"" title=""Gawang Buffon Kebobolan, Makedonia 1-1 Italia"">Gawang Buffon Kebobolan, Makedonia 1-1 Italia</a></li>","['li', 'a']","Gawang Buffon Kebobolan, Makedonia 1-1 Italia",0,6,4,0,0.0,0.0
+230,,[],,0,0,1,0,0.0,0.0
+231,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+232,"<li><a href=""http://bola.okezone.com/read/2016/10/10/46/1510542/taklukkan-albania-2-0-spanyol-ikuti-langkah-portugal"" title=""Taklukkan Albania 2-0, Spanyol Ikuti Langkah Portugal"">Taklukkan Albania 2-0, Spanyol Ikuti Langkah Portugal</a></li>","['li', 'a']","Taklukkan Albania 2-0, Spanyol Ikuti Langkah Portugal",0,7,4,0,0.0,0.0
+233,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510432/southgate-wayne-rooney-layak-bela-timnas-inggris"" title=""Southgate: Wayne Rooney Layak Bela Timnas Inggris"">Southgate: Wayne Rooney Layak Bela Timnas Inggris</a></li>","['li', 'a']",Southgate: Wayne Rooney Layak Bela Timnas Inggris,0,7,4,0,0.0,0.0
+234,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510303/immobile-bobol-gawang-makedonia-di-injury-time"" title=""Immobile Bobol Gawang Makedonia di Injury Time!"">Immobile Bobol Gawang Makedonia di <i>Injury Time</i>!</a></li>","['li', 'a', 'i']",Immobile Bobol Gawang Makedonia di Injury Time!,0,7,6,0,0.0,0.0
+235,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510294/buffon-kembali-takluk-italia-tertinggal"" title=""Buffon Kembali Takluk, Italia Tertinggal!"">Buffon Kembali Takluk, Italia Tertinggal!</a></li>","['li', 'a']","Buffon Kembali Takluk, Italia Tertinggal!",0,5,4,0,0.0,0.0
+236,,[],,0,0,1,0,0.0,0.0
+237,,[],,0,0,1,0,0.0,0.0
+238,,[],,0,0,1,0,0.0,0.0
+239,<div></div>,['div'],,0,0,1,0,0.0,0.0
+240,<span>berita terbaru</span>,['span'],berita terbaru,2,0,2,0,0.0,0.0
+241,<div></div>,['div'],,0,0,1,0,0.0,0.0
+242,<div></div>,['div'],,0,0,1,0,0.0,0.0
+243,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+244,<div></div>,['div'],,0,0,1,0,0.0,0.0
+245,<li></li>,['li'],,0,0,1,0,0.0,0.0
+246,<div></div>,['div'],,0,0,1,0,0.0,0.0
+247,<div></div>,['div'],,0,0,1,0,0.0,0.0
+248,<div></div>,['div'],,0,0,1,0,0.0,0.0
+249,"<a href=""http://bola.okezone.com/read/2016/10/10/51/1510547/sergio-aguero-cedera-argentina-kembali-kehilangan-penyerang"" title=""Sergio Aguero Cedera, Argentina Kembali Kehilangan Penyerang""></a>",['a'],,0,0,1,0,0.0,0.0
+250,,[],,0,0,1,0,0.0,0.0
+251,,[],,0,0,1,0,0.0,0.0
+252,,[],,0,0,1,0,0.0,0.0
+253,<div></div>,['div'],,0,0,1,0,0.0,0.0
+254,<div></div>,['div'],,0,0,1,0,0.0,0.0
+255,<span>Sepakbola Dunia</span>,['span'],Sepakbola Dunia,2,0,2,0,0.0,0.0
+256,<span>33m</span>,['span'],33m,1,0,2,0,0.0,0.0
+257,,[],,0,0,1,0,0.0,0.0
+258,<div></div>,['div'],,0,0,1,0,0.0,0.0
+259,"<span><a href=""http://bola.okezone.com/read/2016/10/10/51/1510547/sergio-aguero-cedera-argentina-kembali-kehilangan-penyerang"" title=""Sergio Aguero Cedera, Argentina Kembali Kehilangan Penyerang"">Sergio Aguero Cedera, Argentina Kembali Kehilangan Penyerang</a></span>","['span', 'a']","Sergio Aguero Cedera, Argentina Kembali Kehilangan Penyerang",0,7,4,0,0.0,0.0
+260,,[],,0,0,1,0,0.0,0.0
+261,,[],,0,0,1,0,0.0,0.0
+262,,[],,0,0,1,0,0.0,0.0
+263,,[],,0,0,1,0,0.0,0.0
+264,<li></li>,['li'],,0,0,1,0,0.0,0.0
+265,<div></div>,['div'],,0,0,1,0,0.0,0.0
+266,<div></div>,['div'],,0,0,1,0,0.0,0.0
+267,<div></div>,['div'],,0,0,1,0,0.0,0.0
+268,"<a href=""http://bola.okezone.com/read/2016/10/10/51/1510550/cetak-quatrick-vs-andorra-cristiano-ronaldo-bidik-hal-serupa-kontra-kepulauan-faroe"" title=""Cetak Quatrick vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe""></a>",['a'],,0,0,1,0,0.0,0.0
+269,,[],,0,0,1,0,0.0,0.0
+270,,[],,0,0,1,0,0.0,0.0
+271,,[],,0,0,1,0,0.0,0.0
+272,<div></div>,['div'],,0,0,1,0,0.0,0.0
+273,<div></div>,['div'],,0,0,1,0,0.0,0.0
+274,<span>Sepakbola Dunia</span>,['span'],Sepakbola Dunia,2,0,2,0,0.0,0.0
+275,<span>37m</span>,['span'],37m,1,0,2,0,0.0,0.0
+276,,[],,0,0,1,0,0.0,0.0
+277,<div></div>,['div'],,0,0,1,0,0.0,0.0
+278,"<span><a href=""http://bola.okezone.com/read/2016/10/10/51/1510550/cetak-quatrick-vs-andorra-cristiano-ronaldo-bidik-hal-serupa-kontra-kepulauan-faroe"" title=""Cetak Quatrick vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe"">Cetak <i>Quatrick</i> vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe</a></span>","['span', 'a', 'i']","Cetak Quatrick vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe",0,12,6,0,0.0,0.0
+279,,[],,0,0,1,0,0.0,0.0
+280,,[],,0,0,1,0,0.0,0.0
+281,,[],,0,0,1,0,0.0,0.0
+282,,[],,0,0,1,0,0.0,0.0
+283,<li></li>,['li'],,0,0,1,0,0.0,0.0
+284,<div></div>,['div'],,0,0,1,0,0.0,0.0
+285,<div></div>,['div'],,0,0,1,0,0.0,0.0
+286,<div></div>,['div'],,0,0,1,0,0.0,0.0
+287,"<a href=""http://bola.okezone.com/read/2016/10/10/51/1510538/pique-pensiun-lopetegui-masih-banyak-pemain-yang-dapat-menggantikannya"" title=""Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya""></a>",['a'],,0,0,1,0,0.0,0.0
+288,,[],,0,0,1,0,0.0,0.0
+289,,[],,0,0,1,0,0.0,0.0
+290,,[],,0,0,1,0,0.0,0.0
+291,<div></div>,['div'],,0,0,1,0,0.0,0.0
+292,<div></div>,['div'],,0,0,1,0,0.0,0.0
+293,<span>Sepakbola Dunia</span>,['span'],Sepakbola Dunia,2,0,2,0,0.0,0.0
+294,<span>12:02</span>,['span'],12:02,1,0,2,0,0.0,0.0
+295,,[],,0,0,1,0,0.0,0.0
+296,<div></div>,['div'],,0,0,1,0,0.0,0.0
+297,"<span><a href=""http://bola.okezone.com/read/2016/10/10/51/1510538/pique-pensiun-lopetegui-masih-banyak-pemain-yang-dapat-menggantikannya"" title=""Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya"">Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya</a></span>","['span', 'a']","Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya",0,9,4,0,0.0,0.0
+298,,[],,0,0,1,0,0.0,0.0
+299,,[],,0,0,1,0,0.0,0.0
+300,,[],,0,0,1,0,0.0,0.0
+301,,[],,0,0,1,0,0.0,0.0
+302,<li></li>,['li'],,0,0,1,0,0.0,0.0
+303,<div></div>,['div'],,0,0,1,0,0.0,0.0
+304,<div></div>,['div'],,0,0,1,0,0.0,0.0
+305,<div></div>,['div'],,0,0,1,0,0.0,0.0
+306,"<a href=""http://bola.okezone.com/read/2016/10/10/51/1510441/arda-turan-barcelona-bentengi-saya-dari-klub-china"" title=""Arda Turan: Barcelona Bentengi Saya dari Klub China""></a>",['a'],,0,0,1,0,0.0,0.0
+307,,[],,0,0,1,0,0.0,0.0
+308,,[],,0,0,1,0,0.0,0.0
+309,,[],,0,0,1,0,0.0,0.0
+310,<div></div>,['div'],,0,0,1,0,0.0,0.0
+311,<div></div>,['div'],,0,0,1,0,0.0,0.0
+312,<span>Sepakbola Dunia</span>,['span'],Sepakbola Dunia,2,0,2,0,0.0,0.0
+313,<span>11:15</span>,['span'],11:15,1,0,2,0,0.0,0.0
+314,,[],,0,0,1,0,0.0,0.0
+315,<div></div>,['div'],,0,0,1,0,0.0,0.0
+316,"<span><a href=""http://bola.okezone.com/read/2016/10/10/51/1510441/arda-turan-barcelona-bentengi-saya-dari-klub-china"" title=""Arda Turan: Barcelona Bentengi Saya dari Klub China"">Arda Turan: Barcelona Bentengi Saya dari Klub China</a></span>","['span', 'a']",Arda Turan: Barcelona Bentengi Saya dari Klub China,0,8,4,0,0.0,0.0
+317,,[],,0,0,1,0,0.0,0.0
+318,,[],,0,0,1,0,0.0,0.0
+319,,[],,0,0,1,0,0.0,0.0
+320,,[],,0,0,1,0,0.0,0.0
+321,<li></li>,['li'],,0,0,1,0,0.0,0.0
+322,<div></div>,['div'],,0,0,1,0,0.0,0.0
+323,<div></div>,['div'],,0,0,1,0,0.0,0.0
+324,<div></div>,['div'],,0,0,1,0,0.0,0.0
+325,"<a href=""http://bola.okezone.com/read/2016/10/10/51/1510440/berada-di-milan-indikasi-nemanja-matic-gabung-juventus-menguat"" title=""Berada di Milan, Indikasi Nemanja Matic Gabung Juventus Menguat""></a>",['a'],,0,0,1,0,0.0,0.0
+326,,[],,0,0,1,0,0.0,0.0
+327,,[],,0,0,1,0,0.0,0.0
+328,,[],,0,0,1,0,0.0,0.0
+329,<div></div>,['div'],,0,0,1,0,0.0,0.0
+330,<div></div>,['div'],,0,0,1,0,0.0,0.0
+331,<span>Sepakbola Dunia</span>,['span'],Sepakbola Dunia,2,0,2,0,0.0,0.0
+332,<span>11:03</span>,['span'],11:03,1,0,2,0,0.0,0.0
+333,,[],,0,0,1,0,0.0,0.0
+334,<div></div>,['div'],,0,0,1,0,0.0,0.0
+335,"<span><a href=""http://bola.okezone.com/read/2016/10/10/51/1510440/berada-di-milan-indikasi-nemanja-matic-gabung-juventus-menguat"" title=""Berada di Milan, Indikasi Nemanja Matic Gabung Juventus Menguat"">Berada di Milan, Indikasi Nemanja Matic Gabung Juventus Menguat</a></span>","['span', 'a']","Berada di Milan, Indikasi Nemanja Matic Gabung Juventus Menguat",0,9,4,0,0.0,0.0
+336,,[],,0,0,1,0,0.0,0.0
+337,,[],,0,0,1,0,0.0,0.0
+338,,[],,0,0,1,0,0.0,0.0
+339,,[],,0,0,1,0,0.0,0.0
+340,<li></li>,['li'],,0,0,1,0,0.0,0.0
+341,<div></div>,['div'],,0,0,1,0,0.0,0.0
+342,<div></div>,['div'],,0,0,1,0,0.0,0.0
+343,<div></div>,['div'],,0,0,1,0,0.0,0.0
+344,"<a href=""http://bola.okezone.com/read/2016/10/10/51/1510432/southgate-wayne-rooney-layak-bela-timnas-inggris"" title=""Southgate: Wayne Rooney Layak Bela Timnas Inggris""></a>",['a'],,0,0,1,0,0.0,0.0
+345,,[],,0,0,1,0,0.0,0.0
+346,,[],,0,0,1,0,0.0,0.0
+347,,[],,0,0,1,0,0.0,0.0
+348,<div></div>,['div'],,0,0,1,0,0.0,0.0
+349,<div></div>,['div'],,0,0,1,0,0.0,0.0
+350,<span>Sepakbola Dunia</span>,['span'],Sepakbola Dunia,2,0,2,0,0.0,0.0
+351,<span>10:22</span>,['span'],10:22,1,0,2,0,0.0,0.0
+352,,[],,0,0,1,0,0.0,0.0
+353,<div></div>,['div'],,0,0,1,0,0.0,0.0
+354,"<span><a href=""http://bola.okezone.com/read/2016/10/10/51/1510432/southgate-wayne-rooney-layak-bela-timnas-inggris"" title=""Southgate: Wayne Rooney Layak Bela Timnas Inggris"">Southgate: Wayne Rooney Layak Bela Timnas Inggris</a></span>","['span', 'a']",Southgate: Wayne Rooney Layak Bela Timnas Inggris,0,7,4,0,0.0,0.0
+355,,[],,0,0,1,0,0.0,0.0
+356,,[],,0,0,1,0,0.0,0.0
+357,,[],,0,0,1,0,0.0,0.0
+358,,[],,0,0,1,0,0.0,0.0
+359,<div></div>,['div'],,0,0,1,0,0.0,0.0
+360,"<a href=""http://bola.okezone.com/boladunia"">more stories</a>",['a'],more stories,0,2,2,0,0.0,0.0
+361,,[],,0,0,1,0,0.0,0.0
+362,,[],,0,0,1,0,0.0,0.0
+363,,[],,0,0,1,0,0.0,0.0
+364,,[],,0,0,1,0,0.0,0.0
+365,,[],,0,0,1,0,0.0,0.0
+366,,[],,0,0,1,0,0.0,0.0
+367,,[],,0,0,1,0,0.0,0.0
+368,<div></div>,['div'],,0,0,1,0,0.0,0.0
+369,<div></div>,['div'],,0,0,1,0,0.0,0.0
+370,,[],,0,0,1,0,0.0,0.0
+371,,[],,0,0,1,0,0.0,0.0
+372,<div></div>,['div'],,0,0,1,0,0.0,0.0
+373,<footer></footer>,['footer'],,0,0,1,0,0.0,0.0
+374,<div></div>,['div'],,0,0,1,0,0.0,0.0
+375,<div></div>,['div'],,0,0,1,0,0.0,0.0
+376,<a><span>Baca  Selengkapnya </span></a>,"['a', 'span']",Baca  Selengkapnya ,0,2,4,0,0.0,0.0
+377,,[],,0,0,1,0,0.0,0.0
+378,<div></div>,['div'],,0,0,1,0,0.0,0.0
+379,<div></div>,['div'],,0,0,1,0,0.0,0.0
+380,<span>News</span>,['span'],News,1,0,2,0,0.0,0.0
+381,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+382,"<li><a href=""http://news.okezone.com/nasional"">Nasional</a></li>","['li', 'a']",Nasional,0,1,4,0,0.0,0.0
+383,"<li><a href=""http://news.okezone.com/megapolitan"">Megapolitan</a></li>","['li', 'a']",Megapolitan,0,1,4,0,0.0,0.0
+384,"<li><a href=""http://news.okezone.com/internasional"">Internasional</a></li>","['li', 'a']",Internasional,0,1,4,0,0.0,0.0
+385,"<li><a href=""http://news.okezone.com/nusantara"">Nusantara</a></li>","['li', 'a']",Nusantara,0,1,4,0,0.0,0.0
+386,"<li><a href=""http://news.okezone.com/kampus"">Kampus</a></li>","['li', 'a']",Kampus,0,1,4,0,0.0,0.0
+387,"<li><a href=""http://news.okezone.com/autos"">Autos</a></li>","['li', 'a']",Autos,0,1,4,0,0.0,0.0
+388,"<li><a href=""http://news.okezone.com/tokoh"">Tokoh</a></li>","['li', 'a']",Tokoh,0,1,4,0,0.0,0.0
+389,"<li><a href=""http://news.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+390,"<li><a href=""http://news.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+391,,[],,0,0,1,0,0.0,0.0
+392,,[],,0,0,1,0,0.0,0.0
+393,<div></div>,['div'],,0,0,1,0,0.0,0.0
+394,<span>Finance</span>,['span'],Finance,1,0,2,0,0.0,0.0
+395,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+396,"<li><a href=""http://economy.okezone.com/sahamdanvalas"">Saham Dan Valas</a></li>","['li', 'a']",Saham Dan Valas,0,3,4,0,0.0,0.0
+397,"<li><a href=""http://economy.okezone.com/fiskaldanmoneter"">Fiskal Dan Moneter</a></li>","['li', 'a']",Fiskal Dan Moneter,0,3,4,0,0.0,0.0
+398,"<li><a href=""http://economy.okezone.com/sektorriil"">Sektor Rill</a></li>","['li', 'a']",Sektor Rill,0,2,4,0,0.0,0.0
+399,"<li><a href=""http://economy.okezone.com/property"">Property</a></li>","['li', 'a']",Property,0,1,4,0,0.0,0.0
+400,"<li><a href=""http://economy.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+401,"<li><a href=""http://economy.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+402,,[],,0,0,1,0,0.0,0.0
+403,,[],,0,0,1,0,0.0,0.0
+404,<div></div>,['div'],,0,0,1,0,0.0,0.0
+405,<span>Lifestyle</span>,['span'],Lifestyle,1,0,2,0,0.0,0.0
+406,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+407,"<li><a href=""http://lifestyle.okezone.com/fashion"">Fashion</a></li>","['li', 'a']",Fashion,0,1,4,0,0.0,0.0
+408,"<li><a href=""http://lifestyle.okezone.com/food"">Food</a></li>","['li', 'a']",Food,0,1,4,0,0.0,0.0
+409,"<li><a href=""http://lifestyle.okezone.com/health"">Health</a></li>","['li', 'a']",Health,0,1,4,0,0.0,0.0
+410,"<li><a href=""http://lifestyle.okezone.com/familyandcareer"">Family &amp; Carrer</a></li>","['li', 'a']",Family & Carrer,0,3,4,0,0.0,0.0
+411,"<li><a href=""http://lifestyle.okezone.com/travel"">Travel</a></li>","['li', 'a']",Travel,0,1,4,0,0.0,0.0
+412,"<li><a href=""http://lifestyle.okezone.com/asktheexpert"">Ask The Expert</a></li>","['li', 'a']",Ask The Expert,0,3,4,0,0.0,0.0
+413,"<li><a href=""http://lifestyle.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+414,"<li><a href=""http://lifestyle.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+415,,[],,0,0,1,0,0.0,0.0
+416,,[],,0,0,1,0,0.0,0.0
+417,<div></div>,['div'],,0,0,1,0,0.0,0.0
+418,<span>Celebrity</span>,['span'],Celebrity,1,0,2,0,0.0,0.0
+419,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+420,"<li><a href=""http://celebrity.okezone.com/hotgossip"">Hot Gossip</a></li>","['li', 'a']",Hot Gossip,0,2,4,0,0.0,0.0
+421,"<li><a href=""http://celebrity.okezone.com/movies"">Movies</a></li>","['li', 'a']",Movies,0,1,4,0,0.0,0.0
+422,"<li><a href=""http://celebrity.okezone.com/musik"">Music</a></li>","['li', 'a']",Music,0,1,4,0,0.0,0.0
+423,"<li><a href=""http://celebrity.okezone.com/tvscoop"">TV Scoop</a></li>","['li', 'a']",TV Scoop,0,2,4,0,0.0,0.0
+424,"<li><a href=""http://celebrity.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+425,"<li><a href=""http://celebrity.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+426,,[],,0,0,1,0,0.0,0.0
+427,,[],,0,0,1,0,0.0,0.0
+428,<div></div>,['div'],,0,0,1,0,0.0,0.0
+429,<span>Bola</span>,['span'],Bola,1,0,2,0,0.0,0.0
+430,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+431,"<li><a href=""http://bola.okezone.com/euro"">Euro</a></li>","['li', 'a']",Euro,0,1,4,0,0.0,0.0
+432,"<li><a href=""http://bola.okezone.com/ligachampions"">Champion</a></li>","['li', 'a']",Champion,0,1,4,0,0.0,0.0
+433,"<li><a href=""http://bola.okezone.com/ligainggris"">Inggris</a></li>","['li', 'a']",Inggris,0,1,4,0,0.0,0.0
+434,"<li><a href=""http://bola.okezone.com/ligaitalia"">Italia</a></li>","['li', 'a']",Italia,0,1,4,0,0.0,0.0
+435,"<li><a href=""http://bola.okezone.com/ligaspanyol"">Spanyol</a></li>","['li', 'a']",Spanyol,0,1,4,0,0.0,0.0
+436,"<li><a href=""http://bola.okezone.com/ligajerman"">Jerman</a></li>","['li', 'a']",Jerman,0,1,4,0,0.0,0.0
+437,"<li><a href=""http://bola.okezone.com/ligaindonesia"">Indonesia</a></li>","['li', 'a']",Indonesia,0,1,4,0,0.0,0.0
+438,"<li><a href=""http://bola.okezone.com/boladunia"">Bola Dunia</a></li>","['li', 'a']",Bola Dunia,0,2,4,0,0.0,0.0
+439,"<li><a href=""http://bola.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+440,"<li><a href=""http://bola.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+441,,[],,0,0,1,0,0.0,0.0
+442,,[],,0,0,1,0,0.0,0.0
+443,<div></div>,['div'],,0,0,1,0,0.0,0.0
+444,<span>Sports</span>,['span'],Sports,1,0,2,0,0.0,0.0
+445,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+446,"<li><a href=""http://sports.okezone.com/f1"">F1</a></li>","['li', 'a']",F1,0,1,4,0,0.0,0.0
+447,"<li><a href=""http://sports.okezone.com/motogp"">Moto GP</a></li>","['li', 'a']",Moto GP,0,2,4,0,0.0,0.0
+448,"<li><a href=""http://sports.okezone.com/netting"">Netting</a></li>","['li', 'a']",Netting,0,1,4,0,0.0,0.0
+449,"<li><a href=""http://sports.okezone.com/basket"">Basket</a></li>","['li', 'a']",Basket,0,1,4,0,0.0,0.0
+450,"<li><a href=""http://sports.okezone.com/sportlain"">Sport Lain</a></li>","['li', 'a']",Sport Lain,0,2,4,0,0.0,0.0
+451,"<li><a href=""http://sports.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+452,"<li><a href=""http://sports.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+453,,[],,0,0,1,0,0.0,0.0
+454,,[],,0,0,1,0,0.0,0.0
+455,<div></div>,['div'],,0,0,1,0,0.0,0.0
+456,<span>Techno</span>,['span'],Techno,1,0,2,0,0.0,0.0
+457,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+458,"<li><a href=""http://techno.okezone.com/bisnis"">Finance</a></li>","['li', 'a']",Finance,0,1,4,0,0.0,0.0
+459,"<li><a href=""http://techno.okezone.com/telecommunication"">Telco</a></li>","['li', 'a']",Telco,0,1,4,0,0.0,0.0
+460,"<li><a href=""http://techno.okezone.com/gadget"">Gadget</a></li>","['li', 'a']",Gadget,0,1,4,0,0.0,0.0
+461,"<li><a href=""http://techno.okezone.com/game"">Game</a></li>","['li', 'a']",Game,0,1,4,0,0.0,0.0
+462,"<li><a href=""http://techno.okezone.com/science"">Science</a></li>","['li', 'a']",Science,0,1,4,0,0.0,0.0
+463,"<li><a href=""http://techno.okezone.com/ulik"">Ulik</a></li>","['li', 'a']",Ulik,0,1,4,0,0.0,0.0
+464,"<li><a href=""http://techno.okezone.com/foto"">Foto</a></li>","['li', 'a']",Foto,0,1,4,0,0.0,0.0
+465,"<li><a href=""http://techno.okezone.com/video"">Video</a></li>","['li', 'a']",Video,0,1,4,0,0.0,0.0
+466,,[],,0,0,1,0,0.0,0.0
+467,,[],,0,0,1,0,0.0,0.0
+468,,[],,0,0,1,0,0.0,0.0
+469,,[],,0,0,1,0,0.0,0.0
+470,<div></div>,['div'],,0,0,1,0,0.0,0.0
+471,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+472,"<li><a href=""http://warungkopi.okezone.com"">Warung Kopi</a></li>","['li', 'a']",Warung Kopi,0,2,4,0,0.0,0.0
+473,"<li><a href=""http://rubik.okezone.com"">Rubik</a></li>","['li', 'a']",Rubik,0,1,4,0,0.0,0.0
+474,"<li><a href=""http://tv.okezone.com"">TV</a></li>","['li', 'a']",TV,0,1,4,0,0.0,0.0
+475,"<li><a href=""http://metube.okezone.com"">MeTube</a></li>","['li', 'a']",MeTube,0,1,4,0,0.0,0.0
+476,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vcmVhZC8yMDE2LzA5LzA4LzM0MC8xNDg0NTYzL2J1cy10YWJyYWstbWFzamlkLWR1YS1vcmFuZy10ZXdhc3x8aHR0cDovL3d3dy5qb2JzbW5jLmNvLmlkL3x8am9icyBtbmM="">Lowongan Kerja</a></li>","['li', 'a']",Lowongan Kerja,0,2,4,0,0.0,0.0
+477,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vcmVhZC8yMDE2LzA5LzA4LzM0MC8xNDg0NTYzL2J1cy10YWJyYWstbWFzamlkLWR1YS1vcmFuZy10ZXdhc3x8aHR0cDovL3d3dy5taXN0ZXJhbGFkaW4uY29tL3x8bWlzdGVyIGFsYWRpbg=="">Booking Hotel</a></li>","['li', 'a']",Booking Hotel,0,2,4,0,0.0,0.0
+478,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vcmVhZC8yMDE2LzA5LzA4LzM0MC8xNDg0NTYzL2J1cy10YWJyYWstbWFzamlkLWR1YS1vcmFuZy10ZXdhc3x8aHR0cDovL3d3dy5icmFuZG91dGxldC5jby5pZC98fGJyYW5kIG91dGxldA=="">Fashion Online</a></li>","['li', 'a']",Fashion Online,0,2,4,0,0.0,0.0
+479,"<li><a href=""http://microsite.okezone.com/intertitialpage/index.php?param=aHR0cDovL25ld3Mub2tlem9uZS5jb20vcmVhZC8yMDE2LzA5LzA4LzM0MC8xNDg0NTYzL2J1cy10YWJyYWstbWFzamlkLWR1YS1vcmFuZy10ZXdhc3x8aHR0cDovL3d3dy5tbmMtaW5zdXJhbmNlLmNvbS98fG1uYyBpbnN1cmFuY2U="">Asuransi Kendaraan</a></li>","['li', 'a']",Asuransi Kendaraan,0,2,4,0,0.0,0.0
+480,,[],,0,0,1,0,0.0,0.0
+481,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+482,"<li><a href=""http://management.okezone.com/"">About Us</a></li>","['li', 'a']",About Us,0,2,4,0,0.0,0.0
+483,"<li><a href=""http://management.okezone.com/redaksi"">Redaksi</a></li>","['li', 'a']",Redaksi,0,1,4,0,0.0,0.0
+484,"<li><a href=""http://management.okezone.com/pos"">Kotak Pos</a></li>","['li', 'a']",Kotak Pos,0,2,4,0,0.0,0.0
+485,"<li><a href=""http://career.okezone.com/"">Karier</a></li>","['li', 'a']",Karier,0,1,4,0,0.0,0.0
+486,"<li><a href=""http://client.okezone.com/advertising/"">Info Iklan</a></li>","['li', 'a']",Info Iklan,0,2,4,0,0.0,0.0
+487,"<li><a href=""http://management.okezone.com/disclaimer"">Disclaimer</a></li>","['li', 'a']",Disclaimer,0,1,4,0,0.0,0.0
+488,,[],,0,0,1,0,0.0,0.0
+489,,[],,0,0,1,0,0.0,0.0
+490,<div></div>,['div'],,0,0,1,0,0.0,0.7
+491,<div></div>,['div'],,0,0,1,0,0.0,1.4
+492,"<p>© 2007 - 2016 okezone.com, All Rights Reserved</p>",['p'],"© 2007 - 2016 okezone.com, All Rights Reserved",8,0,2,1,7.0,2.8
+493,,[],,0,0,1,0,0.0,1.4
+494,<div></div>,['div'],,0,0,1,0,0.0,0.7
+495,<div></div>,['div'],,0,0,1,0,0.0,0.0
+496,,[],,0,0,1,0,0.0,0.0
+497,<div></div>,['div'],,0,0,1,0,0.0,0.0
+498,,[],,0,0,1,0,0.0,0.0
+499,,[],,0,0,1,0,0.0,0.0
+500,,[],,0,0,1,0,0.0,0.0
+501,<div></div>,['div'],,0,0,1,0,0.0,0.0
+502,<div></div>,['div'],,0,0,1,0,0.0,0.0
+503,<div></div>,['div'],,0,0,1,0,0.0,0.0
+504,<span></span>,['span'],,0,0,2,0,0.0,0.0
+505,,[],,0,0,1,0,0.0,0.0
+506,,[],,0,0,1,0,0.0,0.0
+507,<div></div>,['div'],,0,0,1,0,0.0,0.0
+508,<div></div>,['div'],,0,0,1,0,0.0,0.0
+509,"<a href=""http://www.mncplaymedia.com"" title=""Connection by: MNC Play Media""></a>",['a'],,0,0,1,0,0.0,0.5
+510,,[],,0,0,1,0,0.0,1.0
+511,<p> / rendering in 0.0718 seconds [101]</p>,['p'], / rendering in 0.0718 seconds [101],6,0,2,1,5.0,2.0
+512,,[],,0,0,1,0,0.0,1.0
+513,,[],,0,0,1,0,0.0,0.5
+514,,[],,0,0,1,0,0.0,0.0
+515,,[],,0,0,1,0,0.0,0.0
+516,,[],,0,0,1,0,0.0,0.0
+517,,[],,0,0,1,0,0.0,0.0
+518,<div></div>,['div'],,0,0,1,0,0.0,0.0
+519,<div></div>,['div'],,0,0,1,0,0.0,0.0
+520,<div></div>,['div'],,0,0,1,0,0.0,0.0
+521,,[],,0,0,1,0,0.0,0.0
+522,,[],,0,0,1,0,0.0,0.0
+523,<div></div>,['div'],,0,0,1,0,0.0,0.0
+524,<div></div>,['div'],,0,0,1,0,0.0,0.0
+525,,[],,0,0,1,0,0.0,0.0
+526,,[],,0,0,1,0,0.0,0.0
+527,<div></div>,['div'],,0,0,1,0,0.0,0.0
+528,<div></div>,['div'],,0,0,1,0,0.0,0.0
+529,<span>Latest news</span>,['span'],Latest news,2,0,2,0,0.0,0.0
+530,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+531,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510547/sergio-aguero-cedera-argentina-kembali-kehilangan-penyerang"" title=""Sergio Aguero Cedera, Argentina Kembali Kehilangan Penyerang"">Sergio Aguero Cedera, Argentina Kembali Kehilangan Penyerang</a></li>","['li', 'a']","Sergio Aguero Cedera, Argentina Kembali Kehilangan Penyerang",0,7,4,0,0.0,0.0
+532,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510550/cetak-quatrick-vs-andorra-cristiano-ronaldo-bidik-hal-serupa-kontra-kepulauan-faroe"" title=""Cetak Quatrick vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe"">Cetak <i>Quatrick</i> vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe</a></li>","['li', 'a', 'i']","Cetak Quatrick vs Andorra, Cristiano Ronaldo Bidik Hal Serupa Kontra Kepulauan Faroe",0,12,6,0,0.0,0.0
+533,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510538/pique-pensiun-lopetegui-masih-banyak-pemain-yang-dapat-menggantikannya"" title=""Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya"">Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya</a></li>","['li', 'a']","Pique Pensiun, Lopetegui: Masih Banyak Pemain yang Dapat Menggantikannya",0,9,4,0,0.0,0.0
+534,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510441/arda-turan-barcelona-bentengi-saya-dari-klub-china"" title=""Arda Turan: Barcelona Bentengi Saya dari Klub China"">Arda Turan: Barcelona Bentengi Saya dari Klub China</a></li>","['li', 'a']",Arda Turan: Barcelona Bentengi Saya dari Klub China,0,8,4,0,0.0,0.0
+535,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510440/berada-di-milan-indikasi-nemanja-matic-gabung-juventus-menguat"" title=""Berada di Milan, Indikasi Nemanja Matic Gabung Juventus Menguat"">Berada di Milan, Indikasi Nemanja Matic Gabung Juventus Menguat</a></li>","['li', 'a']","Berada di Milan, Indikasi Nemanja Matic Gabung Juventus Menguat",0,9,4,0,0.0,0.0
+536,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510432/southgate-wayne-rooney-layak-bela-timnas-inggris"" title=""Southgate: Wayne Rooney Layak Bela Timnas Inggris"">Southgate: Wayne Rooney Layak Bela Timnas Inggris</a></li>","['li', 'a']",Southgate: Wayne Rooney Layak Bela Timnas Inggris,0,7,4,0,0.0,0.0
+537,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510320/mantan-kiper-timnas-jerman-bakal-jadi-pemain-wwe"" title=""Mantan Kiper Timnas Jerman Bakal Jadi Pemain WWE"">Mantan Kiper Timnas Jerman Bakal Jadi Pemain WWE</a></li>","['li', 'a']",Mantan Kiper Timnas Jerman Bakal Jadi Pemain WWE,0,8,4,0,0.0,0.0
+538,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510322/garay-mengaku-beruntung-dapat-meninggalkan-real-madrid"" title=""Garay Mengaku Beruntung Dapat Meninggalkan Real Madrid"">Garay Mengaku Beruntung Dapat Meninggalkan Real Madrid</a></li>","['li', 'a']",Garay Mengaku Beruntung Dapat Meninggalkan Real Madrid,0,7,4,0,0.0,0.0
+539,"<li><a href=""http://bola.okezone.com/read/2016/10/10/51/1510391/animo-meledak-liga-futsal-perindo-gorontalo-sukses-besar"" title=""Animo Meledak, Liga Futsal Perindo Gorontalo Sukses Besar"">Animo Meledak, Liga Futsal Perindo Gorontalo Sukses Besar</a></li>","['li', 'a']","Animo Meledak, Liga Futsal Perindo Gorontalo Sukses Besar",0,8,4,0,0.0,0.0
+540,,[],,0,0,1,0,0.0,0.0
+541,<div></div>,['div'],,0,0,1,0,0.0,0.0
+542,"<a href=""http://bola.okezone.com/index"">more</a>",['a'],more,0,1,2,0,0.0,0.0
+543,,[],,0,0,1,0,0.0,0.0
+544,,[],,0,0,1,0,0.0,0.0
+545,,[],,0,0,1,0,0.0,0.0
+546,<div></div>,['div'],,0,0,1,0,0.0,0.0
+547,<div></div>,['div'],,0,0,1,0,0.0,0.0
+548,,[],,0,0,1,0,0.0,0.0
+549,,[],,0,0,1,0,0.0,0.0
+550,<div></div>,['div'],,0,0,1,0,0.0,0.0
+551,<span>klasemen</span>,['span'],klasemen,1,0,2,0,0.0,0.0
+552,<div></div>,['div'],,0,0,1,0,0.0,0.0
+553,<ul></ul>,['ul'],,0,0,1,0,0.0,0.0
+554,<li></li>,['li'],,0,0,1,0,0.0,0.0
+555,<div></div>,['div'],,0,0,1,0,0.0,0.0
+556,<span>Liga Inggris</span>,['span'],Liga Inggris,2,0,2,0,0.0,0.0
+557,<table></table>,['table'],,0,0,1,0,0.0,0.0
+558,<thead></thead>,['thead'],,0,0,1,0,0.0,0.0
+559,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+560,"<th colspan=""2"">Tim</th>",['th'],Tim,1,0,2,0,0.0,0.0
+561,<th>Poin</th>,['th'],Poin,1,0,2,0,0.0,0.0
+562,,[],,0,0,1,0,0.0,0.0
+563,,[],,0,0,1,0,0.0,0.0
+564,<tbody></tbody>,['tbody'],,0,0,1,0,0.0,0.0
+565,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+566,<td>1</td>,['td'],1,1,0,2,0,0.0,0.0
+567,<td>Manchester City</td>,['td'],Manchester City,2,0,2,0,0.0,0.0
+568,<td>18</td>,['td'],18,1,0,2,0,0.0,0.0
+569,,[],,0,0,1,0,0.0,0.0
+570,<tr></tr>,['tr'],,0,0,1,0,0.0,0.1
+571,<td>2</td>,['td'],2,1,0,2,0,0.0,0.2
+572,<td>Tottenham Hotspur FC</td>,['td'],Tottenham Hotspur FC,3,0,2,0,1.0,0.4
+573,<td>17</td>,['td'],17,1,0,2,0,0.0,0.2
+574,,[],,0,0,1,0,0.0,0.1
+575,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+576,<td>3</td>,['td'],3,1,0,2,0,0.0,0.0
+577,<td>Arsenal FC</td>,['td'],Arsenal FC,2,0,2,0,0.0,0.0
+578,<td>16</td>,['td'],16,1,0,2,0,0.0,0.0
+579,,[],,0,0,1,0,0.0,0.0
+580,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+581,<td>4</td>,['td'],4,1,0,2,0,0.0,0.0
+582,<td>Liverpool</td>,['td'],Liverpool,1,0,2,0,0.0,0.0
+583,<td>16</td>,['td'],16,1,0,2,0,0.0,0.0
+584,,[],,0,0,1,0,0.0,0.0
+585,,[],,0,0,1,0,0.0,0.0
+586,,[],,0,0,1,0,0.0,0.0
+587,<div></div>,['div'],,0,0,1,0,0.0,0.0
+588,"<a href=""http://bola.okezone.com/klasemeninggris"">more</a>",['a'],more,0,1,2,0,0.0,0.0
+589,,[],,0,0,1,0,0.0,0.0
+590,,[],,0,0,1,0,0.0,0.0
+591,,[],,0,0,1,0,0.0,0.0
+592,<li></li>,['li'],,0,0,1,0,0.0,0.0
+593,<div></div>,['div'],,0,0,1,0,0.0,0.0
+594,<span>Liga Spanyol</span>,['span'],Liga Spanyol,2,0,2,0,0.0,0.0
+595,<table></table>,['table'],,0,0,1,0,0.0,0.0
+596,<thead></thead>,['thead'],,0,0,1,0,0.0,0.0
+597,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+598,"<th colspan=""2"">Tim</th>",['th'],Tim,1,0,2,0,0.0,0.0
+599,<th>Poin</th>,['th'],Poin,1,0,2,0,0.0,0.0
+600,,[],,0,0,1,0,0.0,0.0
+601,,[],,0,0,1,0,0.0,0.0
+602,<tbody></tbody>,['tbody'],,0,0,1,0,0.0,0.0
+603,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+604,<td>1</td>,['td'],1,1,0,2,0,0.0,0.0
+605,<td>Athletic Madrid</td>,['td'],Athletic Madrid,2,0,2,0,0.0,0.0
+606,<td>15</td>,['td'],15,1,0,2,0,0.0,0.0
+607,,[],,0,0,1,0,0.0,0.0
+608,<tr></tr>,['tr'],,0,0,1,0,0.0,0.1
+609,<td>2</td>,['td'],2,1,0,2,0,0.0,0.2
+610,<td> Real Madrid CF</td>,['td'], Real Madrid CF,3,0,2,0,1.0,0.4
+611,<td>15</td>,['td'],15,1,0,2,0,0.0,0.2
+612,,[],,0,0,1,0,0.0,0.1
+613,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+614,<td>3</td>,['td'],3,1,0,2,0,0.0,0.0
+615,<td>Sevilla</td>,['td'],Sevilla,1,0,2,0,0.0,0.0
+616,<td>14</td>,['td'],14,1,0,2,0,0.0,0.0
+617,,[],,0,0,1,0,0.0,0.0
+618,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+619,<td>4</td>,['td'],4,1,0,2,0,0.0,0.0
+620,<td>FC Barcelona</td>,['td'],FC Barcelona,2,0,2,0,0.0,0.0
+621,<td>13</td>,['td'],13,1,0,2,0,0.0,0.0
+622,,[],,0,0,1,0,0.0,0.0
+623,,[],,0,0,1,0,0.0,0.0
+624,,[],,0,0,1,0,0.0,0.0
+625,<div></div>,['div'],,0,0,1,0,0.0,0.0
+626,"<a href=""http://bola.okezone.com/klasemenspanyol"">more</a>",['a'],more,0,1,2,0,0.0,0.0
+627,,[],,0,0,1,0,0.0,0.0
+628,,[],,0,0,1,0,0.0,0.0
+629,,[],,0,0,1,0,0.0,0.0
+630,<li></li>,['li'],,0,0,1,0,0.0,0.0
+631,<div></div>,['div'],,0,0,1,0,0.0,0.0
+632,<span>Liga Italia</span>,['span'],Liga Italia,2,0,2,0,0.0,0.0
+633,<table></table>,['table'],,0,0,1,0,0.0,0.0
+634,<thead></thead>,['thead'],,0,0,1,0,0.0,0.0
+635,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+636,"<th colspan=""2"">Tim</th>",['th'],Tim,1,0,2,0,0.0,0.0
+637,<th>Poin</th>,['th'],Poin,1,0,2,0,0.0,0.0
+638,,[],,0,0,1,0,0.0,0.0
+639,,[],,0,0,1,0,0.0,0.0
+640,<tbody></tbody>,['tbody'],,0,0,1,0,0.0,0.0
+641,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+642,<td>1</td>,['td'],1,1,0,2,0,0.0,0.0
+643,<td>Juventus</td>,['td'],Juventus,1,0,2,0,0.0,0.0
+644,<td>18</td>,['td'],18,1,0,2,0,0.0,0.0
+645,,[],,0,0,1,0,0.0,0.0
+646,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+647,<td>2</td>,['td'],2,1,0,2,0,0.0,0.0
+648,<td>Napoli</td>,['td'],Napoli,1,0,2,0,0.0,0.0
+649,<td>14</td>,['td'],14,1,0,2,0,0.0,0.0
+650,,[],,0,0,1,0,0.0,0.0
+651,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+652,<td>3</td>,['td'],3,1,0,2,0,0.0,0.0
+653,<td>AS Roma</td>,['td'],AS Roma,2,0,2,0,0.0,0.0
+654,<td>13</td>,['td'],13,1,0,2,0,0.0,0.0
+655,,[],,0,0,1,0,0.0,0.0
+656,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+657,<td>4</td>,['td'],4,1,0,2,0,0.0,0.0
+658,<td>Lazio</td>,['td'],Lazio,1,0,2,0,0.0,0.0
+659,<td>13</td>,['td'],13,1,0,2,0,0.0,0.0
+660,,[],,0,0,1,0,0.0,0.0
+661,,[],,0,0,1,0,0.0,0.0
+662,,[],,0,0,1,0,0.0,0.0
+663,<div></div>,['div'],,0,0,1,0,0.0,0.0
+664,"<a href=""http://bola.okezone.com/klasemenitalia"">more</a>",['a'],more,0,1,2,0,0.0,0.0
+665,,[],,0,0,1,0,0.0,0.0
+666,,[],,0,0,1,0,0.0,0.0
+667,,[],,0,0,1,0,0.0,0.0
+668,<li></li>,['li'],,0,0,1,0,0.0,0.0
+669,<div></div>,['div'],,0,0,1,0,0.0,0.0
+670,<span>Liga Jerman</span>,['span'],Liga Jerman,2,0,2,0,0.0,0.0
+671,<table></table>,['table'],,0,0,1,0,0.0,0.0
+672,<thead></thead>,['thead'],,0,0,1,0,0.0,0.0
+673,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+674,"<th colspan=""2"">Tim</th>",['th'],Tim,1,0,2,0,0.0,0.0
+675,<th>Poin</th>,['th'],Poin,1,0,2,0,0.0,0.0
+676,,[],,0,0,1,0,0.0,0.0
+677,,[],,0,0,1,0,0.0,0.0
+678,<tbody></tbody>,['tbody'],,0,0,1,0,0.0,0.0
+679,<tr></tr>,['tr'],,0,0,1,0,0.0,0.1
+680,<td>1</td>,['td'],1,1,0,2,0,0.0,0.2
+681,<td> FC Bayern Munich</td>,['td'], FC Bayern Munich,3,0,2,0,1.0,0.4
+682,<td>16</td>,['td'],16,1,0,2,0,0.0,0.2
+683,,[],,0,0,1,0,0.0,0.1
+684,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+685,<td>2</td>,['td'],2,1,0,2,0,0.0,0.0
+686,<td>Hertha BSC</td>,['td'],Hertha BSC,2,0,2,0,0.0,0.0
+687,<td>13</td>,['td'],13,1,0,2,0,0.0,0.0
+688,,[],,0,0,1,0,0.0,0.0
+689,<tr></tr>,['tr'],,0,0,1,0,0.0,0.0
+690,<td>3</td>,['td'],3,1,0,2,0,0.0,0.0
+691,<td>Borussia Dortmund</td>,['td'],Borussia Dortmund,2,0,2,0,0.0,0.0
+692,<td>12</td>,['td'],12,1,0,2,0,0.0,0.0
+693,,[],,0,0,1,0,0.0,0.0
+694,<tr></tr>,['tr'],,0,0,1,0,0.0,0.1
+695,<td>4</td>,['td'],4,1,0,2,0,0.0,0.2
+696,<td>Red Bull Leipzig</td>,['td'],Red Bull Leipzig,3,0,2,0,1.0,0.4
+697,<td>12</td>,['td'],12,1,0,2,0,0.0,0.2
+698,,[],,0,0,1,0,0.0,0.1
+699,,[],,0,0,1,0,0.0,0.0
+700,,[],,0,0,1,0,0.0,0.0
+701,<div></div>,['div'],,0,0,1,0,0.0,0.0
+702,"<a href=""http://bola.okezone.com/klasemenjerman"">more</a>",['a'],more,0,1,2,0,0.0,0.0
+703,,[],,0,0,1,0,0.0,0.0
+704,,[],,0,0,1,0,0.0,0.0
+705,,[],,0,0,1,0,0.0,0.0
+706,,[],,0,0,1,0,0.0,0.0
+707,,[],,0,0,1,0,0.0,0.0
+708,,[],,0,0,1,0,0.0,0.0
+709,<div></div>,['div'],,0,0,1,0,0.0,0.0
+710,,[],,0,0,1,0,0.0,0.0
+711,,[],,0,0,1,0,0.0,0.0
+712,,[],,0,0,1,0,0.0,0.0
+713,,[],,0,0,2,0,0.0,0.0
